@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Guess the price of cars and motorbikes in Morocco." />
+    <title>RwidaGuessr — guess the price</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Kufi+Arabic:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="/" aria-label="RwidaGuessr home">
+          <span class="brand-mark">MG</span>
+          <span>Rwida<span>Guessr</span></span>
+        </a>
+        <div class="round-status" aria-live="polite">
+          <span id="round-label">Ready to play</span>
+          <div class="round-dots" id="round-dots" aria-label="Round progress"></div>
+        </div>
+        <div class="header-actions">
+          <button class="ghost-button" id="language-toggle" type="button" aria-label="Switch language">العربية</button>
+          <button class="theme-button" id="theme-toggle" type="button" aria-label="Use dark mode"><span aria-hidden="true">☾</span></button>
+          <button class="ghost-button" id="how-to-play" type="button" data-i18n="howTo">How to play</button>
+        </div>
+      </header>
+
+      <section class="start-screen" id="start-screen">
+        <div class="eyebrow" data-i18n="eyebrow">Cars &amp; motorbikes · Morocco</div>
+        <h1 data-i18n-html="heroTitle">What’s the price<br /><em>of this vehicle?</em></h1>
+        <p class="intro" data-i18n="intro">Five listings, their full details, and zero price clues. Estimate the listed price in dirhams.</p>
+        <div class="start-card">
+          <label for="duration" data-i18n="durationLabel">Maximum time per guess</label>
+          <select id="duration">
+            <option value="60" data-i18n="oneMinute">1 minute</option>
+            <option value="120" selected data-i18n="twoMinutes">2 minutes</option>
+            <option value="300" data-i18n="fiveMinutes">5 minutes</option>
+            <option value="600" data-i18n="tenMinutes">10 minutes</option>
+            <option value="1800" data-i18n="thirtyMinutes">30 minutes (maximum)</option>
+          </select>
+          <small data-i18n="durationNote">Time is capped at 30 minutes for every listing.</small>
+          <button class="primary-button" id="start-game" type="button" data-i18n-html="start">Start 5 rounds <span>→</span></button>
+        </div>
+        <p class="data-note" id="data-note">Loading listings…</p>
+      </section>
+
+      <section class="game-screen hidden" id="game-screen" aria-live="polite">
+        <div class="game-header">
+          <div>
+            <span class="eyebrow" id="vehicle-kind">Vehicle listing</span>
+            <h2 id="vehicle-title">—</h2>
+          </div>
+          <div class="timer" id="timer" aria-label="Time remaining">02:00</div>
+        </div>
+        <div class="progress-track"><div class="progress-value" id="progress-value"></div></div>
+
+        <div class="listing-layout">
+          <aside class="vehicle-visual" id="vehicle-visual" aria-label="Vehicle photo or illustration">
+            <img id="vehicle-image" class="hidden" alt="" />
+            <div class="vehicle-fallback" id="vehicle-fallback"><span id="vehicle-emoji">🚗</span></div>
+            <span class="listing-label" data-i18n="priceHidden">Price hidden</span>
+            <div class="gallery-controls hidden" id="gallery-controls">
+              <button class="gallery-button" id="image-prev" type="button" aria-label="Previous photo">←</button>
+              <span class="image-count" id="image-count">1 / 1</span>
+              <button class="gallery-button" id="image-next" type="button" aria-label="Next photo">→</button>
+            </div>
+            <div class="image-actions hidden" id="image-actions">
+              <button class="gallery-button" id="image-zoom" type="button" aria-label="Zoom photo">⌕</button>
+              <button class="gallery-button" id="image-fullscreen" type="button" aria-label="Open fullscreen">⛶</button>
+            </div>
+          </aside>
+          <div class="listing-content">
+            <div class="quick-facts" id="quick-facts"></div>
+            <article class="description-card">
+              <div class="section-heading"><span data-i18n="summaryHeading">Listing summary</span><i></i></div>
+              <p id="summary">—</p>
+            </article>
+            <article class="features-card">
+              <div class="section-heading"><span data-i18n="featuresHeading">Features</span><i></i></div>
+              <dl id="features"></dl>
+            </article>
+            <article class="options-card">
+              <div class="section-heading"><span data-i18n="optionsHeading">Equipment &amp; options</span><i></i></div>
+              <div id="options" class="option-list"></div>
+            </article>
+          </div>
+        </div>
+
+        <form class="guess-form" id="guess-form">
+          <label for="guess" data-i18n="yourGuess">Your guess</label>
+          <div class="guess-input-row">
+            <input id="guess" inputmode="numeric" autocomplete="off" min="0" placeholder="e.g. 185,000" required />
+            <span>MAD</span>
+            <button class="primary-button" type="submit" data-i18n-html="submit">Submit <span>→</span></button>
+          </div>
+          <p class="form-error hidden" id="form-error"></p>
+        </form>
+      </section>
+
+      <section class="result-screen hidden" id="result-screen" aria-live="polite">
+        <div class="result-card">
+          <span class="eyebrow" id="result-kicker" data-i18n="result">Result</span>
+          <h2 id="result-title">—</h2>
+          <div class="price-reveal"><span data-i18n="listedPrice">Listed price</span><strong id="actual-price">—</strong></div>
+          <div class="result-comparison">
+            <div><span data-i18n="yourGuess">Your guess</span><b id="your-guess">—</b></div>
+            <div><span data-i18n="difference">Difference</span><b id="difference">—</b></div>
+            <div><span data-i18n="points">Points</span><b id="round-score">—</b></div>
+          </div>
+          <p id="result-message"></p>
+          <a class="source-link hidden" id="source-link" target="_blank" rel="noopener noreferrer" data-i18n="viewSource">View source listing ↗</a>
+          <button class="primary-button" id="next-round" type="button">Next round →</button>
+        </div>
+      </section>
+
+      <section class="final-screen hidden" id="final-screen">
+        <div class="final-card">
+          <span class="eyebrow" data-i18n="gameOver">Game complete</span>
+          <h2 data-i18n="finalTitle">You’ve got an eye for it.</h2>
+          <p class="final-score"><strong id="total-score">0</strong> <span data-i18n="outOfFive">points out of 5,000</span></p>
+          <div id="score-breakdown" class="score-breakdown"></div>
+          <button class="primary-button" id="play-again" type="button" data-i18n-html="playAgain">Play again <span>↻</span></button>
+        </div>
+      </section>
+    </main>
+
+    <dialog id="rules-dialog">
+      <button class="dialog-close" id="close-rules" type="button" aria-label="Fermer">×</button>
+      <span class="eyebrow" data-i18n="rules">Rules</span>
+      <h2 data-i18n="rulesTitle">Five prices to estimate.</h2>
+      <p data-i18n="rulesCopy1">For every listing, study the vehicle, its details, and every option. Enter the price you think is listed. The closer you are, the more points you earn.</p>
+      <p data-i18n="rulesCopy2">A timer begins each round and can never be longer than 30 minutes.</p>
+    </dialog>
+    <dialog class="image-lightbox" id="image-lightbox" aria-label="Full-screen photo viewer">
+      <button class="lightbox-close" id="lightbox-close" type="button" aria-label="Close photo viewer">×</button>
+      <button class="lightbox-nav lightbox-prev" id="lightbox-prev" type="button" aria-label="Previous photo">←</button>
+      <img id="lightbox-image" alt="" />
+      <button class="lightbox-nav lightbox-next" id="lightbox-next" type="button" aria-label="Next photo">→</button>
+      <div class="lightbox-footer">
+        <button class="gallery-button" id="lightbox-zoom" type="button" aria-label="Zoom photo">⌕</button>
+        <span class="image-count" id="lightbox-count">1 / 1</span>
+      </div>
+    </dialog>
+    <script src="data/listings.demo.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
