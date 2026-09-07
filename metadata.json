@@ -1,0 +1,8 @@
+{
+  "name": "RwidaGuessr",
+  "description": "Guess the price of cars and motorbikes in Morocco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

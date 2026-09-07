@@ -4,6 +4,12 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "check": "node --check app.js && node --check functions/api/game.js && node --check functions/api/guess.js"
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node --check server.js && node --check app.js && node --check functions/api/game.js && node --check functions/api/guess.js",
+    "check": "node --check server.js && node --check app.js && node --check functions/api/game.js && node --check functions/api/guess.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
