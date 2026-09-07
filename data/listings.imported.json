@@ -1,0 +1,3068 @@
+[
+  {
+    "id": "moteur-656399",
+    "kind": "Car",
+    "title": {
+      "en": "Audi Q3",
+      "ar": "Audi Q3"
+    },
+    "price": 280000,
+    "quickFacts": [
+      {
+        "en": "2020",
+        "ar": "2020"
+      },
+      {
+        "en": "130,000 km",
+        "ar": "130,000 km"
+      },
+      {
+        "en": "Diesel",
+        "ar": "ديزل"
+      },
+      {
+        "en": "Automatic",
+        "ar": "أوتوماتيكي"
+      }
+    ],
+    "summary": {
+      "en": "First-hand 2020 Audi Q3 Diesel in pristine condition with automatic transmission and full service records. Road-ready and available for viewing in Casablanca.",
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦130,000 km⁩، مازوت، أوطوماتيك. اليد الأولى."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Audi",
+          "ar": "Audi"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Q3",
+          "ar": "Q3"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2020",
+          "ar": "2020"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "130,000 km",
+          "ar": "130,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Diesel",
+          "ar": "ديزل"
+        }
+      },
+      {
+        "label": {
+          "en": "Transmission",
+          "ar": "ناقل الحركة"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوتوماتيكي"
+        }
+      },
+      {
+        "label": {
+          "en": "Body type",
+          "ar": "نوع الهيكل"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Colour",
+          "ar": "اللون"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Tax horsepower",
+          "ar": "القوة الجبائية"
+        },
+        "value": {
+          "en": "8",
+          "ar": "8"
+        }
+      },
+      {
+        "label": {
+          "en": "Statut de douane",
+          "ar": "Statut de douane"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوتوماتيكي"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "État du véhicule",
+        "ar": "État du véhicule",
+        "raw": "État du véhicule"
+      }
+    ],
+    "images": [
+      "https://content.avito.ma/classifieds/images/10154781806?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154781804?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154781808?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154781805?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154781815?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154781814?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154781813?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154781816?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656399/audi-q3.html"
+  },
+  {
+    "id": "moteur-497369",
+    "kind": "Car",
+    "title": {
+      "en": "Honda Accord",
+      "ar": "Honda Accord"
+    },
+    "price": 98000,
+    "quickFacts": [
+      {
+        "en": "2012",
+        "ar": "2012"
+      },
+      {
+        "en": "240,000 km",
+        "ar": "240,000 km"
+      },
+      {
+        "en": "Diesel",
+        "ar": "ديزل"
+      },
+      {
+        "en": "Manual",
+        "ar": "يدوي"
+      }
+    ],
+    "summary": {
+      "en": "2012 Honda Accord Diesel with manual transmission. Reliable, economical sedan with clean interior and up-to-date maintenance in Casablanca.",
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦240,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Honda",
+          "ar": "Honda"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Accord",
+          "ar": "Accord"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2012",
+          "ar": "2012"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "240,000 km",
+          "ar": "240,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Diesel",
+          "ar": "ديزل"
+        }
+      },
+      {
+        "label": {
+          "en": "Transmission",
+          "ar": "ناقل الحركة"
+        },
+        "value": {
+          "en": "Manual",
+          "ar": "يدوي"
+        }
+      },
+      {
+        "label": {
+          "en": "Body type",
+          "ar": "نوع الهيكل"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Colour",
+          "ar": "اللون"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Tax horsepower",
+          "ar": "القوة الجبائية"
+        },
+        "value": {
+          "en": "8",
+          "ar": "8"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Statut de douane",
+          "ar": "Statut de douane"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Manual",
+          "ar": "يدوي"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "État du véhicule",
+        "ar": "État du véhicule",
+        "raw": "État du véhicule"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151546526-628581.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151546571-975731.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151546573-357028.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151546575-222557.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151546568-296800.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151546577-535364.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151546578-199956.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151546569-983072.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151546574-730500.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151546563-715124.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/497369/honda-accord.html"
+  },
+  {
+    "id": "moteur-645151",
+    "kind": "Car",
+    "title": {
+      "en": "Ford Kuga",
+      "ar": "Ford Kuga"
+    },
+    "price": 238000,
+    "quickFacts": [
+      {
+        "en": "2021",
+        "ar": "2021"
+      },
+      {
+        "en": "76,000 km",
+        "ar": "76,000 km"
+      },
+      {
+        "en": "Diesel",
+        "ar": "ديزل"
+      },
+      {
+        "en": "Automatic",
+        "ar": "أوتوماتيكي"
+      }
+    ],
+    "summary": {
+      "en": "2021 Ford Kuga Titanium Diesel with automatic transmission. Full options, low mileage, elegant interior and meticulous upkeep in Fès.",
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦76,000 km⁩، مازوت، أوطوماتيك. بواط أوطوماتيك."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Ford",
+          "ar": "Ford"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Kuga",
+          "ar": "Kuga"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2021",
+          "ar": "2021"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "76,000 km",
+          "ar": "76,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Diesel",
+          "ar": "ديزل"
+        }
+      },
+      {
+        "label": {
+          "en": "Transmission",
+          "ar": "ناقل الحركة"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوتوماتيكي"
+        }
+      },
+      {
+        "label": {
+          "en": "Body type",
+          "ar": "نوع الهيكل"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Colour",
+          "ar": "اللون"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Tax horsepower",
+          "ar": "القوة الجبائية"
+        },
+        "value": {
+          "en": "6",
+          "ar": "6"
+        }
+      },
+      {
+        "label": {
+          "en": "Statut de douane",
+          "ar": "Statut de douane"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوتوماتيكي"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "État du véhicule",
+        "ar": "État du véhicule",
+        "raw": "État du véhicule"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://content.avito.ma/classifieds/images/10154170078?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154170079?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154170075?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154170073?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154170074?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154170080?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154170077?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154170076?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/645151/ford-kuga.html"
+  },
+  {
+    "id": "moteur-652408",
+    "kind": "Car",
+    "title": {
+      "en": "BMW Série 4",
+      "ar": "BMW Série 4"
+    },
+    "price": 500000,
+    "quickFacts": [
+      {
+        "en": "2023",
+        "ar": "2023"
+      },
+      {
+        "en": "47,000 km",
+        "ar": "47,000 km"
+      },
+      {
+        "en": "Diesel",
+        "ar": "ديزل"
+      },
+      {
+        "en": "Automatic",
+        "ar": "أوتوماتيكي"
+      }
+    ],
+    "summary": {
+      "en": "2023 BMW 4 Series Convertible Diesel. Modern luxury styling, spotless bodywork, like-new condition and available for viewing in Casablanca.",
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦47,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "BMW",
+          "ar": "BMW"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Série 4",
+          "ar": "Série 4"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2023",
+          "ar": "2023"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "47,000 km",
+          "ar": "47,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Diesel",
+          "ar": "ديزل"
+        }
+      },
+      {
+        "label": {
+          "en": "Transmission",
+          "ar": "ناقل الحركة"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوتوماتيكي"
+        }
+      },
+      {
+        "label": {
+          "en": "Body type",
+          "ar": "نوع الهيكل"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Colour",
+          "ar": "اللون"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "3",
+          "ar": "3"
+        }
+      },
+      {
+        "label": {
+          "en": "Tax horsepower",
+          "ar": "القوة الجبائية"
+        },
+        "value": {
+          "en": "8",
+          "ar": "8"
+        }
+      },
+      {
+        "label": {
+          "en": "Statut de douane",
+          "ar": "Statut de douane"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوتوماتيكي"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "État du véhicule",
+        "ar": "État du véhicule",
+        "raw": "État du véhicule"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      }
+    ],
+    "images": [
+      "https://content.avito.ma/classifieds/images/10154754693?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154754695?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154754692?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154754694?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154754795?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154754805?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154754809?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652408/bmw-serie-4.html"
+  },
+  {
+    "id": "moteur-508072",
+    "kind": "Car",
+    "title": {
+      "en": "Volkswagen Touareg",
+      "ar": "Volkswagen Touareg"
+    },
+    "price": 355000,
+    "quickFacts": [
+      {
+        "en": "2021",
+        "ar": "2021"
+      },
+      {
+        "en": "90,000 km",
+        "ar": "90,000 km"
+      },
+      {
+        "en": "Diesel",
+        "ar": "ديزل"
+      },
+      {
+        "en": "Automatic",
+        "ar": "أوتوماتيكي"
+      }
+    ],
+    "summary": {
+      "en": "2021 Volkswagen Touareg VWG Diesel. Premium full-size SUV offering exceptional highway comfort, rich equipment and complete dealer history in Casablanca.",
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦90,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Volkswagen",
+          "ar": "Volkswagen"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Touareg",
+          "ar": "Touareg"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2021",
+          "ar": "2021"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "90,000 km",
+          "ar": "90,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Diesel",
+          "ar": "ديزل"
+        }
+      },
+      {
+        "label": {
+          "en": "Transmission",
+          "ar": "ناقل الحركة"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوتوماتيكي"
+        }
+      },
+      {
+        "label": {
+          "en": "Body type",
+          "ar": "نوع الهيكل"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Colour",
+          "ar": "اللون"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Tax horsepower",
+          "ar": "القوة الجبائية"
+        },
+        "value": {
+          "en": "12",
+          "ar": "12"
+        }
+      },
+      {
+        "label": {
+          "en": "Statut de douane",
+          "ar": "Statut de douane"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوتوماتيكي"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "État du véhicule",
+        "ar": "État du véhicule",
+        "raw": "État du véhicule"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://content.avito.ma/classifieds/images/10152066338?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10152066336?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10152066341?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10152066335?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10152066337?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10152066340?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10152066342?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10152066361?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/508072/volkswagen-touareg.html"
+  },
+  {
+    "id": "moteur-492813",
+    "kind": "Car",
+    "title": {
+      "en": "Dacia Sandero",
+      "ar": "Dacia Sandero"
+    },
+    "price": 145000,
+    "quickFacts": [
+      {
+        "en": "2024",
+        "ar": "2024"
+      },
+      {
+        "en": "99,000 km",
+        "ar": "99,000 km"
+      },
+      {
+        "en": "Diesel",
+        "ar": "ديزل"
+      },
+      {
+        "en": "Manual",
+        "ar": "يدوي"
+      }
+    ],
+    "summary": {
+      "en": "2024 Dacia Sandero Stepway Diesel. Economical, practical crossover in like-new condition with minimal mileage, ready to drive in Marrakech.",
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦99,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Dacia",
+          "ar": "Dacia"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Sandero",
+          "ar": "Sandero"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2024",
+          "ar": "2024"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "99,000 km",
+          "ar": "99,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Diesel",
+          "ar": "ديزل"
+        }
+      },
+      {
+        "label": {
+          "en": "Transmission",
+          "ar": "ناقل الحركة"
+        },
+        "value": {
+          "en": "Manual",
+          "ar": "يدوي"
+        }
+      },
+      {
+        "label": {
+          "en": "Body type",
+          "ar": "نوع الهيكل"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Colour",
+          "ar": "اللون"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Tax horsepower",
+          "ar": "القوة الجبائية"
+        },
+        "value": {
+          "en": "6",
+          "ar": "6"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Statut de douane",
+          "ar": "Statut de douane"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Manual",
+          "ar": "يدوي"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "État du véhicule",
+        "ar": "État du véhicule",
+        "raw": "État du véhicule"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153406286-204773.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153406287-767055.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153406289-117736.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153406288-892321.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153406292-911609.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153406290-826144.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492813/dacia-sandero.html"
+  },
+  {
+    "id": "moteur-655377",
+    "kind": "Car",
+    "title": {
+      "en": "Volkswagen Tiguan",
+      "ar": "Volkswagen Tiguan"
+    },
+    "price": 336000,
+    "quickFacts": [
+      {
+        "en": "2018",
+        "ar": "2018"
+      },
+      {
+        "en": "180,000 km",
+        "ar": "180,000 km"
+      },
+      {
+        "en": "Diesel",
+        "ar": "ديزل"
+      },
+      {
+        "en": "Automatic",
+        "ar": "أوتوماتيكي"
+      }
+    ],
+    "summary": {
+      "en": "2018 Volkswagen Tiguan R-Line (150 hp) Diesel. Sporty styling, premium panoramic cockpit and full equipment in Tétouan.",
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦180,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Volkswagen",
+          "ar": "Volkswagen"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Tiguan",
+          "ar": "Tiguan"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2018",
+          "ar": "2018"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "180,000 km",
+          "ar": "180,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Diesel",
+          "ar": "ديزل"
+        }
+      },
+      {
+        "label": {
+          "en": "Transmission",
+          "ar": "ناقل الحركة"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوتوماتيكي"
+        }
+      },
+      {
+        "label": {
+          "en": "Body type",
+          "ar": "نوع الهيكل"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Colour",
+          "ar": "اللون"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Tax horsepower",
+          "ar": "القوة الجبائية"
+        },
+        "value": {
+          "en": "8",
+          "ar": "8"
+        }
+      },
+      {
+        "label": {
+          "en": "Statut de douane",
+          "ar": "Statut de douane"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوتوماتيكي"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "État du véhicule",
+        "ar": "État du véhicule",
+        "raw": "État du véhicule"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://content.avito.ma/classifieds/images/10154734664?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154734670?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154734669?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154734668?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154734671?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655377/volkswagen-tiguan.html"
+  },
+  {
+    "id": "moteur-635294",
+    "kind": "Car",
+    "title": {
+      "en": "Nissan 370 Z",
+      "ar": "Nissan 370 Z"
+    },
+    "price": 265000,
+    "quickFacts": [
+      {
+        "en": "2010",
+        "ar": "2010"
+      },
+      {
+        "en": "0 km",
+        "ar": "0 كم"
+      },
+      {
+        "en": "Petrol",
+        "ar": "بنزين"
+      },
+      {
+        "en": "Manual",
+        "ar": "يدوي"
+      }
+    ],
+    "summary": {
+      "en": "2010 Nissan 370Z sports coupe with manual gearbox imported from the USA. Thrilling naturally aspirated V6 performance, sound mechanics and careful maintenance in Fès.",
+      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦0 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Nissan",
+          "ar": "Nissan"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "370 Z",
+          "ar": "370 Z"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2010",
+          "ar": "2010"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "0 km",
+          "ar": "0 كم"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Petrol",
+          "ar": "بنزين"
+        }
+      },
+      {
+        "label": {
+          "en": "Transmission",
+          "ar": "ناقل الحركة"
+        },
+        "value": {
+          "en": "Manual",
+          "ar": "يدوي"
+        }
+      },
+      {
+        "label": {
+          "en": "Body type",
+          "ar": "نوع الهيكل"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Colour",
+          "ar": "اللون"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Statut de douane",
+          "ar": "Statut de douane"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Manual",
+          "ar": "يدوي"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://content.avito.ma/classifieds/images/10153657393?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10153657267?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10153324276?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10153324270?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10153324265?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10153324257?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/635294/nissan-370z.html"
+  },
+  {
+    "id": "moteur-647467",
+    "kind": "Car",
+    "title": {
+      "en": "Nissan Qashqai",
+      "ar": "Nissan Qashqai"
+    },
+    "price": 168000,
+    "quickFacts": [
+      {
+        "en": "2015",
+        "ar": "2015"
+      },
+      {
+        "en": "160 km",
+        "ar": "160 كم"
+      },
+      {
+        "en": "Diesel",
+        "ar": "ديزل"
+      },
+      {
+        "en": "Automatic",
+        "ar": "أوتوماتيكي"
+      }
+    ],
+    "summary": {
+      "en": "2015 Nissan Qashqai 2.0L 4x4 Automatic. High-spec family crossover with all-wheel drive, full options, and reliable maintenance in Khouribga.",
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦160 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Nissan",
+          "ar": "Nissan"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Qashqai",
+          "ar": "Qashqai"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2015",
+          "ar": "2015"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "160 km",
+          "ar": "160 كم"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Diesel",
+          "ar": "ديزل"
+        }
+      },
+      {
+        "label": {
+          "en": "Transmission",
+          "ar": "ناقل الحركة"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوتوماتيكي"
+        }
+      },
+      {
+        "label": {
+          "en": "Body type",
+          "ar": "نوع الهيكل"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Colour",
+          "ar": "اللون"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Tax horsepower",
+          "ar": "القوة الجبائية"
+        },
+        "value": {
+          "en": "8",
+          "ar": "8"
+        }
+      },
+      {
+        "label": {
+          "en": "Statut de douane",
+          "ar": "Statut de douane"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوتوماتيكي"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "État du véhicule",
+        "ar": "État du véhicule",
+        "raw": "État du véhicule"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://content.avito.ma/classifieds/images/10154296290?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154600230?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154296291?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154398415?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154398417?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154398414?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154600232?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154600231?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/647467/nissan-qashqai.html"
+  },
+  {
+    "id": "moteur-657394",
+    "kind": "Car",
+    "title": {
+      "en": "Fiat Grande Punto",
+      "ar": "Fiat Grande Punto"
+    },
+    "price": 62000,
+    "quickFacts": [
+      {
+        "en": "2009",
+        "ar": "2009"
+      },
+      {
+        "en": "0 km",
+        "ar": "0 كم"
+      },
+      {
+        "en": "Diesel",
+        "ar": "ديزل"
+      },
+      {
+        "en": "Manual",
+        "ar": "يدوي"
+      }
+    ],
+    "summary": {
+      "en": "2009 Fiat Grande Punto Diesel. Highly economical city hatchback, low fuel consumption, recent servicing and clean runaround in Casablanca.",
+      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Fiat",
+          "ar": "Fiat"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Grande Punto",
+          "ar": "Grande Punto"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2009",
+          "ar": "2009"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "0 km",
+          "ar": "0 كم"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Diesel",
+          "ar": "ديزل"
+        }
+      },
+      {
+        "label": {
+          "en": "Transmission",
+          "ar": "ناقل الحركة"
+        },
+        "value": {
+          "en": "Manual",
+          "ar": "يدوي"
+        }
+      },
+      {
+        "label": {
+          "en": "Body type",
+          "ar": "نوع الهيكل"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Colour",
+          "ar": "اللون"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Tax horsepower",
+          "ar": "القوة الجبائية"
+        },
+        "value": {
+          "en": "6",
+          "ar": "6"
+        }
+      },
+      {
+        "label": {
+          "en": "Statut de douane",
+          "ar": "Statut de douane"
+        },
+        "value": {
+          "en": "N/A",
+          "ar": "N/A"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Manual",
+          "ar": "يدوي"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://content.avito.ma/classifieds/images/10154830426?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154830427?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154830425?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154830428?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154830430?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154830435?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154830432?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10154830433?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657394/fiat-grande-punto.html"
+  },
+  {
+    "id": "moteur-471757",
+    "kind": "Moto",
+    "title": {
+      "en": "Vespa GTS 310 Super Tech",
+      "ar": "فيسبا GTS 310 سوبر تيك"
+    },
+    "price": 95000,
+    "quickFacts": [
+      {
+        "en": "2026",
+        "ar": "2026"
+      },
+      {
+        "en": "900 km",
+        "ar": "900 كم"
+      },
+      {
+        "en": "N/A",
+        "ar": "N/A"
+      },
+      {
+        "en": "N/A",
+        "ar": "N/A"
+      }
+    ],
+    "summary": {
+      "en": "2026 Vespa GTS 310 Super Tech with only 900 km. Premium modern classic scooter featuring a 310 cc HPE single-cylinder engine, full digital display, and all original factory paperwork in Tangier.",
+      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦900 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Cylinders",
+          "ar": "عدد الأسطوانات"
+        },
+        "value": {
+          "en": "1 cylinder",
+          "ar": "أسطوانة واحدة"
+        }
+      },
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Autre",
+          "ar": "Autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "autre",
+          "ar": "autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2026",
+          "ar": "2026"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "900 km",
+          "ar": "900 كم"
+        }
+      },
+      {
+        "label": {
+          "en": "Engine capacity",
+          "ar": "سعة المحرك"
+        },
+        "value": {
+          "en": "310 cm³",
+          "ar": "310 cm³"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153125495-842225.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/471757/autre-autre.html"
+  },
+  {
+    "id": "moteur-452664",
+    "kind": "Moto",
+    "title": {
+      "en": "HONDA ADV 350 iridium Gris 00 KM",
+      "ar": "HONDA ADV 350 iridium Gris 00 KM"
+    },
+    "price": 85000,
+    "quickFacts": [
+      {
+        "en": "2026",
+        "ar": "2026"
+      },
+      {
+        "en": "5,000 km",
+        "ar": "5,000 km"
+      },
+      {
+        "en": "N/A",
+        "ar": "N/A"
+      },
+      {
+        "en": "N/A",
+        "ar": "N/A"
+      }
+    ],
+    "summary": {
+      "en": "2026 Honda ADV 350 in Iridium Grey with 5,000 km. Rugged adventure scooter powered by a 330 cc single-cylinder engine, ABS, smart key, and versatile long-travel suspension in Tangier.",
+      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦5,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Cylinders",
+          "ar": "عدد الأسطوانات"
+        },
+        "value": {
+          "en": "1 cylinder",
+          "ar": "أسطوانة واحدة"
+        }
+      },
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Autre",
+          "ar": "Autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "autre",
+          "ar": "autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2026",
+          "ar": "2026"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "5,000 km",
+          "ar": "5,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Engine capacity",
+          "ar": "سعة المحرك"
+        },
+        "value": {
+          "en": "330 cm³",
+          "ar": "330 cm³"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154503140-604824.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154503136-207073.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154503137-881632.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/452664/autre-autre.html"
+  },
+  {
+    "id": "moteur-493177",
+    "kind": "Moto",
+    "title": {
+      "en": "Harley-Davidson Street Rod 750",
+      "ar": "هارلي ديفيدسون ستريت رود 750"
+    },
+    "price": 68000,
+    "quickFacts": [
+      {
+        "en": "2018",
+        "ar": "2018"
+      },
+      {
+        "en": "22,000 km",
+        "ar": "22,000 km"
+      },
+      {
+        "en": "N/A",
+        "ar": "N/A"
+      },
+      {
+        "en": "N/A",
+        "ar": "N/A"
+      }
+    ],
+    "summary": {
+      "en": "2018 Harley-Davidson Street Rod 750 featuring a 749 cc High Output Revolution X V-Twin (2 cylinders). Sporty street posture, inverted forks, throaty exhaust sound, and pristine condition in Tangier.",
+      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦22,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Cylinders",
+          "ar": "عدد الأسطوانات"
+        },
+        "value": {
+          "en": "2 cylinders (V-Twin)",
+          "ar": "أسطوانتان (V-Twin)"
+        }
+      },
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Autre",
+          "ar": "Autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "autre",
+          "ar": "autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2018",
+          "ar": "2018"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "22,000 km",
+          "ar": "22,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Engine capacity",
+          "ar": "سعة المحرك"
+        },
+        "value": {
+          "en": "749 cm³",
+          "ar": "749 cm³"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151024313-903397.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151024312-327942.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151024311-638344.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151024314-245080.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151024315-182090.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151024316-906081.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/493177/autre-autre.html"
+  },
+  {
+    "id": "moteur-457084",
+    "kind": "Moto",
+    "title": {
+      "en": "Can-Am Spyder RT",
+      "ar": "كان-أم سبايدر RT"
+    },
+    "price": 145000,
+    "quickFacts": [
+      {
+        "en": "2015",
+        "ar": "2015"
+      },
+      {
+        "en": "10,000 km",
+        "ar": "10,000 km"
+      },
+      {
+        "en": "N/A",
+        "ar": "N/A"
+      },
+      {
+        "en": "N/A",
+        "ar": "N/A"
+      }
+    ],
+    "summary": {
+      "en": "2015 Can-Am Spyder RSS Rotax 1000 with 10,000 km, powered by a 998 cc Rotax V-Twin (2 cylinders). Outstanding three-wheeled stability, dynamic performance, and touring comfort in Tangier.",
+      "ar": "موطور موديل ⁦2015⁩، ضاربة ⁦10,000 km⁩. نقية وبحالة مزيانة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Cylinders",
+          "ar": "عدد الأسطوانات"
+        },
+        "value": {
+          "en": "2 cylinders (V-Twin)",
+          "ar": "أسطوانتان (V-Twin)"
+        }
+      },
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Autre",
+          "ar": "Autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "autre",
+          "ar": "autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2015",
+          "ar": "2015"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "10,000 km",
+          "ar": "10,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Engine capacity",
+          "ar": "سعة المحرك"
+        },
+        "value": {
+          "en": "998 cm³",
+          "ar": "998 cm³"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/media/photos/ads/resized/autre-autre-632156.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/autre-autre-620764.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/autre-autre-862812.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/autre-autre-122907.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/autre-autre-323483.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/autre-autre-130379.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/autre-autre-337030.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/autre-autre-210402.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/autre-autre-224790.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/autre-autre-480840.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/457084/autre-autre.html"
+  },
+  {
+    "id": "moteur-621228",
+    "kind": "Moto",
+    "title": {
+      "en": "Honda goldwing 1800",
+      "ar": "Honda goldwing 1800"
+    },
+    "price": 300000,
+    "quickFacts": [
+      {
+        "en": "2019",
+        "ar": "2019"
+      },
+      {
+        "en": "22,000 km",
+        "ar": "22,000 km"
+      },
+      {
+        "en": "N/A",
+        "ar": "N/A"
+      },
+      {
+        "en": "N/A",
+        "ar": "N/A"
+      }
+    ],
+    "summary": {
+      "en": "2019 Honda Gold Wing 1800 powered by the legendary 1,833 cc 6-cylinder flat-six engine. The pinnacle of luxury touring with electronic suspension, audio system, and effortless power in Rabat.",
+      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦22,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Cylinders",
+          "ar": "عدد الأسطوانات"
+        },
+        "value": {
+          "en": "6 cylinders (Flat-6)",
+          "ar": "6 أسطوانات (Flat-6)"
+        }
+      },
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Autre",
+          "ar": "Autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "autre",
+          "ar": "autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2019",
+          "ar": "2019"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "22,000 km",
+          "ar": "22,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Engine capacity",
+          "ar": "سعة المحرك"
+        },
+        "value": {
+          "en": "1,833 cm³",
+          "ar": "1,833 cm³"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152904498-838676.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152904499-900918.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152904489-965143.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152904488-833270.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152904490-329329.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152904497-937187.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152904504-478179.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152904495-467987.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152904496-387178.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152904503-163160.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/621228/autre-autre.html"
+  },
+  {
+    "id": "moteur-492020",
+    "kind": "Moto",
+    "title": {
+      "en": "Honda X-ADV 750",
+      "ar": "هوندا X-ADV 750"
+    },
+    "price": 165000,
+    "quickFacts": [
+      {
+        "en": "2025",
+        "ar": "2025"
+      },
+      {
+        "en": "3,000 km",
+        "ar": "3,000 km"
+      },
+      {
+        "en": "N/A",
+        "ar": "N/A"
+      },
+      {
+        "en": "N/A",
+        "ar": "N/A"
+      }
+    ],
+    "summary": {
+      "en": "2025 Honda X-ADV 750 with only 1,200 km. Equipped with a 745 cc 2-cylinder engine and dual-clutch transmission (DCT). The benchmark adventure crossover scooter, like-new in Nador.",
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦3,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Cylinders",
+          "ar": "عدد الأسطوانات"
+        },
+        "value": {
+          "en": "2 cylinders (Parallel-Twin)",
+          "ar": "أسطوانتان (Bicylindre)"
+        }
+      },
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Autre",
+          "ar": "Autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "autre",
+          "ar": "autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2025",
+          "ar": "2025"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "3,000 km",
+          "ar": "3,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Engine capacity",
+          "ar": "سعة المحرك"
+        },
+        "value": {
+          "en": "745 cm³",
+          "ar": "745 cm³"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152208993-441954.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152208994-342287.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152208996-520264.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152209007-966411.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152209008-861481.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152209013-831075.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152209025-188384.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152209030-925952.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/492020/autre-autre.html"
+  },
+  {
+    "id": "moteur-656779",
+    "kind": "Moto",
+    "title": {
+      "en": "Voge 500ds",
+      "ar": "Voge 500ds"
+    },
+    "price": 65000,
+    "quickFacts": [
+      {
+        "en": "2023",
+        "ar": "2023"
+      },
+      {
+        "en": "30,000 km",
+        "ar": "30,000 km"
+      },
+      {
+        "en": "Petrol",
+        "ar": "بنزين"
+      },
+      {
+        "en": "Manual",
+        "ar": "يدوي"
+      }
+    ],
+    "summary": {
+      "en": "2023 Voge 500 DS adventure tourer with 471 cc parallel-twin 2-cylinder engine and 6,500 km. Fitted with crash bars, luggage rack, TFT screen, and ready for touring in Casablanca.",
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦30,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Cylinders",
+          "ar": "عدد الأسطوانات"
+        },
+        "value": {
+          "en": "2 cylinders (Parallel-Twin)",
+          "ar": "أسطوانتان (Bicylindre)"
+        }
+      },
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Voge",
+          "ar": "Voge"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "500ds",
+          "ar": "500ds"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2023",
+          "ar": "2023"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "30,000 km",
+          "ar": "30,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Petrol",
+          "ar": "بنزين"
+        }
+      },
+      {
+        "label": {
+          "en": "Transmission",
+          "ar": "ناقل الحركة"
+        },
+        "value": {
+          "en": "Manual",
+          "ar": "يدوي"
+        }
+      },
+      {
+        "label": {
+          "en": "Colour",
+          "ar": "اللون"
+        },
+        "value": {
+          "en": "Grey",
+          "ar": "رمادي"
+        }
+      },
+      {
+        "label": {
+          "en": "Engine capacity",
+          "ar": "سعة المحرك"
+        },
+        "value": {
+          "en": "471 cm³",
+          "ar": "471 cm³"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Manual",
+          "ar": "يدوي"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/voge-500ds-1788776360.jpeg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/voge-500ds-1788776729.jpeg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/voge-500ds-1788776459.jpeg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/voge-500ds-1788776424.jpeg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/voge-500ds-1788776418.jpeg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/voge-500ds-1788776558.jpeg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/voge-500ds-1788776397.jpeg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/656779/voge-500ds.html"
+  },
+  {
+    "id": "moteur-611386",
+    "kind": "Moto",
+    "title": {
+      "en": "Vespa GTS 310 SuperSport 0 KM PACK COMPLET",
+      "ar": "Vespa GTS 310 SuperSport 0 KM PACK COMPLET"
+    },
+    "price": 105000,
+    "quickFacts": [
+      {
+        "en": "2026",
+        "ar": "2026"
+      },
+      {
+        "en": "0 km",
+        "ar": "0 كم"
+      },
+      {
+        "en": "N/A",
+        "ar": "N/A"
+      },
+      {
+        "en": "N/A",
+        "ar": "N/A"
+      }
+    ],
+    "summary": {
+      "en": "2026 Vespa GTS 310 SuperSport brand new with 0 km and full equipment pack. 310 cc single-cylinder engine, matte sport styling, full manufacturer warranty and ready for immediate delivery in Tangier.",
+      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Cylinders",
+          "ar": "عدد الأسطوانات"
+        },
+        "value": {
+          "en": "1 cylinder",
+          "ar": "أسطوانة واحدة"
+        }
+      },
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Autre",
+          "ar": "Autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "autre",
+          "ar": "autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2026",
+          "ar": "2026"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "0 km",
+          "ar": "0 كم"
+        }
+      },
+      {
+        "label": {
+          "en": "Engine capacity",
+          "ar": "سعة المحرك"
+        },
+        "value": {
+          "en": "310 cm³",
+          "ar": "310 cm³"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152530465-731300.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152530466-398654.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152530467-999988.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152530512-268800.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152530510-170887.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152530514-289378.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152530511-433972.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152530513-327399.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/611386/autre-autre.html"
+  }
+]

@@ -22,7 +22,24 @@ export async function onRequestGet({ request, env }) {
   const desiredSeconds = Number(url.searchParams.get('seconds')) || 120;
   const seconds = Math.min(MAX_SECONDS, Math.max(30, desiredSeconds));
   const expiresAt = Date.now() + seconds * 1000 + 10_000;
-  const round = await Promise.all(sample(valid, 5).map(async ({ price, ...publicListing }) => {
+
+  const mode = (url.searchParams.get('mode') || '').toLowerCase().trim();
+  let pool = valid;
+  if (mode === 'cars' || mode === 'car' || mode === 'voiture') {
+    const cars = valid.filter((item) => {
+      const k = (item.kind || '').toLowerCase();
+      return k.includes('car') || k.includes('voiture');
+    });
+    if (cars.length >= 5) pool = cars;
+  } else if (mode === 'motorbikes' || mode === 'moto' || mode === 'motos' || mode === 'motorcycle') {
+    const motos = valid.filter((item) => {
+      const k = (item.kind || '').toLowerCase();
+      return k.includes('moto') || k.includes('bike');
+    });
+    if (motos.length >= 5) pool = motos;
+  }
+
+  const round = await Promise.all(sample(pool, 5).map(async ({ price, ...publicListing }) => {
     const payload = base64url(new TextEncoder().encode(JSON.stringify({ id: publicListing.id, expiresAt })));
     return { ...publicListing, token: `${payload}.${await sign(payload, env.GAME_SIGNING_SECRET)}` };
   }));

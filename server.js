@@ -2,6 +2,7 @@ import express from 'express';
 import path from 'path';
 import { onRequestGet } from './functions/api/game.js';
 import { onRequestPost } from './functions/api/guess.js';
+import { getEffectiveEnv } from './api/_env.js';
 
 const app = express();
 const PORT = 3000;
@@ -13,7 +14,7 @@ app.get('/api/game', async (req, res, next) => {
   try {
     const fullUrl = `http://${req.headers.host || 'localhost'}${req.originalUrl}`;
     const request = new Request(fullUrl, { method: 'GET' });
-    const response = await onRequestGet({ request, env: process.env });
+    const response = await onRequestGet({ request, env: getEffectiveEnv() });
     const status = response.status;
     const data = await response.json();
     if (response.headers.get('cache-control')) {
@@ -33,7 +34,7 @@ app.post('/api/guess', async (req, res, next) => {
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify(req.body)
     });
-    const response = await onRequestPost({ request, env: process.env });
+    const response = await onRequestPost({ request, env: getEffectiveEnv() });
     const status = response.status;
     const data = await response.json();
     if (response.headers.get('cache-control')) {

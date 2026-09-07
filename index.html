@@ -16,7 +16,7 @@
     <main class="app-shell">
       <header class="topbar">
         <a class="brand" href="/" aria-label="RwidaGuessr home">
-          <span class="brand-mark">MG</span>
+          <span class="brand-mark">RG</span>
           <span>Rwida<span>Guessr</span></span>
         </a>
         <div class="round-status" aria-live="polite">
@@ -24,6 +24,11 @@
           <div class="round-dots" id="round-dots" aria-label="Round progress"></div>
         </div>
         <div class="header-actions">
+          <a class="ghost-button ext-game-link" id="darguessr-link" href="https://darguessr.vercel.app/" target="_blank" rel="noopener noreferrer" title="DarGuessr — Moroccan Real Estate Guessing Game">
+            <span class="game-icon" aria-hidden="true">🏠</span>
+            <span>DarGuessr</span>
+            <span class="game-arrow" aria-hidden="true">↗</span>
+          </a>
           <button class="ghost-button" id="language-toggle" type="button" aria-label="Switch language">العربية</button>
           <button class="theme-button" id="theme-toggle" type="button" aria-label="Use dark mode"><span aria-hidden="true">☾</span></button>
           <button class="ghost-button" id="how-to-play" type="button" data-i18n="howTo">How to play</button>
@@ -35,6 +40,19 @@
         <h1 data-i18n-html="heroTitle">What’s the price<br /><em>of this vehicle?</em></h1>
         <p class="intro" data-i18n="intro">Five listings, their full details, and zero price clues. Estimate the listed price in dirhams.</p>
         <div class="start-card">
+          <div class="mode-selector-group">
+            <span class="mode-label" id="mode-group-label" data-i18n="modeLabel">Vehicle category</span>
+            <div class="mode-switch" role="radiogroup" aria-labelledby="mode-group-label">
+              <button class="mode-button is-active" id="mode-cars" type="button" role="radio" aria-checked="true" data-mode="cars">
+                <span class="mode-icon">🚗</span>
+                <span class="mode-text" data-i18n="modeCars">Cars</span>
+              </button>
+              <button class="mode-button" id="mode-motorbikes" type="button" role="radio" aria-checked="false" data-mode="motorbikes">
+                <span class="mode-icon">🏍️</span>
+                <span class="mode-text" data-i18n="modeBikes">Motorbikes</span>
+              </button>
+            </div>
+          </div>
           <label for="duration" data-i18n="durationLabel">Maximum time per guess</label>
           <select id="duration">
             <option value="60" data-i18n="oneMinute">1 minute</option>
@@ -94,9 +112,20 @@
         <form class="guess-form" id="guess-form">
           <label for="guess" data-i18n="yourGuess">Your guess</label>
           <div class="guess-input-row">
-            <input id="guess" inputmode="numeric" autocomplete="off" min="0" placeholder="e.g. 185,000" required />
-            <span>MAD</span>
+            <input id="guess" inputmode="numeric" autocomplete="off" min="0" placeholder="e.g. 185,000" dir="ltr" required />
+            <span id="currency-label">MAD</span>
             <button class="primary-button" type="submit" data-i18n-html="submit">Submit <span>→</span></button>
+          </div>
+          <div class="guess-increments-bar" id="guess-increments-bar" aria-label="Quick price increments">
+            <span class="increments-label" data-i18n="quickIncrements">Quick add:</span>
+            <div class="increment-buttons">
+              <button type="button" class="increment-btn" data-add="1000">+1K</button>
+              <button type="button" class="increment-btn" data-add="5000">+5K</button>
+              <button type="button" class="increment-btn" data-add="10000">+10K</button>
+              <button type="button" class="increment-btn" data-add="50000">+50K</button>
+              <button type="button" class="increment-btn" data-add="100000">+100K</button>
+              <button type="button" class="increment-btn reset" id="clear-guess-btn" data-i18n="clearInput">Reset</button>
+            </div>
           </div>
           <p class="form-error hidden" id="form-error"></p>
         </form>

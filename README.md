@@ -29,24 +29,53 @@ Une fois ce droit obtenu, préparez au moins cinq enregistrements dans le format
 
 `price` doit être un nombre en MAD, sans espaces ni symbole. Il n’est jamais renvoyé par l’API `/api/game`; seule `/api/guess` le compare une fois la réponse du joueur reçue.
 
-## Hébergement gratuit sur Cloudflare Pages
+## Hébergement gratuit sur Vercel ou Cloudflare Pages
 
-Cloudflare Pages convient ici parce que les fichiers statiques et les Pages Functions sont pris en charge par son offre gratuite. Créez un projet Pages depuis un dépôt GitHub, GitLab ou directement avec Wrangler. Pour un dépôt Git, utilisez **no build command** et `/` comme dossier de sortie.
+### Option 1: Vercel (Recommandé pour un déploiement simple)
 
-Ajoutez ces secrets dans **Settings → Variables and Secrets**, pour les environnements Preview et Production:
+1. Importez votre dépôt GitHub sur [Vercel](https://vercel.com).
+2. Vercel détecte automatiquement la configuration grâce à `vercel.json` et aux fonctions `/api/game.js` et `/api/guess.js`.
+3. Configurez les variables d'environnement dans les **Project Settings → Environment Variables** :
+   - `GAME_SIGNING_SECRET` : Clé secrète privée (au moins 32 caractères).
+   - `LISTINGS_JSON` (optionnel) : Contenu JSON complet des annonces. Si non défini, le serveur lit automatiquement `data/listings.imported.json` ou `data/listings.production.json`.
 
-| Nom | Valeur |
-| --- | --- |
-| `LISTINGS_JSON` | Le contenu JSON complet de votre fichier de listings autorisés (y compris les prix). |
-| `GAME_SIGNING_SECRET` | Une chaîne aléatoire longue et privée (au moins 32 caractères). |
+### Option 2: Cloudflare Pages
 
-Vous pouvez aussi les ajouter depuis le terminal après vous être connecté à Wrangler:
+Cloudflare Pages convient également grâce à son offre gratuite et ses Pages Functions (`functions/api/`).
+Créez un projet Pages depuis GitHub ou Wrangler :
 
 ```powershell
 npx wrangler pages secret put LISTINGS_JSON --project-name votre-projet
 npx wrangler pages secret put GAME_SIGNING_SECRET --project-name votre-projet
 npx wrangler pages deploy . --project-name votre-projet
 ```
+
+## Importateur conservateur (Moteur.ma)
+
+Le script `scripts/import-moteur.js` permet d'importer des annonces publiques avec respect des limites de débit et nettoyage des données personnelles :
+
+- **Cadence lente et contrôlée** : pause fixe de 2,5 secondes entre chaque requête (configurable avec `--delay=3000`).
+- **Sanitisation stricte** : suppression automatique de numéros de téléphone, emails, mentions de prix ou liens personnels.
+- **Bilingue prêt pour le jeu** : traduction automatique des termes techniques automobiles en anglais et en arabe grâce au dictionnaire `scripts/dictionary.js`.
+
+### Utilisation :
+
+```bash
+# Directement avec des URLs
+node scripts/import-moteur.js https://www.moteur.ma/fr/voiture/achat-voiture-occasion/...
+
+# Ou avec un fichier d'URLs
+node scripts/import-moteur.js --urls=urls.txt --out=data/listings.imported.json
+```
+
+## Visionneuse de photos plein écran
+
+Le bouton de galerie ouvre une visionneuse modale (`<dialog>`) dédiée :
+- Affiche les photos en véritable plein écran adapté à toutes les résolutions.
+- Support du zoom par clic/tap.
+- Navigation au clavier (flèches gauche/droite) et fermeture par la touche Échap ou le bouton de fermeture.
+- Indicateur de compteur d'images et flèches de navigation haute visibilité.
+- Thème sombre et clair soignés avec contrastes conformes pour une lisibilité optimale.
 
 Ne versionnez jamais le JSON de production ni ces secrets. Le fichier `.gitignore` protège le chemin prévu `data/listings.production.json`.
 
