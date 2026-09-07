@@ -1,0 +1,25 @@
+[
+  {
+    "id": "partner-record-unique-id",
+    "kind": "Car",
+    "title": { "en": "Brand Model Version", "ar": "العلامة الطراز الفئة" },
+    "price": 185000,
+    "quickFacts": [{ "en": "2021", "ar": "2021" }, { "en": "62,000 km", "ar": "62,000 كم" }, { "en": "Diesel", "ar": "ديزل" }, { "en": "Automatic", "ar": "أوتوماتيكي" }],
+    "summary": { "en": "A factual original summary of the seller description with no contact or personal data.", "ar": "ملخص أصلي وواقعي لوصف البائع، من دون معلومات اتصال أو بيانات شخصية." },
+    "features": [
+      { "label": { "en": "Brand", "ar": "العلامة" }, "value": { "en": "Brand", "ar": "العلامة" } },
+      { "label": { "en": "Model", "ar": "الطراز" }, "value": { "en": "Model", "ar": "الطراز" } },
+      { "label": { "en": "Year", "ar": "السنة" }, "value": { "en": "2021", "ar": "2021" } },
+      { "label": { "en": "Mileage", "ar": "المسافة المقطوعة" }, "value": { "en": "62,000 km", "ar": "62,000 كم" } },
+      { "label": { "en": "Fuel", "ar": "الوقود" }, "value": { "en": "Diesel", "ar": "ديزل" } },
+      { "label": { "en": "Transmission", "ar": "ناقل الحركة" }, "value": { "en": "Automatic", "ar": "أوتوماتيكي" } }
+    ],
+    "options": [{ "en": "Reverse camera", "ar": "كاميرا خلفية" }, { "en": "Cruise control", "ar": "مثبّت سرعة" }, { "en": "Automatic climate control", "ar": "تكييف أوتوماتيكي" }],
+    "images": [
+      "https://cdn.example.com/licensed-front.jpg",
+      "https://cdn.example.com/licensed-interior.jpg",
+      "https://cdn.example.com/licensed-rear.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/..."
+  }
+]
