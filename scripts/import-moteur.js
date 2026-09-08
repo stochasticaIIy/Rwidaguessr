@@ -132,8 +132,29 @@ export function parseMoteurHtml(html, sourceUrl) {
     }
   }
 
-  // Only check other sources if hero container wasn't present at all
-  if (!price && !priceHero.length) {
+  // Check price elements or regex on full page text if not found
+  if (!price) {
+    const priceEl = $('.col-md-4 .price, .col-sm-4 .price, .item-price, .price').first();
+    if (priceEl.length) {
+      const pText = priceEl.text().trim();
+      const match = pText.replace(/\s+/g, ' ').match(/([\d\s.,]{3,12})/);
+      if (match) {
+        const parsed = parseInt(match[1].replace(/[^\d]/g, ''), 10);
+        if (parsed > 1000) price = parsed;
+      }
+    }
+  }
+
+  if (!price) {
+    const pageMatch = $('body').text().match(/(\d[\d\s.,]{3,10})\s*(?:dhs|dh|dirhams)/i);
+    if (pageMatch) {
+      const parsed = parseInt(pageMatch[1].replace(/[^\d]/g, ''), 10);
+      if (parsed > 1000) price = parsed;
+    }
+  }
+
+  // Only check meta tag if still not found
+  if (!price) {
     const priceMeta = $('meta[property="product:price:amount"]').attr('content');
     if (priceMeta) {
       const parsed = parseInt(priceMeta.replace(/[^\d]/g, ''), 10);
@@ -201,6 +222,13 @@ export function parseMoteurHtml(html, sourceUrl) {
 
   // 7. Images
   const rawImages = [];
+  // Prioritize native moteur.ma storage images from the entire HTML
+  const pageHtml = $.html();
+  const moteurMatches = pageHtml.match(/https:\/\/www\.moteur\.ma\/storage\/media\/images\/ads\/resized\/[^\s"'<>\)]+/g) || [];
+  for (const img of moteurMatches) {
+    if (!rawImages.includes(img)) rawImages.push(img);
+  }
+
   $('#full-gallery img, #carousel img, .ad-gallery-slide img, .carousel-item img, .ad-gallery-carousel img, .product-slider img').each((_, el) => {
     const src = $(el).attr('src') || $(el).attr('data-src') || $(el).attr('data-lazy');
     if (src && !src.includes('logo') && !src.includes('icon') && !src.includes('.svg')) {

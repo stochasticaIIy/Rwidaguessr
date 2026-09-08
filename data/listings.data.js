@@ -1,8 +1,5 @@
-/*
- * Real verified Moroccan vehicle listings with 100% working high-resolution photos.
- * Used for instant client-side rendering and static/fallback operation.
- */
-window.DEMO_LISTINGS = [
+// Automatically exported verified listings for server and edge runtimes
+export const DEFAULT_LISTINGS = [
   {
     "id": "moteur-497369",
     "kind": "Car",

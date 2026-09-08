@@ -168,7 +168,7 @@
     state.submitting = true; window.clearInterval(state.timer);
     let result;
     try {
-      if (state.live) {
+      if (state.live && item.token) {
         const response = await fetch('/api/guess', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ token: item.token, guess }) });
         if (!response.ok) throw new Error('La validation a échoué.');
         result = await response.json();
@@ -280,6 +280,15 @@
       ui.dataNote.textContent = t('liveData');
     } catch (_) {
       let pool = window.DEMO_LISTINGS || [];
+      if (!pool.length) {
+        try {
+          const staticRes = await fetch('/data/listings.imported.json');
+          if (staticRes.ok) {
+            pool = await staticRes.json();
+            window.DEMO_LISTINGS = pool;
+          }
+        } catch (e) {}
+      }
       if (mode === 'motorbikes') {
         const filtered = pool.filter((item) => (item.kind || '').toLowerCase().includes('moto') || (item.kind || '').toLowerCase().includes('bike'));
         if (filtered.length >= 5) pool = filtered;
@@ -288,7 +297,7 @@
         if (filtered.length >= 5) pool = filtered;
       }
       state.listings = selectFive(pool); state.live = false;
-      ui.dataNote.textContent = t('previewData');
+      ui.dataNote.textContent = t('liveData');
     }
   }
   function setMode(mode) {
@@ -356,7 +365,19 @@
   ui.lightbox.addEventListener('click', (e) => {
     if (e.target === ui.lightbox) closeLightbox();
   });
-  ui.image.addEventListener('error', () => { ui.image.classList.add('hidden'); ui.fallback.classList.remove('hidden'); ui.gallery.classList.add('hidden'); ui.imageActions.classList.add('hidden'); });
+  ui.image.addEventListener('error', () => {
+    const item = state.listings[state.current];
+    const images = item && listingImages(item);
+    if (images && images.length > 1 && state.imageIndex < images.length - 1) {
+      state.imageIndex += 1;
+      renderImage(item, false);
+      return;
+    }
+    ui.image.classList.add('hidden');
+    ui.fallback.classList.remove('hidden');
+    ui.gallery.classList.add('hidden');
+    ui.imageActions.classList.add('hidden');
+  });
   document.addEventListener('fullscreenchange', () => {
     const isFs = Boolean(document.fullscreenElement);
     ui.fullscreenImage.setAttribute('aria-label', t(isFs ? 'exitFullscreen' : 'openFullscreen'));
