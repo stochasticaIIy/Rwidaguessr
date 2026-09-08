@@ -279,15 +279,16 @@
       state.listings = payload.round; state.live = true;
       ui.dataNote.textContent = t('liveData');
     } catch (_) {
-      let pool = window.DEMO_LISTINGS || [];
-      if (!pool.length) {
-        try {
-          const staticRes = await fetch('/data/listings.imported.json');
-          if (staticRes.ok) {
-            pool = await staticRes.json();
-            window.DEMO_LISTINGS = pool;
-          }
-        } catch (e) {}
+      let pool = [];
+      try {
+        const staticRes = await fetch('/data/listings.imported.json');
+        if (staticRes.ok) {
+          pool = await staticRes.json();
+          window.DEMO_LISTINGS = pool;
+        }
+      } catch (e) {}
+      if (!pool.length && Array.isArray(window.DEMO_LISTINGS) && window.DEMO_LISTINGS.length) {
+        pool = window.DEMO_LISTINGS;
       }
       if (mode === 'motorbikes') {
         const filtered = pool.filter((item) => (item.kind || '').toLowerCase().includes('moto') || (item.kind || '').toLowerCase().includes('bike'));

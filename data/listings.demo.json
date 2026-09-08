@@ -1,5 +1,4 @@
-// Automatically exported verified listings for server and edge runtimes
-export const DEFAULT_LISTINGS = [
+[
   {
     "id": "moteur-656399",
     "kind": "Car",
@@ -140903,4 +140902,4 @@ export const DEFAULT_LISTINGS = [
     ],
     "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/472757/honda-sh-125i.html"
   }
-];
+]

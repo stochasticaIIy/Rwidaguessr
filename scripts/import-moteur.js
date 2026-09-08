@@ -535,6 +535,15 @@ Options:
         if (!isDryRun) {
           fs.mkdirSync(path.dirname(resolvedOut), { recursive: true });
           fs.writeFileSync(resolvedOut, JSON.stringify(currentList, null, 2), 'utf-8');
+
+          // Keep runtime modules and demo files in sync with imported listings
+          try {
+            const dataDir = path.dirname(resolvedOut);
+            fs.writeFileSync(path.join(dataDir, 'listings.data.js'), '// Automatically exported verified listings for server and edge runtimes\nexport const DEFAULT_LISTINGS = ' + JSON.stringify(currentList, null, 2) + ';\n', 'utf-8');
+            fs.writeFileSync(path.join(dataDir, 'listings.demo.js'), '/*\n * Real verified Moroccan vehicle listings with 100% working high-resolution photos.\n * Used for instant client-side rendering and static/fallback operation.\n */\nwindow.DEMO_LISTINGS = ' + JSON.stringify(currentList, null, 2) + ';\n', 'utf-8');
+            fs.writeFileSync(path.join(dataDir, 'listings.demo.json'), JSON.stringify(currentList, null, 2), 'utf-8');
+          } catch (_) {}
+
           console.log(`[Importer] Saved progress: ${currentList.length} total listings in ${outFile} (+${successfulNew})`);
         }
       } else {
