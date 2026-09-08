@@ -7,6 +7,7 @@
 
 import { onRequestGet as handleGame } from './functions/api/game.js';
 import { onRequestPost as handleGuess } from './functions/api/guess.js';
+import { onRequestGet as handleLeaderboardGet, onRequestPost as handleLeaderboardPost } from './functions/api/leaderboard.js';
 
 export default {
   async fetch(request, env, ctx) {
@@ -19,6 +20,11 @@ export default {
 
     if (url.pathname === '/api/guess' && request.method === 'POST') {
       return handleGuess({ request, env });
+    }
+
+    if (url.pathname === '/api/leaderboard') {
+      if (request.method === 'GET') return handleLeaderboardGet({ request, env });
+      if (request.method === 'POST') return handleLeaderboardPost({ request, env });
     }
 
     // Static Assets Fallback (Cloudflare Workers Static Assets or Cloudflare Pages)

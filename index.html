@@ -29,8 +29,10 @@
             <span>DarGuessr</span>
             <span class="game-arrow" aria-hidden="true">↗</span>
           </a>
+          <button class="theme-button" id="sound-toggle" type="button" aria-label="Toggle sound" title="Sound effects"><span id="sound-icon" aria-hidden="true">🔊</span></button>
           <button class="ghost-button" id="language-toggle" type="button" aria-label="Switch language">العربية</button>
           <button class="theme-button" id="theme-toggle" type="button" aria-label="Use dark mode"><span aria-hidden="true">☾</span></button>
+          <button class="ghost-button" id="leaderboard-toggle" type="button" aria-label="Leaderboard">🏆 <span data-i18n="leaderboardBtn">Leaderboard</span></button>
           <button class="ghost-button" id="how-to-play" type="button" data-i18n="howTo">How to play</button>
         </div>
       </header>
@@ -55,13 +57,11 @@
           </div>
           <label for="duration" data-i18n="durationLabel">Maximum time per guess</label>
           <select id="duration">
-            <option value="60" data-i18n="oneMinute">1 minute</option>
-            <option value="120" selected data-i18n="twoMinutes">2 minutes</option>
-            <option value="300" data-i18n="fiveMinutes">5 minutes</option>
-            <option value="600" data-i18n="tenMinutes">10 minutes</option>
-            <option value="1800" data-i18n="thirtyMinutes">30 minutes (maximum)</option>
+            <option value="600" selected data-i18n="tenMinutes">10 minutes</option>
+            <option value="1800" data-i18n="thirtyMinutes">30 minutes</option>
+            <option value="3000" data-i18n="fiftyMinutes">50 minutes (maximum)</option>
           </select>
-          <small data-i18n="durationNote">Time is capped at 30 minutes for every listing.</small>
+          <small data-i18n="durationNote">Time is capped at 50 minutes for every listing.</small>
           <button class="primary-button" id="start-game" type="button" data-i18n-html="start">Start 5 rounds <span>→</span></button>
         </div>
         <p class="data-note" id="data-note">Loading listings…</p>
@@ -136,9 +136,22 @@
           <span class="eyebrow" id="result-kicker" data-i18n="result">Result</span>
           <h2 id="result-title">—</h2>
           <div class="price-reveal"><span data-i18n="listedPrice">Listed price</span><strong id="actual-price">—</strong></div>
+          <div class="closeness-banner" id="closeness-banner">
+            <div class="closeness-badge" id="closeness-badge">
+              <span class="closeness-kicker" data-i18n="closenessKicker">Accuracy</span>
+              <div class="closeness-stat">
+                <strong id="closeness-pct">0%</strong>
+                <span id="closeness-label" data-i18n="closeToPrice">close to actual price</span>
+              </div>
+            </div>
+            <div class="closeness-track" aria-hidden="true">
+              <div class="closeness-fill" id="closeness-fill" style="width: 0%"></div>
+            </div>
+          </div>
           <div class="result-comparison">
             <div><span data-i18n="yourGuess">Your guess</span><b id="your-guess">—</b></div>
             <div><span data-i18n="difference">Difference</span><b id="difference">—</b></div>
+            <div><span data-i18n="closenessCol">Closeness</span><b id="closeness-cell">—</b></div>
             <div><span data-i18n="points">Points</span><b id="round-score">—</b></div>
           </div>
           <p id="result-message"></p>
@@ -153,17 +166,57 @@
           <h2 data-i18n="finalTitle">You’ve got an eye for it.</h2>
           <p class="final-score"><strong id="total-score">0</strong> <span data-i18n="outOfFive">points out of 5,000</span></p>
           <div id="score-breakdown" class="score-breakdown"></div>
-          <button class="primary-button" id="play-again" type="button" data-i18n-html="playAgain">Play again <span>↻</span></button>
+
+          <div class="leaderboard-submission-card" id="leaderboard-save-box">
+            <h3 data-i18n="saveScoreTitle">Save your score to the Leaderboard</h3>
+            <p class="leaderboard-submission-hint" data-i18n="saveScoreHint">Compete against other players across Morocco.</p>
+            <form id="leaderboard-form" class="leaderboard-form">
+              <div class="leaderboard-input-row">
+                <input id="player-name" type="text" maxlength="25" placeholder="Enter your name / nickname" required autocomplete="nickname" />
+                <button class="primary-button" id="save-score-btn" type="submit" data-i18n-html="saveScoreBtn">Save score <span>→</span></button>
+              </div>
+              <p class="leaderboard-feedback hidden" id="leaderboard-feedback"></p>
+            </form>
+          </div>
+
+          <div class="final-leaderboard-section">
+            <div class="leaderboard-card-header">
+              <div class="lb-title-group">
+                <span class="leaderboard-trophy" aria-hidden="true">🏆</span>
+                <h3 data-i18n="topScorers">Top Scorers</h3>
+              </div>
+              <button type="button" class="refresh-lb-btn" id="final-refresh-lb" aria-label="Refresh leaderboard" title="Refresh">↻</button>
+            </div>
+            <div class="leaderboard-list-wrap">
+              <ol class="leaderboard-list" id="final-leaderboard-list">
+                <li class="lb-loading" data-i18n="loadingLb">Loading leaderboard…</li>
+              </ol>
+            </div>
+          </div>
+
+          <button class="primary-button play-again-btn" id="play-again" type="button" data-i18n-html="playAgain">Play again <span>↻</span></button>
         </div>
       </section>
     </main>
 
     <dialog id="rules-dialog">
-      <button class="dialog-close" id="close-rules" type="button" aria-label="Fermer">×</button>
+      <button class="dialog-close" id="close-rules" type="button" aria-label="Close">×</button>
       <span class="eyebrow" data-i18n="rules">Rules</span>
       <h2 data-i18n="rulesTitle">Five prices to estimate.</h2>
       <p data-i18n="rulesCopy1">For every listing, study the vehicle, its details, and every option. Enter the price you think is listed. The closer you are, the more points you earn.</p>
-      <p data-i18n="rulesCopy2">A timer begins each round and can never be longer than 30 minutes.</p>
+      <p data-i18n="rulesCopy2">A timer begins each round and can never be longer than 50 minutes.</p>
+      <p data-i18n="rulesCopy3">At the end, save your name to the Leaderboard and see how your eye for car prices ranks!</p>
+    </dialog>
+
+    <dialog id="leaderboard-dialog">
+      <button class="dialog-close" id="close-leaderboard" type="button" aria-label="Close">×</button>
+      <span class="eyebrow" data-i18n="leaderboardEyebrow">Hall of Fame</span>
+      <h2 data-i18n="leaderboardTitle">Top Scorers</h2>
+      <div class="leaderboard-dialog-content">
+        <ol class="leaderboard-list" id="dialog-leaderboard-list">
+          <li class="lb-loading" data-i18n="loadingLb">Loading leaderboard…</li>
+        </ol>
+      </div>
     </dialog>
     <dialog class="image-lightbox" id="image-lightbox" aria-label="Full-screen photo viewer">
       <button class="lightbox-close" id="lightbox-close" type="button" aria-label="Close photo viewer">×</button>

@@ -2,6 +2,7 @@ import express from 'express';
 import path from 'path';
 import { onRequestGet } from './functions/api/game.js';
 import { onRequestPost } from './functions/api/guess.js';
+import { onRequestGet as handleLeaderboardGet, onRequestPost as handleLeaderboardPost } from './functions/api/leaderboard.js';
 import { getEffectiveEnv } from './api/_env.js';
 
 const app = express();
@@ -35,6 +36,42 @@ app.post('/api/guess', async (req, res, next) => {
       body: JSON.stringify(req.body)
     });
     const response = await onRequestPost({ request, env: getEffectiveEnv() });
+    const status = response.status;
+    const data = await response.json();
+    if (response.headers.get('cache-control')) {
+      res.set('cache-control', response.headers.get('cache-control'));
+    }
+    res.status(status).json(data);
+  } catch (err) {
+    next(err);
+  }
+});
+
+app.get('/api/leaderboard', async (req, res, next) => {
+  try {
+    const fullUrl = `http://${req.headers.host || 'localhost'}${req.originalUrl}`;
+    const request = new Request(fullUrl, { method: 'GET' });
+    const response = await handleLeaderboardGet({ request, env: getEffectiveEnv() });
+    const status = response.status;
+    const data = await response.json();
+    if (response.headers.get('cache-control')) {
+      res.set('cache-control', response.headers.get('cache-control'));
+    }
+    res.status(status).json(data);
+  } catch (err) {
+    next(err);
+  }
+});
+
+app.post('/api/leaderboard', async (req, res, next) => {
+  try {
+    const fullUrl = `http://${req.headers.host || 'localhost'}${req.originalUrl}`;
+    const request = new Request(fullUrl, {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify(req.body)
+    });
+    const response = await handleLeaderboardPost({ request, env: getEffectiveEnv() });
     const status = response.status;
     const data = await response.json();
     if (response.headers.get('cache-control')) {

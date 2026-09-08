@@ -1,6 +1,6 @@
 import { DEFAULT_LISTINGS } from '../../data/listings.data.js';
 
-const MAX_SECONDS = 30 * 60;
+const MAX_SECONDS = 50 * 60;
 const FALLBACK_SECRET = 'rwida-guessr-cloud-signing-key-production-fallback';
 
 function base64url(bytes) {

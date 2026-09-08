@@ -9,14 +9,21 @@
     lightbox: $('image-lightbox'), lightboxClose: $('lightbox-close'), lightboxPrev: $('lightbox-prev'), lightboxNext: $('lightbox-next'), lightboxImage: $('lightbox-image'), lightboxZoom: $('lightbox-zoom'), lightboxCount: $('lightbox-count'),
     form: $('guess-form'), error: $('form-error'), resultTitle: $('result-title'), actual: $('actual-price'),
     guessed: $('your-guess'), difference: $('difference'), score: $('round-score'), message: $('result-message'),
+    closenessPct: $('closeness-pct'), closenessFill: $('closeness-fill'), closenessCell: $('closeness-cell'),
+    closenessLabel: $('closeness-label'), closenessBadge: $('closeness-badge'),
+    leaderboardToggle: $('leaderboard-toggle'), leaderboardDialog: $('leaderboard-dialog'), closeLeaderboard: $('close-leaderboard'),
+    leaderboardForm: $('leaderboard-form'), playerName: $('player-name'), saveScoreBtn: $('save-score-btn'),
+    leaderboardFeedback: $('leaderboard-feedback'), finalLeaderboardList: $('final-leaderboard-list'),
+    dialogLeaderboardList: $('dialog-leaderboard-list'), finalRefreshLb: $('final-refresh-lb'),
     source: $('source-link'), next: $('next-round'), total: $('total-score'), breakdown: $('score-breakdown'),
-    modeCars: $('mode-cars'), modeMotorbikes: $('mode-motorbikes'), startGame: $('start-game')
+    modeCars: $('mode-cars'), modeMotorbikes: $('mode-motorbikes'), startGame: $('start-game'),
+    soundToggle: $('sound-toggle'), soundIcon: $('sound-icon')
   };
   const copy = {
-    en: { howTo:'How to play', eyebrow:'Cars & motorbikes · Morocco', heroTitle:'What’s the price<br /><em>of this vehicle?</em>', heroTitleCars:'What’s the price<br /><em>of this car?</em>', heroTitleBikes:'What’s the price<br /><em>of this motorbike?</em>', modeLabel:'Vehicle category', modeCars:'Cars', modeBikes:'Motorbikes', intro:'Five listings, their full details, and zero price clues. Estimate the listed price in dirhams.', durationLabel:'Maximum time per guess', oneMinute:'1 minute', twoMinutes:'2 minutes', fiveMinutes:'5 minutes', tenMinutes:'10 minutes', thirtyMinutes:'30 minutes (maximum)', durationNote:'Time is capped at 30 minutes for every listing.', start:'Start 5 rounds <span>→</span>', startCars:'Start 5 Car rounds <span>→</span>', startBikes:'Start 5 Motorbike rounds <span>→</span>', priceHidden:'Price hidden', summaryHeading:'Listing summary', featuresHeading:'Features', optionsHeading:'Equipment & options', yourGuess:'Your guess', submit:'Submit <span>→</span>', quickIncrements:'Quick add:', clearInput:'Reset', result:'Result', listedPrice:'Listed price', difference:'Difference', points:'Points', viewSource:'View source listing ↗', gameOver:'Game complete', finalTitle:'You’ve got an eye for it.', outOfFive:'points out of 5,000', playAgain:'Play again <span>↻</span>', rules:'Rules', rulesTitle:'Five prices to estimate.', rulesCopy1:'For every listing, study the vehicle, its details, and every option. Enter the price you think is listed. The closer you are, the more points you earn.', rulesCopy2:'A timer begins each round and can never be longer than 30 minutes.', ready:'Ready to play', round:'Round {n} of 5', roundCars:'Cars · Round {n} of 5', roundBikes:'Motorbikes · Round {n} of 5', complete:'Game complete', vehicle:'Vehicle listing', car:'Car listing', bike:'Motorbike listing', invalidGuess:'Enter a valid price in MAD.', failedGuess:'We could not validate that guess. Please try again.', loading:'Loading listings…', liveData:'Verified listings — prices reveal after each guess.', previewData:'Preview mode — add the Cloudflare secrets to load your authorized listings.', insufficient:'At least five valid listings are needed to play.', preparing:'Preparing…', next:'Next round →', finalNext:'See my final score →', timeUp:'Time is up', expired:'Time is up — the price is revealed, but this round earns no points.', excellent:'Impressive: your estimate was extremely close.', great:'Great instinct — you are in the right range.', okay:'Not bad. The vehicle details made the difference.', tough:'That one was difficult. Every round counts.', noOptions:'No options listed', timeRemaining:'Time remaining', switchLanguage:'Switch to Arabic', useDark:'Use dark mode', useLight:'Use light mode', previousPhoto:'Previous photo', nextPhoto:'Next photo', zoomIn:'Zoom in', zoomOut:'Zoom out', openFullscreen:'Open fullscreen', exitFullscreen:'Exit fullscreen' },
-    ar: { howTo:'طريقة اللعب', eyebrow:'سيارات ودراجات نارية · المغرب', heroTitle:'كم يبلغ سعر<br /><em>هذه المركبة؟</em>', heroTitleCars:'كم يبلغ سعر<br /><em>هذه السيارة؟</em>', heroTitleBikes:'كم يبلغ سعر<br /><em>هذه الدراجة النارية؟</em>', modeLabel:'نوع المركبات', modeCars:'سيارات', modeBikes:'دراجات نارية', intro:'خمس إعلانات وتفاصيلها الكاملة من دون أي تلميح للسعر. قدّر السعر المعروض بالدرهم.', durationLabel:'الوقت الأقصى لكل تخمين', oneMinute:'دقيقة واحدة', twoMinutes:'دقيقتان', fiveMinutes:'5 دقائق', tenMinutes:'10 دقائق', thirtyMinutes:'30 دقيقة (الحد الأقصى)', durationNote:'الوقت لا يتجاوز 30 دقيقة لكل إعلان.', start:'ابدأ 5 جولات <span>→</span>', startCars:'ابدأ 5 جولات سيارات <span>→</span>', startBikes:'ابدأ 5 جولات دراجات نارية <span>→</span>', priceHidden:'السعر مخفي', summaryHeading:'ملخص الإعلان', featuresHeading:'المواصفات', optionsHeading:'التجهيزات والخيارات', yourGuess:'تخمينك', submit:'إرسال <span>→</span>', quickIncrements:'إضافة سريعة:', clearInput:'مسح', result:'النتيجة', listedPrice:'السعر المعروض', difference:'الفارق', points:'النقاط', viewSource:'عرض الإعلان المصدر ↗', gameOver:'انتهت اللعبة', finalTitle:'لديك عين خبيرة.', outOfFive:'نقطة من أصل 5,000', playAgain:'العب مجددًا <span>↻</span>', rules:'القواعد', rulesTitle:'خمسة أسعار لتخمينها.', rulesCopy1:'في كل إعلان، تفحّص المركبة وتفاصيلها وكل خيار فيها. أدخل السعر الذي تعتقد أنه معروض. كلما اقتربت، ربحت نقاطًا أكثر.', rulesCopy2:'يبدأ مؤقت مع كل جولة ولا يمكن أن يتجاوز 30 دقيقة.', ready:'جاهز للعب', round:'الجولة {n} من 5', roundCars:'سيارات · الجولة {n} من 5', roundBikes:'دراجات نارية · الجولة {n} من 5', complete:'انتهت اللعبة', vehicle:'إعلان مركبة', car:'إعلان سيارة', bike:'إعلان دراجة نارية', invalidGuess:'أدخل سعرًا صحيحًا بالدرهم.', failedGuess:'تعذّر التحقق من التخمين. حاول مرة أخرى.', loading:'جارٍ تحميل الإعلانات…', liveData:'إعلانات موثقة — يظهر السعر بعد كل تخمين.', previewData:'وضع المعاينة — أضف أسرار Cloudflare لتحميل إعلاناتك المصرح بها.', insufficient:'يلزم خمسة إعلانات صالحة على الأقل للعب.', preparing:'جارٍ التحضير…', next:'الجولة التالية ←', finalNext:'عرض نتيجتي النهائية ←', timeUp:'انتهى الوقت', expired:'انتهى الوقت — تم كشف السعر، لكن هذه الجولة لا تمنح نقاطًا.', excellent:'مذهل: كان تخمينك قريبًا جدًا.', great:'حدس رائع — أنت ضمن النطاق الصحيح.', okay:'ليس سيئًا. تفاصيل المركبة أحدثت الفرق.', tough:'كانت هذه صعبة. كل الجولات مهمة.', noOptions:'لا توجد خيارات مذكورة', timeRemaining:'الوقت المتبقي', switchLanguage:'التبديل إلى الإنجليزية', useDark:'استخدم الوضع الداكن', useLight:'استخدم الوضع الفاتح', previousPhoto:'الصورة السابقة', nextPhoto:'الصورة التالية', zoomIn:'تكبير الصورة', zoomOut:'تصغير الصورة', openFullscreen:'فتح ملء الشاشة', exitFullscreen:'الخروج من ملء الشاشة' }
+    en: { howTo:'How to play', eyebrow:'Cars & motorbikes · Morocco', heroTitle:'What’s the price<br /><em>of this vehicle?</em>', heroTitleCars:'What’s the price<br /><em>of this car?</em>', heroTitleBikes:'What’s the price<br /><em>of this motorbike?</em>', modeLabel:'Vehicle category', modeCars:'Cars', modeBikes:'Motorbikes', intro:'Five listings, their full details, and zero price clues. Estimate the listed price in dirhams.', durationLabel:'Maximum time per guess', tenMinutes:'10 minutes', thirtyMinutes:'30 minutes', fiftyMinutes:'50 minutes (maximum)', durationNote:'Time is capped at 50 minutes for every listing.', start:'Start 5 rounds <span>→</span>', startCars:'Start 5 Car rounds <span>→</span>', startBikes:'Start 5 Motorbike rounds <span>→</span>', priceHidden:'Price hidden', summaryHeading:'Listing summary', featuresHeading:'Features', optionsHeading:'Equipment & options', yourGuess:'Your guess', submit:'Submit <span>→</span>', quickIncrements:'Quick add:', clearInput:'Reset', result:'Result', listedPrice:'Listed price', difference:'Difference', points:'Points', viewSource:'View source listing ↗', gameOver:'Game complete', finalTitle:'You’ve got an eye for it.', outOfFive:'points out of 5,000', playAgain:'Play again <span>↻</span>', rules:'Rules', rulesTitle:'Five prices to estimate.', rulesCopy1:'For every listing, study the vehicle, its details, and every option. Enter the price you think is listed. The closer you are, the more points you earn.', rulesCopy2:'A timer begins each round and can never be longer than 50 minutes.', rulesCopy3:'At the end, save your name to the Leaderboard and see how your eye for car prices ranks!', ready:'Ready to play', round:'Round {n} of 5', roundCars:'Cars · Round {n} of 5', roundBikes:'Motorbikes · Round {n} of 5', complete:'Game complete', vehicle:'Vehicle listing', car:'Car listing', bike:'Motorbike listing', invalidGuess:'Enter a valid price in MAD.', failedGuess:'We could not validate that guess. Please try again.', loading:'Loading listings…', liveData:'Verified listings — prices reveal after each guess.', previewData:'Preview mode — add the Cloudflare secrets to load your authorized listings.', insufficient:'At least five valid listings are needed to play.', preparing:'Preparing…', next:'Next round →', finalNext:'See my final score →', timeUp:'Time is up', expired:'Time is up — the price is revealed, but this round earns no points.', excellent:'Impressive: your estimate was extremely close.', great:'Great instinct — you are in the right range.', okay:'Not bad. The vehicle details made the difference.', tough:'That one was difficult. Every round counts.', noOptions:'No options listed', timeRemaining:'Time remaining', switchLanguage:'Switch to Arabic', useDark:'Use dark mode', useLight:'Use light mode', soundOn:'Sound effects enabled', soundOff:'Sound effects muted', previousPhoto:'Previous photo', nextPhoto:'Next photo', zoomIn:'Zoom in', zoomOut:'Zoom out', openFullscreen:'Open fullscreen', exitFullscreen:'Exit fullscreen', closenessKicker:'Accuracy', closeToPrice:'close to actual price', closenessCol:'Closeness', saveScoreTitle:'Save your score to the Leaderboard', saveScoreHint:'Compete against other players across Morocco.', saveScoreBtn:'Save score <span>→</span>', savingScore:'Saving…', savedScore:'✓ Score Saved', scoreRanked:'🎉 Ranked #{rank}! Your score is on the leaderboard.', alreadySaved:'Your score has already been saved.', nameRequired:'Please enter your name or nickname.', saveFailed:'Could not save score. Please try again.', topScorers:'Top Scorers', loadingLb:'Loading leaderboard…', emptyLb:'No scores yet. Be the first!', leaderboardBtn:'Leaderboard', leaderboardTitle:'Top Scorers', leaderboardEyebrow:'Hall of Fame', playerNamePlaceholder:'Enter your name / nickname', bullseye:'Bullseye! Extremely close to the price.', almostExact:'Excellent! Very close to listed price.', solidGuess:'Solid guess — within the right range.', fairEstimate:'Fair estimate, but options made the difference.', wayOff:'Far from listed price — this one was tricky.' },
+    ar: { howTo:'كيفاش تلعب', eyebrow:'سيارات ودراجات نارية · المغرب', heroTitle:'كم يبلغ سعر<br /><em>هذه المركبة؟</em>', heroTitleCars:'كم يبلغ سعر<br /><em>هذه السيارة؟</em>', heroTitleBikes:'كم يبلغ سعر<br /><em>هذه الدراجة النارية؟</em>', modeLabel:'نوع المركبات', modeCars:'سيارات', modeBikes:'دراجات نارية', intro:'خمس إعلانات وتفاصيلها الكاملة من دون أي تلميح للسعر. قدّر السعر المعروض بالدرهم.', durationLabel:'الوقت الأقصى لكل تخمين', tenMinutes:'10 دقائق', thirtyMinutes:'30 دقيقة', fiftyMinutes:'50 دقيقة (الحد الأقصى)', durationNote:'الوقت لا يتجاوز 50 دقيقة لكل إعلان.', start:'ابدأ 5 جولات <span>→</span>', startCars:'ابدأ 5 جولات سيارات <span>→</span>', startBikes:'ابدأ 5 جولات دراجات نارية <span>→</span>', priceHidden:'السعر مخفي', summaryHeading:'ملخص الإعلان', featuresHeading:'المواصفات', optionsHeading:'التجهيزات والخيارات', yourGuess:'تخمينك', submit:'إرسال <span>→</span>', quickIncrements:'إضافة سريعة:', clearInput:'مسح', result:'النتيجة', listedPrice:'السعر المعروض', difference:'الفارق', points:'النقاط', viewSource:'عرض الإعلان المصدر ↗', gameOver:'انتهت اللعبة', finalTitle:'لديك عين خبيرة.', outOfFive:'نقطة من أصل 5,000', playAgain:'العب مجددًا <span>↻</span>', rules:'قواعد اللعبة', rulesTitle:'5 د الهميزات خاصك تجيب ثمنهم', rulesCopy1:'في كل جولة، شوف التصاور وتفاصيل الحديد والمواصفات مزيان. حط الثمن لي كيبان ليك معروض فالإعلان بالدرهم. كلما كنتي قريب للثمن الحقيقي، كلما ضربتي نقط كثر (حتى لـ 1,000 نقطة فكل جولة).', rulesCopy2:'كاين وقت محدد لكل جولة، وما كيفوتش 50 دقيقة كحد أقصى. زرب قبل ما يسالي العداد!', rulesCopy3:'في اللخر، سجّل سميتك فـ الليدربورد وتنافس مع الدراري شكون عندو العين الميزان!', ready:'جاهز للعب', round:'الجولة {n} من 5', roundCars:'سيارات · الجولة {n} من 5', roundBikes:'دراجات نارية · الجولة {n} من 5', complete:'انتهت اللعبة', vehicle:'إعلان مركبة', car:'إعلان سيارة', bike:'إعلان دراجة نارية', invalidGuess:'أدخل سعرًا صحيحًا بالدرهم.', failedGuess:'تعذّر التحقق من التخمين. حاول مرة أخرى.', loading:'جارٍ تحميل الإعلانات…', liveData:'إعلانات موثقة — يظهر السعر بعد كل تخمين.', previewData:'وضع المعاينة — أضف أسرار Cloudflare لتحميل إعلاناتك المصرح بها.', insufficient:'يلزم خمسة إعلانات صالحة على الأقل للعب.', preparing:'جارٍ التحضير…', next:'الجولة التالية ←', finalNext:'عرض نتيجتي النهائية ←', timeUp:'انتهى الوقت', expired:'انتهى الوقت — تم كشف السعر، لكن هذه الجولة لا تمنح نقاطًا.', excellent:'مذهل: كان تخمينك قريبًا جدًا.', great:'حدس رائع — أنت ضمن النطاق الصحيح.', okay:'ليس سيئًا. تفاصيل المركبة أحدثت الفرق.', tough:'كانت هذه صعبة. كل الجولات مهمة.', noOptions:'لا توجد خيارات مذكورة', timeRemaining:'الوقت المتبقي', switchLanguage:'التبديل إلى الإنجليزية', useDark:'استخدم الوضع الداكن', useLight:'استخدم الوضع الفاتح', soundOn:'المؤثرات الصوتية مفعلة', soundOff:'المؤثرات الصوتية مكتومة', previousPhoto:'الصورة السابقة', nextPhoto:'الصورة التالية', zoomIn:'تكبير الصورة', zoomOut:'تصغير الصورة', openFullscreen:'فتح ملء الشاشة', exitFullscreen:'الخروج من ملء الشاشة', closenessKicker:'نسبة الدقة', closeToPrice:'قريب للثمن الحقيقي', closenessCol:'التقارب', saveScoreTitle:'سجّل سكور ديالك فـ الليدربورد', saveScoreHint:'تنافس مع الحرايفية والدراري من كاع المدن المغربية.', saveScoreBtn:'سجّل السكور <span>←</span>', savingScore:'جارٍ التسجيل…', savedScore:'✓ مسجّل', scoreRanked:'🎉 الرتبة ديالك هي #{rank}! السكور ديالك تسجل فـ الليدربورد.', alreadySaved:'السكور ديالك راه مسجل من قبل.', nameRequired:'عفاك كتب سميتك أو اللقب ديالك.', saveFailed:'تعذّر تسجيل السكور. حاول مرة أخرى.', topScorers:'أحسن السكورات', loadingLb:'جارٍ تحميل الليدربورد…', emptyLb:'ما كاين حتى سكور باقي. كون اللول!', leaderboardBtn:'المتصدرين', leaderboardTitle:'لوحة المتصدرين', leaderboardEyebrow:'الحرايفية الكبار', playerNamePlaceholder:'كتب سميتك أو اللقب ديالك', bullseye:'جيبتيها لاصقة! قريب بزاف من الثمن.', almostExact:'عينك ميزانك! قريب بزاف للثمن المعروض.', solidGuess:'تقريب مزيان — راك فالنطاق الصحيح.', fairEstimate:'ماشي بعيد، ولكن التجهيزات دارت الفرق.', wayOff:'بعيد على الثمن — هاد الهمزة كانت قاصحة.' }
   };
-  const state = { listings: [], current: 0, results: [], deadline: 0, duration: 120, timer: null, live: false, submitting: false, imageIndex: 0, mode: localStorage.getItem('rwida-mode') === 'motorbikes' ? 'motorbikes' : 'cars', language: localStorage.getItem('rwida-language') || 'en', theme: localStorage.getItem('rwida-theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') };
+  const state = { listings: [], current: 0, results: [], deadline: 0, duration: 600, timer: null, live: false, submitting: false, imageIndex: 0, mode: localStorage.getItem('rwida-mode') === 'motorbikes' ? 'motorbikes' : 'cars', language: localStorage.getItem('rwida-language') || 'en', theme: localStorage.getItem('rwida-theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'), leaderboard: [], savedThisGame: false, playerName: localStorage.getItem('rwida-player-name') || '', soundEnabled: localStorage.getItem('rwida-sound') !== 'off' };
   const t = (key, replacements = {}) => Object.entries(replacements).reduce((text, [name, value]) => text.replace(`{${name}}`, value), copy[state.language][key] || key);
   const localized = (value) => value && typeof value === 'object' && !Array.isArray(value) ? (value[state.language] || value.en || value.ar || '') : (value ?? '');
   const money = (value) => {
@@ -26,6 +33,112 @@
   };
   const formatSeconds = (seconds) => `${String(Math.floor(seconds / 60)).padStart(2, '0')}:${String(seconds % 60).padStart(2, '0')}`;
   const escape = (value) => String(value).replace(/[&<>'"]/g, (char) => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', "'":'&#39;', '"':'&quot;' })[char]);
+
+  const Sound = (() => {
+    let ctx = null;
+
+    function getAudioContext() {
+      if (!ctx && typeof window !== 'undefined' && (window.AudioContext || window.webkitAudioContext)) {
+        const AudioCtx = window.AudioContext || window.webkitAudioContext;
+        ctx = new AudioCtx();
+      }
+      if (ctx && ctx.state === 'suspended') {
+        ctx.resume().catch(() => {});
+      }
+      return ctx;
+    }
+
+    function playTone(freq, duration, type = 'sine', delay = 0, peakGain = 0.18) {
+      if (!state.soundEnabled) return;
+      const audio = getAudioContext();
+      if (!audio) return;
+      try {
+        const start = audio.currentTime + delay;
+        const osc = audio.createOscillator();
+        const gain = audio.createGain();
+        osc.type = type;
+        osc.frequency.setValueAtTime(freq, start);
+
+        gain.gain.setValueAtTime(0.0001, start);
+        gain.gain.exponentialRampToValueAtTime(peakGain, start + 0.02);
+        gain.gain.exponentialRampToValueAtTime(0.0001, start + duration);
+
+        osc.connect(gain);
+        gain.connect(audio.destination);
+
+        osc.start(start);
+        osc.stop(start + duration + 0.05);
+      } catch (_) {}
+    }
+
+    return {
+      warmup() {
+        getAudioContext();
+      },
+      playTestChime() {
+        if (!state.soundEnabled) return;
+        playTone(523.25, 0.15, 'triangle', 0, 0.16);
+        playTone(659.25, 0.22, 'triangle', 0.1, 0.18);
+      },
+      playGuessResult(score, timedOut) {
+        if (!state.soundEnabled) return;
+        const audio = getAudioContext();
+        if (!audio) return;
+
+        if (timedOut || score < 300) {
+          // Low score or timeout: descending low tone (subtle "tough" cue)
+          playTone(349.23, 0.18, 'triangle', 0.0, 0.14); // F4
+          playTone(293.66, 0.18, 'triangle', 0.12, 0.14); // D4
+          playTone(220.00, 0.32, 'sine', 0.24, 0.15); // A3
+        } else if (score < 600) {
+          // Fair score (300-599): warm, pleasant two-tone cue
+          playTone(392.00, 0.18, 'sine', 0.0, 0.15); // G4
+          playTone(523.25, 0.28, 'triangle', 0.12, 0.16); // C5
+        } else if (score < 850) {
+          // Great score (600-849): bright ascending major triad
+          playTone(440.00, 0.16, 'triangle', 0.0, 0.16); // A4
+          playTone(554.37, 0.16, 'triangle', 0.09, 0.18); // C#5
+          playTone(659.25, 0.32, 'triangle', 0.18, 0.20); // E5
+        } else {
+          // Bullseye / Superb (850-1000): triumphant glittering fanfare
+          playTone(523.25, 0.16, 'triangle', 0.0, 0.18); // C5
+          playTone(659.25, 0.16, 'triangle', 0.08, 0.20); // E5
+          playTone(783.99, 0.18, 'triangle', 0.16, 0.22); // G5
+          playTone(1046.50, 0.45, 'triangle', 0.24, 0.25); // C6
+          playTone(1318.51, 0.40, 'sine', 0.32, 0.14); // E6 sparkle
+        }
+      },
+      playFinalResults(totalScore) {
+        if (!state.soundEnabled) return;
+        const audio = getAudioContext();
+        if (!audio) return;
+
+        if (totalScore >= 3800) {
+          // High master score: Grand celebratory victory fanfare
+          playTone(523.25, 0.12, 'triangle', 0.0, 0.18); // C5
+          playTone(523.25, 0.12, 'triangle', 0.11, 0.18); // C5
+          playTone(523.25, 0.12, 'triangle', 0.22, 0.18); // C5
+          playTone(659.25, 0.25, 'triangle', 0.33, 0.22); // E5
+          playTone(523.25, 0.12, 'triangle', 0.55, 0.18); // C5
+          playTone(659.25, 0.18, 'triangle', 0.67, 0.22); // E5
+          playTone(783.99, 0.22, 'triangle', 0.82, 0.24); // G5
+          playTone(1046.50, 0.65, 'triangle', 1.00, 0.28); // C6
+          playTone(1318.51, 0.50, 'sine', 1.05, 0.16); // E6 sparkle
+        } else if (totalScore >= 2000) {
+          // Good game completion: Upbeat completion jingle
+          playTone(392.00, 0.16, 'triangle', 0.0, 0.16); // G4
+          playTone(493.88, 0.16, 'triangle', 0.12, 0.17); // B4
+          playTone(587.33, 0.18, 'triangle', 0.24, 0.19); // D5
+          playTone(783.99, 0.45, 'triangle', 0.38, 0.22); // G5
+        } else {
+          // Standard completion: Gentle pleasant 3-tone chime
+          playTone(349.23, 0.20, 'sine', 0.0, 0.15); // F4
+          playTone(440.00, 0.20, 'sine', 0.15, 0.16); // A4
+          playTone(523.25, 0.40, 'sine', 0.30, 0.18); // C5
+        }
+      }
+    };
+  })();
 
   function selectFive(items) {
     return [...items].sort(() => Math.random() - .5).slice(0, 5);
@@ -42,12 +155,23 @@
     document.querySelectorAll('[data-i18n]').forEach((element) => { element.textContent = t(element.dataset.i18n); });
     document.querySelectorAll('[data-i18n-html]').forEach((element) => { element.innerHTML = t(element.dataset.i18nHtml); });
     ui.guess.placeholder = state.language === 'ar' ? 'مثال: \u2066185,000\u2069' : 'e.g. 185,000';
+    if (ui.playerName) {
+      ui.playerName.placeholder = t('playerNamePlaceholder');
+      if (state.playerName && !ui.playerName.value) {
+        ui.playerName.value = state.playerName;
+      }
+    }
     const currencyLabel = $('currency-label');
     if (currencyLabel) currencyLabel.textContent = state.language === 'ar' ? 'درهم' : 'MAD';
     $('language-toggle').textContent = state.language === 'en' ? 'العربية' : 'English';
     $('language-toggle').setAttribute('aria-label', t('switchLanguage'));
     $('theme-toggle').innerHTML = `<span aria-hidden="true">${state.theme === 'dark' ? '☀' : '☾'}</span>`;
     $('theme-toggle').setAttribute('aria-label', t(state.theme === 'dark' ? 'useLight' : 'useDark'));
+    if (ui.soundIcon) ui.soundIcon.textContent = state.soundEnabled ? '🔊' : '🔇';
+    if (ui.soundToggle) {
+      ui.soundToggle.setAttribute('aria-label', t(state.soundEnabled ? 'soundOn' : 'soundOff'));
+      ui.soundToggle.setAttribute('title', t(state.soundEnabled ? 'soundOn' : 'soundOff'));
+    }
     ui.timer.setAttribute('aria-label', t('timeRemaining'));
     ui.previousImage.setAttribute('aria-label', t('previousPhoto')); ui.nextImage.setAttribute('aria-label', t('nextPhoto'));
     ui.zoomImage.setAttribute('aria-label', t(ui.visual.classList.contains('is-zoomed') ? 'zoomOut' : 'zoomIn'));
@@ -185,6 +309,15 @@
     if (result.score >= 400) return t('okay');
     return t('tough');
   }
+  function calculateCloseness(guess, actualPrice, timedOut) {
+    if (timedOut || guess === null || !actualPrice || actualPrice <= 0) return 0;
+    const diff = Math.abs(guess - actualPrice);
+    const ratio = diff / actualPrice;
+    if (ratio >= 1) return 0;
+    const pct = (1 - ratio) * 100;
+    return Math.max(0, Math.min(100, Math.round(pct * 10) / 10));
+  }
+
   function showResult(item, result) {
     const guessText = result.timedOut ? t('timeUp') : money(result.guess);
     state.results.push({ title: item.title, score: result.score, actual: result.actualPrice, guess: result.guess });
@@ -194,18 +327,190 @@
     ui.difference.textContent = result.difference === null ? '—' : money(result.difference);
     ui.score.innerHTML = `<span dir="ltr"><bdi>${result.score}</bdi> / 1 000</span>`;
     ui.message.textContent = scoreCopy(result);
+
+    // Calculate and stress the closeness percentage
+    const closeness = calculateCloseness(result.guess, result.actualPrice, result.timedOut);
+    const formattedPct = `${closeness.toFixed(1)}%`;
+    if (ui.closenessPct) ui.closenessPct.textContent = formattedPct;
+    if (ui.closenessCell) ui.closenessCell.textContent = result.timedOut ? '0%' : formattedPct;
+    if (ui.closenessFill) ui.closenessFill.style.width = `${closeness}%`;
+
+    if (ui.closenessBadge) {
+      ui.closenessBadge.className = 'closeness-badge';
+      let tier = 'is-low';
+      let verdict = t('wayOff');
+      if (result.timedOut) {
+        tier = 'is-low';
+        verdict = t('timeUp');
+      } else if (closeness >= 95) {
+        tier = 'is-superb';
+        verdict = t('bullseye');
+      } else if (closeness >= 80) {
+        tier = 'is-great';
+        verdict = t('almostExact');
+      } else if (closeness >= 55) {
+        tier = 'is-good';
+        verdict = t('solidGuess');
+      } else if (closeness >= 30) {
+        tier = 'is-fair';
+        verdict = t('fairEstimate');
+      }
+      ui.closenessBadge.classList.add(tier);
+      if (ui.closenessCell) ui.closenessCell.className = tier;
+      if (ui.closenessFill) ui.closenessFill.className = `closeness-fill ${tier}`;
+      if (ui.closenessLabel) ui.closenessLabel.textContent = `${verdict} (${formattedPct} ${t('closeToPrice')})`;
+    }
+
     ui.source.classList.toggle('hidden', !item.sourceUrl);
     if (item.sourceUrl) ui.source.href = item.sourceUrl;
     ui.next.textContent = state.current === 4 ? t('finalNext') : t('next');
     setScreen('result');
+    Sound.playGuessResult(result.score, result.timedOut);
   }
   function nextRound() { state.current += 1; startRound(); }
+
+  async function fetchLeaderboard() {
+    try {
+      const res = await fetch('/api/leaderboard', { cache: 'no-store' });
+      if (!res.ok) throw new Error('API error');
+      const data = await res.json();
+      if (Array.isArray(data.leaderboard)) {
+        state.leaderboard = data.leaderboard;
+        renderLeaderboard();
+        return;
+      }
+    } catch (_) {}
+
+    // Fallback direct read from JSONbin if local endpoint has transient issue
+    try {
+      const binRes = await fetch('https://api.jsonbin.io/v3/b/6aa05769ac6210605ab4d5b9/latest', {
+        headers: { 'X-Master-Key': '$2a$10$3xI2W00BsiGhjbq2yCC4jeq6sj7TqNA3I1lGa2AAfthmUjM5M.r7q' }
+      });
+      if (binRes.ok) {
+        const payload = await binRes.json();
+        if (Array.isArray(payload.record)) {
+          state.leaderboard = payload.record.map((r, i) => ({
+            rank: i + 1,
+            name: Array.isArray(r) ? r[0] : (r.name || 'Anonymous'),
+            score: Array.isArray(r) ? Number(r[1]) : (Number(r.score) || 0),
+            mode: Array.isArray(r) ? (r[2] || 'cars') : (r.mode || 'cars')
+          })).sort((a, b) => b.score - a.score).map((r, i) => ({ ...r, rank: i + 1 }));
+          renderLeaderboard();
+          return;
+        }
+      }
+    } catch (e) {}
+
+    renderLeaderboard();
+  }
+
+  function renderLeaderboard() {
+    const list = state.leaderboard || [];
+    const total = state.results.reduce((sum, r) => sum + (r.score || 0), 0);
+    const html = list.length
+      ? list.map((item) => {
+          let medal = '';
+          if (item.rank === 1) medal = '🥇';
+          else if (item.rank === 2) medal = '🥈';
+          else if (item.rank === 3) medal = '🥉';
+          const isMe = state.savedThisGame && item.name === state.playerName && item.score === total;
+          const formattedScore = new Intl.NumberFormat(state.language === 'ar' ? 'fr-MA' : 'en-US').format(item.score);
+          const modeIcon = item.mode === 'motorbikes' ? '🏍️' : '🚗';
+          return `<li class="lb-row ${isMe ? 'is-me' : ''} ${item.rank <= 3 ? 'is-podium' : ''}">
+            <span class="lb-rank">${medal || `#${item.rank}`}</span>
+            <span class="lb-name" title="${escape(item.name)}">
+              <span class="lb-mode" title="${item.mode === 'motorbikes' ? 'Motorbikes' : 'Cars'}">${modeIcon}</span>
+              <bdi class="lb-name-text">${escape(item.name)}</bdi>
+            </span>
+            <span class="lb-score" dir="ltr"><bdi>${formattedScore}</bdi> <small>pts</small></span>
+          </li>`;
+        }).join('')
+      : `<li class="lb-empty">${t('emptyLb')}</li>`;
+
+    if (ui.finalLeaderboardList) ui.finalLeaderboardList.innerHTML = html;
+    if (ui.dialogLeaderboardList) ui.dialogLeaderboardList.innerHTML = html;
+  }
+
+  function showLeaderboardFeedback(msg, type = 'info') {
+    if (!ui.leaderboardFeedback) return;
+    ui.leaderboardFeedback.textContent = msg;
+    ui.leaderboardFeedback.className = `leaderboard-feedback ${type}`;
+  }
+
+  async function handleScoreSubmit(e) {
+    if (e) e.preventDefault();
+    if (state.savedThisGame) {
+      showLeaderboardFeedback(t('alreadySaved'), 'info');
+      return;
+    }
+    const name = (ui.playerName ? ui.playerName.value : '').trim();
+    if (!name) {
+      showLeaderboardFeedback(t('nameRequired'), 'error');
+      if (ui.playerName) ui.playerName.focus();
+      return;
+    }
+    state.playerName = name;
+    localStorage.setItem('rwida-player-name', name);
+    const total = state.results.reduce((sum, r) => sum + r.score, 0);
+
+    if (ui.saveScoreBtn) {
+      ui.saveScoreBtn.disabled = true;
+      ui.saveScoreBtn.innerHTML = t('savingScore');
+    }
+    try {
+      const res = await fetch('/api/leaderboard', {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({ name, score: total, mode: state.mode })
+      });
+      if (!res.ok) throw new Error('Failed to save score');
+      const data = await res.json();
+      state.savedThisGame = true;
+      if (Array.isArray(data.leaderboard)) {
+        state.leaderboard = data.leaderboard;
+      }
+      if (ui.saveScoreBtn) {
+        ui.saveScoreBtn.innerHTML = t('savedScore');
+        ui.saveScoreBtn.classList.add('is-saved');
+      }
+      if (ui.playerName) ui.playerName.disabled = true;
+      const rank = data.rank || (state.leaderboard.findIndex((x) => x.name === name && x.score === total) + 1);
+      showLeaderboardFeedback(t('scoreRanked', { rank: rank || '—' }), 'success');
+      renderLeaderboard();
+    } catch (err) {
+      if (ui.saveScoreBtn) {
+        ui.saveScoreBtn.disabled = false;
+        ui.saveScoreBtn.innerHTML = t('saveScoreBtn');
+      }
+      showLeaderboardFeedback(t('saveFailed'), 'error');
+    }
+  }
+
   function finishGame() {
     window.clearInterval(state.timer); renderDots();
     const total = state.results.reduce((sum, result) => sum + result.score, 0);
     ui.total.textContent = new Intl.NumberFormat(state.language === 'ar' ? 'fr-MA' : 'en-US').format(total);
     ui.breakdown.innerHTML = state.results.map((result, index) => `<div dir="ltr"><small>${state.language === 'ar' ? 'ج' : 'R'}${index + 1}</small><br><bdi>${result.score}</bdi></div>`).join('');
+
+    // Reset leaderboard submission form state for new game completion
+    state.savedThisGame = false;
+    if (ui.saveScoreBtn) {
+      ui.saveScoreBtn.disabled = false;
+      ui.saveScoreBtn.classList.remove('is-saved');
+      ui.saveScoreBtn.innerHTML = t('saveScoreBtn');
+    }
+    if (ui.playerName) {
+      ui.playerName.disabled = false;
+      if (state.playerName) ui.playerName.value = state.playerName;
+    }
+    if (ui.leaderboardFeedback) {
+      ui.leaderboardFeedback.className = 'leaderboard-feedback hidden';
+      ui.leaderboardFeedback.textContent = '';
+    }
+
     setScreen('final');
+    Sound.playFinalResults(total);
+    fetchLeaderboard();
   }
   function cleanGuess(value) { return Number(String(value).replace(/[^\d]/g, '')); }
   function changeImage(delta) {
@@ -269,7 +574,7 @@
     renderImage(item);
   }
   async function loadGame() {
-    const seconds = Math.min(1800, Math.max(30, Number(ui.duration.value)));
+    const seconds = Math.min(3000, Math.max(30, Number(ui.duration.value) || 600));
     const mode = state.mode || 'cars';
     try {
       const response = await fetch(`/api/game?seconds=${seconds}&mode=${mode}`, { cache: 'no-store' });
@@ -310,16 +615,26 @@
   }
   if (ui.modeCars) ui.modeCars.addEventListener('click', () => setMode('cars'));
   if (ui.modeMotorbikes) ui.modeMotorbikes.addEventListener('click', () => setMode('motorbikes'));
+  if (ui.duration) {
+    ui.duration.addEventListener('change', () => {
+      state.duration = Math.min(3000, Math.max(30, Number(ui.duration.value) || 600));
+    });
+  }
   $('start-game').addEventListener('click', async () => {
+    Sound.warmup();
     $('start-game').disabled = true; $('start-game').textContent = t('preparing');
-    state.duration = Math.min(1800, Math.max(30, Number(ui.duration.value)));
+    state.duration = Math.min(3000, Math.max(30, Number(ui.duration.value) || 600));
     await loadGame();
     $('start-game').disabled = false;
     $('start-game').innerHTML = state.mode === 'motorbikes' ? t('startBikes') : t('startCars');
     if (state.listings.length < 5) { ui.dataNote.textContent = t('insufficient'); return; }
     state.current = 0; state.results = []; startRound();
   });
-  ui.form.addEventListener('submit', (event) => { event.preventDefault(); submitGuess(cleanGuess(ui.guess.value)); });
+  ui.form.addEventListener('submit', (event) => {
+    event.preventDefault();
+    Sound.warmup();
+    submitGuess(cleanGuess(ui.guess.value));
+  });
   document.querySelectorAll('.increment-btn[data-add]').forEach((btn) => {
     btn.addEventListener('click', () => {
       const add = Number(btn.getAttribute('data-add')) || 0;
@@ -353,6 +668,35 @@
   $('play-again').addEventListener('click', () => { setScreen('start'); loadGame(); });
   $('how-to-play').addEventListener('click', () => $('rules-dialog').showModal());
   $('close-rules').addEventListener('click', () => $('rules-dialog').close());
+  $('rules-dialog').addEventListener('click', (e) => {
+    if (e.target === $('rules-dialog')) $('rules-dialog').close();
+  });
+
+  if (ui.leaderboardForm) {
+    ui.leaderboardForm.addEventListener('submit', handleScoreSubmit);
+  }
+  if (ui.leaderboardToggle && ui.leaderboardDialog) {
+    ui.leaderboardToggle.addEventListener('click', () => {
+      fetchLeaderboard();
+      ui.leaderboardDialog.showModal();
+    });
+  }
+  if (ui.closeLeaderboard && ui.leaderboardDialog) {
+    ui.closeLeaderboard.addEventListener('click', () => ui.leaderboardDialog.close());
+  }
+  if (ui.leaderboardDialog) {
+    ui.leaderboardDialog.addEventListener('click', (e) => {
+      if (e.target === ui.leaderboardDialog) ui.leaderboardDialog.close();
+    });
+  }
+  if (ui.finalRefreshLb) {
+    ui.finalRefreshLb.addEventListener('click', () => {
+      ui.finalRefreshLb.classList.add('is-spinning');
+      fetchLeaderboard().finally(() => {
+        setTimeout(() => ui.finalRefreshLb.classList.remove('is-spinning'), 500);
+      });
+    });
+  }
   ui.previousImage.addEventListener('click', () => changeImage(-1));
   ui.nextImage.addEventListener('click', () => changeImage(1));
   ui.zoomImage.addEventListener('click', toggleZoom);
@@ -412,6 +756,15 @@
     state.theme = state.theme === 'dark' ? 'light' : 'dark';
     localStorage.setItem('rwida-theme', state.theme); applyPreferences();
   });
+  if (ui.soundToggle) {
+    ui.soundToggle.addEventListener('click', () => {
+      Sound.warmup();
+      state.soundEnabled = !state.soundEnabled;
+      localStorage.setItem('rwida-sound', state.soundEnabled ? 'on' : 'off');
+      applyPreferences();
+      if (state.soundEnabled) Sound.playTestChime();
+    });
+  }
   applyPreferences();
   loadGame();
 })();
