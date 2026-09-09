@@ -39,7 +39,48 @@
   }
   const state = { listings: [], current: 0, results: [], deadline: 0, duration: 600, timer: null, live: false, submitting: false, imageIndex: 0, mode: localStorage.getItem('rwida-mode') === 'motorbikes' ? 'motorbikes' : 'cars', language: initialLanguage, theme: localStorage.getItem('rwida-theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'), leaderboard: [], savedThisGame: false, playerName: localStorage.getItem('rwida-player-name') || '', soundEnabled: localStorage.getItem('rwida-sound') !== 'off' };
   const t = (key, replacements = {}) => Object.entries(replacements).reduce((text, [name, value]) => text.replace(`{${name}}`, value), copy[state.language][key] || key);
-  const localized = (value) => value && typeof value === 'object' && !Array.isArray(value) ? (value[state.language] || value.en || value.ar || '') : (value ?? '');
+  const localized = (value) => {
+    let res = value && typeof value === 'object' && !Array.isArray(value) ? (value[state.language] || value.en || value.ar || '') : (value ?? '');
+    if (state.language === 'ar' && typeof res === 'string') {
+      if (res === 'يدوي') return 'مانييل';
+      if (res === 'أوتوماتيكي') return 'أوطوماتيك';
+    }
+    return res;
+  };
+  const extractItemYear = (item) => {
+    if (!item) return '';
+    if (item.year && item.year !== 'N/A') return String(item.year);
+    if (Array.isArray(item.features)) {
+      for (const f of item.features) {
+        const lbl = (f.label && (f.label.en || f.label.fr || f.label.ar || f.label.raw)) || '';
+        if (lbl.toLowerCase().includes('year') || lbl.toLowerCase().includes('ann') || lbl.includes('سنة')) {
+          const val = (f.value && (f.value.en || f.value.fr || f.value.ar || f.value.raw)) || f.value;
+          if (val && /\b(19\d\d|20\d\d)\b/.test(String(val))) {
+            return String(val).match(/\b(19\d\d|20\d\d)\b/)[0];
+          }
+        }
+      }
+    }
+    if (Array.isArray(item.quickFacts)) {
+      for (const q of item.quickFacts) {
+        const txt = (q && (q.en || q.ar || q.fr)) || String(q || '');
+        const m = txt.match(/\b(19\d\d|20\d\d)\b/);
+        if (m) return m[0];
+      }
+    }
+    return '';
+  };
+  const formatTitleWithYear = (item, lang = state.language) => {
+    if (!item) return '';
+    const rawTitle = (item.title && typeof item.title === 'object' && !Array.isArray(item.title))
+      ? (item.title[lang] || item.title.en || item.title.ar || '')
+      : String(item.title || '');
+    const yr = extractItemYear(item);
+    if (!yr) return rawTitle;
+    const trimmed = rawTitle.trim();
+    if (new RegExp(`\\b${yr}\\b`).test(trimmed)) return trimmed;
+    return `${trimmed} ${yr}`;
+  };
   const money = (value) => {
     const rounded = Math.round(Number(value) || 0);
     const formatted = new Intl.NumberFormat(state.language === 'ar' ? 'fr-MA' : 'en-US').format(rounded);
@@ -250,7 +291,7 @@
     state.imageIndex = ((state.imageIndex % images.length) + images.length) % images.length;
     ui.image.loading = 'eager';
     ui.image.decoding = 'async';
-    ui.image.src = images[state.imageIndex]; ui.image.alt = localized(item.title);
+    ui.image.src = images[state.imageIndex]; ui.image.alt = formatTitleWithYear(item);
     ui.image.classList.remove('hidden'); ui.fallback.classList.add('hidden'); ui.imageActions.classList.remove('hidden');
     ui.gallery.classList.toggle('hidden', images.length < 2);
     ui.imageCount.textContent = `${state.imageIndex + 1} / ${images.length}`;
@@ -261,7 +302,7 @@
     }
   }
   function renderListing(item) {
-    ui.title.textContent = localized(item.title);
+    ui.title.textContent = formatTitleWithYear(item);
     const isBike = item.kind === 'Moto' || item.kind === 'Motorbike';
     ui.kind.textContent = isBike ? t('bike') : t('car');
     ui.facts.innerHTML = (item.quickFacts || []).map((fact) => `<span dir="auto"><bdi>${escape(localized(fact))}</bdi></span>`).join('');
@@ -276,7 +317,7 @@
         .replace(/\s+/g, ' ')
         .trim();
     }
-    ui.summary.textContent = summaryText || localized(item.title) || '';
+    ui.summary.textContent = summaryText || formatTitleWithYear(item) || '';
     ui.summary.setAttribute('dir', state.language === 'ar' ? 'rtl' : 'ltr');
     let featureEntries = Array.isArray(item.features) ? item.features.map((feature) => [feature.label, feature.value]) : Object.entries(item.features || {});
     
@@ -407,8 +448,9 @@
 
   function showResult(item, result) {
     const guessText = result.timedOut ? t('timeUp') : money(result.guess);
-    state.results.push({ title: item.title, score: result.score, actual: result.actualPrice, guess: result.guess });
-    ui.resultTitle.textContent = localized(item.title);
+    const displayTitle = formatTitleWithYear(item);
+    state.results.push({ title: displayTitle, score: result.score, actual: result.actualPrice, guess: result.guess });
+    ui.resultTitle.textContent = displayTitle;
     ui.actual.textContent = money(result.actualPrice);
     ui.guessed.textContent = guessText;
     ui.difference.textContent = result.difference === null ? '—' : money(result.difference);
@@ -650,7 +692,7 @@
     ui.lightboxImage.loading = 'eager';
     ui.lightboxImage.decoding = 'async';
     ui.lightboxImage.src = images[state.imageIndex];
-    ui.lightboxImage.alt = localized(item.title);
+    ui.lightboxImage.alt = formatTitleWithYear(item);
     ui.lightboxCount.textContent = `${state.imageIndex + 1} / ${images.length}`;
     ui.lightboxPrev.disabled = images.length < 2;
     ui.lightboxNext.disabled = images.length < 2;

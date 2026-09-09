@@ -39,8 +39,8 @@ export const terms = {
   'Electrique': { en: 'Electric', ar: 'كهربائي' },
 
   // Transmissions
-  'Automatique': { en: 'Automatic', ar: 'أوتوماتيكي' },
-  'Manuelle': { en: 'Manual', ar: 'يدوي' },
+  'Automatique': { en: 'Automatic', ar: 'أوطوماتيك' },
+  'Manuelle': { en: 'Manual', ar: 'مانييل' },
 
   // Conditions
   'Pas d’accident': { en: 'No accidents', ar: 'دون حوادث' },

@@ -7,8 +7,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-656399",
     "kind": "Car",
     "title": {
-      "en": "Audi Q3",
-      "ar": "Audi Q3"
+      "en": "Audi Q3 2020",
+      "ar": "Audi Q3 2020"
     },
     "price": 280000,
     "quickFacts": [
@@ -26,7 +26,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -91,7 +91,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -131,7 +131,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -152,8 +152,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-497369",
     "kind": "Car",
     "title": {
-      "en": "Honda Accord",
-      "ar": "Honda Accord"
+      "en": "Honda Accord 2012",
+      "ar": "Honda Accord 2012"
     },
     "price": 98000,
     "quickFacts": [
@@ -171,7 +171,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -236,7 +236,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -276,7 +276,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -370,8 +370,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-645151",
     "kind": "Car",
     "title": {
-      "en": "Ford Kuga",
-      "ar": "Ford Kuga"
+      "en": "Ford Kuga 2021",
+      "ar": "Ford Kuga 2021"
     },
     "price": 238000,
     "quickFacts": [
@@ -389,7 +389,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -454,7 +454,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -494,7 +494,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -586,8 +586,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-652408",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 4",
-      "ar": "BMW Série 4"
+      "en": "BMW Série 4 2023",
+      "ar": "BMW Série 4 2023"
     },
     "price": 500000,
     "quickFacts": [
@@ -605,7 +605,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -670,7 +670,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -710,7 +710,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -781,8 +781,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-508072",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Touareg",
-      "ar": "Volkswagen Touareg"
+      "en": "Volkswagen Touareg 2021",
+      "ar": "Volkswagen Touareg 2021"
     },
     "price": 355000,
     "quickFacts": [
@@ -800,7 +800,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -865,7 +865,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -905,7 +905,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -997,8 +997,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-492813",
     "kind": "Car",
     "title": {
-      "en": "Dacia Sandero",
-      "ar": "Dacia Sandero"
+      "en": "Dacia Sandero 2024",
+      "ar": "Dacia Sandero 2024"
     },
     "price": 145000,
     "quickFacts": [
@@ -1016,7 +1016,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -1081,7 +1081,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -1121,7 +1121,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -1211,8 +1211,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-655377",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2018",
+      "ar": "Volkswagen Tiguan 2018"
     },
     "price": 336000,
     "quickFacts": [
@@ -1230,7 +1230,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -1295,7 +1295,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -1335,7 +1335,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -1424,8 +1424,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-635294",
     "kind": "Car",
     "title": {
-      "en": "Nissan 370 Z",
-      "ar": "Nissan 370 Z"
+      "en": "Nissan 370 Z 2010",
+      "ar": "Nissan 370 Z 2010"
     },
     "price": 265000,
     "quickFacts": [
@@ -1443,7 +1443,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -1508,7 +1508,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -1538,7 +1538,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -1557,8 +1557,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-647467",
     "kind": "Car",
     "title": {
-      "en": "Nissan Qashqai",
-      "ar": "Nissan Qashqai"
+      "en": "Nissan Qashqai 2015",
+      "ar": "Nissan Qashqai 2015"
     },
     "price": 168000,
     "quickFacts": [
@@ -1576,7 +1576,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -1641,7 +1641,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -1681,7 +1681,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -1768,8 +1768,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657394",
     "kind": "Car",
     "title": {
-      "en": "Fiat Grande Punto",
-      "ar": "Fiat Grande Punto"
+      "en": "Fiat Grande Punto 2009",
+      "ar": "Fiat Grande Punto 2009"
     },
     "price": 62000,
     "quickFacts": [
@@ -1787,7 +1787,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -1852,7 +1852,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -1882,7 +1882,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -1903,8 +1903,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-471757",
     "kind": "Moto",
     "title": {
-      "en": "Vespa GTS 310 Super Tech",
-      "ar": "فيسبا GTS 310 سوبر تيك"
+      "en": "Vespa GTS 310 Super Tech 2026",
+      "ar": "فيسبا GTS 310 سوبر تيك 2026"
     },
     "price": 95000,
     "quickFacts": [
@@ -2007,8 +2007,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-452664",
     "kind": "Moto",
     "title": {
-      "en": "HONDA ADV 350 iridium Gris 00 KM",
-      "ar": "HONDA ADV 350 iridium Gris 00 KM"
+      "en": "HONDA ADV 350 iridium Gris 00 KM 2026",
+      "ar": "HONDA ADV 350 iridium Gris 00 KM 2026"
     },
     "price": 85000,
     "quickFacts": [
@@ -2153,8 +2153,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-493177",
     "kind": "Moto",
     "title": {
-      "en": "Harley-Davidson Street Rod 750",
-      "ar": "هارلي ديفيدسون ستريت رود 750"
+      "en": "Harley-Davidson Street Rod 750 2018",
+      "ar": "هارلي ديفيدسون ستريت رود 750 2018"
     },
     "price": 68000,
     "quickFacts": [
@@ -2256,8 +2256,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-457084",
     "kind": "Moto",
     "title": {
-      "en": "Can-Am Spyder RT",
-      "ar": "كان-أم سبايدر RT"
+      "en": "Can-Am Spyder RT 2015",
+      "ar": "كان-أم سبايدر RT 2015"
     },
     "price": 145000,
     "quickFacts": [
@@ -2363,8 +2363,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-621228",
     "kind": "Moto",
     "title": {
-      "en": "Honda goldwing 1800",
-      "ar": "Honda goldwing 1800"
+      "en": "Honda goldwing 1800 2019",
+      "ar": "Honda goldwing 1800 2019"
     },
     "price": 300000,
     "quickFacts": [
@@ -2476,8 +2476,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-492020",
     "kind": "Moto",
     "title": {
-      "en": "Honda X-ADV 750",
-      "ar": "هوندا X-ADV 750"
+      "en": "Honda X-ADV 750 2025",
+      "ar": "هوندا X-ADV 750 2025"
     },
     "price": 165000,
     "quickFacts": [
@@ -2587,8 +2587,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-656779",
     "kind": "Moto",
     "title": {
-      "en": "Voge 500ds",
-      "ar": "Voge 500ds"
+      "en": "Voge 500ds 2023",
+      "ar": "Voge 500ds 2023"
     },
     "price": 65000,
     "quickFacts": [
@@ -2606,7 +2606,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -2681,7 +2681,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -2711,7 +2711,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -2731,8 +2731,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-611386",
     "kind": "Moto",
     "title": {
-      "en": "Vespa GTS 310 SuperSport 0 KM PACK COMPLET",
-      "ar": "Vespa GTS 310 SuperSport 0 KM PACK COMPLET"
+      "en": "Vespa GTS 310 SuperSport 0 KM PACK COMPLET 2026",
+      "ar": "Vespa GTS 310 SuperSport 0 KM PACK COMPLET 2026"
     },
     "price": 105000,
     "quickFacts": [
@@ -2842,8 +2842,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657626",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Accent",
-      "ar": "Hyundai Accent"
+      "en": "Hyundai Accent 2006",
+      "ar": "Hyundai Accent 2006"
     },
     "price": 49000,
     "quickFacts": [
@@ -2861,7 +2861,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -2926,7 +2926,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -2956,7 +2956,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -2995,8 +2995,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657628",
     "kind": "Car",
     "title": {
-      "en": "Opel Crossland",
-      "ar": "Opel Crossland"
+      "en": "Opel Crossland 2021",
+      "ar": "Opel Crossland 2021"
     },
     "price": 140000,
     "quickFacts": [
@@ -3014,7 +3014,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -3079,7 +3079,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -3119,7 +3119,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -3178,8 +3178,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657629",
     "kind": "Car",
     "title": {
-      "en": "Renault Megane",
-      "ar": "Renault Megane"
+      "en": "Renault Megane 2022",
+      "ar": "Renault Megane 2022"
     },
     "price": 193000,
     "quickFacts": [
@@ -3197,7 +3197,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -3262,7 +3262,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -3292,7 +3292,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -3311,8 +3311,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-656214",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen T-Roc",
-      "ar": "Volkswagen T-Roc"
+      "en": "Volkswagen T-Roc 2021",
+      "ar": "Volkswagen T-Roc 2021"
     },
     "price": 249000,
     "quickFacts": [
@@ -3330,7 +3330,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -3395,7 +3395,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -3435,7 +3435,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -3497,8 +3497,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657630",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz 220",
-      "ar": "Mercedes-Benz 220"
+      "en": "Mercedes-Benz 220 2002",
+      "ar": "Mercedes-Benz 220 2002"
     },
     "price": 72000,
     "quickFacts": [
@@ -3516,7 +3516,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -3581,7 +3581,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -3621,7 +3621,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -3674,8 +3674,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657631",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 4",
-      "ar": "Volkswagen Golf 4"
+      "en": "Volkswagen Golf 4 1999",
+      "ar": "Volkswagen Golf 4 1999"
     },
     "price": 70000,
     "quickFacts": [
@@ -3693,7 +3693,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -3758,7 +3758,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -3798,7 +3798,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -3841,8 +3841,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657622",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Accent",
-      "ar": "Hyundai Accent"
+      "en": "Hyundai Accent 2026",
+      "ar": "Hyundai Accent 2026"
     },
     "price": 185000,
     "quickFacts": [
@@ -3860,7 +3860,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -3925,7 +3925,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -3965,7 +3965,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -4044,8 +4044,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657621",
     "kind": "Car",
     "title": {
-      "en": "Renault Clio",
-      "ar": "Renault Clio"
+      "en": "Renault Clio 2009",
+      "ar": "Renault Clio 2009"
     },
     "price": 57000,
     "quickFacts": [
@@ -4063,7 +4063,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -4128,7 +4128,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -4168,7 +4168,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -4203,8 +4203,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-540973",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz EQE",
-      "ar": "Mercedes-Benz EQE"
+      "en": "Mercedes-Benz EQE 2024",
+      "ar": "Mercedes-Benz EQE 2024"
     },
     "price": 700000,
     "quickFacts": [
@@ -4222,7 +4222,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -4287,7 +4287,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -4327,7 +4327,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -4419,8 +4419,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-654513",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Caddy",
-      "ar": "Volkswagen Caddy"
+      "en": "Volkswagen Caddy 2018",
+      "ar": "Volkswagen Caddy 2018"
     },
     "price": 200000,
     "quickFacts": [
@@ -4438,7 +4438,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -4503,7 +4503,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -4543,7 +4543,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -4624,8 +4624,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-638976",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 5",
-      "ar": "BMW Série 5"
+      "en": "BMW Série 5 2010",
+      "ar": "BMW Série 5 2010"
     },
     "price": 140000,
     "quickFacts": [
@@ -4643,7 +4643,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -4708,7 +4708,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -4748,7 +4748,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -4820,8 +4820,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657624",
     "kind": "Car",
     "title": {
-      "en": "Citroën C3",
-      "ar": "Citroën C3"
+      "en": "Citroën C3 2021",
+      "ar": "Citroën C3 2021"
     },
     "price": 140000,
     "quickFacts": [
@@ -4839,7 +4839,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -4904,7 +4904,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -4944,7 +4944,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -4989,8 +4989,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-639412",
     "kind": "Car",
     "title": {
-      "en": "Toyota C-HR",
-      "ar": "Toyota C-HR"
+      "en": "Toyota C-HR 2022",
+      "ar": "Toyota C-HR 2022"
     },
     "price": 226000,
     "quickFacts": [
@@ -5008,7 +5008,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -5073,7 +5073,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -5113,7 +5113,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -5149,8 +5149,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-652688",
     "kind": "Car",
     "title": {
-      "en": "Toyota Prado",
-      "ar": "Toyota Prado"
+      "en": "Toyota Prado 2015",
+      "ar": "Toyota Prado 2015"
     },
     "price": 220000,
     "quickFacts": [
@@ -5168,7 +5168,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -5233,7 +5233,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -5263,7 +5263,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -5284,8 +5284,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-626791",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Sport",
-      "ar": "Land Rover Range Rover Sport"
+      "en": "Land Rover Range Rover Sport 2021",
+      "ar": "Land Rover Range Rover Sport 2021"
     },
     "price": 350000,
     "quickFacts": [
@@ -5303,7 +5303,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -5368,7 +5368,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -5408,7 +5408,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -5500,8 +5500,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657625",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz 220",
-      "ar": "Mercedes-Benz 220"
+      "en": "Mercedes-Benz 220 2009",
+      "ar": "Mercedes-Benz 220 2009"
     },
     "price": 113000,
     "quickFacts": [
@@ -5519,7 +5519,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -5584,7 +5584,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -5624,7 +5624,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -5707,8 +5707,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657614",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Polo",
-      "ar": "Volkswagen Polo"
+      "en": "Volkswagen Polo 1998",
+      "ar": "Volkswagen Polo 1998"
     },
     "price": 30000,
     "quickFacts": [
@@ -5726,7 +5726,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -5791,7 +5791,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -5821,7 +5821,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -5839,8 +5839,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657615",
     "kind": "Car",
     "title": {
-      "en": "BMW X3",
-      "ar": "BMW X3"
+      "en": "BMW X3 2020",
+      "ar": "BMW X3 2020"
     },
     "price": 355000,
     "quickFacts": [
@@ -5858,7 +5858,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -5923,7 +5923,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -5963,7 +5963,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -6055,8 +6055,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-491831",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 5",
-      "ar": "BMW Série 5"
+      "en": "BMW Série 5 2022",
+      "ar": "BMW Série 5 2022"
     },
     "price": 428500,
     "quickFacts": [
@@ -6074,7 +6074,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -6139,7 +6139,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -6179,7 +6179,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -6265,8 +6265,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657617",
     "kind": "Car",
     "title": {
-      "en": "Opel Mokka",
-      "ar": "Opel Mokka"
+      "en": "Opel Mokka 2022",
+      "ar": "Opel Mokka 2022"
     },
     "price": 205000,
     "quickFacts": [
@@ -6284,7 +6284,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -6349,7 +6349,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -6389,7 +6389,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -6443,8 +6443,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657618",
     "kind": "Car",
     "title": {
-      "en": "Seat Ibiza",
-      "ar": "Seat Ibiza"
+      "en": "Seat Ibiza 2015",
+      "ar": "Seat Ibiza 2015"
     },
     "price": 115000,
     "quickFacts": [
@@ -6462,7 +6462,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -6527,7 +6527,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -6567,7 +6567,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -6584,8 +6584,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-655637",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe C",
-      "ar": "Mercedes-Benz Classe C"
+      "en": "Mercedes-Benz Classe C 2016",
+      "ar": "Mercedes-Benz Classe C 2016"
     },
     "price": 340000,
     "quickFacts": [
@@ -6603,7 +6603,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -6668,7 +6668,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -6708,7 +6708,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -6800,8 +6800,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-642122",
     "kind": "Car",
     "title": {
-      "en": "Kia Soul",
-      "ar": "Kia Soul"
+      "en": "Kia Soul 2016",
+      "ar": "Kia Soul 2016"
     },
     "price": 120000,
     "quickFacts": [
@@ -6819,7 +6819,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -6884,7 +6884,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -6924,7 +6924,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -6976,8 +6976,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-650596",
     "kind": "Car",
     "title": {
-      "en": "Audi Q3",
-      "ar": "Audi Q3"
+      "en": "Audi Q3 2024",
+      "ar": "Audi Q3 2024"
     },
     "price": 495000,
     "quickFacts": [
@@ -6995,7 +6995,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -7060,7 +7060,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -7100,7 +7100,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -7184,8 +7184,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657616",
     "kind": "Car",
     "title": {
-      "en": "Citroën C3",
-      "ar": "Citroën C3"
+      "en": "Citroën C3 2020",
+      "ar": "Citroën C3 2020"
     },
     "price": 132000,
     "quickFacts": [
@@ -7203,7 +7203,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -7268,7 +7268,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -7308,7 +7308,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -7385,8 +7385,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-517983",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Sport",
-      "ar": "Land Rover Range Rover Sport"
+      "en": "Land Rover Range Rover Sport 2014",
+      "ar": "Land Rover Range Rover Sport 2014"
     },
     "price": 240000,
     "quickFacts": [
@@ -7404,7 +7404,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -7469,7 +7469,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -7509,7 +7509,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -7594,8 +7594,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657620",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 4",
-      "ar": "Volkswagen Golf 4"
+      "en": "Volkswagen Golf 4 2010",
+      "ar": "Volkswagen Golf 4 2010"
     },
     "price": 880000,
     "quickFacts": [
@@ -7613,7 +7613,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -7678,7 +7678,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -7708,7 +7708,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -7724,8 +7724,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-652653",
     "kind": "Car",
     "title": {
-      "en": "Audi A1",
-      "ar": "Audi A1"
+      "en": "Audi A1 2022",
+      "ar": "Audi A1 2022"
     },
     "price": 215000,
     "quickFacts": [
@@ -7743,7 +7743,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -7808,7 +7808,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -7848,7 +7848,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -7872,8 +7872,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657612",
     "kind": "Car",
     "title": {
-      "en": "Dacia Logan",
-      "ar": "Dacia Logan"
+      "en": "Dacia Logan 2024",
+      "ar": "Dacia Logan 2024"
     },
     "price": 165000,
     "quickFacts": [
@@ -7891,7 +7891,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -7956,7 +7956,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -7996,7 +7996,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -8069,8 +8069,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657613",
     "kind": "Car",
     "title": {
-      "en": "Renault Clio",
-      "ar": "Renault Clio"
+      "en": "Renault Clio 2018",
+      "ar": "Renault Clio 2018"
     },
     "price": 113000,
     "quickFacts": [
@@ -8088,7 +8088,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -8153,7 +8153,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -8193,7 +8193,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -8270,8 +8270,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657607",
     "kind": "Car",
     "title": {
-      "en": "Ford Fiesta",
-      "ar": "Ford Fiesta"
+      "en": "Ford Fiesta 2017",
+      "ar": "Ford Fiesta 2017"
     },
     "price": 92000,
     "quickFacts": [
@@ -8289,7 +8289,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -8354,7 +8354,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -8394,7 +8394,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -8434,8 +8434,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-648622",
     "kind": "Car",
     "title": {
-      "en": "Jeep Grand Cherokee",
-      "ar": "Jeep Grand Cherokee"
+      "en": "Jeep Grand Cherokee 2015",
+      "ar": "Jeep Grand Cherokee 2015"
     },
     "price": 115000,
     "quickFacts": [
@@ -8453,7 +8453,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -8518,7 +8518,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -8558,7 +8558,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -8647,8 +8647,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657608",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz 220",
-      "ar": "Mercedes-Benz 220"
+      "en": "Mercedes-Benz 220 1996",
+      "ar": "Mercedes-Benz 220 1996"
     },
     "price": 62000,
     "quickFacts": [
@@ -8666,7 +8666,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -8731,7 +8731,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -8761,7 +8761,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -8781,8 +8781,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657548",
     "kind": "Car",
     "title": {
-      "en": "Audi A6 - A6 2l tdi",
-      "ar": "Audi A6 - A6 2l tdi"
+      "en": "Audi A6 - A6 2l tdi 2024",
+      "ar": "Audi A6 - A6 2l tdi 2024"
     },
     "price": 165000,
     "quickFacts": [
@@ -8800,7 +8800,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -8865,7 +8865,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -8905,7 +8905,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -8993,8 +8993,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657609",
     "kind": "Car",
     "title": {
-      "en": "Jeep Grand Cherokee",
-      "ar": "Jeep Grand Cherokee"
+      "en": "Jeep Grand Cherokee 2016",
+      "ar": "Jeep Grand Cherokee 2016"
     },
     "price": 108000,
     "quickFacts": [
@@ -9012,7 +9012,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -9077,7 +9077,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -9107,7 +9107,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -9128,8 +9128,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657610",
     "kind": "Car",
     "title": {
-      "en": "Fiat Tipo",
-      "ar": "Fiat Tipo"
+      "en": "Fiat Tipo 2019",
+      "ar": "Fiat Tipo 2019"
     },
     "price": 92000,
     "quickFacts": [
@@ -9147,7 +9147,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -9212,7 +9212,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -9252,7 +9252,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -9286,8 +9286,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-652635",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe C",
-      "ar": "Mercedes-Benz Classe C"
+      "en": "Mercedes-Benz Classe C 2010",
+      "ar": "Mercedes-Benz Classe C 2010"
     },
     "price": 160000,
     "quickFacts": [
@@ -9305,7 +9305,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -9370,7 +9370,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -9410,7 +9410,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -9500,8 +9500,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-496018",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Velar",
-      "ar": "Land Rover Range Rover Velar"
+      "en": "Land Rover Range Rover Velar 2022",
+      "ar": "Land Rover Range Rover Velar 2022"
     },
     "price": 520000,
     "quickFacts": [
@@ -9519,7 +9519,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -9584,7 +9584,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -9624,7 +9624,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -9716,8 +9716,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-655618",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe GLE",
-      "ar": "Mercedes-Benz Classe GLE"
+      "en": "Mercedes-Benz Classe GLE 2017",
+      "ar": "Mercedes-Benz Classe GLE 2017"
     },
     "price": 500000,
     "quickFacts": [
@@ -9735,7 +9735,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -9800,7 +9800,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -9840,7 +9840,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -9932,8 +9932,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-495219",
     "kind": "Car",
     "title": {
-      "en": "Audi Q7",
-      "ar": "Audi Q7"
+      "en": "Audi Q7 2019",
+      "ar": "Audi Q7 2019"
     },
     "price": 300000,
     "quickFacts": [
@@ -9951,7 +9951,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -10016,7 +10016,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -10056,7 +10056,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -10133,8 +10133,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657599",
     "kind": "Car",
     "title": {
-      "en": "Skoda Fabia",
-      "ar": "Skoda Fabia"
+      "en": "Skoda Fabia 2019",
+      "ar": "Skoda Fabia 2019"
     },
     "price": 104000,
     "quickFacts": [
@@ -10152,7 +10152,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -10217,7 +10217,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -10257,7 +10257,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -10329,8 +10329,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657600",
     "kind": "Car",
     "title": {
-      "en": "Opel Grandland",
-      "ar": "Opel Grandland"
+      "en": "Opel Grandland 2024",
+      "ar": "Opel Grandland 2024"
     },
     "price": 235000,
     "quickFacts": [
@@ -10348,7 +10348,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -10413,7 +10413,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -10453,7 +10453,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -10543,8 +10543,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657601",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 208",
-      "ar": "Peugeot 208"
+      "en": "Peugeot 208 2021",
+      "ar": "Peugeot 208 2021"
     },
     "price": 153000,
     "quickFacts": [
@@ -10562,7 +10562,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -10627,7 +10627,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -10667,7 +10667,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -10725,8 +10725,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657603",
     "kind": "Car",
     "title": {
-      "en": "Fiat 500",
-      "ar": "Fiat 500"
+      "en": "Fiat 500 2018",
+      "ar": "Fiat 500 2018"
     },
     "price": 104000,
     "quickFacts": [
@@ -10744,7 +10744,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -10809,7 +10809,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -10849,7 +10849,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -10894,8 +10894,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-400732",
     "kind": "Car",
     "title": {
-      "en": "Jeep Compass",
-      "ar": "Jeep Compass"
+      "en": "Jeep Compass 2022",
+      "ar": "Jeep Compass 2022"
     },
     "price": 199000,
     "quickFacts": [
@@ -10913,7 +10913,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -10978,7 +10978,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -11018,7 +11018,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -11110,8 +11110,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-618628",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe GLC",
-      "ar": "Mercedes-Benz Classe GLC"
+      "en": "Mercedes-Benz Classe GLC 2016",
+      "ar": "Mercedes-Benz Classe GLC 2016"
     },
     "price": 230000,
     "quickFacts": [
@@ -11129,7 +11129,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -11194,7 +11194,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -11234,7 +11234,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -11250,8 +11250,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657606",
     "kind": "Car",
     "title": {
-      "en": "Skoda Fabia",
-      "ar": "Skoda Fabia"
+      "en": "Skoda Fabia 2010",
+      "ar": "Skoda Fabia 2010"
     },
     "price": 65000,
     "quickFacts": [
@@ -11269,7 +11269,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -11334,7 +11334,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -11374,7 +11374,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -11421,8 +11421,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657586",
     "kind": "Car",
     "title": {
-      "en": "Nissan Qashqai",
-      "ar": "Nissan Qashqai"
+      "en": "Nissan Qashqai 2010",
+      "ar": "Nissan Qashqai 2010"
     },
     "price": 105000,
     "quickFacts": [
@@ -11440,7 +11440,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -11505,7 +11505,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -11545,7 +11545,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -11619,8 +11619,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657588",
     "kind": "Car",
     "title": {
-      "en": "Ford C Max",
-      "ar": "Ford C Max"
+      "en": "Ford C Max 2013",
+      "ar": "Ford C Max 2013"
     },
     "price": 109000,
     "quickFacts": [
@@ -11638,7 +11638,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -11703,7 +11703,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -11743,7 +11743,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -11825,8 +11825,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657590",
     "kind": "Car",
     "title": {
-      "en": "Ford Tourneo Custom",
-      "ar": "Ford Tourneo Custom"
+      "en": "Ford Tourneo Custom 2020",
+      "ar": "Ford Tourneo Custom 2020"
     },
     "price": 160000,
     "quickFacts": [
@@ -11844,7 +11844,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -11909,7 +11909,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -11949,7 +11949,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -11993,8 +11993,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657589",
     "kind": "Car",
     "title": {
-      "en": "Dacia Dokker",
-      "ar": "Dacia Dokker"
+      "en": "Dacia Dokker 2019",
+      "ar": "Dacia Dokker 2019"
     },
     "price": 106000,
     "quickFacts": [
@@ -12012,7 +12012,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -12077,7 +12077,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -12117,7 +12117,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -12178,8 +12178,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657591",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 2",
-      "ar": "BMW Série 2"
+      "en": "BMW Série 2 2014",
+      "ar": "BMW Série 2 2014"
     },
     "price": 162000,
     "quickFacts": [
@@ -12197,7 +12197,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -12262,7 +12262,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -12302,7 +12302,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -12386,8 +12386,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657592",
     "kind": "Car",
     "title": {
-      "en": "Jeep Renegade",
-      "ar": "Jeep Renegade"
+      "en": "Jeep Renegade 2021",
+      "ar": "Jeep Renegade 2021"
     },
     "price": 195000,
     "quickFacts": [
@@ -12405,7 +12405,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -12470,7 +12470,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -12510,7 +12510,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -12594,8 +12594,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657593",
     "kind": "Car",
     "title": {
-      "en": "Dacia Dokker",
-      "ar": "Dacia Dokker"
+      "en": "Dacia Dokker 2018",
+      "ar": "Dacia Dokker 2018"
     },
     "price": 13500,
     "quickFacts": [
@@ -12613,7 +12613,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -12678,7 +12678,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -12718,7 +12718,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -12781,8 +12781,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657594",
     "kind": "Car",
     "title": {
-      "en": "Porsche Cayenne",
-      "ar": "Porsche Cayenne"
+      "en": "Porsche Cayenne 2020",
+      "ar": "Porsche Cayenne 2020"
     },
     "price": 670000,
     "quickFacts": [
@@ -12800,7 +12800,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -12865,7 +12865,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -12895,7 +12895,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -12914,8 +12914,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657595",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2015",
+      "ar": "Volkswagen Tiguan 2015"
     },
     "price": 160000,
     "quickFacts": [
@@ -12933,7 +12933,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -12998,7 +12998,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -13038,7 +13038,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -13121,8 +13121,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657581",
     "kind": "Car",
     "title": {
-      "en": "Honda Accord",
-      "ar": "Honda Accord"
+      "en": "Honda Accord 2005",
+      "ar": "Honda Accord 2005"
     },
     "price": 62000,
     "quickFacts": [
@@ -13140,7 +13140,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -13205,7 +13205,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -13245,7 +13245,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -13312,8 +13312,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657582",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2024",
+      "ar": "Volkswagen Tiguan 2024"
     },
     "price": 330000,
     "quickFacts": [
@@ -13331,7 +13331,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -13396,7 +13396,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -13436,7 +13436,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -13522,8 +13522,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657584",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 7",
-      "ar": "Volkswagen Golf 7"
+      "en": "Volkswagen Golf 7 2015",
+      "ar": "Volkswagen Golf 7 2015"
     },
     "price": 168000,
     "quickFacts": [
@@ -13541,7 +13541,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -13606,7 +13606,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -13646,7 +13646,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -13729,8 +13729,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-655069",
     "kind": "Car",
     "title": {
-      "en": "Fiat 500",
-      "ar": "Fiat 500"
+      "en": "Fiat 500 2025",
+      "ar": "Fiat 500 2025"
     },
     "price": 165000,
     "quickFacts": [
@@ -13748,7 +13748,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -13813,7 +13813,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -13853,7 +13853,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -13935,8 +13935,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494271",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe GLC",
-      "ar": "Mercedes-Benz Classe GLC"
+      "en": "Mercedes-Benz Classe GLC 2017",
+      "ar": "Mercedes-Benz Classe GLC 2017"
     },
     "price": 410000,
     "quickFacts": [
@@ -13954,7 +13954,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -14019,7 +14019,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -14059,7 +14059,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -14151,8 +14151,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657551",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 5",
-      "ar": "BMW Série 5"
+      "en": "BMW Série 5 2019",
+      "ar": "BMW Série 5 2019"
     },
     "price": 410000,
     "quickFacts": [
@@ -14170,7 +14170,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -14235,7 +14235,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -14275,7 +14275,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -14291,8 +14291,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-652592",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 1",
-      "ar": "BMW Série 1"
+      "en": "BMW Série 1 2015",
+      "ar": "BMW Série 1 2015"
     },
     "price": 155000,
     "quickFacts": [
@@ -14310,7 +14310,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -14375,7 +14375,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -14415,7 +14415,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -14484,8 +14484,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-526981",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe CLA",
-      "ar": "Mercedes-Benz Classe CLA"
+      "en": "Mercedes-Benz Classe CLA 2022",
+      "ar": "Mercedes-Benz Classe CLA 2022"
     },
     "price": 485000,
     "quickFacts": [
@@ -14503,7 +14503,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -14568,7 +14568,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -14608,7 +14608,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -14700,8 +14700,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-630479",
     "kind": "Car",
     "title": {
-      "en": "Mini Cooper",
-      "ar": "Mini Cooper"
+      "en": "Mini Cooper 2008",
+      "ar": "Mini Cooper 2008"
     },
     "price": 55000,
     "quickFacts": [
@@ -14719,7 +14719,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -14784,7 +14784,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -14824,7 +14824,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -14895,8 +14895,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657564",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Creta",
-      "ar": "Hyundai Creta"
+      "en": "Hyundai Creta 2020",
+      "ar": "Hyundai Creta 2020"
     },
     "price": 200000,
     "quickFacts": [
@@ -14914,7 +14914,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -14979,7 +14979,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -15019,7 +15019,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -15096,8 +15096,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-653291",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Sport",
-      "ar": "Land Rover Range Rover Sport"
+      "en": "Land Rover Range Rover Sport 2012",
+      "ar": "Land Rover Range Rover Sport 2012"
     },
     "price": 170000,
     "quickFacts": [
@@ -15115,7 +15115,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -15180,7 +15180,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -15220,7 +15220,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -15312,8 +15312,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657566",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Polo",
-      "ar": "Volkswagen Polo"
+      "en": "Volkswagen Polo 2013",
+      "ar": "Volkswagen Polo 2013"
     },
     "price": 105000,
     "quickFacts": [
@@ -15331,7 +15331,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -15396,7 +15396,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -15436,7 +15436,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -15512,8 +15512,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657568",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2009",
+      "ar": "Volkswagen Tiguan 2009"
     },
     "price": 145000,
     "quickFacts": [
@@ -15531,7 +15531,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -15596,7 +15596,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -15636,7 +15636,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -15705,8 +15705,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657571",
     "kind": "Car",
     "title": {
-      "en": "Citroën Berlingo",
-      "ar": "Citroën Berlingo"
+      "en": "Citroën Berlingo 2009",
+      "ar": "Citroën Berlingo 2009"
     },
     "price": 115000,
     "quickFacts": [
@@ -15724,7 +15724,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -15789,7 +15789,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -15829,7 +15829,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -15896,8 +15896,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657570",
     "kind": "Car",
     "title": {
-      "en": "Renault Kangoo",
-      "ar": "Renault Kangoo"
+      "en": "Renault Kangoo 2018",
+      "ar": "Renault Kangoo 2018"
     },
     "price": 145000,
     "quickFacts": [
@@ -15915,7 +15915,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -15980,7 +15980,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -16020,7 +16020,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -16089,8 +16089,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-515706",
     "kind": "Car",
     "title": {
-      "en": "Jeep Grand Cherokee",
-      "ar": "Jeep Grand Cherokee"
+      "en": "Jeep Grand Cherokee 2014",
+      "ar": "Jeep Grand Cherokee 2014"
     },
     "price": 140000,
     "quickFacts": [
@@ -16108,7 +16108,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -16173,7 +16173,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -16213,7 +16213,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -16305,8 +16305,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-654618",
     "kind": "Car",
     "title": {
-      "en": "Audi A5",
-      "ar": "Audi A5"
+      "en": "Audi A5 2013",
+      "ar": "Audi A5 2013"
     },
     "price": 185000,
     "quickFacts": [
@@ -16324,7 +16324,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -16389,7 +16389,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -16429,7 +16429,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -16504,8 +16504,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657572",
     "kind": "Car",
     "title": {
-      "en": "Nissan Note",
-      "ar": "Nissan Note"
+      "en": "Nissan Note 2004",
+      "ar": "Nissan Note 2004"
     },
     "price": 29000,
     "quickFacts": [
@@ -16523,7 +16523,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -16588,7 +16588,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -16628,7 +16628,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -16704,8 +16704,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657573",
     "kind": "Car",
     "title": {
-      "en": "Renault Laguna",
-      "ar": "Renault Laguna"
+      "en": "Renault Laguna 2008",
+      "ar": "Renault Laguna 2008"
     },
     "price": 80000,
     "quickFacts": [
@@ -16723,7 +16723,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -16788,7 +16788,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -16828,7 +16828,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -16900,8 +16900,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494299",
     "kind": "Car",
     "title": {
-      "en": "BMW X5",
-      "ar": "BMW X5"
+      "en": "BMW X5 2022",
+      "ar": "BMW X5 2022"
     },
     "price": 550000,
     "quickFacts": [
@@ -16919,7 +16919,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -16984,7 +16984,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -17024,7 +17024,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -17110,8 +17110,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-499912",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2025",
+      "ar": "Volkswagen Tiguan 2025"
     },
     "price": 470000,
     "quickFacts": [
@@ -17129,7 +17129,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -17194,7 +17194,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -17234,7 +17234,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -17325,8 +17325,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657574",
     "kind": "Car",
     "title": {
-      "en": "Hyundai i20",
-      "ar": "Hyundai i20"
+      "en": "Hyundai i20 2024",
+      "ar": "Hyundai i20 2024"
     },
     "price": 183000,
     "quickFacts": [
@@ -17344,7 +17344,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -17409,7 +17409,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -17449,7 +17449,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -17536,8 +17536,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657575",
     "kind": "Car",
     "title": {
-      "en": "Fiat Siena",
-      "ar": "Fiat Siena"
+      "en": "Fiat Siena 1998",
+      "ar": "Fiat Siena 1998"
     },
     "price": 25000,
     "quickFacts": [
@@ -17555,7 +17555,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -17620,7 +17620,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -17660,7 +17660,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -17684,8 +17684,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657577",
     "kind": "Car",
     "title": {
-      "en": "Opel Corsa",
-      "ar": "Opel Corsa"
+      "en": "Opel Corsa 2025",
+      "ar": "Opel Corsa 2025"
     },
     "price": 175000,
     "quickFacts": [
@@ -17703,7 +17703,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -17768,7 +17768,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -17808,7 +17808,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -17889,8 +17889,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657579",
     "kind": "Car",
     "title": {
-      "en": "Citroën C-Elysée",
-      "ar": "Citroën C-Elysée"
+      "en": "Citroën C-Elysée 2022",
+      "ar": "Citroën C-Elysée 2022"
     },
     "price": 118000,
     "quickFacts": [
@@ -17908,7 +17908,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -17973,7 +17973,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -18013,7 +18013,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -18080,8 +18080,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657569",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 206",
-      "ar": "Peugeot 206"
+      "en": "Peugeot 206 2005",
+      "ar": "Peugeot 206 2005"
     },
     "price": 62000,
     "quickFacts": [
@@ -18099,7 +18099,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -18164,7 +18164,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -18204,7 +18204,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -18223,8 +18223,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494207",
     "kind": "Car",
     "title": {
-      "en": "Honda Jazz",
-      "ar": "Honda Jazz"
+      "en": "Honda Jazz 2009",
+      "ar": "Honda Jazz 2009"
     },
     "price": 90000,
     "quickFacts": [
@@ -18242,7 +18242,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -18307,7 +18307,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -18347,7 +18347,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -18392,8 +18392,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-653682",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe A",
-      "ar": "Mercedes-Benz Classe A"
+      "en": "Mercedes-Benz Classe A 2023",
+      "ar": "Mercedes-Benz Classe A 2023"
     },
     "price": 345000,
     "quickFacts": [
@@ -18411,7 +18411,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -18476,7 +18476,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -18516,7 +18516,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -18608,8 +18608,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-495224",
     "kind": "Car",
     "title": {
-      "en": "Ford Kuga",
-      "ar": "Ford Kuga"
+      "en": "Ford Kuga 2020",
+      "ar": "Ford Kuga 2020"
     },
     "price": 190000,
     "quickFacts": [
@@ -18627,7 +18627,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -18692,7 +18692,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -18732,7 +18732,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -18818,8 +18818,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-644057",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe C",
-      "ar": "Mercedes-Benz Classe C"
+      "en": "Mercedes-Benz Classe C 2020",
+      "ar": "Mercedes-Benz Classe C 2020"
     },
     "price": 399000,
     "quickFacts": [
@@ -18837,7 +18837,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -18902,7 +18902,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -18942,7 +18942,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -19032,8 +19032,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657580",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz 220",
-      "ar": "Mercedes-Benz 220"
+      "en": "Mercedes-Benz 220 2004",
+      "ar": "Mercedes-Benz 220 2004"
     },
     "price": 110000,
     "quickFacts": [
@@ -19051,7 +19051,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -19116,7 +19116,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -19146,7 +19146,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -19162,8 +19162,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657557",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe A",
-      "ar": "Mercedes-Benz Classe A"
+      "en": "Mercedes-Benz Classe A 2020",
+      "ar": "Mercedes-Benz Classe A 2020"
     },
     "price": 340000,
     "quickFacts": [
@@ -19181,7 +19181,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -19246,7 +19246,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -19286,7 +19286,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -19305,8 +19305,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657556",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 5",
-      "ar": "Volkswagen Golf 5"
+      "en": "Volkswagen Golf 5 2008",
+      "ar": "Volkswagen Golf 5 2008"
     },
     "price": 80000,
     "quickFacts": [
@@ -19324,7 +19324,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -19389,7 +19389,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -19429,7 +19429,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -19491,8 +19491,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657555",
     "kind": "Car",
     "title": {
-      "en": "Peugeot Partner",
-      "ar": "Peugeot Partner"
+      "en": "Peugeot Partner 2018",
+      "ar": "Peugeot Partner 2018"
     },
     "price": 137000,
     "quickFacts": [
@@ -19510,7 +19510,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -19575,7 +19575,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -19615,7 +19615,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -19701,8 +19701,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657554",
     "kind": "Car",
     "title": {
-      "en": "Kia Picanto",
-      "ar": "Kia Picanto"
+      "en": "Kia Picanto 2008",
+      "ar": "Kia Picanto 2008"
     },
     "price": 65000,
     "quickFacts": [
@@ -19720,7 +19720,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -19785,7 +19785,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -19825,7 +19825,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -19880,8 +19880,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-629490",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 2008",
-      "ar": "Peugeot 2008"
+      "en": "Peugeot 2008 2020",
+      "ar": "Peugeot 2008 2020"
     },
     "price": 235000,
     "quickFacts": [
@@ -19899,7 +19899,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -19964,7 +19964,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -20004,7 +20004,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -20098,8 +20098,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657518",
     "kind": "Moto",
     "title": {
-      "en": "Suzuki sv 650 abs",
-      "ar": "Suzuki sv 650 abs"
+      "en": "Suzuki sv 650 abs 2023",
+      "ar": "Suzuki sv 650 abs 2023"
     },
     "price": 67000,
     "quickFacts": [
@@ -20117,7 +20117,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -20192,7 +20192,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -20212,7 +20212,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -20228,8 +20228,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-493179",
     "kind": "Moto",
     "title": {
-      "en": "Vespa Sprint 50cc 1 000 KM",
-      "ar": "Vespa Sprint 50cc 1 000 KM"
+      "en": "Vespa Sprint 50cc 1 000 KM 2025",
+      "ar": "Vespa Sprint 50cc 1 000 KM 2025"
     },
     "price": 37000,
     "quickFacts": [
@@ -20511,8 +20511,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-487817",
     "kind": "Moto",
     "title": {
-      "en": "HONDA ADV 160",
-      "ar": "HONDA ADV 160"
+      "en": "HONDA ADV 160 2026",
+      "ar": "HONDA ADV 160 2026"
     },
     "price": 67000,
     "quickFacts": [
@@ -20705,8 +20705,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-452665",
     "kind": "Moto",
     "title": {
-      "en": "KAWASAKI Eliminator 500",
-      "ar": "KAWASAKI Eliminator 500"
+      "en": "KAWASAKI Eliminator 500 2024",
+      "ar": "KAWASAKI Eliminator 500 2024"
     },
     "price": 73000,
     "quickFacts": [
@@ -20851,8 +20851,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-653462",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha tmax - Esseence",
-      "ar": "Yamaha tmax - Esseence"
+      "en": "Yamaha tmax - Esseence 2024",
+      "ar": "Yamaha tmax - Esseence 2024"
     },
     "price": 145000,
     "quickFacts": [
@@ -20870,7 +20870,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -20945,7 +20945,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -20975,7 +20975,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -20995,8 +20995,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-652831",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha tracer 9 gt - TRACER 9 GT",
-      "ar": "Yamaha tracer 9 gt - TRACER 9 GT"
+      "en": "Yamaha tracer 9 gt - TRACER 9 GT 2025",
+      "ar": "Yamaha tracer 9 gt - TRACER 9 GT 2025"
     },
     "price": 175000,
     "quickFacts": [
@@ -21014,7 +21014,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -21089,7 +21089,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -21119,7 +21119,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -21142,8 +21142,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-651297",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha mt-07 - essense",
-      "ar": "Yamaha mt-07 - essense"
+      "en": "Yamaha mt-07 - essense 2020",
+      "ar": "Yamaha mt-07 - essense 2020"
     },
     "price": 78000,
     "quickFacts": [
@@ -21161,7 +21161,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -21236,7 +21236,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -21266,7 +21266,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -21284,8 +21284,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-650901",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha mt-07",
-      "ar": "Yamaha mt-07"
+      "en": "Yamaha mt-07 2023",
+      "ar": "Yamaha mt-07 2023"
     },
     "price": 83000,
     "quickFacts": [
@@ -21303,7 +21303,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -21378,7 +21378,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -21408,7 +21408,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -21427,8 +21427,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-646747",
     "kind": "Moto",
     "title": {
-      "en": "Royal Enfield 500s continental - Himalayan 450",
-      "ar": "Royal Enfield 500s continental - Himalayan 450"
+      "en": "Royal Enfield 500s continental - Himalayan 450 2025",
+      "ar": "Royal Enfield 500s continental - Himalayan 450 2025"
     },
     "price": 57400,
     "quickFacts": [
@@ -21446,7 +21446,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -21521,7 +21521,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -21551,7 +21551,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -21571,8 +21571,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-646720",
     "kind": "Moto",
     "title": {
-      "en": "Kawasaki bayou 250",
-      "ar": "Kawasaki bayou 250"
+      "en": "Kawasaki bayou 250 2025",
+      "ar": "Kawasaki bayou 250 2025"
     },
     "price": 106000,
     "quickFacts": [
@@ -21590,7 +21590,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -21665,7 +21665,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -21695,7 +21695,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -21713,8 +21713,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657558",
     "kind": "Car",
     "title": {
-      "en": "Citroën C3",
-      "ar": "Citroën C3"
+      "en": "Citroën C3 2025",
+      "ar": "Citroën C3 2025"
     },
     "price": 169000,
     "quickFacts": [
@@ -21732,7 +21732,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -21797,7 +21797,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -21837,7 +21837,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -21923,8 +21923,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-496076",
     "kind": "Car",
     "title": {
-      "en": "Alfa Romeo Tonale",
-      "ar": "Alfa Romeo Tonale"
+      "en": "Alfa Romeo Tonale 2007",
+      "ar": "Alfa Romeo Tonale 2007"
     },
     "price": 65000,
     "quickFacts": [
@@ -21942,7 +21942,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -22007,7 +22007,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -22047,7 +22047,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -22063,8 +22063,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-649935",
     "kind": "Car",
     "title": {
-      "en": "Hyundai i40",
-      "ar": "Hyundai i40"
+      "en": "Hyundai i40 2015",
+      "ar": "Hyundai i40 2015"
     },
     "price": 120000,
     "quickFacts": [
@@ -22082,7 +22082,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -22147,7 +22147,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -22177,7 +22177,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -22251,8 +22251,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-632692",
     "kind": "Car",
     "title": {
-      "en": "Porsche Panamera",
-      "ar": "Porsche Panamera"
+      "en": "Porsche Panamera 2011",
+      "ar": "Porsche Panamera 2011"
     },
     "price": 145000,
     "quickFacts": [
@@ -22270,7 +22270,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -22335,7 +22335,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -22375,7 +22375,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -22461,8 +22461,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-656523",
     "kind": "Car",
     "title": {
-      "en": "Audi A5",
-      "ar": "Audi A5"
+      "en": "Audi A5 2011",
+      "ar": "Audi A5 2011"
     },
     "price": 95000,
     "quickFacts": [
@@ -22480,7 +22480,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -22545,7 +22545,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -22585,7 +22585,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -22671,8 +22671,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657559",
     "kind": "Car",
     "title": {
-      "en": "Dacia Sandero",
-      "ar": "Dacia Sandero"
+      "en": "Dacia Sandero 2025",
+      "ar": "Dacia Sandero 2025"
     },
     "price": 174000,
     "quickFacts": [
@@ -22690,7 +22690,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -22755,7 +22755,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -22795,7 +22795,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -22881,8 +22881,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-656543",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 8",
-      "ar": "Volkswagen Golf 8"
+      "en": "Volkswagen Golf 8 2023",
+      "ar": "Volkswagen Golf 8 2023"
     },
     "price": 315000,
     "quickFacts": [
@@ -22900,7 +22900,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -22965,7 +22965,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -23005,7 +23005,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -23022,8 +23022,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657561",
     "kind": "Car",
     "title": {
-      "en": "Mini Cooper",
-      "ar": "Mini Cooper"
+      "en": "Mini Cooper 2008",
+      "ar": "Mini Cooper 2008"
     },
     "price": 78000,
     "quickFacts": [
@@ -23041,7 +23041,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -23106,7 +23106,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -23146,7 +23146,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -23231,8 +23231,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657563",
     "kind": "Car",
     "title": {
-      "en": "Peugeot Partner",
-      "ar": "Peugeot Partner"
+      "en": "Peugeot Partner 2018",
+      "ar": "Peugeot Partner 2018"
     },
     "price": 137000,
     "quickFacts": [
@@ -23250,7 +23250,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -23315,7 +23315,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -23355,7 +23355,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -23415,8 +23415,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657562",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Passat",
-      "ar": "Volkswagen Passat"
+      "en": "Volkswagen Passat 2020",
+      "ar": "Volkswagen Passat 2020"
     },
     "price": 219000,
     "quickFacts": [
@@ -23434,7 +23434,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -23499,7 +23499,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -23539,7 +23539,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -23631,8 +23631,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-655515",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 208",
-      "ar": "Peugeot 208"
+      "en": "Peugeot 208 2025",
+      "ar": "Peugeot 208 2025"
     },
     "price": 175000,
     "quickFacts": [
@@ -23650,7 +23650,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -23715,7 +23715,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -23755,7 +23755,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -23818,8 +23818,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-654585",
     "kind": "Car",
     "title": {
-      "en": "Jaguar XF",
-      "ar": "Jaguar XF"
+      "en": "Jaguar XF 2010",
+      "ar": "Jaguar XF 2010"
     },
     "price": 79000,
     "quickFacts": [
@@ -23837,7 +23837,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -23902,7 +23902,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -23942,7 +23942,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -24034,8 +24034,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-654510",
     "kind": "Car",
     "title": {
-      "en": "Honda CR-V",
-      "ar": "Honda CR-V"
+      "en": "Honda CR-V 2016",
+      "ar": "Honda CR-V 2016"
     },
     "price": 165000,
     "quickFacts": [
@@ -24053,7 +24053,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -24118,7 +24118,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -24158,7 +24158,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -24240,8 +24240,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657549",
     "kind": "Car",
     "title": {
-      "en": "Dacia Sandero",
-      "ar": "Dacia Sandero"
+      "en": "Dacia Sandero 2021",
+      "ar": "Dacia Sandero 2021"
     },
     "price": 142000,
     "quickFacts": [
@@ -24259,7 +24259,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -24324,7 +24324,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -24364,7 +24364,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -24448,8 +24448,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657550",
     "kind": "Car",
     "title": {
-      "en": "Ford Focus",
-      "ar": "Ford Focus"
+      "en": "Ford Focus 2017",
+      "ar": "Ford Focus 2017"
     },
     "price": 157000,
     "quickFacts": [
@@ -24467,7 +24467,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -24532,7 +24532,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -24572,7 +24572,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -24659,8 +24659,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-620697",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe SL",
-      "ar": "Mercedes-Benz Classe SL"
+      "en": "Mercedes-Benz Classe SL 1980",
+      "ar": "Mercedes-Benz Classe SL 1980"
     },
     "price": 300000,
     "quickFacts": [
@@ -24678,7 +24678,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -24743,7 +24743,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -24773,7 +24773,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -24815,8 +24815,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-629437",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Passat",
-      "ar": "Volkswagen Passat"
+      "en": "Volkswagen Passat 2019",
+      "ar": "Volkswagen Passat 2019"
     },
     "price": 200000,
     "quickFacts": [
@@ -24834,7 +24834,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -24899,7 +24899,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -24939,7 +24939,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -25020,8 +25020,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-497697",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2016",
+      "ar": "Volkswagen Tiguan 2016"
     },
     "price": 167000,
     "quickFacts": [
@@ -25039,7 +25039,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -25104,7 +25104,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -25144,7 +25144,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -25218,8 +25218,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657553",
     "kind": "Car",
     "title": {
-      "en": "Audi A3 Sportback",
-      "ar": "Audi A3 Sportback"
+      "en": "Audi A3 Sportback 2021",
+      "ar": "Audi A3 Sportback 2021"
     },
     "price": 395000,
     "quickFacts": [
@@ -25237,7 +25237,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -25302,7 +25302,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -25342,7 +25342,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -25434,8 +25434,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657552",
     "kind": "Car",
     "title": {
-      "en": "Dacia Sandero",
-      "ar": "Dacia Sandero"
+      "en": "Dacia Sandero 2021",
+      "ar": "Dacia Sandero 2021"
     },
     "price": 142000,
     "quickFacts": [
@@ -25453,7 +25453,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -25518,7 +25518,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -25558,7 +25558,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -25642,8 +25642,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-642417",
     "kind": "Car",
     "title": {
-      "en": "BMW X5",
-      "ar": "BMW X5"
+      "en": "BMW X5 2017",
+      "ar": "BMW X5 2017"
     },
     "price": 259000,
     "quickFacts": [
@@ -25661,7 +25661,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -25726,7 +25726,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -25766,7 +25766,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -25787,8 +25787,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657539",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 306",
-      "ar": "Peugeot 306"
+      "en": "Peugeot 306 2000",
+      "ar": "Peugeot 306 2000"
     },
     "price": 45000,
     "quickFacts": [
@@ -25806,7 +25806,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -25871,7 +25871,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -25911,7 +25911,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -25958,8 +25958,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657540",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 5",
-      "ar": "BMW Série 5"
+      "en": "BMW Série 5 2006",
+      "ar": "BMW Série 5 2006"
     },
     "price": 97000,
     "quickFacts": [
@@ -25977,7 +25977,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -26042,7 +26042,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -26082,7 +26082,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -26170,8 +26170,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657541",
     "kind": "Car",
     "title": {
-      "en": "Dacia Sandero",
-      "ar": "Dacia Sandero"
+      "en": "Dacia Sandero 2015",
+      "ar": "Dacia Sandero 2015"
     },
     "price": 116000,
     "quickFacts": [
@@ -26189,7 +26189,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -26254,7 +26254,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -26294,7 +26294,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -26314,8 +26314,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657542",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 206",
-      "ar": "Peugeot 206"
+      "en": "Peugeot 206 2002",
+      "ar": "Peugeot 206 2002"
     },
     "price": 45000,
     "quickFacts": [
@@ -26333,7 +26333,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -26398,7 +26398,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -26438,7 +26438,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -26460,8 +26460,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657543",
     "kind": "Car",
     "title": {
-      "en": "Ssangyong Rexton",
-      "ar": "Ssangyong Rexton"
+      "en": "Ssangyong Rexton 2008",
+      "ar": "Ssangyong Rexton 2008"
     },
     "price": 70000,
     "quickFacts": [
@@ -26479,7 +26479,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -26544,7 +26544,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -26584,7 +26584,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -26667,8 +26667,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657544",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 208",
-      "ar": "Peugeot 208"
+      "en": "Peugeot 208 2022",
+      "ar": "Peugeot 208 2022"
     },
     "price": 133000,
     "quickFacts": [
@@ -26686,7 +26686,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -26751,7 +26751,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -26791,7 +26791,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -26878,8 +26878,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657547",
     "kind": "Car",
     "title": {
-      "en": "Hyundai i20",
-      "ar": "Hyundai i20"
+      "en": "Hyundai i20 2018",
+      "ar": "Hyundai i20 2018"
     },
     "price": 100000,
     "quickFacts": [
@@ -26897,7 +26897,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -26962,7 +26962,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -27002,7 +27002,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -27031,8 +27031,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657546",
     "kind": "Car",
     "title": {
-      "en": "Renault Clio",
-      "ar": "Renault Clio"
+      "en": "Renault Clio 2023",
+      "ar": "Renault Clio 2023"
     },
     "price": 129000,
     "quickFacts": [
@@ -27050,7 +27050,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -27115,7 +27115,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -27155,7 +27155,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -27237,8 +27237,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657533",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 2008",
-      "ar": "Peugeot 2008"
+      "en": "Peugeot 2008 2024",
+      "ar": "Peugeot 2008 2024"
     },
     "price": 293000,
     "quickFacts": [
@@ -27256,7 +27256,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -27321,7 +27321,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -27361,7 +27361,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -27447,8 +27447,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657532",
     "kind": "Car",
     "title": {
-      "en": "Fiat Grande Punto",
-      "ar": "Fiat Grande Punto"
+      "en": "Fiat Grande Punto 2008",
+      "ar": "Fiat Grande Punto 2008"
     },
     "price": 71000,
     "quickFacts": [
@@ -27466,7 +27466,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -27531,7 +27531,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -27571,7 +27571,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -27618,8 +27618,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657535",
     "kind": "Car",
     "title": {
-      "en": "Kia Picanto",
-      "ar": "Kia Picanto"
+      "en": "Kia Picanto 2007",
+      "ar": "Kia Picanto 2007"
     },
     "price": 55000,
     "quickFacts": [
@@ -27637,7 +27637,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -27702,7 +27702,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -27732,7 +27732,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -27750,8 +27750,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657536",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe SL",
-      "ar": "Mercedes-Benz Classe SL"
+      "en": "Mercedes-Benz Classe SL 1980",
+      "ar": "Mercedes-Benz Classe SL 1980"
     },
     "price": 280000,
     "quickFacts": [
@@ -27769,7 +27769,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -27834,7 +27834,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -27874,7 +27874,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -27894,8 +27894,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657537",
     "kind": "Car",
     "title": {
-      "en": "Fiat Grande Punto",
-      "ar": "Fiat Grande Punto"
+      "en": "Fiat Grande Punto 2007",
+      "ar": "Fiat Grande Punto 2007"
     },
     "price": 60000,
     "quickFacts": [
@@ -27913,7 +27913,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -27978,7 +27978,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -28018,7 +28018,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -28047,8 +28047,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-490705",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe E",
-      "ar": "Mercedes-Benz Classe E"
+      "en": "Mercedes-Benz Classe E 2019",
+      "ar": "Mercedes-Benz Classe E 2019"
     },
     "price": 625000,
     "quickFacts": [
@@ -28066,7 +28066,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -28131,7 +28131,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -28171,7 +28171,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -28194,8 +28194,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-655509",
     "kind": "Car",
     "title": {
-      "en": "Audi Q5",
-      "ar": "Audi Q5"
+      "en": "Audi Q5 2018",
+      "ar": "Audi Q5 2018"
     },
     "price": 243000,
     "quickFacts": [
@@ -28213,7 +28213,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -28278,7 +28278,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -28318,7 +28318,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -28366,8 +28366,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-472642",
     "kind": "Car",
     "title": {
-      "en": "Jaguar XF",
-      "ar": "Jaguar XF"
+      "en": "Jaguar XF 2016",
+      "ar": "Jaguar XF 2016"
     },
     "price": 225000,
     "quickFacts": [
@@ -28385,7 +28385,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -28450,7 +28450,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -28490,7 +28490,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -28513,8 +28513,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657526",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe SL",
-      "ar": "Mercedes-Benz Classe SL"
+      "en": "Mercedes-Benz Classe SL 1980",
+      "ar": "Mercedes-Benz Classe SL 1980"
     },
     "price": 280000,
     "quickFacts": [
@@ -28532,7 +28532,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -28597,7 +28597,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -28637,7 +28637,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -28656,8 +28656,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-655487",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 508",
-      "ar": "Peugeot 508"
+      "en": "Peugeot 508 2019",
+      "ar": "Peugeot 508 2019"
     },
     "price": 190000,
     "quickFacts": [
@@ -28675,7 +28675,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -28740,7 +28740,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -28780,7 +28780,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -28852,8 +28852,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657501",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Passat",
-      "ar": "Volkswagen Passat"
+      "en": "Volkswagen Passat 2018",
+      "ar": "Volkswagen Passat 2018"
     },
     "price": 180000,
     "quickFacts": [
@@ -28871,7 +28871,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -28936,7 +28936,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -28976,7 +28976,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -29043,8 +29043,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-490075",
     "kind": "Car",
     "title": {
-      "en": "c partner fourgon 2023",
-      "ar": "c partner fourgon 2023"
+      "en": "c partner fourgon 2023 2022",
+      "ar": "c partner fourgon 2023 2022"
     },
     "price": 148000,
     "quickFacts": [
@@ -29062,7 +29062,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -29167,7 +29167,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -29260,8 +29260,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-649451",
     "kind": "Car",
     "title": {
-      "en": "Ford Kuga",
-      "ar": "Ford Kuga"
+      "en": "Ford Kuga 2023",
+      "ar": "Ford Kuga 2023"
     },
     "price": 276000,
     "quickFacts": [
@@ -29279,7 +29279,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -29344,7 +29344,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -29384,7 +29384,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -29474,8 +29474,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-491190",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 5",
-      "ar": "BMW Série 5"
+      "en": "BMW Série 5 2013",
+      "ar": "BMW Série 5 2013"
     },
     "price": 169000,
     "quickFacts": [
@@ -29493,7 +29493,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -29558,7 +29558,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -29588,7 +29588,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -29611,8 +29611,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657529",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz 220",
-      "ar": "Mercedes-Benz 220"
+      "en": "Mercedes-Benz 220 2007",
+      "ar": "Mercedes-Benz 220 2007"
     },
     "price": 140000,
     "quickFacts": [
@@ -29630,7 +29630,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -29695,7 +29695,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -29735,7 +29735,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -29751,8 +29751,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657528",
     "kind": "Car",
     "title": {
-      "en": "Nissan Maxima",
-      "ar": "Nissan Maxima"
+      "en": "Nissan Maxima 1995",
+      "ar": "Nissan Maxima 1995"
     },
     "price": 15000,
     "quickFacts": [
@@ -29770,7 +29770,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -29835,7 +29835,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -29875,7 +29875,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -29923,8 +29923,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657527",
     "kind": "Car",
     "title": {
-      "en": "Audi A6",
-      "ar": "Audi A6"
+      "en": "Audi A6 2017",
+      "ar": "Audi A6 2017"
     },
     "price": 195000,
     "quickFacts": [
@@ -29942,7 +29942,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -30007,7 +30007,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -30047,7 +30047,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -30061,8 +30061,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-487016",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe S",
-      "ar": "Mercedes-Benz Classe S"
+      "en": "Mercedes-Benz Classe S 2014",
+      "ar": "Mercedes-Benz Classe S 2014"
     },
     "price": 325000,
     "quickFacts": [
@@ -30080,7 +30080,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -30145,7 +30145,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -30185,7 +30185,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -30208,8 +30208,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-488309",
     "kind": "Car",
     "title": {
-      "en": "Kia Seltos",
-      "ar": "Kia Seltos"
+      "en": "Kia Seltos 2021",
+      "ar": "Kia Seltos 2021"
     },
     "price": 225000,
     "quickFacts": [
@@ -30227,7 +30227,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -30292,7 +30292,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -30332,7 +30332,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -30426,8 +30426,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657468",
     "kind": "Car",
     "title": {
-      "en": "Renault Megane - Diesel 1,5 dci bva",
-      "ar": "Renault Megane - Diesel 1,5 dci bva"
+      "en": "Renault Megane - Diesel 1,5 dci bva 2024",
+      "ar": "Renault Megane - Diesel 1,5 dci bva 2024"
     },
     "price": 235000,
     "quickFacts": [
@@ -30445,7 +30445,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -30510,7 +30510,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -30550,7 +30550,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -30639,8 +30639,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-489147",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 208",
-      "ar": "Peugeot 208"
+      "en": "Peugeot 208 2026",
+      "ar": "Peugeot 208 2026"
     },
     "price": 149000,
     "quickFacts": [
@@ -30658,7 +30658,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -30723,7 +30723,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -30763,7 +30763,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -30857,8 +30857,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657530",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz 190",
-      "ar": "Mercedes-Benz 190"
+      "en": "Mercedes-Benz 190 1992",
+      "ar": "Mercedes-Benz 190 1992"
     },
     "price": 85000,
     "quickFacts": [
@@ -30876,7 +30876,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -30941,7 +30941,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -30981,7 +30981,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -31043,8 +31043,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-504513",
     "kind": "Car",
     "title": {
-      "en": "BMW X5",
-      "ar": "BMW X5"
+      "en": "BMW X5 2022",
+      "ar": "BMW X5 2022"
     },
     "price": 530000,
     "quickFacts": [
@@ -31062,7 +31062,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -31127,7 +31127,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -31167,7 +31167,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -31258,8 +31258,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-489225",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe SL",
-      "ar": "Mercedes-Benz Classe SL"
+      "en": "Mercedes-Benz Classe SL 1989",
+      "ar": "Mercedes-Benz Classe SL 1989"
     },
     "price": 380000,
     "quickFacts": [
@@ -31277,7 +31277,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -31342,7 +31342,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -31372,7 +31372,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -31456,8 +31456,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-489216",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe S",
-      "ar": "Mercedes-Benz Classe S"
+      "en": "Mercedes-Benz Classe S 1999",
+      "ar": "Mercedes-Benz Classe S 1999"
     },
     "price": 220000,
     "quickFacts": [
@@ -31475,7 +31475,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -31540,7 +31540,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -31580,7 +31580,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -31669,8 +31669,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-640278",
     "kind": "Car",
     "title": {
-      "en": "Ford Kuga",
-      "ar": "Ford Kuga"
+      "en": "Ford Kuga 2015",
+      "ar": "Ford Kuga 2015"
     },
     "price": 160000,
     "quickFacts": [
@@ -31688,7 +31688,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -31753,7 +31753,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -31793,7 +31793,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -31885,8 +31885,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-527881",
     "kind": "Car",
     "title": {
-      "en": "BMW X3",
-      "ar": "BMW X3"
+      "en": "BMW X3 2016",
+      "ar": "BMW X3 2016"
     },
     "price": 190000,
     "quickFacts": [
@@ -31904,7 +31904,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -31969,7 +31969,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -31999,7 +31999,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -32020,8 +32020,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-495140",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 5",
-      "ar": "BMW Série 5"
+      "en": "BMW Série 5 2017",
+      "ar": "BMW Série 5 2017"
     },
     "price": 328000,
     "quickFacts": [
@@ -32039,7 +32039,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -32104,7 +32104,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -32144,7 +32144,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -32231,8 +32231,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657519",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Accent",
-      "ar": "Hyundai Accent"
+      "en": "Hyundai Accent 2011",
+      "ar": "Hyundai Accent 2011"
     },
     "price": 105000,
     "quickFacts": [
@@ -32250,7 +32250,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -32315,7 +32315,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -32355,7 +32355,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -32375,8 +32375,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-495831",
     "kind": "Car",
     "title": {
-      "en": "Seat Arona",
-      "ar": "Seat Arona"
+      "en": "Seat Arona 2022",
+      "ar": "Seat Arona 2022"
     },
     "price": 198000,
     "quickFacts": [
@@ -32394,7 +32394,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -32459,7 +32459,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -32499,7 +32499,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -32591,8 +32591,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657520",
     "kind": "Car",
     "title": {
-      "en": "Suzuki SX-4",
-      "ar": "Suzuki SX-4"
+      "en": "Suzuki SX-4 2013",
+      "ar": "Suzuki SX-4 2013"
     },
     "price": 79000,
     "quickFacts": [
@@ -32610,7 +32610,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -32675,7 +32675,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -32715,7 +32715,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -32766,8 +32766,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657521",
     "kind": "Car",
     "title": {
-      "en": "Skoda Fabia",
-      "ar": "Skoda Fabia"
+      "en": "Skoda Fabia 2021",
+      "ar": "Skoda Fabia 2021"
     },
     "price": 139000,
     "quickFacts": [
@@ -32785,7 +32785,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -32850,7 +32850,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -32890,7 +32890,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -32910,8 +32910,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657523",
     "kind": "Car",
     "title": {
-      "en": "Renault Megane",
-      "ar": "Renault Megane"
+      "en": "Renault Megane 2017",
+      "ar": "Renault Megane 2017"
     },
     "price": 158000,
     "quickFacts": [
@@ -32929,7 +32929,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -32994,7 +32994,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -33034,7 +33034,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -33122,8 +33122,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657522",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2013",
+      "ar": "Volkswagen Tiguan 2013"
     },
     "price": 172000,
     "quickFacts": [
@@ -33141,7 +33141,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -33206,7 +33206,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -33246,7 +33246,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -33331,8 +33331,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-653486",
     "kind": "Car",
     "title": {
-      "en": "BYD Seal",
-      "ar": "BYD Seal"
+      "en": "BYD Seal 2024",
+      "ar": "BYD Seal 2024"
     },
     "price": 420000,
     "quickFacts": [
@@ -33350,7 +33350,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -33415,7 +33415,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -33455,7 +33455,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -33547,8 +33547,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-649578",
     "kind": "Car",
     "title": {
-      "en": "Jeep Renegade",
-      "ar": "Jeep Renegade"
+      "en": "Jeep Renegade 2019",
+      "ar": "Jeep Renegade 2019"
     },
     "price": 175000,
     "quickFacts": [
@@ -33566,7 +33566,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -33631,7 +33631,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -33671,7 +33671,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -33754,8 +33754,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-492754",
     "kind": "Car",
     "title": {
-      "en": "Kia Sportage",
-      "ar": "Kia Sportage"
+      "en": "Kia Sportage 2022",
+      "ar": "Kia Sportage 2022"
     },
     "price": 240000,
     "quickFacts": [
@@ -33773,7 +33773,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -33838,7 +33838,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -33868,7 +33868,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -33891,8 +33891,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-654937",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe GLC",
-      "ar": "Mercedes-Benz Classe GLC"
+      "en": "Mercedes-Benz Classe GLC 2019",
+      "ar": "Mercedes-Benz Classe GLC 2019"
     },
     "price": 480000,
     "quickFacts": [
@@ -33910,7 +33910,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -33975,7 +33975,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -34015,7 +34015,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -34036,8 +34036,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-482868",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson",
-      "ar": "Hyundai Tucson"
+      "en": "Hyundai Tucson 2022",
+      "ar": "Hyundai Tucson 2022"
     },
     "price": 315000,
     "quickFacts": [
@@ -34055,7 +34055,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -34120,7 +34120,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -34160,7 +34160,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -34234,8 +34234,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-513060",
     "kind": "Car",
     "title": {
-      "en": "Renault Talisman",
-      "ar": "Renault Talisman"
+      "en": "Renault Talisman 2017",
+      "ar": "Renault Talisman 2017"
     },
     "price": 185000,
     "quickFacts": [
@@ -34253,7 +34253,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -34318,7 +34318,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -34348,7 +34348,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -34369,8 +34369,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-644769",
     "kind": "Car",
     "title": {
-      "en": "Ford Focus",
-      "ar": "Ford Focus"
+      "en": "Ford Focus 2008",
+      "ar": "Ford Focus 2008"
     },
     "price": 95000,
     "quickFacts": [
@@ -34388,7 +34388,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -34453,7 +34453,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -34483,7 +34483,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -34540,8 +34540,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657525",
     "kind": "Car",
     "title": {
-      "en": "Dacia Logan",
-      "ar": "Dacia Logan"
+      "en": "Dacia Logan 2017",
+      "ar": "Dacia Logan 2017"
     },
     "price": 120000,
     "quickFacts": [
@@ -34559,7 +34559,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -34624,7 +34624,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -34664,7 +34664,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -34751,8 +34751,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-490653",
     "kind": "Car",
     "title": {
-      "en": "Lincoln Town Car",
-      "ar": "Lincoln Town Car"
+      "en": "Lincoln Town Car 1999",
+      "ar": "Lincoln Town Car 1999"
     },
     "price": 320000,
     "quickFacts": [
@@ -34770,7 +34770,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -34835,7 +34835,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -34875,7 +34875,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -34898,8 +34898,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-651247",
     "kind": "Car",
     "title": {
-      "en": "Jeep Compass",
-      "ar": "Jeep Compass"
+      "en": "Jeep Compass 2023",
+      "ar": "Jeep Compass 2023"
     },
     "price": 220000,
     "quickFacts": [
@@ -34917,7 +34917,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -34982,7 +34982,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -35022,7 +35022,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -35084,8 +35084,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657508",
     "kind": "Car",
     "title": {
-      "en": "Dacia Logan",
-      "ar": "Dacia Logan"
+      "en": "Dacia Logan 2018",
+      "ar": "Dacia Logan 2018"
     },
     "price": 11900,
     "quickFacts": [
@@ -35103,7 +35103,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -35168,7 +35168,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -35208,7 +35208,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -35286,8 +35286,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657509",
     "kind": "Car",
     "title": {
-      "en": "Jeep Grand Cherokee",
-      "ar": "Jeep Grand Cherokee"
+      "en": "Jeep Grand Cherokee 2019",
+      "ar": "Jeep Grand Cherokee 2019"
     },
     "price": 155000,
     "quickFacts": [
@@ -35305,7 +35305,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -35370,7 +35370,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -35410,7 +35410,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -35501,8 +35501,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657511",
     "kind": "Car",
     "title": {
-      "en": "Nissan X-Trail",
-      "ar": "Nissan X-Trail"
+      "en": "Nissan X-Trail 2010",
+      "ar": "Nissan X-Trail 2010"
     },
     "price": 98000,
     "quickFacts": [
@@ -35520,7 +35520,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -35585,7 +35585,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -35625,7 +35625,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -35709,8 +35709,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657512",
     "kind": "Car",
     "title": {
-      "en": "Honda Civic",
-      "ar": "Honda Civic"
+      "en": "Honda Civic 2005",
+      "ar": "Honda Civic 2005"
     },
     "price": 50000,
     "quickFacts": [
@@ -35728,7 +35728,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -35793,7 +35793,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -35833,7 +35833,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -35857,8 +35857,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657513",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 2",
-      "ar": "BMW Série 2"
+      "en": "BMW Série 2 2021",
+      "ar": "BMW Série 2 2021"
     },
     "price": 36000,
     "quickFacts": [
@@ -35876,7 +35876,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -35941,7 +35941,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -35981,7 +35981,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -36062,8 +36062,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-652534",
     "kind": "Car",
     "title": {
-      "en": "Ford Focus",
-      "ar": "Ford Focus"
+      "en": "Ford Focus 2010",
+      "ar": "Ford Focus 2010"
     },
     "price": 85000,
     "quickFacts": [
@@ -36081,7 +36081,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -36146,7 +36146,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -36186,7 +36186,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -36204,8 +36204,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-481179",
     "kind": "Car",
     "title": {
-      "en": "Renault Koleos - 3.0",
-      "ar": "Renault Koleos - 3.0"
+      "en": "Renault Koleos - 3.0 2013",
+      "ar": "Renault Koleos - 3.0 2013"
     },
     "price": 98000,
     "quickFacts": [
@@ -36223,7 +36223,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -36288,7 +36288,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -36328,7 +36328,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -36397,8 +36397,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657515",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 2",
-      "ar": "BMW Série 2"
+      "en": "BMW Série 2 2023",
+      "ar": "BMW Série 2 2023"
     },
     "price": 725000,
     "quickFacts": [
@@ -36416,7 +36416,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -36481,7 +36481,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -36521,7 +36521,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -36613,8 +36613,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-652542",
     "kind": "Car",
     "title": {
-      "en": "BMW X3",
-      "ar": "BMW X3"
+      "en": "BMW X3 2021",
+      "ar": "BMW X3 2021"
     },
     "price": 410000,
     "quickFacts": [
@@ -36632,7 +36632,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -36697,7 +36697,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -36737,7 +36737,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -36824,8 +36824,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-625764",
     "kind": "Car",
     "title": {
-      "en": "Citroën C4",
-      "ar": "Citroën C4"
+      "en": "Citroën C4 2020",
+      "ar": "Citroën C4 2020"
     },
     "price": 165000,
     "quickFacts": [
@@ -36843,7 +36843,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -36908,7 +36908,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -36948,7 +36948,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -37028,8 +37028,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657516",
     "kind": "Car",
     "title": {
-      "en": "Nissan magnite",
-      "ar": "Nissan magnite"
+      "en": "Nissan magnite 2025",
+      "ar": "Nissan magnite 2025"
     },
     "price": 168000,
     "quickFacts": [
@@ -37047,7 +37047,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -37112,7 +37112,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -37152,7 +37152,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -37236,8 +37236,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657517",
     "kind": "Car",
     "title": {
-      "en": "Dacia Logan",
-      "ar": "Dacia Logan"
+      "en": "Dacia Logan 2006",
+      "ar": "Dacia Logan 2006"
     },
     "price": 73000,
     "quickFacts": [
@@ -37255,7 +37255,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -37320,7 +37320,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -37360,7 +37360,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -37376,8 +37376,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657413",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson - gazwal 1.6",
-      "ar": "Hyundai Tucson - gazwal 1.6"
+      "en": "Hyundai Tucson - gazwal 1.6 2019",
+      "ar": "Hyundai Tucson - gazwal 1.6 2019"
     },
     "price": 245000,
     "quickFacts": [
@@ -37395,7 +37395,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -37460,7 +37460,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -37500,7 +37500,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -37590,8 +37590,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657496",
     "kind": "Car",
     "title": {
-      "en": "Dacia Duster",
-      "ar": "Dacia Duster"
+      "en": "Dacia Duster 2022",
+      "ar": "Dacia Duster 2022"
     },
     "price": 150000,
     "quickFacts": [
@@ -37609,7 +37609,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -37674,7 +37674,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -37714,7 +37714,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -37771,8 +37771,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-653579",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson",
-      "ar": "Hyundai Tucson"
+      "en": "Hyundai Tucson 2021",
+      "ar": "Hyundai Tucson 2021"
     },
     "price": 270000,
     "quickFacts": [
@@ -37790,7 +37790,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -37855,7 +37855,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -37895,7 +37895,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -37987,8 +37987,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-653553",
     "kind": "Car",
     "title": {
-      "en": "Audi Q3",
-      "ar": "Audi Q3"
+      "en": "Audi Q3 2022",
+      "ar": "Audi Q3 2022"
     },
     "price": 380000,
     "quickFacts": [
@@ -38006,7 +38006,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -38071,7 +38071,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -38111,7 +38111,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -38203,8 +38203,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657497",
     "kind": "Car",
     "title": {
-      "en": "Honda CR-V",
-      "ar": "Honda CR-V"
+      "en": "Honda CR-V 2014",
+      "ar": "Honda CR-V 2014"
     },
     "price": 144000,
     "quickFacts": [
@@ -38222,7 +38222,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -38287,7 +38287,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -38327,7 +38327,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -38403,8 +38403,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-620050",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe CLA",
-      "ar": "Mercedes-Benz Classe CLA"
+      "en": "Mercedes-Benz Classe CLA 2019",
+      "ar": "Mercedes-Benz Classe CLA 2019"
     },
     "price": 370000,
     "quickFacts": [
@@ -38422,7 +38422,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -38487,7 +38487,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -38527,7 +38527,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -38614,8 +38614,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657499",
     "kind": "Car",
     "title": {
-      "en": "Dacia Logan",
-      "ar": "Dacia Logan"
+      "en": "Dacia Logan 2006",
+      "ar": "Dacia Logan 2006"
     },
     "price": 55000,
     "quickFacts": [
@@ -38633,7 +38633,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -38698,7 +38698,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -38738,7 +38738,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -38772,8 +38772,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657498",
     "kind": "Car",
     "title": {
-      "en": "Toyota Corolla",
-      "ar": "Toyota Corolla"
+      "en": "Toyota Corolla 2016",
+      "ar": "Toyota Corolla 2016"
     },
     "price": 145000,
     "quickFacts": [
@@ -38791,7 +38791,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -38856,7 +38856,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -38896,7 +38896,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -38917,8 +38917,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-489692",
     "kind": "Car",
     "title": {
-      "en": "Kia Sportage",
-      "ar": "Kia Sportage"
+      "en": "Kia Sportage 2023",
+      "ar": "Kia Sportage 2023"
     },
     "price": 350000,
     "quickFacts": [
@@ -38936,7 +38936,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -39001,7 +39001,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -39031,7 +39031,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -39054,8 +39054,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-488035",
     "kind": "Car",
     "title": {
-      "en": "Kia K5",
-      "ar": "Kia K5"
+      "en": "Kia K5 2023",
+      "ar": "Kia K5 2023"
     },
     "price": 277000,
     "quickFacts": [
@@ -39073,7 +39073,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -39138,7 +39138,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -39168,7 +39168,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -39191,8 +39191,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657503",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 2",
-      "ar": "Volkswagen Golf 2"
+      "en": "Volkswagen Golf 2 1986",
+      "ar": "Volkswagen Golf 2 1986"
     },
     "price": 45000,
     "quickFacts": [
@@ -39210,7 +39210,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -39275,7 +39275,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -39315,7 +39315,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -39357,8 +39357,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657502",
     "kind": "Car",
     "title": {
-      "en": "Renault Kangoo",
-      "ar": "Renault Kangoo"
+      "en": "Renault Kangoo 2020",
+      "ar": "Renault Kangoo 2020"
     },
     "price": 140000,
     "quickFacts": [
@@ -39376,7 +39376,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -39441,7 +39441,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -39481,7 +39481,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -39501,8 +39501,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657505",
     "kind": "Car",
     "title": {
-      "en": "Renault Clio",
-      "ar": "Renault Clio"
+      "en": "Renault Clio 2013",
+      "ar": "Renault Clio 2013"
     },
     "price": 88000,
     "quickFacts": [
@@ -39520,7 +39520,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -39585,7 +39585,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -39625,7 +39625,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -39717,8 +39717,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657507",
     "kind": "Car",
     "title": {
-      "en": "Dacia Logan",
-      "ar": "Dacia Logan"
+      "en": "Dacia Logan 2025",
+      "ar": "Dacia Logan 2025"
     },
     "price": 153000,
     "quickFacts": [
@@ -39736,7 +39736,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -39801,7 +39801,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -39841,7 +39841,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -39855,8 +39855,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657506",
     "kind": "Car",
     "title": {
-      "en": "Hyundai i10",
-      "ar": "Hyundai i10"
+      "en": "Hyundai i10 2016",
+      "ar": "Hyundai i10 2016"
     },
     "price": 95000,
     "quickFacts": [
@@ -39874,7 +39874,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -39939,7 +39939,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -39979,7 +39979,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -39998,8 +39998,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-633107",
     "kind": "Car",
     "title": {
-      "en": "Fiat 500",
-      "ar": "Fiat 500"
+      "en": "Fiat 500 2022",
+      "ar": "Fiat 500 2022"
     },
     "price": 147000,
     "quickFacts": [
@@ -40017,7 +40017,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -40082,7 +40082,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -40122,7 +40122,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -40216,8 +40216,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657488",
     "kind": "Car",
     "title": {
-      "en": "Renault Megane",
-      "ar": "Renault Megane"
+      "en": "Renault Megane 2004",
+      "ar": "Renault Megane 2004"
     },
     "price": 48000,
     "quickFacts": [
@@ -40235,7 +40235,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -40300,7 +40300,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -40340,7 +40340,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -40392,8 +40392,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657489",
     "kind": "Car",
     "title": {
-      "en": "Citroën C3",
-      "ar": "Citroën C3"
+      "en": "Citroën C3 2016",
+      "ar": "Citroën C3 2016"
     },
     "price": 960000,
     "quickFacts": [
@@ -40411,7 +40411,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -40476,7 +40476,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -40506,7 +40506,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -40543,8 +40543,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657491",
     "kind": "Car",
     "title": {
-      "en": "Dacia Duster",
-      "ar": "Dacia Duster"
+      "en": "Dacia Duster 2012",
+      "ar": "Dacia Duster 2012"
     },
     "price": 1100000,
     "quickFacts": [
@@ -40562,7 +40562,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -40627,7 +40627,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -40667,7 +40667,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -40735,8 +40735,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-505637",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson",
-      "ar": "Hyundai Tucson"
+      "en": "Hyundai Tucson 2022",
+      "ar": "Hyundai Tucson 2022"
     },
     "price": 295000,
     "quickFacts": [
@@ -40754,7 +40754,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -40819,7 +40819,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -40859,7 +40859,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -40933,8 +40933,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657492",
     "kind": "Car",
     "title": {
-      "en": "Nissan Note",
-      "ar": "Nissan Note"
+      "en": "Nissan Note 2016",
+      "ar": "Nissan Note 2016"
     },
     "price": 120000,
     "quickFacts": [
@@ -40952,7 +40952,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -41017,7 +41017,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -41057,7 +41057,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -41136,8 +41136,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657493",
     "kind": "Car",
     "title": {
-      "en": "Kia Sportage",
-      "ar": "Kia Sportage"
+      "en": "Kia Sportage 2011",
+      "ar": "Kia Sportage 2011"
     },
     "price": 118000,
     "quickFacts": [
@@ -41155,7 +41155,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -41220,7 +41220,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -41260,7 +41260,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -41352,8 +41352,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657494",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Passat",
-      "ar": "Volkswagen Passat"
+      "en": "Volkswagen Passat 2009",
+      "ar": "Volkswagen Passat 2009"
     },
     "price": 110000,
     "quickFacts": [
@@ -41371,7 +41371,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -41436,7 +41436,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -41476,7 +41476,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -41553,8 +41553,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657479",
     "kind": "Car",
     "title": {
-      "en": "Dacia Logan",
-      "ar": "Dacia Logan"
+      "en": "Dacia Logan 2006",
+      "ar": "Dacia Logan 2006"
     },
     "price": 63000,
     "quickFacts": [
@@ -41572,7 +41572,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -41637,7 +41637,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -41677,7 +41677,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -41691,8 +41691,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657481",
     "kind": "Car",
     "title": {
-      "en": "Chevrolet Optra",
-      "ar": "Chevrolet Optra"
+      "en": "Chevrolet Optra 2008",
+      "ar": "Chevrolet Optra 2008"
     },
     "price": 43000,
     "quickFacts": [
@@ -41710,7 +41710,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -41775,7 +41775,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -41815,7 +41815,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -41867,8 +41867,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657480",
     "kind": "Car",
     "title": {
-      "en": "Fiat Freemont",
-      "ar": "Fiat Freemont"
+      "en": "Fiat Freemont 2013",
+      "ar": "Fiat Freemont 2013"
     },
     "price": 83000,
     "quickFacts": [
@@ -41886,7 +41886,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -41951,7 +41951,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -41991,7 +41991,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -42052,8 +42052,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-649407",
     "kind": "Car",
     "title": {
-      "en": "Ford Tourneo Connect",
-      "ar": "Ford Tourneo Connect"
+      "en": "Ford Tourneo Connect 2021",
+      "ar": "Ford Tourneo Connect 2021"
     },
     "price": 262000,
     "quickFacts": [
@@ -42071,7 +42071,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -42136,7 +42136,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -42176,7 +42176,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -42268,8 +42268,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657482",
     "kind": "Car",
     "title": {
-      "en": "Kia Sportage",
-      "ar": "Kia Sportage"
+      "en": "Kia Sportage 2026",
+      "ar": "Kia Sportage 2026"
     },
     "price": 300000,
     "quickFacts": [
@@ -42287,7 +42287,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -42352,7 +42352,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -42392,7 +42392,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -42469,8 +42469,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657483",
     "kind": "Car",
     "title": {
-      "en": "Fiat Palio",
-      "ar": "Fiat Palio"
+      "en": "Fiat Palio 2004",
+      "ar": "Fiat Palio 2004"
     },
     "price": 33000,
     "quickFacts": [
@@ -42488,7 +42488,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -42553,7 +42553,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -42593,7 +42593,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -42622,8 +42622,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657484",
     "kind": "Car",
     "title": {
-      "en": "Dacia Duster",
-      "ar": "Dacia Duster"
+      "en": "Dacia Duster 2022",
+      "ar": "Dacia Duster 2022"
     },
     "price": 175000,
     "quickFacts": [
@@ -42641,7 +42641,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -42706,7 +42706,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -42746,7 +42746,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -42800,8 +42800,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657485",
     "kind": "Car",
     "title": {
-      "en": "Fiat 500",
-      "ar": "Fiat 500"
+      "en": "Fiat 500 2020",
+      "ar": "Fiat 500 2020"
     },
     "price": 120000,
     "quickFacts": [
@@ -42819,7 +42819,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -42884,7 +42884,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -42924,7 +42924,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -43001,8 +43001,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-644385",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha x-max 250 - Xmax 250",
-      "ar": "Yamaha x-max 250 - Xmax 250"
+      "en": "Yamaha x-max 250 - Xmax 250 2014",
+      "ar": "Yamaha x-max 250 - Xmax 250 2014"
     },
     "price": 32000,
     "quickFacts": [
@@ -43020,7 +43020,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -43095,7 +43095,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -43125,7 +43125,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -43143,8 +43143,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-643029",
     "kind": "Moto",
     "title": {
-      "en": "BMW c 650 gt - Moto c650 gt",
-      "ar": "BMW c 650 gt - Moto c650 gt"
+      "en": "BMW c 650 gt - Moto c650 gt 2013",
+      "ar": "BMW c 650 gt - Moto c650 gt 2013"
     },
     "price": 68000,
     "quickFacts": [
@@ -43162,7 +43162,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -43237,7 +43237,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -43267,7 +43267,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -43283,8 +43283,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-642270",
     "kind": "Moto",
     "title": {
-      "en": "BMW f 800 gs",
-      "ar": "BMW f 800 gs"
+      "en": "BMW f 800 gs 2018",
+      "ar": "BMW f 800 gs 2018"
     },
     "price": 98000,
     "quickFacts": [
@@ -43302,7 +43302,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -43377,7 +43377,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -43397,7 +43397,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -43414,8 +43414,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-636916",
     "kind": "Moto",
     "title": {
-      "en": "KTM autre - 1",
-      "ar": "KTM autre - 1"
+      "en": "KTM autre - 1 2021",
+      "ar": "KTM autre - 1 2021"
     },
     "price": 119000,
     "quickFacts": [
@@ -43615,8 +43615,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-633039",
     "kind": "Moto",
     "title": {
-      "en": "BMW r 1200 gs adventure - R 1200 GS LC",
-      "ar": "BMW r 1200 gs adventure - R 1200 GS LC"
+      "en": "BMW r 1200 gs adventure - R 1200 GS LC 2013",
+      "ar": "BMW r 1200 gs adventure - R 1200 GS LC 2013"
     },
     "price": 105000,
     "quickFacts": [
@@ -43634,7 +43634,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -43709,7 +43709,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -43739,7 +43739,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -43756,8 +43756,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-632221",
     "kind": "Moto",
     "title": {
-      "en": "Harley-Davidson autre",
-      "ar": "Harley-Davidson autre"
+      "en": "Harley-Davidson autre 2019",
+      "ar": "Harley-Davidson autre 2019"
     },
     "price": 170000,
     "quickFacts": [
@@ -43775,7 +43775,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -43850,7 +43850,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -43880,7 +43880,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -43899,8 +43899,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-628172",
     "kind": "Moto",
     "title": {
-      "en": "Tech",
-      "ar": "Tech"
+      "en": "Tech 2022",
+      "ar": "Tech 2022"
     },
     "price": 129000,
     "quickFacts": [
@@ -43993,8 +43993,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-624579",
     "kind": "Moto",
     "title": {
-      "en": "BMW f 850 gs - GS adventure",
-      "ar": "BMW f 850 gs - GS adventure"
+      "en": "BMW f 850 gs - GS adventure 2022",
+      "ar": "BMW f 850 gs - GS adventure 2022"
     },
     "price": 140000,
     "quickFacts": [
@@ -44130,7 +44130,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -44205,7 +44205,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -44235,7 +44235,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -44251,8 +44251,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-619152",
     "kind": "Moto",
     "title": {
-      "en": "SYM autre",
-      "ar": "SYM autre"
+      "en": "SYM autre 2023",
+      "ar": "SYM autre 2023"
     },
     "price": 21000,
     "quickFacts": [
@@ -44270,7 +44270,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -44345,7 +44345,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -44375,7 +44375,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -44393,8 +44393,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-619052",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha mt-03",
-      "ar": "Yamaha mt-03"
+      "en": "Yamaha mt-03 2011",
+      "ar": "Yamaha mt-03 2011"
     },
     "price": 45000,
     "quickFacts": [
@@ -44412,7 +44412,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -44487,7 +44487,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -44517,7 +44517,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -44534,8 +44534,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-618804",
     "kind": "Moto",
     "title": {
-      "en": "Cimatti monstre - Evo 4",
-      "ar": "Cimatti monstre - Evo 4"
+      "en": "Cimatti monstre - Evo 4 2025",
+      "ar": "Cimatti monstre - Evo 4 2025"
     },
     "price": 15000,
     "quickFacts": [
@@ -44553,7 +44553,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -44628,7 +44628,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -44658,7 +44658,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -44675,8 +44675,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-614983",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha nmax 155",
-      "ar": "Yamaha nmax 155"
+      "en": "Yamaha nmax 155 2020",
+      "ar": "Yamaha nmax 155 2020"
     },
     "price": 35500,
     "quickFacts": [
@@ -44694,7 +44694,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -44769,7 +44769,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -44799,7 +44799,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -44814,8 +44814,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-512197",
     "kind": "Moto",
     "title": {
-      "en": "Harley-Davidson autre - Ultra Limited FLHTH",
-      "ar": "Harley-Davidson autre - Ultra Limited FLHTH"
+      "en": "Harley-Davidson autre - Ultra Limited FLHTH 2021",
+      "ar": "Harley-Davidson autre - Ultra Limited FLHTH 2021"
     },
     "price": 240000,
     "quickFacts": [
@@ -44833,7 +44833,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -44908,7 +44908,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -44938,7 +44938,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -44958,8 +44958,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-509119",
     "kind": "Moto",
     "title": {
-      "en": "Benelli 502c - TRK 502",
-      "ar": "Benelli 502c - TRK 502"
+      "en": "Benelli 502c - TRK 502 2023",
+      "ar": "Benelli 502c - TRK 502 2023"
     },
     "price": 72000,
     "quickFacts": [
@@ -44977,7 +44977,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -45052,7 +45052,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -45082,7 +45082,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -45105,8 +45105,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-507181",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha stunt",
-      "ar": "Yamaha stunt"
+      "en": "Yamaha stunt 2012",
+      "ar": "Yamaha stunt 2012"
     },
     "price": 10500,
     "quickFacts": [
@@ -45124,7 +45124,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -45199,7 +45199,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -45219,7 +45219,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -45254,7 +45254,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -45329,7 +45329,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -45359,7 +45359,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -45378,8 +45378,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-504890",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha xt1200z super tenere",
-      "ar": "Yamaha xt1200z super tenere"
+      "en": "Yamaha xt1200z super tenere 2020",
+      "ar": "Yamaha xt1200z super tenere 2020"
     },
     "price": 120000,
     "quickFacts": [
@@ -45397,7 +45397,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -45472,7 +45472,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -45502,7 +45502,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -45518,8 +45518,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-503801",
     "kind": "Moto",
     "title": {
-      "en": "Maxwheel gt4",
-      "ar": "Maxwheel gt4"
+      "en": "Maxwheel gt4 2025",
+      "ar": "Maxwheel gt4 2025"
     },
     "price": 7500,
     "quickFacts": [
@@ -45537,7 +45537,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -45612,7 +45612,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -45622,7 +45622,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -45643,8 +45643,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-499375",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha mt-07 - Essence",
-      "ar": "Yamaha mt-07 - Essence"
+      "en": "Yamaha mt-07 - Essence 2020",
+      "ar": "Yamaha mt-07 - Essence 2020"
     },
     "price": 80000,
     "quickFacts": [
@@ -45662,7 +45662,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -45737,7 +45737,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -45767,7 +45767,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -45788,8 +45788,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-498497",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha v-max vmx 1200 - Vmax 1700",
-      "ar": "Yamaha v-max vmx 1200 - Vmax 1700"
+      "en": "Yamaha v-max vmx 1200 - Vmax 1700 2011",
+      "ar": "Yamaha v-max vmx 1200 - Vmax 1700 2011"
     },
     "price": 160000,
     "quickFacts": [
@@ -45807,7 +45807,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -45882,7 +45882,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -45912,7 +45912,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -45926,8 +45926,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-491819",
     "kind": "Moto",
     "title": {
-      "en": "BMW R",
-      "ar": "BMW R"
+      "en": "BMW R 2024",
+      "ar": "BMW R 2024"
     },
     "price": 245000,
     "quickFacts": [
@@ -46017,8 +46017,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-488253",
     "kind": "Moto",
     "title": {
-      "en": "BMW r1250 rt",
-      "ar": "BMW r1250 rt"
+      "en": "BMW r1250 rt 2022",
+      "ar": "BMW r1250 rt 2022"
     },
     "price": 250000,
     "quickFacts": [
@@ -46135,8 +46135,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-488105",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha t‑max tech max",
-      "ar": "Yamaha t‑max tech max"
+      "en": "Yamaha t‑max tech max 2022",
+      "ar": "Yamaha t‑max tech max 2022"
     },
     "price": 135000,
     "quickFacts": [
@@ -46256,8 +46256,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657487",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 408",
-      "ar": "Peugeot 408"
+      "en": "Peugeot 408 2026",
+      "ar": "Peugeot 408 2026"
     },
     "price": 295000,
     "quickFacts": [
@@ -46275,7 +46275,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -46340,7 +46340,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -46380,7 +46380,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -46470,8 +46470,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657469",
     "kind": "Car",
     "title": {
-      "en": "Citroën Berlingo",
-      "ar": "Citroën Berlingo"
+      "en": "Citroën Berlingo 2012",
+      "ar": "Citroën Berlingo 2012"
     },
     "price": 70000,
     "quickFacts": [
@@ -46489,7 +46489,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -46554,7 +46554,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -46594,7 +46594,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -46626,8 +46626,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-650546",
     "kind": "Car",
     "title": {
-      "en": "Neo Motors BVM",
-      "ar": "Neo Motors BVM"
+      "en": "Neo Motors BVM 2024",
+      "ar": "Neo Motors BVM 2024"
     },
     "price": 140000,
     "quickFacts": [
@@ -46645,7 +46645,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -46710,7 +46710,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -46750,7 +46750,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -46817,8 +46817,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-653562",
     "kind": "Car",
     "title": {
-      "en": "Audi A6",
-      "ar": "Audi A6"
+      "en": "Audi A6 2014",
+      "ar": "Audi A6 2014"
     },
     "price": 175000,
     "quickFacts": [
@@ -46836,7 +46836,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -46901,7 +46901,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -46941,7 +46941,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -47022,8 +47022,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-518414",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Vogue",
-      "ar": "Land Rover Range Rover Vogue"
+      "en": "Land Rover Range Rover Vogue 2015",
+      "ar": "Land Rover Range Rover Vogue 2015"
     },
     "price": 320000,
     "quickFacts": [
@@ -47041,7 +47041,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -47106,7 +47106,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -47146,7 +47146,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -47167,8 +47167,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657471",
     "kind": "Car",
     "title": {
-      "en": "Citroën Berlingo",
-      "ar": "Citroën Berlingo"
+      "en": "Citroën Berlingo 2012",
+      "ar": "Citroën Berlingo 2012"
     },
     "price": 70000,
     "quickFacts": [
@@ -47186,7 +47186,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -47251,7 +47251,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -47291,7 +47291,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -47323,8 +47323,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-491713",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Sport",
-      "ar": "Land Rover Range Rover Sport"
+      "en": "Land Rover Range Rover Sport 2011",
+      "ar": "Land Rover Range Rover Sport 2011"
     },
     "price": 105000,
     "quickFacts": [
@@ -47342,7 +47342,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -47407,7 +47407,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -47447,7 +47447,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -47540,8 +47540,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-650390",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Sport",
-      "ar": "Land Rover Range Rover Sport"
+      "en": "Land Rover Range Rover Sport 2013",
+      "ar": "Land Rover Range Rover Sport 2013"
     },
     "price": 130000,
     "quickFacts": [
@@ -47559,7 +47559,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -47624,7 +47624,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -47664,7 +47664,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -47756,8 +47756,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657472",
     "kind": "Car",
     "title": {
-      "en": "Dacia Logan",
-      "ar": "Dacia Logan"
+      "en": "Dacia Logan 2017",
+      "ar": "Dacia Logan 2017"
     },
     "price": 107000,
     "quickFacts": [
@@ -47775,7 +47775,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -47840,7 +47840,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -47880,7 +47880,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -47922,8 +47922,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494511",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Sport",
-      "ar": "Land Rover Range Rover Sport"
+      "en": "Land Rover Range Rover Sport 2016",
+      "ar": "Land Rover Range Rover Sport 2016"
     },
     "price": 300000,
     "quickFacts": [
@@ -47941,7 +47941,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -48006,7 +48006,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -48046,7 +48046,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -48138,8 +48138,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657473",
     "kind": "Car",
     "title": {
-      "en": "Alfa Romeo Giulietta",
-      "ar": "Alfa Romeo Giulietta"
+      "en": "Alfa Romeo Giulietta 2012",
+      "ar": "Alfa Romeo Giulietta 2012"
     },
     "price": 120000,
     "quickFacts": [
@@ -48157,7 +48157,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -48222,7 +48222,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -48262,7 +48262,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -48354,8 +48354,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657474",
     "kind": "Car",
     "title": {
-      "en": "Kia Sonet",
-      "ar": "Kia Sonet"
+      "en": "Kia Sonet 2023",
+      "ar": "Kia Sonet 2023"
     },
     "price": 220000,
     "quickFacts": [
@@ -48373,7 +48373,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -48438,7 +48438,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -48478,7 +48478,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -48564,8 +48564,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-472645",
     "kind": "Car",
     "title": {
-      "en": "Citroën C4",
-      "ar": "Citroën C4"
+      "en": "Citroën C4 2023",
+      "ar": "Citroën C4 2023"
     },
     "price": 208000,
     "quickFacts": [
@@ -48583,7 +48583,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -48648,7 +48648,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -48688,7 +48688,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -48782,8 +48782,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-631701",
     "kind": "Car",
     "title": {
-      "en": "Kia Sorento",
-      "ar": "Kia Sorento"
+      "en": "Kia Sorento 2021",
+      "ar": "Kia Sorento 2021"
     },
     "price": 283000,
     "quickFacts": [
@@ -48801,7 +48801,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -48866,7 +48866,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -48896,7 +48896,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -48917,8 +48917,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-486120",
     "kind": "Car",
     "title": {
-      "en": "Porsche Macan",
-      "ar": "Porsche Macan"
+      "en": "Porsche Macan 2020",
+      "ar": "Porsche Macan 2020"
     },
     "price": 480000,
     "quickFacts": [
@@ -48936,7 +48936,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -49001,7 +49001,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -49041,7 +49041,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -49135,8 +49135,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657476",
     "kind": "Car",
     "title": {
-      "en": "Renault Captur",
-      "ar": "Renault Captur"
+      "en": "Renault Captur 2022",
+      "ar": "Renault Captur 2022"
     },
     "price": 210000,
     "quickFacts": [
@@ -49154,7 +49154,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -49219,7 +49219,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -49259,7 +49259,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -49342,8 +49342,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-646697",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz 220",
-      "ar": "Mercedes-Benz 220"
+      "en": "Mercedes-Benz 220 2016",
+      "ar": "Mercedes-Benz 220 2016"
     },
     "price": 297000,
     "quickFacts": [
@@ -49361,7 +49361,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -49426,7 +49426,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -49466,7 +49466,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -49543,8 +49543,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-477360",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe CLA",
-      "ar": "Mercedes-Benz Classe CLA"
+      "en": "Mercedes-Benz Classe CLA 2020",
+      "ar": "Mercedes-Benz Classe CLA 2020"
     },
     "price": 380000,
     "quickFacts": [
@@ -49562,7 +49562,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -49627,7 +49627,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -49667,7 +49667,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -49761,8 +49761,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657477",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 5",
-      "ar": "BMW Série 5"
+      "en": "BMW Série 5 2022",
+      "ar": "BMW Série 5 2022"
     },
     "price": 405000,
     "quickFacts": [
@@ -49780,7 +49780,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -49845,7 +49845,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -49875,7 +49875,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -49964,8 +49964,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657478",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2022",
+      "ar": "Volkswagen Tiguan 2022"
     },
     "price": 430000,
     "quickFacts": [
@@ -49983,7 +49983,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -50048,7 +50048,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -50088,7 +50088,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -50167,8 +50167,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-474866",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Sport",
-      "ar": "Land Rover Range Rover Sport"
+      "en": "Land Rover Range Rover Sport 2016",
+      "ar": "Land Rover Range Rover Sport 2016"
     },
     "price": 305000,
     "quickFacts": [
@@ -50186,7 +50186,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -50251,7 +50251,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -50291,7 +50291,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -50385,8 +50385,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657449",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 307",
-      "ar": "Peugeot 307"
+      "en": "Peugeot 307 2002",
+      "ar": "Peugeot 307 2002"
     },
     "price": 60000,
     "quickFacts": [
@@ -50404,7 +50404,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -50469,7 +50469,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -50509,7 +50509,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -50555,8 +50555,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657448",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Evoque",
-      "ar": "Land Rover Range Rover Evoque"
+      "en": "Land Rover Range Rover Evoque 2019",
+      "ar": "Land Rover Range Rover Evoque 2019"
     },
     "price": 2750000,
     "quickFacts": [
@@ -50574,7 +50574,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -50639,7 +50639,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -50679,7 +50679,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -50761,8 +50761,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-468547",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Touareg",
-      "ar": "Volkswagen Touareg"
+      "en": "Volkswagen Touareg 2013",
+      "ar": "Volkswagen Touareg 2013"
     },
     "price": 105000,
     "quickFacts": [
@@ -50780,7 +50780,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -50845,7 +50845,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -50885,7 +50885,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -50978,8 +50978,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-468633",
     "kind": "Car",
     "title": {
-      "en": "Volvo S60",
-      "ar": "Volvo S60"
+      "en": "Volvo S60 2016",
+      "ar": "Volvo S60 2016"
     },
     "price": 140000,
     "quickFacts": [
@@ -50997,7 +50997,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -51062,7 +51062,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -51102,7 +51102,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -51194,8 +51194,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-624096",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 2",
-      "ar": "BMW Série 2"
+      "en": "BMW Série 2 2017",
+      "ar": "BMW Série 2 2017"
     },
     "price": 210000,
     "quickFacts": [
@@ -51213,7 +51213,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -51278,7 +51278,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -51318,7 +51318,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -51401,8 +51401,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-631496",
     "kind": "Car",
     "title": {
-      "en": "Toyota Corolla",
-      "ar": "Toyota Corolla"
+      "en": "Toyota Corolla 2020",
+      "ar": "Toyota Corolla 2020"
     },
     "price": 180000,
     "quickFacts": [
@@ -51420,7 +51420,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -51485,7 +51485,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -51525,7 +51525,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -51597,8 +51597,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657452",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson",
-      "ar": "Hyundai Tucson"
+      "en": "Hyundai Tucson 2024",
+      "ar": "Hyundai Tucson 2024"
     },
     "price": 340000,
     "quickFacts": [
@@ -51616,7 +51616,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -51681,7 +51681,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -51721,7 +51721,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -51811,8 +51811,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657453",
     "kind": "Car",
     "title": {
-      "en": "Dacia Logan",
-      "ar": "Dacia Logan"
+      "en": "Dacia Logan 2014",
+      "ar": "Dacia Logan 2014"
     },
     "price": 87000,
     "quickFacts": [
@@ -51830,7 +51830,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -51895,7 +51895,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -51935,7 +51935,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -52022,8 +52022,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657456",
     "kind": "Car",
     "title": {
-      "en": "Cupra Formentor",
-      "ar": "Cupra Formentor"
+      "en": "Cupra Formentor 2024",
+      "ar": "Cupra Formentor 2024"
     },
     "price": 370000,
     "quickFacts": [
@@ -52041,7 +52041,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -52106,7 +52106,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -52146,7 +52146,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -52233,8 +52233,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657310",
     "kind": "Car",
     "title": {
-      "en": "Ford Kuga",
-      "ar": "Ford Kuga"
+      "en": "Ford Kuga 2020",
+      "ar": "Ford Kuga 2020"
     },
     "price": 190000,
     "quickFacts": [
@@ -52252,7 +52252,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -52317,7 +52317,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -52347,7 +52347,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -52416,8 +52416,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657450",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Touareg",
-      "ar": "Volkswagen Touareg"
+      "en": "Volkswagen Touareg 2009",
+      "ar": "Volkswagen Touareg 2009"
     },
     "price": 72000,
     "quickFacts": [
@@ -52435,7 +52435,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -52500,7 +52500,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -52540,7 +52540,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -52705,8 +52705,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-655402",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Santa Fe",
-      "ar": "Hyundai Santa Fe"
+      "en": "Hyundai Santa Fe 2013",
+      "ar": "Hyundai Santa Fe 2013"
     },
     "price": 170000,
     "quickFacts": [
@@ -52724,7 +52724,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -52789,7 +52789,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -52829,7 +52829,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -52921,8 +52921,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-646457",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 6",
-      "ar": "Volkswagen Golf 6"
+      "en": "Volkswagen Golf 6 2012",
+      "ar": "Volkswagen Golf 6 2012"
     },
     "price": 12500,
     "quickFacts": [
@@ -52940,7 +52940,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -53005,7 +53005,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -53045,7 +53045,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -53130,8 +53130,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657457",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson",
-      "ar": "Hyundai Tucson"
+      "en": "Hyundai Tucson 2024",
+      "ar": "Hyundai Tucson 2024"
     },
     "price": 340000,
     "quickFacts": [
@@ -53149,7 +53149,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -53214,7 +53214,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -53254,7 +53254,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -53343,8 +53343,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494158",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 7",
-      "ar": "Volkswagen Golf 7"
+      "en": "Volkswagen Golf 7 2015",
+      "ar": "Volkswagen Golf 7 2015"
     },
     "price": 200000,
     "quickFacts": [
@@ -53362,7 +53362,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -53427,7 +53427,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -53467,7 +53467,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -53554,8 +53554,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657458",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 208",
-      "ar": "Peugeot 208"
+      "en": "Peugeot 208 2015",
+      "ar": "Peugeot 208 2015"
     },
     "price": 88000,
     "quickFacts": [
@@ -53573,7 +53573,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -53638,7 +53638,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -53678,7 +53678,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -53740,8 +53740,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657460",
     "kind": "Car",
     "title": {
-      "en": "Dacia Sandero",
-      "ar": "Dacia Sandero"
+      "en": "Dacia Sandero 2021",
+      "ar": "Dacia Sandero 2021"
     },
     "price": 105000,
     "quickFacts": [
@@ -53759,7 +53759,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -53824,7 +53824,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -53864,7 +53864,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -53909,8 +53909,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657462",
     "kind": "Car",
     "title": {
-      "en": "Jeep Grand Cherokee",
-      "ar": "Jeep Grand Cherokee"
+      "en": "Jeep Grand Cherokee 2014",
+      "ar": "Jeep Grand Cherokee 2014"
     },
     "price": 115000,
     "quickFacts": [
@@ -53928,7 +53928,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -53993,7 +53993,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -54023,7 +54023,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -54115,8 +54115,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657463",
     "kind": "Car",
     "title": {
-      "en": "Toyota RAV-4",
-      "ar": "Toyota RAV-4"
+      "en": "Toyota RAV-4 2012",
+      "ar": "Toyota RAV-4 2012"
     },
     "price": 129000,
     "quickFacts": [
@@ -54134,7 +54134,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -54199,7 +54199,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -54239,7 +54239,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -54311,8 +54311,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-486125",
     "kind": "Car",
     "title": {
-      "en": "Audi Autre",
-      "ar": "Audi Autre"
+      "en": "Audi Autre 2023",
+      "ar": "Audi Autre 2023"
     },
     "price": 620000,
     "quickFacts": [
@@ -54330,7 +54330,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -54395,7 +54395,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -54435,7 +54435,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -54529,8 +54529,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657465",
     "kind": "Car",
     "title": {
-      "en": "Renault Kangoo",
-      "ar": "Renault Kangoo"
+      "en": "Renault Kangoo 2009",
+      "ar": "Renault Kangoo 2009"
     },
     "price": 950000,
     "quickFacts": [
@@ -54548,7 +54548,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -54613,7 +54613,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -54643,7 +54643,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -54660,8 +54660,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657466",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 208",
-      "ar": "Peugeot 208"
+      "en": "Peugeot 208 2015",
+      "ar": "Peugeot 208 2015"
     },
     "price": 87000,
     "quickFacts": [
@@ -54679,7 +54679,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -54744,7 +54744,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -54784,7 +54784,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -54861,8 +54861,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-495929",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 3",
-      "ar": "BMW Série 3"
+      "en": "BMW Série 3 2015",
+      "ar": "BMW Série 3 2015"
     },
     "price": 176000,
     "quickFacts": [
@@ -54880,7 +54880,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -54945,7 +54945,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -54985,7 +54985,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -55077,8 +55077,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-484009",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 2008",
-      "ar": "Peugeot 2008"
+      "en": "Peugeot 2008 2023",
+      "ar": "Peugeot 2008 2023"
     },
     "price": 230000,
     "quickFacts": [
@@ -55096,7 +55096,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -55161,7 +55161,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -55201,7 +55201,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -55290,8 +55290,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657467",
     "kind": "Car",
     "title": {
-      "en": "Skoda Fabia",
-      "ar": "Skoda Fabia"
+      "en": "Skoda Fabia 2002",
+      "ar": "Skoda Fabia 2002"
     },
     "price": 53000,
     "quickFacts": [
@@ -55309,7 +55309,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -55374,7 +55374,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -55404,7 +55404,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -55420,8 +55420,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657434",
     "kind": "Car",
     "title": {
-      "en": "Fiat Uno",
-      "ar": "Fiat Uno"
+      "en": "Fiat Uno 1999",
+      "ar": "Fiat Uno 1999"
     },
     "price": 26000,
     "quickFacts": [
@@ -55439,7 +55439,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -55504,7 +55504,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -55544,7 +55544,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -55570,8 +55570,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-511288",
     "kind": "Car",
     "title": {
-      "en": "BMW X4",
-      "ar": "BMW X4"
+      "en": "BMW X4 2016",
+      "ar": "BMW X4 2016"
     },
     "price": 230000,
     "quickFacts": [
@@ -55589,7 +55589,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -55654,7 +55654,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -55694,7 +55694,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -55785,8 +55785,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657435",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Touareg",
-      "ar": "Volkswagen Touareg"
+      "en": "Volkswagen Touareg 2021",
+      "ar": "Volkswagen Touareg 2021"
     },
     "price": 350000,
     "quickFacts": [
@@ -55804,7 +55804,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -55869,7 +55869,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -55909,7 +55909,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -55950,8 +55950,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-653072",
     "kind": "Car",
     "title": {
-      "en": "Opel Corsa",
-      "ar": "Opel Corsa"
+      "en": "Opel Corsa 2024",
+      "ar": "Opel Corsa 2024"
     },
     "price": 168000,
     "quickFacts": [
@@ -55969,7 +55969,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -56034,7 +56034,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -56074,7 +56074,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -56150,8 +56150,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657436",
     "kind": "Car",
     "title": {
-      "en": "Dacia Dokker",
-      "ar": "Dacia Dokker"
+      "en": "Dacia Dokker 2019",
+      "ar": "Dacia Dokker 2019"
     },
     "price": 125000,
     "quickFacts": [
@@ -56169,7 +56169,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -56234,7 +56234,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -56264,7 +56264,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -56282,8 +56282,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657437",
     "kind": "Car",
     "title": {
-      "en": "Kia Picanto",
-      "ar": "Kia Picanto"
+      "en": "Kia Picanto 2017",
+      "ar": "Kia Picanto 2017"
     },
     "price": 93000,
     "quickFacts": [
@@ -56301,7 +56301,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -56366,7 +56366,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -56396,7 +56396,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -56431,8 +56431,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-534983",
     "kind": "Car",
     "title": {
-      "en": "Jeep Wrangler",
-      "ar": "Jeep Wrangler"
+      "en": "Jeep Wrangler 2015",
+      "ar": "Jeep Wrangler 2015"
     },
     "price": 250000,
     "quickFacts": [
@@ -56450,7 +56450,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -56515,7 +56515,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -56555,7 +56555,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -56631,8 +56631,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657439",
     "kind": "Car",
     "title": {
-      "en": "Dacia Sandero",
-      "ar": "Dacia Sandero"
+      "en": "Dacia Sandero 2021",
+      "ar": "Dacia Sandero 2021"
     },
     "price": 147000000,
     "quickFacts": [
@@ -56650,7 +56650,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -56715,7 +56715,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -56755,7 +56755,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -56826,8 +56826,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-491719",
     "kind": "Car",
     "title": {
-      "en": "Opel Insignia",
-      "ar": "Opel Insignia"
+      "en": "Opel Insignia 2012",
+      "ar": "Opel Insignia 2012"
     },
     "price": 103000,
     "quickFacts": [
@@ -56845,7 +56845,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -56910,7 +56910,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -56950,7 +56950,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -57044,8 +57044,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-634101",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 3008",
-      "ar": "Peugeot 3008"
+      "en": "Peugeot 3008 2021",
+      "ar": "Peugeot 3008 2021"
     },
     "price": 245000,
     "quickFacts": [
@@ -57063,7 +57063,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -57128,7 +57128,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -57168,7 +57168,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -57261,8 +57261,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657440",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 405",
-      "ar": "Peugeot 405"
+      "en": "Peugeot 405 1997",
+      "ar": "Peugeot 405 1997"
     },
     "price": 180000,
     "quickFacts": [
@@ -57280,7 +57280,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -57345,7 +57345,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -57385,7 +57385,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -57410,8 +57410,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-515726",
     "kind": "Car",
     "title": {
-      "en": "Audi Q5",
-      "ar": "Audi Q5"
+      "en": "Audi Q5 2019",
+      "ar": "Audi Q5 2019"
     },
     "price": 340000,
     "quickFacts": [
@@ -57429,7 +57429,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -57494,7 +57494,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -57534,7 +57534,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -57616,8 +57616,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657441",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Touareg",
-      "ar": "Volkswagen Touareg"
+      "en": "Volkswagen Touareg 2008",
+      "ar": "Volkswagen Touareg 2008"
     },
     "price": 80000,
     "quickFacts": [
@@ -57635,7 +57635,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -57700,7 +57700,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -57740,7 +57740,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -57812,8 +57812,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-467404",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Sport",
-      "ar": "Land Rover Range Rover Sport"
+      "en": "Land Rover Range Rover Sport 2011",
+      "ar": "Land Rover Range Rover Sport 2011"
     },
     "price": 105000,
     "quickFacts": [
@@ -57831,7 +57831,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -57896,7 +57896,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -57936,7 +57936,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -58030,8 +58030,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-477892",
     "kind": "Car",
     "title": {
-      "en": "Kia Cerato",
-      "ar": "Kia Cerato"
+      "en": "Kia Cerato 2009",
+      "ar": "Kia Cerato 2009"
     },
     "price": 67000,
     "quickFacts": [
@@ -58049,7 +58049,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -58114,7 +58114,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -58154,7 +58154,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -58236,8 +58236,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-650892",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 7",
-      "ar": "Volkswagen Golf 7"
+      "en": "Volkswagen Golf 7 2016",
+      "ar": "Volkswagen Golf 7 2016"
     },
     "price": 168000,
     "quickFacts": [
@@ -58255,7 +58255,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -58320,7 +58320,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -58360,7 +58360,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -58378,8 +58378,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657443",
     "kind": "Car",
     "title": {
-      "en": "Kia Picanto",
-      "ar": "Kia Picanto"
+      "en": "Kia Picanto 2023",
+      "ar": "Kia Picanto 2023"
     },
     "price": 99000,
     "quickFacts": [
@@ -58397,7 +58397,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -58462,7 +58462,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -58502,7 +58502,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -58574,8 +58574,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657442",
     "kind": "Car",
     "title": {
-      "en": "Opel Corsa",
-      "ar": "Opel Corsa"
+      "en": "Opel Corsa 2024",
+      "ar": "Opel Corsa 2024"
     },
     "price": 200014,
     "quickFacts": [
@@ -58593,7 +58593,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -58658,7 +58658,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -58698,7 +58698,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -58760,8 +58760,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657444",
     "kind": "Car",
     "title": {
-      "en": "Citroën C3",
-      "ar": "Citroën C3"
+      "en": "Citroën C3 2016",
+      "ar": "Citroën C3 2016"
     },
     "price": 96000,
     "quickFacts": [
@@ -58779,7 +58779,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -58844,7 +58844,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -58874,7 +58874,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -58903,8 +58903,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657445",
     "kind": "Car",
     "title": {
-      "en": "Mazda 6",
-      "ar": "Mazda 6"
+      "en": "Mazda 6 2012",
+      "ar": "Mazda 6 2012"
     },
     "price": 78000,
     "quickFacts": [
@@ -58922,7 +58922,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -58987,7 +58987,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -59027,7 +59027,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -59080,8 +59080,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657446",
     "kind": "Car",
     "title": {
-      "en": "Mini Cooper",
-      "ar": "Mini Cooper"
+      "en": "Mini Cooper 2013",
+      "ar": "Mini Cooper 2013"
     },
     "price": 170000,
     "quickFacts": [
@@ -59099,7 +59099,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -59164,7 +59164,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -59204,7 +59204,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -59244,8 +59244,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657414",
     "kind": "Car",
     "title": {
-      "en": "Dacia Duster",
-      "ar": "Dacia Duster"
+      "en": "Dacia Duster 2013",
+      "ar": "Dacia Duster 2013"
     },
     "price": 123000,
     "quickFacts": [
@@ -59263,7 +59263,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -59328,7 +59328,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -59368,7 +59368,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -59391,8 +59391,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657415",
     "kind": "Car",
     "title": {
-      "en": "Dacia Sandero",
-      "ar": "Dacia Sandero"
+      "en": "Dacia Sandero 2022",
+      "ar": "Dacia Sandero 2022"
     },
     "price": 14700000,
     "quickFacts": [
@@ -59410,7 +59410,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -59475,7 +59475,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -59515,7 +59515,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -59583,8 +59583,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657416",
     "kind": "Car",
     "title": {
-      "en": "Honda Accord",
-      "ar": "Honda Accord"
+      "en": "Honda Accord 2014",
+      "ar": "Honda Accord 2014"
     },
     "price": 131000,
     "quickFacts": [
@@ -59602,7 +59602,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -59667,7 +59667,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -59697,7 +59697,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -59770,8 +59770,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657417",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2021",
+      "ar": "Volkswagen Tiguan 2021"
     },
     "price": 310000,
     "quickFacts": [
@@ -59789,7 +59789,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -59854,7 +59854,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -59894,7 +59894,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -59940,8 +59940,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-418795",
     "kind": "Car",
     "title": {
-      "en": "MG MG3 - 2.0",
-      "ar": "MG MG3 - 2.0"
+      "en": "MG MG3 - 2.0 2016",
+      "ar": "MG MG3 - 2.0 2016"
     },
     "price": 79000,
     "quickFacts": [
@@ -59959,7 +59959,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -60024,7 +60024,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -60064,7 +60064,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -60148,8 +60148,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657418",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Gol",
-      "ar": "Volkswagen Gol"
+      "en": "Volkswagen Gol 2005",
+      "ar": "Volkswagen Gol 2005"
     },
     "price": 12000,
     "quickFacts": [
@@ -60167,7 +60167,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -60232,7 +60232,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -60272,7 +60272,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -60288,8 +60288,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657419",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 7",
-      "ar": "Volkswagen Golf 7"
+      "en": "Volkswagen Golf 7 2018",
+      "ar": "Volkswagen Golf 7 2018"
     },
     "price": 155000,
     "quickFacts": [
@@ -60307,7 +60307,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -60372,7 +60372,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -60412,7 +60412,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -60489,8 +60489,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657420",
     "kind": "Car",
     "title": {
-      "en": "Opel Astra",
-      "ar": "Opel Astra"
+      "en": "Opel Astra 2021",
+      "ar": "Opel Astra 2021"
     },
     "price": 144000,
     "quickFacts": [
@@ -60508,7 +60508,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -60573,7 +60573,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -60613,7 +60613,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -60695,8 +60695,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657422",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Evoque",
-      "ar": "Land Rover Range Rover Evoque"
+      "en": "Land Rover Range Rover Evoque 2013",
+      "ar": "Land Rover Range Rover Evoque 2013"
     },
     "price": 160000,
     "quickFacts": [
@@ -60714,7 +60714,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -60779,7 +60779,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -60819,7 +60819,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -60911,8 +60911,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-491712",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 3",
-      "ar": "BMW Série 3"
+      "en": "BMW Série 3 2006",
+      "ar": "BMW Série 3 2006"
     },
     "price": 57000,
     "quickFacts": [
@@ -60930,7 +60930,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -60995,7 +60995,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -61035,7 +61035,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -61129,8 +61129,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657425",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 308",
-      "ar": "Peugeot 308"
+      "en": "Peugeot 308 2011",
+      "ar": "Peugeot 308 2011"
     },
     "price": 90000,
     "quickFacts": [
@@ -61148,7 +61148,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -61213,7 +61213,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -61253,7 +61253,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -61311,8 +61311,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-474405",
     "kind": "Car",
     "title": {
-      "en": "Fiat 500",
-      "ar": "Fiat 500"
+      "en": "Fiat 500 2013",
+      "ar": "Fiat 500 2013"
     },
     "price": 83000,
     "quickFacts": [
@@ -61330,7 +61330,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -61395,7 +61395,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -61435,7 +61435,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -61517,8 +61517,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657426",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 3",
-      "ar": "BMW Série 3"
+      "en": "BMW Série 3 2003",
+      "ar": "BMW Série 3 2003"
     },
     "price": 54000,
     "quickFacts": [
@@ -61536,7 +61536,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -61601,7 +61601,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -61641,7 +61641,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -61708,8 +61708,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-627913",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe C",
-      "ar": "Mercedes-Benz Classe C"
+      "en": "Mercedes-Benz Classe C 2008",
+      "ar": "Mercedes-Benz Classe C 2008"
     },
     "price": 115000,
     "quickFacts": [
@@ -61727,7 +61727,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -61792,7 +61792,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -61832,7 +61832,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -61921,8 +61921,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657428",
     "kind": "Car",
     "title": {
-      "en": "Kia Sportage",
-      "ar": "Kia Sportage"
+      "en": "Kia Sportage 2015",
+      "ar": "Kia Sportage 2015"
     },
     "price": 118000,
     "quickFacts": [
@@ -61940,7 +61940,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -62005,7 +62005,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -62045,7 +62045,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -62085,8 +62085,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657432",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 308",
-      "ar": "Peugeot 308"
+      "en": "Peugeot 308 2014",
+      "ar": "Peugeot 308 2014"
     },
     "price": 108000,
     "quickFacts": [
@@ -62104,7 +62104,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -62169,7 +62169,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -62199,7 +62199,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -62241,8 +62241,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-481879",
     "kind": "Car",
     "title": {
-      "en": "Audi A3 Berline",
-      "ar": "Audi A3 Berline"
+      "en": "Audi A3 Berline 2014",
+      "ar": "Audi A3 Berline 2014"
     },
     "price": 175000,
     "quickFacts": [
@@ -62260,7 +62260,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -62325,7 +62325,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -62365,7 +62365,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -62457,8 +62457,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657407",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 508",
-      "ar": "Peugeot 508"
+      "en": "Peugeot 508 2012",
+      "ar": "Peugeot 508 2012"
     },
     "price": 69000,
     "quickFacts": [
@@ -62476,7 +62476,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -62541,7 +62541,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -62581,7 +62581,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -62665,8 +62665,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-616082",
     "kind": "Car",
     "title": {
-      "en": "Nissan Qashqai",
-      "ar": "Nissan Qashqai"
+      "en": "Nissan Qashqai 2012",
+      "ar": "Nissan Qashqai 2012"
     },
     "price": 118000,
     "quickFacts": [
@@ -62684,7 +62684,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -62749,7 +62749,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -62789,7 +62789,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -62812,8 +62812,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-637261",
     "kind": "Car",
     "title": {
-      "en": "Audi Q5",
-      "ar": "Audi Q5"
+      "en": "Audi Q5 2020",
+      "ar": "Audi Q5 2020"
     },
     "price": 310000,
     "quickFacts": [
@@ -62831,7 +62831,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -62896,7 +62896,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -62936,7 +62936,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -63026,8 +63026,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-491524",
     "kind": "Car",
     "title": {
-      "en": "Renault Arkana",
-      "ar": "Renault Arkana"
+      "en": "Renault Arkana 2024",
+      "ar": "Renault Arkana 2024"
     },
     "price": 273000,
     "quickFacts": [
@@ -63045,7 +63045,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -63110,7 +63110,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -63140,7 +63140,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -63163,8 +63163,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-630525",
     "kind": "Car",
     "title": {
-      "en": "Renault Megane",
-      "ar": "Renault Megane"
+      "en": "Renault Megane 2019",
+      "ar": "Renault Megane 2019"
     },
     "price": 141000,
     "quickFacts": [
@@ -63182,7 +63182,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -63247,7 +63247,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -63287,7 +63287,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -63349,8 +63349,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-418797",
     "kind": "Car",
     "title": {
-      "en": "Citroën C5 - prestige",
-      "ar": "Citroën C5 - prestige"
+      "en": "Citroën C5 - prestige 2013",
+      "ar": "Citroën C5 - prestige 2013"
     },
     "price": 114000,
     "quickFacts": [
@@ -63368,7 +63368,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -63433,7 +63433,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -63473,7 +63473,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -63552,8 +63552,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-645346",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Passat",
-      "ar": "Volkswagen Passat"
+      "en": "Volkswagen Passat 2018",
+      "ar": "Volkswagen Passat 2018"
     },
     "price": 190000,
     "quickFacts": [
@@ -63571,7 +63571,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -63636,7 +63636,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -63676,7 +63676,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -63764,8 +63764,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657408",
     "kind": "Car",
     "title": {
-      "en": "Citroën C3",
-      "ar": "Citroën C3"
+      "en": "Citroën C3 2019",
+      "ar": "Citroën C3 2019"
     },
     "price": 100000,
     "quickFacts": [
@@ -63783,7 +63783,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -63848,7 +63848,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -63888,7 +63888,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -63951,8 +63951,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-483797",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe E",
-      "ar": "Mercedes-Benz Classe E"
+      "en": "Mercedes-Benz Classe E 2018",
+      "ar": "Mercedes-Benz Classe E 2018"
     },
     "price": 365000,
     "quickFacts": [
@@ -63970,7 +63970,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -64035,7 +64035,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -64075,7 +64075,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -64098,8 +64098,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657409",
     "kind": "Car",
     "title": {
-      "en": "Peugeot Partner",
-      "ar": "Peugeot Partner"
+      "en": "Peugeot Partner 2007",
+      "ar": "Peugeot Partner 2007"
     },
     "price": 50000,
     "quickFacts": [
@@ -64117,7 +64117,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -64182,7 +64182,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -64222,7 +64222,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -64258,8 +64258,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657411",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 2008",
-      "ar": "Peugeot 2008"
+      "en": "Peugeot 2008 2022",
+      "ar": "Peugeot 2008 2022"
     },
     "price": 270000,
     "quickFacts": [
@@ -64277,7 +64277,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -64342,7 +64342,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -64382,7 +64382,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -64474,8 +64474,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657412",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Elantra",
-      "ar": "Hyundai Elantra"
+      "en": "Hyundai Elantra 2019",
+      "ar": "Hyundai Elantra 2019"
     },
     "price": 158000,
     "quickFacts": [
@@ -64493,7 +64493,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -64558,7 +64558,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -64598,7 +64598,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -64685,8 +64685,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-490651",
     "kind": "Car",
     "title": {
-      "en": "Volvo C70",
-      "ar": "Volvo C70"
+      "en": "Volvo C70 1999",
+      "ar": "Volvo C70 1999"
     },
     "price": 99000,
     "quickFacts": [
@@ -64704,7 +64704,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -64769,7 +64769,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -64809,7 +64809,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -64832,8 +64832,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-490650",
     "kind": "Car",
     "title": {
-      "en": "Citroën 2 CV",
-      "ar": "Citroën 2 CV"
+      "en": "Citroën 2 CV 1981",
+      "ar": "Citroën 2 CV 1981"
     },
     "price": 59000,
     "quickFacts": [
@@ -64851,7 +64851,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -64916,7 +64916,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -64956,7 +64956,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -64979,8 +64979,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657400",
     "kind": "Car",
     "title": {
-      "en": "Skoda Karoq",
-      "ar": "Skoda Karoq"
+      "en": "Skoda Karoq 2021",
+      "ar": "Skoda Karoq 2021"
     },
     "price": 250000,
     "quickFacts": [
@@ -64998,7 +64998,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -65063,7 +65063,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -65103,7 +65103,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -65190,8 +65190,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-655384",
     "kind": "Car",
     "title": {
-      "en": "Renault Clio",
-      "ar": "Renault Clio"
+      "en": "Renault Clio 2021",
+      "ar": "Renault Clio 2021"
     },
     "price": 138000,
     "quickFacts": [
@@ -65209,7 +65209,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -65274,7 +65274,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -65314,7 +65314,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -65391,8 +65391,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657401",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2017",
+      "ar": "Volkswagen Tiguan 2017"
     },
     "price": 275000,
     "quickFacts": [
@@ -65410,7 +65410,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -65475,7 +65475,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -65515,7 +65515,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -65607,8 +65607,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-489215",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 3",
-      "ar": "BMW Série 3"
+      "en": "BMW Série 3 2003",
+      "ar": "BMW Série 3 2003"
     },
     "price": 95000,
     "quickFacts": [
@@ -65626,7 +65626,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -65691,7 +65691,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -65731,7 +65731,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -65825,8 +65825,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-478957",
     "kind": "Car",
     "title": {
-      "en": "Jeep Grand Cherokee - 2.0",
-      "ar": "Jeep Grand Cherokee - 2.0"
+      "en": "Jeep Grand Cherokee - 2.0 2009",
+      "ar": "Jeep Grand Cherokee - 2.0 2009"
     },
     "price": 69000,
     "quickFacts": [
@@ -65844,7 +65844,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -65909,7 +65909,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -65949,7 +65949,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -66018,8 +66018,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-485013",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe CLS",
-      "ar": "Mercedes-Benz Classe CLS"
+      "en": "Mercedes-Benz Classe CLS 2018",
+      "ar": "Mercedes-Benz Classe CLS 2018"
     },
     "price": 565000,
     "quickFacts": [
@@ -66037,7 +66037,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -66102,7 +66102,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -66142,7 +66142,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -66165,8 +66165,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-627063",
     "kind": "Car",
     "title": {
-      "en": "Audi A6",
-      "ar": "Audi A6"
+      "en": "Audi A6 2021",
+      "ar": "Audi A6 2021"
     },
     "price": 413000,
     "quickFacts": [
@@ -66184,7 +66184,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -66249,7 +66249,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -66289,7 +66289,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -66381,8 +66381,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-486126",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Evoque",
-      "ar": "Land Rover Range Rover Evoque"
+      "en": "Land Rover Range Rover Evoque 2020",
+      "ar": "Land Rover Range Rover Evoque 2020"
     },
     "price": 350000,
     "quickFacts": [
@@ -66400,7 +66400,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -66465,7 +66465,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -66505,7 +66505,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -66599,8 +66599,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657402",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Polo",
-      "ar": "Volkswagen Polo"
+      "en": "Volkswagen Polo 2005",
+      "ar": "Volkswagen Polo 2005"
     },
     "price": 50000,
     "quickFacts": [
@@ -66618,7 +66618,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -66683,7 +66683,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -66723,7 +66723,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -66742,8 +66742,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-482317",
     "kind": "Moto",
     "title": {
-      "en": "Outlander 1000 Xtp",
-      "ar": "Outlander 1000 Xtp"
+      "en": "Outlander 1000 Xtp 2026",
+      "ar": "Outlander 1000 Xtp 2026"
     },
     "price": 310000,
     "quickFacts": [
@@ -67095,8 +67095,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-487937",
     "kind": "Moto",
     "title": {
-      "en": "BMW g 310 gs",
-      "ar": "BMW g 310 gs"
+      "en": "BMW g 310 gs 2025",
+      "ar": "BMW g 310 gs 2025"
     },
     "price": 80000,
     "quickFacts": [
@@ -67208,8 +67208,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-487614",
     "kind": "Moto",
     "title": {
-      "en": "Indian autre - challenger",
-      "ar": "Indian autre - challenger"
+      "en": "Indian autre - challenger 2023",
+      "ar": "Indian autre - challenger 2023"
     },
     "price": 260000,
     "quickFacts": [
@@ -67335,8 +67335,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-487581",
     "kind": "Moto",
     "title": {
-      "en": "BMW r 1150 rt - rt 1250 r",
-      "ar": "BMW r 1150 rt - rt 1250 r"
+      "en": "BMW r 1150 rt - rt 1250 r 2021",
+      "ar": "BMW r 1150 rt - rt 1250 r 2021"
     },
     "price": 255000,
     "quickFacts": [
@@ -67459,8 +67459,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-487570",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha mt-09 - phase 3",
-      "ar": "Yamaha mt-09 - phase 3"
+      "en": "Yamaha mt-09 - phase 3 2022",
+      "ar": "Yamaha mt-09 - phase 3 2022"
     },
     "price": 105000,
     "quickFacts": [
@@ -67579,8 +67579,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-487515",
     "kind": "Moto",
     "title": {
-      "en": "SYM autre",
-      "ar": "SYM autre"
+      "en": "SYM autre 2021",
+      "ar": "SYM autre 2021"
     },
     "price": 8000,
     "quickFacts": [
@@ -67690,8 +67690,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-487316",
     "kind": "Moto",
     "title": {
-      "en": "Becane super cub - florense super",
-      "ar": "Becane super cub - florense super"
+      "en": "Becane super cub - florense super 2025",
+      "ar": "Becane super cub - florense super 2025"
     },
     "price": 9800,
     "quickFacts": [
@@ -67801,8 +67801,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-486998",
     "kind": "Moto",
     "title": {
-      "en": "Cappuccino jnen",
-      "ar": "Cappuccino jnen"
+      "en": "Cappuccino jnen 2024",
+      "ar": "Cappuccino jnen 2024"
     },
     "price": 8800,
     "quickFacts": [
@@ -67913,8 +67913,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-486807",
     "kind": "Moto",
     "title": {
-      "en": "Becane super cub - becan atx 125",
-      "ar": "Becane super cub - becan atx 125"
+      "en": "Becane super cub - becan atx 125 2025",
+      "ar": "Becane super cub - becan atx 125 2025"
     },
     "price": 20500,
     "quickFacts": [
@@ -68035,8 +68035,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-486454",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha neos - new",
-      "ar": "Yamaha neos - new"
+      "en": "Yamaha neos - new 2009",
+      "ar": "Yamaha neos - new 2009"
     },
     "price": 13000,
     "quickFacts": [
@@ -68147,8 +68147,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-486250",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha v star custom 650 - custome",
-      "ar": "Yamaha v star custom 650 - custome"
+      "en": "Yamaha v star custom 650 - custome 2003",
+      "ar": "Yamaha v star custom 650 - custome 2003"
     },
     "price": 40000,
     "quickFacts": [
@@ -68267,8 +68267,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-484884",
     "kind": "Moto",
     "title": {
-      "en": "BMW r1250 gs - lc full black",
-      "ar": "BMW r1250 gs - lc full black"
+      "en": "BMW r1250 gs - lc full black 2021",
+      "ar": "BMW r1250 gs - lc full black 2021"
     },
     "price": 190000,
     "quickFacts": [
@@ -68516,8 +68516,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-483896",
     "kind": "Moto",
     "title": {
-      "en": "Cimatti ycr 250 - brutal",
-      "ar": "Cimatti ycr 250 - brutal"
+      "en": "Cimatti ycr 250 - brutal 2024",
+      "ar": "Cimatti ycr 250 - brutal 2024"
     },
     "price": 17500,
     "quickFacts": [
@@ -68759,8 +68759,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-483447",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha xsr900 - 2020",
-      "ar": "Yamaha xsr900 - 2020"
+      "en": "Yamaha xsr900 - 2020 2023",
+      "ar": "Yamaha xsr900 - 2020 2023"
     },
     "price": 98000,
     "quickFacts": [
@@ -68881,8 +68881,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-483258",
     "kind": "Moto",
     "title": {
-      "en": "Honda sh 125i - vetro",
-      "ar": "Honda sh 125i - vetro"
+      "en": "Honda sh 125i - vetro 2024",
+      "ar": "Honda sh 125i - vetro 2024"
     },
     "price": 49000,
     "quickFacts": [
@@ -69002,8 +69002,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-482944",
     "kind": "Moto",
     "title": {
-      "en": "Benelli trk - 702x",
-      "ar": "Benelli trk - 702x"
+      "en": "Benelli trk - 702x 2025",
+      "ar": "Benelli trk - 702x 2025"
     },
     "price": 93000,
     "quickFacts": [
@@ -69127,8 +69127,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-482743",
     "kind": "Moto",
     "title": {
-      "en": "yamaha XT125",
-      "ar": "yamaha XT125"
+      "en": "yamaha XT125 2014",
+      "ar": "yamaha XT125 2014"
     },
     "price": 33000,
     "quickFacts": [
@@ -69232,8 +69232,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-482577",
     "kind": "Moto",
     "title": {
-      "en": "Harley-Davidson fat boy - softaile",
-      "ar": "Harley-Davidson fat boy - softaile"
+      "en": "Harley-Davidson fat boy - softaile 2011",
+      "ar": "Harley-Davidson fat boy - softaile 2011"
     },
     "price": 120000,
     "quickFacts": [
@@ -69352,8 +69352,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-482493",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha mt-09",
-      "ar": "Yamaha mt-09"
+      "en": "Yamaha mt-09 2020",
+      "ar": "Yamaha mt-09 2020"
     },
     "price": 118000,
     "quickFacts": [
@@ -69484,8 +69484,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-482236",
     "kind": "Moto",
     "title": {
-      "en": "Peugeot django",
-      "ar": "Peugeot django"
+      "en": "Peugeot django 2018",
+      "ar": "Peugeot django 2018"
     },
     "price": 19000,
     "quickFacts": [
@@ -69608,8 +69608,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-482106",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha fzs 600 n - s2",
-      "ar": "Yamaha fzs 600 n - s2"
+      "en": "Yamaha fzs 600 n - s2 2009",
+      "ar": "Yamaha fzs 600 n - s2 2009"
     },
     "price": 55000,
     "quickFacts": [
@@ -69730,8 +69730,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657403",
     "kind": "Car",
     "title": {
-      "en": "Fiat Grande Punto",
-      "ar": "Fiat Grande Punto"
+      "en": "Fiat Grande Punto 2009",
+      "ar": "Fiat Grande Punto 2009"
     },
     "price": 62000,
     "quickFacts": [
@@ -69749,7 +69749,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -69814,7 +69814,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -69844,7 +69844,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -69862,8 +69862,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-651746",
     "kind": "Car",
     "title": {
-      "en": "Renault Megane",
-      "ar": "Renault Megane"
+      "en": "Renault Megane 2021",
+      "ar": "Renault Megane 2021"
     },
     "price": 189000,
     "quickFacts": [
@@ -69881,7 +69881,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -69946,7 +69946,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -69986,7 +69986,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -70078,8 +70078,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657404",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz 190",
-      "ar": "Mercedes-Benz 190"
+      "en": "Mercedes-Benz 190 1988",
+      "ar": "Mercedes-Benz 190 1988"
     },
     "price": 55000,
     "quickFacts": [
@@ -70097,7 +70097,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -70162,7 +70162,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -70192,7 +70192,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -70208,8 +70208,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-618291",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 2008",
-      "ar": "Peugeot 2008"
+      "en": "Peugeot 2008 2022",
+      "ar": "Peugeot 2008 2022"
     },
     "price": 225000,
     "quickFacts": [
@@ -70227,7 +70227,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -70292,7 +70292,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -70332,7 +70332,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -70419,8 +70419,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657395",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 508",
-      "ar": "Peugeot 508"
+      "en": "Peugeot 508 2011",
+      "ar": "Peugeot 508 2011"
     },
     "price": 85000,
     "quickFacts": [
@@ -70438,7 +70438,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -70503,7 +70503,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -70543,7 +70543,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -70625,8 +70625,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-652409",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 508",
-      "ar": "Peugeot 508"
+      "en": "Peugeot 508 2013",
+      "ar": "Peugeot 508 2013"
     },
     "price": 105000,
     "quickFacts": [
@@ -70644,7 +70644,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -70709,7 +70709,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -70749,7 +70749,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -70810,8 +70810,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-502932",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2018",
+      "ar": "Volkswagen Tiguan 2018"
     },
     "price": 300000,
     "quickFacts": [
@@ -70829,7 +70829,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -70894,7 +70894,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -70934,7 +70934,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -71026,8 +71026,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-488068",
     "kind": "Car",
     "title": {
-      "en": "Geely Autre",
-      "ar": "Geely Autre"
+      "en": "Geely Autre 2025",
+      "ar": "Geely Autre 2025"
     },
     "price": 279000,
     "quickFacts": [
@@ -71045,7 +71045,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -71110,7 +71110,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -71140,7 +71140,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -71163,8 +71163,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657397",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Caddy",
-      "ar": "Volkswagen Caddy"
+      "en": "Volkswagen Caddy 2024",
+      "ar": "Volkswagen Caddy 2024"
     },
     "price": 290000,
     "quickFacts": [
@@ -71182,7 +71182,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -71247,7 +71247,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -71277,7 +71277,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -71295,8 +71295,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657385",
     "kind": "Car",
     "title": {
-      "en": "Renault Express",
-      "ar": "Renault Express"
+      "en": "Renault Express 2021",
+      "ar": "Renault Express 2021"
     },
     "price": 159000,
     "quickFacts": [
@@ -71314,7 +71314,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -71379,7 +71379,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -71409,7 +71409,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -71491,8 +71491,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-641059",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson",
-      "ar": "Hyundai Tucson"
+      "en": "Hyundai Tucson 2019",
+      "ar": "Hyundai Tucson 2019"
     },
     "price": 239000,
     "quickFacts": [
@@ -71510,7 +71510,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -71575,7 +71575,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -71615,7 +71615,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -71702,8 +71702,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-647521",
     "kind": "Car",
     "title": {
-      "en": "Nissan Juke",
-      "ar": "Nissan Juke"
+      "en": "Nissan Juke 2021",
+      "ar": "Nissan Juke 2021"
     },
     "price": 210000,
     "quickFacts": [
@@ -71721,7 +71721,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -71786,7 +71786,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -71826,7 +71826,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -71915,8 +71915,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657387",
     "kind": "Car",
     "title": {
-      "en": "Renault R19",
-      "ar": "Renault R19"
+      "en": "Renault R19 1994",
+      "ar": "Renault R19 1994"
     },
     "price": 42000,
     "quickFacts": [
@@ -71934,7 +71934,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -71999,7 +71999,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -72039,7 +72039,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -72062,8 +72062,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657323",
     "kind": "Car",
     "title": {
-      "en": "Jaguar E-Pace",
-      "ar": "Jaguar E-Pace"
+      "en": "Jaguar E-Pace 2020",
+      "ar": "Jaguar E-Pace 2020"
     },
     "price": 245000,
     "quickFacts": [
@@ -72081,7 +72081,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -72146,7 +72146,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -72186,7 +72186,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -72274,8 +72274,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-653491",
     "kind": "Car",
     "title": {
-      "en": "Renault Clio",
-      "ar": "Renault Clio"
+      "en": "Renault Clio 2019",
+      "ar": "Renault Clio 2019"
     },
     "price": 127000,
     "quickFacts": [
@@ -72293,7 +72293,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -72358,7 +72358,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -72398,7 +72398,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -72485,8 +72485,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657388",
     "kind": "Car",
     "title": {
-      "en": "Citroën C-Elysée",
-      "ar": "Citroën C-Elysée"
+      "en": "Citroën C-Elysée 2023",
+      "ar": "Citroën C-Elysée 2023"
     },
     "price": 133000,
     "quickFacts": [
@@ -72504,7 +72504,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -72569,7 +72569,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -72609,7 +72609,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -72671,8 +72671,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-504102",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe C",
-      "ar": "Mercedes-Benz Classe C"
+      "en": "Mercedes-Benz Classe C 2022",
+      "ar": "Mercedes-Benz Classe C 2022"
     },
     "price": 600000,
     "quickFacts": [
@@ -72690,7 +72690,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -72755,7 +72755,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -72795,7 +72795,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -72814,8 +72814,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-630271",
     "kind": "Car",
     "title": {
-      "en": "Fiat 500 X",
-      "ar": "Fiat 500 X"
+      "en": "Fiat 500 X 2022",
+      "ar": "Fiat 500 X 2022"
     },
     "price": 175000,
     "quickFacts": [
@@ -72833,7 +72833,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -72898,7 +72898,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -72938,7 +72938,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -73024,8 +73024,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-640155",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 1",
-      "ar": "BMW Série 1"
+      "en": "BMW Série 1 2023",
+      "ar": "BMW Série 1 2023"
     },
     "price": 250000,
     "quickFacts": [
@@ -73043,7 +73043,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -73108,7 +73108,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -73148,7 +73148,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -73230,8 +73230,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494145",
     "kind": "Car",
     "title": {
-      "en": "Opel Corsa",
-      "ar": "Opel Corsa"
+      "en": "Opel Corsa 2024",
+      "ar": "Opel Corsa 2024"
     },
     "price": 173000,
     "quickFacts": [
@@ -73249,7 +73249,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -73314,7 +73314,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -73354,7 +73354,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -73465,7 +73465,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -73530,7 +73530,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -73570,7 +73570,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -73664,8 +73664,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-513085",
     "kind": "Car",
     "title": {
-      "en": "Renault Koleos",
-      "ar": "Renault Koleos"
+      "en": "Renault Koleos 2019",
+      "ar": "Renault Koleos 2019"
     },
     "price": 182000,
     "quickFacts": [
@@ -73683,7 +73683,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -73748,7 +73748,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -73788,7 +73788,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -73880,8 +73880,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-640144",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen T-Roc",
-      "ar": "Volkswagen T-Roc"
+      "en": "Volkswagen T-Roc 2019",
+      "ar": "Volkswagen T-Roc 2019"
     },
     "price": 225000,
     "quickFacts": [
@@ -73899,7 +73899,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -73964,7 +73964,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -74004,7 +74004,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -74096,8 +74096,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657390",
     "kind": "Car",
     "title": {
-      "en": "Fiat Punto",
-      "ar": "Fiat Punto"
+      "en": "Fiat Punto 2018",
+      "ar": "Fiat Punto 2018"
     },
     "price": 98000,
     "quickFacts": [
@@ -74115,7 +74115,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -74180,7 +74180,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -74220,7 +74220,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -74240,8 +74240,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657389",
     "kind": "Car",
     "title": {
-      "en": "Kia Picanto",
-      "ar": "Kia Picanto"
+      "en": "Kia Picanto 2007",
+      "ar": "Kia Picanto 2007"
     },
     "price": 55000,
     "quickFacts": [
@@ -74259,7 +74259,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -74324,7 +74324,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -74364,7 +74364,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -74440,8 +74440,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657386",
     "kind": "Car",
     "title": {
-      "en": "Skoda Kodiaq",
-      "ar": "Skoda Kodiaq"
+      "en": "Skoda Kodiaq 2019",
+      "ar": "Skoda Kodiaq 2019"
     },
     "price": 250000,
     "quickFacts": [
@@ -74459,7 +74459,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -74524,7 +74524,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -74564,7 +74564,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -74635,8 +74635,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657391",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 2008",
-      "ar": "Peugeot 2008"
+      "en": "Peugeot 2008 2017",
+      "ar": "Peugeot 2008 2017"
     },
     "price": 150000,
     "quickFacts": [
@@ -74654,7 +74654,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -74719,7 +74719,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -74749,7 +74749,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -74770,8 +74770,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-496048",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Defender",
-      "ar": "Land Rover Defender"
+      "en": "Land Rover Defender 2023",
+      "ar": "Land Rover Defender 2023"
     },
     "price": 780000,
     "quickFacts": [
@@ -74789,7 +74789,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -74854,7 +74854,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -74894,7 +74894,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -74983,8 +74983,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-495072",
     "kind": "Car",
     "title": {
-      "en": "Jeep Renegade",
-      "ar": "Jeep Renegade"
+      "en": "Jeep Renegade 2024",
+      "ar": "Jeep Renegade 2024"
     },
     "price": 200000,
     "quickFacts": [
@@ -75002,7 +75002,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -75067,7 +75067,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -75107,7 +75107,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -75194,8 +75194,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657375",
     "kind": "Car",
     "title": {
-      "en": "Renault Talisman",
-      "ar": "Renault Talisman"
+      "en": "Renault Talisman 2022",
+      "ar": "Renault Talisman 2022"
     },
     "price": 245000,
     "quickFacts": [
@@ -75213,7 +75213,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -75278,7 +75278,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -75308,7 +75308,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -75400,8 +75400,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657376",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 306",
-      "ar": "Peugeot 306"
+      "en": "Peugeot 306 1994",
+      "ar": "Peugeot 306 1994"
     },
     "price": 33000,
     "quickFacts": [
@@ -75419,7 +75419,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -75484,7 +75484,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -75524,7 +75524,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -75541,8 +75541,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657377",
     "kind": "Car",
     "title": {
-      "en": "Lancia Ypsilon",
-      "ar": "Lancia Ypsilon"
+      "en": "Lancia Ypsilon 2012",
+      "ar": "Lancia Ypsilon 2012"
     },
     "price": 62000,
     "quickFacts": [
@@ -75560,7 +75560,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -75625,7 +75625,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -75665,7 +75665,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -75686,8 +75686,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-655339",
     "kind": "Car",
     "title": {
-      "en": "Jaguar XF",
-      "ar": "Jaguar XF"
+      "en": "Jaguar XF 2012",
+      "ar": "Jaguar XF 2012"
     },
     "price": 130000,
     "quickFacts": [
@@ -75705,7 +75705,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -75770,7 +75770,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -75810,7 +75810,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -75871,8 +75871,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-632173",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 5",
-      "ar": "BMW Série 5"
+      "en": "BMW Série 5 2023",
+      "ar": "BMW Série 5 2023"
     },
     "price": 460000,
     "quickFacts": [
@@ -75890,7 +75890,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -75955,7 +75955,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -75995,7 +75995,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -76087,8 +76087,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657378",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe C",
-      "ar": "Mercedes-Benz Classe C"
+      "en": "Mercedes-Benz Classe C 2007",
+      "ar": "Mercedes-Benz Classe C 2007"
     },
     "price": 115000,
     "quickFacts": [
@@ -76106,7 +76106,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -76171,7 +76171,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -76211,7 +76211,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -76278,8 +76278,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657379",
     "kind": "Car",
     "title": {
-      "en": "Audi Q5",
-      "ar": "Audi Q5"
+      "en": "Audi Q5 2012",
+      "ar": "Audi Q5 2012"
     },
     "price": 200000,
     "quickFacts": [
@@ -76297,7 +76297,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -76362,7 +76362,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -76402,7 +76402,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -76493,8 +76493,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657380",
     "kind": "Car",
     "title": {
-      "en": "Fiat Ducato",
-      "ar": "Fiat Ducato"
+      "en": "Fiat Ducato 2020",
+      "ar": "Fiat Ducato 2020"
     },
     "price": 168000,
     "quickFacts": [
@@ -76512,7 +76512,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -76577,7 +76577,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -76607,7 +76607,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -76627,8 +76627,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657381",
     "kind": "Car",
     "title": {
-      "en": "Renault Clio",
-      "ar": "Renault Clio"
+      "en": "Renault Clio 2015",
+      "ar": "Renault Clio 2015"
     },
     "price": 105000,
     "quickFacts": [
@@ -76646,7 +76646,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -76711,7 +76711,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -76751,7 +76751,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -76808,8 +76808,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-650381",
     "kind": "Car",
     "title": {
-      "en": "Mitsubishi L200",
-      "ar": "Mitsubishi L200"
+      "en": "Mitsubishi L200 2020",
+      "ar": "Mitsubishi L200 2020"
     },
     "price": 215000,
     "quickFacts": [
@@ -76827,7 +76827,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -76892,7 +76892,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -76932,7 +76932,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -76994,8 +76994,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657382",
     "kind": "Car",
     "title": {
-      "en": "Ford Focus",
-      "ar": "Ford Focus"
+      "en": "Ford Focus 2012",
+      "ar": "Ford Focus 2012"
     },
     "price": 130000,
     "quickFacts": [
@@ -77013,7 +77013,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -77078,7 +77078,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -77118,7 +77118,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -77224,7 +77224,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -77289,7 +77289,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -77329,7 +77329,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -77421,8 +77421,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-612478",
     "kind": "Car",
     "title": {
-      "en": "Renault Clio",
-      "ar": "Renault Clio"
+      "en": "Renault Clio 2006",
+      "ar": "Renault Clio 2006"
     },
     "price": 58000,
     "quickFacts": [
@@ -77440,7 +77440,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -77505,7 +77505,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -77545,7 +77545,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -77561,8 +77561,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657366",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 301",
-      "ar": "Peugeot 301"
+      "en": "Peugeot 301 2014",
+      "ar": "Peugeot 301 2014"
     },
     "price": 84000,
     "quickFacts": [
@@ -77580,7 +77580,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -77645,7 +77645,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -77685,7 +77685,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -77723,8 +77723,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-488617",
     "kind": "Car",
     "title": {
-      "en": "Lexus NX",
-      "ar": "Lexus NX"
+      "en": "Lexus NX 2022",
+      "ar": "Lexus NX 2022"
     },
     "price": 365000,
     "quickFacts": [
@@ -77742,7 +77742,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -77807,7 +77807,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -77847,7 +77847,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -77941,8 +77941,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-635278",
     "kind": "Car",
     "title": {
-      "en": "Jaguar E-Pace",
-      "ar": "Jaguar E-Pace"
+      "en": "Jaguar E-Pace 2019",
+      "ar": "Jaguar E-Pace 2019"
     },
     "price": 220000,
     "quickFacts": [
@@ -77960,7 +77960,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -78025,7 +78025,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -78065,7 +78065,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -78157,8 +78157,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-570446",
     "kind": "Car",
     "title": {
-      "en": "Opel Combo",
-      "ar": "Opel Combo"
+      "en": "Opel Combo 2022",
+      "ar": "Opel Combo 2022"
     },
     "price": 159000,
     "quickFacts": [
@@ -78176,7 +78176,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -78241,7 +78241,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -78281,7 +78281,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -78372,8 +78372,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657367",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Touran",
-      "ar": "Volkswagen Touran"
+      "en": "Volkswagen Touran 2017",
+      "ar": "Volkswagen Touran 2017"
     },
     "price": 125000,
     "quickFacts": [
@@ -78391,7 +78391,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -78456,7 +78456,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -78496,7 +78496,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -78588,8 +78588,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657368",
     "kind": "Car",
     "title": {
-      "en": "Porsche Cayenne",
-      "ar": "Porsche Cayenne"
+      "en": "Porsche Cayenne 2024",
+      "ar": "Porsche Cayenne 2024"
     },
     "price": 1390000,
     "quickFacts": [
@@ -78607,7 +78607,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -78672,7 +78672,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -78712,7 +78712,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -78732,8 +78732,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657369",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson",
-      "ar": "Hyundai Tucson"
+      "en": "Hyundai Tucson 2015",
+      "ar": "Hyundai Tucson 2015"
     },
     "price": 185000,
     "quickFacts": [
@@ -78751,7 +78751,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -78816,7 +78816,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -78856,7 +78856,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -78945,8 +78945,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-486118",
     "kind": "Car",
     "title": {
-      "en": "Audi Q8",
-      "ar": "Audi Q8"
+      "en": "Audi Q8 2022",
+      "ar": "Audi Q8 2022"
     },
     "price": 670000,
     "quickFacts": [
@@ -78964,7 +78964,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -79029,7 +79029,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -79069,7 +79069,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -79162,8 +79162,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657370",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Passat",
-      "ar": "Volkswagen Passat"
+      "en": "Volkswagen Passat 2012",
+      "ar": "Volkswagen Passat 2012"
     },
     "price": 13300,
     "quickFacts": [
@@ -79181,7 +79181,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -79246,7 +79246,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -79276,7 +79276,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -79297,8 +79297,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657371",
     "kind": "Car",
     "title": {
-      "en": "Nissan Qashqai",
-      "ar": "Nissan Qashqai"
+      "en": "Nissan Qashqai 2023",
+      "ar": "Nissan Qashqai 2023"
     },
     "price": 230000,
     "quickFacts": [
@@ -79316,7 +79316,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -79381,7 +79381,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -79421,7 +79421,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -79493,8 +79493,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657373",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 5",
-      "ar": "Volkswagen Golf 5"
+      "en": "Volkswagen Golf 5 2008",
+      "ar": "Volkswagen Golf 5 2008"
     },
     "price": 88000,
     "quickFacts": [
@@ -79512,7 +79512,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -79577,7 +79577,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -79607,7 +79607,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -79674,8 +79674,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657372",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Passat",
-      "ar": "Volkswagen Passat"
+      "en": "Volkswagen Passat 2015",
+      "ar": "Volkswagen Passat 2015"
     },
     "price": 169000,
     "quickFacts": [
@@ -79693,7 +79693,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -79758,7 +79758,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -79788,7 +79788,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -79868,8 +79868,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-640021",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Caddy",
-      "ar": "Volkswagen Caddy"
+      "en": "Volkswagen Caddy 2011",
+      "ar": "Volkswagen Caddy 2011"
     },
     "price": 107000,
     "quickFacts": [
@@ -79887,7 +79887,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -79952,7 +79952,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -79992,7 +79992,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -80013,8 +80013,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-418792",
     "kind": "Car",
     "title": {
-      "en": "Chevrolet Cruze - 2.0",
-      "ar": "Chevrolet Cruze - 2.0"
+      "en": "Chevrolet Cruze - 2.0 2016",
+      "ar": "Chevrolet Cruze - 2.0 2016"
     },
     "price": 95000,
     "quickFacts": [
@@ -80032,7 +80032,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -80097,7 +80097,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -80137,7 +80137,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -80231,8 +80231,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657351",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 308",
-      "ar": "Peugeot 308"
+      "en": "Peugeot 308 2013",
+      "ar": "Peugeot 308 2013"
     },
     "price": 105000,
     "quickFacts": [
@@ -80250,7 +80250,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -80315,7 +80315,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -80355,7 +80355,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -80430,8 +80430,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657353",
     "kind": "Car",
     "title": {
-      "en": "Fiat 500",
-      "ar": "Fiat 500"
+      "en": "Fiat 500 2017",
+      "ar": "Fiat 500 2017"
     },
     "price": 105000,
     "quickFacts": [
@@ -80449,7 +80449,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -80514,7 +80514,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -80554,7 +80554,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -80605,8 +80605,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-467324",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2014",
+      "ar": "Volkswagen Tiguan 2014"
     },
     "price": 198000,
     "quickFacts": [
@@ -80624,7 +80624,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -80689,7 +80689,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -80729,7 +80729,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -80822,8 +80822,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657356",
     "kind": "Car",
     "title": {
-      "en": "Volvo S90",
-      "ar": "Volvo S90"
+      "en": "Volvo S90 2021",
+      "ar": "Volvo S90 2021"
     },
     "price": 310000,
     "quickFacts": [
@@ -80841,7 +80841,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -80906,7 +80906,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -80946,7 +80946,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -80977,8 +80977,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-418798",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Santa Fe - 2.0",
-      "ar": "Hyundai Santa Fe - 2.0"
+      "en": "Hyundai Santa Fe - 2.0 2012",
+      "ar": "Hyundai Santa Fe - 2.0 2012"
     },
     "price": 109000,
     "quickFacts": [
@@ -80996,7 +80996,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -81061,7 +81061,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -81101,7 +81101,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -81190,8 +81190,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657357",
     "kind": "Car",
     "title": {
-      "en": "Toyota Corolla",
-      "ar": "Toyota Corolla"
+      "en": "Toyota Corolla 2004",
+      "ar": "Toyota Corolla 2004"
     },
     "price": 55000,
     "quickFacts": [
@@ -81209,7 +81209,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -81274,7 +81274,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -81314,7 +81314,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -81348,8 +81348,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657358",
     "kind": "Car",
     "title": {
-      "en": "Renault Kadjar",
-      "ar": "Renault Kadjar"
+      "en": "Renault Kadjar 2018",
+      "ar": "Renault Kadjar 2018"
     },
     "price": 178000,
     "quickFacts": [
@@ -81367,7 +81367,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -81432,7 +81432,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -81472,7 +81472,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -81564,8 +81564,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-651141",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe C",
-      "ar": "Mercedes-Benz Classe C"
+      "en": "Mercedes-Benz Classe C 2024",
+      "ar": "Mercedes-Benz Classe C 2024"
     },
     "price": 620000,
     "quickFacts": [
@@ -81583,7 +81583,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -81648,7 +81648,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -81688,7 +81688,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -81780,8 +81780,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657352",
     "kind": "Car",
     "title": {
-      "en": "Cupra Ateca",
-      "ar": "Cupra Ateca"
+      "en": "Cupra Ateca 2025",
+      "ar": "Cupra Ateca 2025"
     },
     "price": 355000,
     "quickFacts": [
@@ -81799,7 +81799,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -81864,7 +81864,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -81904,7 +81904,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -81996,8 +81996,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-482075",
     "kind": "Moto",
     "title": {
-      "en": "Honda gorilla 50 - giorno",
-      "ar": "Honda gorilla 50 - giorno"
+      "en": "Honda gorilla 50 - giorno 2015",
+      "ar": "Honda gorilla 50 - giorno 2015"
     },
     "price": 12000,
     "quickFacts": [
@@ -82125,8 +82125,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-481768",
     "kind": "Moto",
     "title": {
-      "en": "Kawasaki vulcan 750",
-      "ar": "Kawasaki vulcan 750"
+      "en": "Kawasaki vulcan 750 2020",
+      "ar": "Kawasaki vulcan 750 2020"
     },
     "price": 90000,
     "quickFacts": [
@@ -82247,8 +82247,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-481839",
     "kind": "Moto",
     "title": {
-      "en": "Vespa sprint - bien",
-      "ar": "Vespa sprint - bien"
+      "en": "Vespa sprint - bien 2015",
+      "ar": "Vespa sprint - bien 2015"
     },
     "price": 18000,
     "quickFacts": [
@@ -82619,8 +82619,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-481537",
     "kind": "Moto",
     "title": {
-      "en": "Beta rr motard 50 - novelle",
-      "ar": "Beta rr motard 50 - novelle"
+      "en": "Beta rr motard 50 - novelle 2024",
+      "ar": "Beta rr motard 50 - novelle 2024"
     },
     "price": 16000,
     "quickFacts": [
@@ -82861,8 +82861,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-481256",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha mt-07 - black édition",
-      "ar": "Yamaha mt-07 - black édition"
+      "en": "Yamaha mt-07 - black édition 2019",
+      "ar": "Yamaha mt-07 - black édition 2019"
     },
     "price": 81500,
     "quickFacts": [
@@ -82983,8 +82983,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-481202",
     "kind": "Moto",
     "title": {
-      "en": "Cimatti naked 50 - bobber",
-      "ar": "Cimatti naked 50 - bobber"
+      "en": "Cimatti naked 50 - bobber 2024",
+      "ar": "Cimatti naked 50 - bobber 2024"
     },
     "price": 15000,
     "quickFacts": [
@@ -83106,8 +83106,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-480819",
     "kind": "Moto",
     "title": {
-      "en": "Becane super cub",
-      "ar": "Becane super cub"
+      "en": "Becane super cub 2017",
+      "ar": "Becane super cub 2017"
     },
     "price": 6500,
     "quickFacts": [
@@ -83346,8 +83346,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-480747",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha ténéré 700",
-      "ar": "Yamaha ténéré 700"
+      "en": "Yamaha ténéré 700 2021",
+      "ar": "Yamaha ténéré 700 2021"
     },
     "price": 126000,
     "quickFacts": [
@@ -83468,8 +83468,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-480744",
     "kind": "Moto",
     "title": {
-      "en": "CFMoto 700cl-x HERITAGE",
-      "ar": "CFMoto 700cl-x HERITAGE"
+      "en": "CFMoto 700cl-x HERITAGE 2025",
+      "ar": "CFMoto 700cl-x HERITAGE 2025"
     },
     "price": 84000,
     "quickFacts": [
@@ -83704,8 +83704,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-480583",
     "kind": "Moto",
     "title": {
-      "en": "Kawasaki z 650 sr - ereg 1",
-      "ar": "Kawasaki z 650 sr - ereg 1"
+      "en": "Kawasaki z 650 sr - ereg 1 2019",
+      "ar": "Kawasaki z 650 sr - ereg 1 2019"
     },
     "price": 68000,
     "quickFacts": [
@@ -83827,8 +83827,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-480469",
     "kind": "Moto",
     "title": {
-      "en": "SYM nht - 200",
-      "ar": "SYM nht - 200"
+      "en": "SYM nht - 200 2024",
+      "ar": "SYM nht - 200 2024"
     },
     "price": 30000,
     "quickFacts": [
@@ -84066,8 +84066,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-480321",
     "kind": "Moto",
     "title": {
-      "en": "Honda Autre",
-      "ar": "Honda Autre"
+      "en": "Honda Autre 2018",
+      "ar": "Honda Autre 2018"
     },
     "price": 102000,
     "quickFacts": [
@@ -84085,7 +84085,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -84160,7 +84160,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -84180,7 +84180,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -84198,8 +84198,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-480084",
     "kind": "Moto",
     "title": {
-      "en": "Royal Enfield scram 411 - 2024",
-      "ar": "Royal Enfield scram 411 - 2024"
+      "en": "Royal Enfield scram 411 - 2024 2025",
+      "ar": "Royal Enfield scram 411 - 2024 2025"
     },
     "price": 51000,
     "quickFacts": [
@@ -84306,8 +84306,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-479978",
     "kind": "Moto",
     "title": {
-      "en": "Access Motor ddr 50 - zontes t1",
-      "ar": "Access Motor ddr 50 - zontes t1"
+      "en": "Access Motor ddr 50 - zontes t1 2019",
+      "ar": "Access Motor ddr 50 - zontes t1 2019"
     },
     "price": 46000,
     "quickFacts": [
@@ -84416,8 +84416,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-479707",
     "kind": "Moto",
     "title": {
-      "en": "Royal Enfield himalayan - himalayan 452",
-      "ar": "Royal Enfield himalayan - himalayan 452"
+      "en": "Royal Enfield himalayan - himalayan 452 2024",
+      "ar": "Royal Enfield himalayan - himalayan 452 2024"
     },
     "price": 56500,
     "quickFacts": [
@@ -84543,8 +84543,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-479618",
     "kind": "Moto",
     "title": {
-      "en": "SYM symphony - 50s",
-      "ar": "SYM symphony - 50s"
+      "en": "SYM symphony - 50s 2025",
+      "ar": "SYM symphony - 50s 2025"
     },
     "price": 15000,
     "quickFacts": [
@@ -84663,8 +84663,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-479567",
     "kind": "Moto",
     "title": {
-      "en": "KTM 790 adventure - adventure rally",
-      "ar": "KTM 790 adventure - adventure rally"
+      "en": "KTM 790 adventure - adventure rally 2021",
+      "ar": "KTM 790 adventure - adventure rally 2021"
     },
     "price": 128000,
     "quickFacts": [
@@ -84790,8 +84790,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-479518",
     "kind": "Moto",
     "title": {
-      "en": "Honda forza-x",
-      "ar": "Honda forza-x"
+      "en": "Honda forza-x 2023",
+      "ar": "Honda forza-x 2023"
     },
     "price": 58000,
     "quickFacts": [
@@ -84903,8 +84903,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-479346",
     "kind": "Moto",
     "title": {
-      "en": "KTM 390 - duke",
-      "ar": "KTM 390 - duke"
+      "en": "KTM 390 - duke 2021",
+      "ar": "KTM 390 - duke 2021"
     },
     "price": 52000,
     "quickFacts": [
@@ -85026,8 +85026,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-479314",
     "kind": "Moto",
     "title": {
-      "en": "Peugeot django",
-      "ar": "Peugeot django"
+      "en": "Peugeot django 2022",
+      "ar": "Peugeot django 2022"
     },
     "price": 23000,
     "quickFacts": [
@@ -85148,8 +85148,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-479155",
     "kind": "Moto",
     "title": {
-      "en": "Honda sh 150i - digital",
-      "ar": "Honda sh 150i - digital"
+      "en": "Honda sh 150i - digital 2024",
+      "ar": "Honda sh 150i - digital 2024"
     },
     "price": 55000,
     "quickFacts": [
@@ -85271,8 +85271,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-478732",
     "kind": "Moto",
     "title": {
-      "en": "QJMoto srt800x",
-      "ar": "QJMoto srt800x"
+      "en": "QJMoto srt800x 2024",
+      "ar": "QJMoto srt800x 2024"
     },
     "price": 89000,
     "quickFacts": [
@@ -85390,8 +85390,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-478578",
     "kind": "Moto",
     "title": {
-      "en": "Kymco xtown 300 - 300i",
-      "ar": "Kymco xtown 300 - 300i"
+      "en": "Kymco xtown 300 - 300i 2022",
+      "ar": "Kymco xtown 300 - 300i 2022"
     },
     "price": 38000,
     "quickFacts": [
@@ -85515,8 +85515,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-478510",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha x-max 250 - hd",
-      "ar": "Yamaha x-max 250 - hd"
+      "en": "Yamaha x-max 250 - hd 2013",
+      "ar": "Yamaha x-max 250 - hd 2013"
     },
     "price": 36000,
     "quickFacts": [
@@ -85635,8 +85635,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657361",
     "kind": "Car",
     "title": {
-      "en": "Jeep Wrangler",
-      "ar": "Jeep Wrangler"
+      "en": "Jeep Wrangler 2016",
+      "ar": "Jeep Wrangler 2016"
     },
     "price": 220000,
     "quickFacts": [
@@ -85654,7 +85654,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -85719,7 +85719,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -85759,7 +85759,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -85850,8 +85850,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-654189",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 3008",
-      "ar": "Peugeot 3008"
+      "en": "Peugeot 3008 2021",
+      "ar": "Peugeot 3008 2021"
     },
     "price": 223000,
     "quickFacts": [
@@ -85869,7 +85869,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -85934,7 +85934,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -85974,7 +85974,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -86066,8 +86066,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-624359",
     "kind": "Car",
     "title": {
-      "en": "BMW X1",
-      "ar": "BMW X1"
+      "en": "BMW X1 2018",
+      "ar": "BMW X1 2018"
     },
     "price": 219000,
     "quickFacts": [
@@ -86085,7 +86085,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -86150,7 +86150,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -86190,7 +86190,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -86284,8 +86284,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657362",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz 220",
-      "ar": "Mercedes-Benz 220"
+      "en": "Mercedes-Benz 220 2010",
+      "ar": "Mercedes-Benz 220 2010"
     },
     "price": 145000,
     "quickFacts": [
@@ -86303,7 +86303,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -86368,7 +86368,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -86408,7 +86408,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -86490,8 +86490,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657364",
     "kind": "Car",
     "title": {
-      "en": "Renault Express",
-      "ar": "Renault Express"
+      "en": "Renault Express 2021",
+      "ar": "Renault Express 2021"
     },
     "price": 144000,
     "quickFacts": [
@@ -86509,7 +86509,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -86574,7 +86574,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -86614,7 +86614,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -86684,8 +86684,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657340",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 208",
-      "ar": "Peugeot 208"
+      "en": "Peugeot 208 2019",
+      "ar": "Peugeot 208 2019"
     },
     "price": 11000,
     "quickFacts": [
@@ -86703,7 +86703,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -86768,7 +86768,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -86798,7 +86798,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -86870,8 +86870,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657342",
     "kind": "Car",
     "title": {
-      "en": "Audi A4",
-      "ar": "Audi A4"
+      "en": "Audi A4 2020",
+      "ar": "Audi A4 2020"
     },
     "price": 225000,
     "quickFacts": [
@@ -86889,7 +86889,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -86954,7 +86954,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -86994,7 +86994,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -87086,8 +87086,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657343",
     "kind": "Car",
     "title": {
-      "en": "Citroën C3",
-      "ar": "Citroën C3"
+      "en": "Citroën C3 2014",
+      "ar": "Citroën C3 2014"
     },
     "price": 77000,
     "quickFacts": [
@@ -87105,7 +87105,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -87170,7 +87170,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -87210,7 +87210,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -87272,8 +87272,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-616624",
     "kind": "Car",
     "title": {
-      "en": "Seat Tarraco",
-      "ar": "Seat Tarraco"
+      "en": "Seat Tarraco 2024",
+      "ar": "Seat Tarraco 2024"
     },
     "price": 330000,
     "quickFacts": [
@@ -87291,7 +87291,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -87356,7 +87356,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -87396,7 +87396,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -87483,8 +87483,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657344",
     "kind": "Car",
     "title": {
-      "en": "Nissan Qashqai",
-      "ar": "Nissan Qashqai"
+      "en": "Nissan Qashqai 2016",
+      "ar": "Nissan Qashqai 2016"
     },
     "price": 158000,
     "quickFacts": [
@@ -87502,7 +87502,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -87567,7 +87567,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -87597,7 +87597,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -87618,8 +87618,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657345",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson",
-      "ar": "Hyundai Tucson"
+      "en": "Hyundai Tucson 1990",
+      "ar": "Hyundai Tucson 1990"
     },
     "price": 40000,
     "quickFacts": [
@@ -87637,7 +87637,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -87702,7 +87702,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -87732,7 +87732,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -87749,8 +87749,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-418788",
     "kind": "Car",
     "title": {
-      "en": "Citroën C5 - 3.0",
-      "ar": "Citroën C5 - 3.0"
+      "en": "Citroën C5 - 3.0 2008",
+      "ar": "Citroën C5 - 3.0 2008"
     },
     "price": 90000,
     "quickFacts": [
@@ -87768,7 +87768,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -87833,7 +87833,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -87873,7 +87873,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -87957,8 +87957,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657346",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Creta",
-      "ar": "Hyundai Creta"
+      "en": "Hyundai Creta 2020",
+      "ar": "Hyundai Creta 2020"
     },
     "price": 180000,
     "quickFacts": [
@@ -87976,7 +87976,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -88041,7 +88041,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -88081,7 +88081,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -88151,8 +88151,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494650",
     "kind": "Car",
     "title": {
-      "en": "Fiat Doblo",
-      "ar": "Fiat Doblo"
+      "en": "Fiat Doblo 2025",
+      "ar": "Fiat Doblo 2025"
     },
     "price": 190000,
     "quickFacts": [
@@ -88170,7 +88170,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -88235,7 +88235,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -88275,7 +88275,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -88352,8 +88352,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-645206",
     "kind": "Car",
     "title": {
-      "en": "Renault R4",
-      "ar": "Renault R4"
+      "en": "Renault R4 1993",
+      "ar": "Renault R4 1993"
     },
     "price": 60000,
     "quickFacts": [
@@ -88371,7 +88371,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -88436,7 +88436,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -88476,7 +88476,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -88512,8 +88512,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657349",
     "kind": "Car",
     "title": {
-      "en": "Dacia Duster",
-      "ar": "Dacia Duster"
+      "en": "Dacia Duster 2021",
+      "ar": "Dacia Duster 2021"
     },
     "price": 184000,
     "quickFacts": [
@@ -88531,7 +88531,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -88596,7 +88596,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -88636,7 +88636,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -88723,8 +88723,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-492334",
     "kind": "Car",
     "title": {
-      "en": "Kia Carnival",
-      "ar": "Kia Carnival"
+      "en": "Kia Carnival 2022",
+      "ar": "Kia Carnival 2022"
     },
     "price": 365000,
     "quickFacts": [
@@ -88742,7 +88742,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -88807,7 +88807,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -88837,7 +88837,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -88860,8 +88860,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657336",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 4",
-      "ar": "Volkswagen Golf 4"
+      "en": "Volkswagen Golf 4 1999",
+      "ar": "Volkswagen Golf 4 1999"
     },
     "price": 65000,
     "quickFacts": [
@@ -88879,7 +88879,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -88944,7 +88944,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -88984,7 +88984,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -89022,8 +89022,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-656340",
     "kind": "Car",
     "title": {
-      "en": "Kia Sportage",
-      "ar": "Kia Sportage"
+      "en": "Kia Sportage 2008",
+      "ar": "Kia Sportage 2008"
     },
     "price": 64500,
     "quickFacts": [
@@ -89041,7 +89041,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -89106,7 +89106,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -89146,7 +89146,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -89187,8 +89187,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-645570",
     "kind": "Car",
     "title": {
-      "en": "Audi Q8",
-      "ar": "Audi Q8"
+      "en": "Audi Q8 2023",
+      "ar": "Audi Q8 2023"
     },
     "price": 780000,
     "quickFacts": [
@@ -89206,7 +89206,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -89271,7 +89271,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -89311,7 +89311,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -89402,8 +89402,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-470399",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Evoque",
-      "ar": "Land Rover Range Rover Evoque"
+      "en": "Land Rover Range Rover Evoque 2017",
+      "ar": "Land Rover Range Rover Evoque 2017"
     },
     "price": 193000,
     "quickFacts": [
@@ -89421,7 +89421,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -89486,7 +89486,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -89526,7 +89526,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -89608,8 +89608,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-640025",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe C",
-      "ar": "Mercedes-Benz Classe C"
+      "en": "Mercedes-Benz Classe C 2013",
+      "ar": "Mercedes-Benz Classe C 2013"
     },
     "price": 157000,
     "quickFacts": [
@@ -89627,7 +89627,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -89692,7 +89692,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -89722,7 +89722,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -89741,8 +89741,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-620802",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 7",
-      "ar": "Volkswagen Golf 7"
+      "en": "Volkswagen Golf 7 2014",
+      "ar": "Volkswagen Golf 7 2014"
     },
     "price": 165000,
     "quickFacts": [
@@ -89760,7 +89760,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -89825,7 +89825,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -89865,7 +89865,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -89957,8 +89957,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657335",
     "kind": "Car",
     "title": {
-      "en": "Audi A8",
-      "ar": "Audi A8"
+      "en": "Audi A8 2019",
+      "ar": "Audi A8 2019"
     },
     "price": 430000,
     "quickFacts": [
@@ -89976,7 +89976,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -90041,7 +90041,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -90081,7 +90081,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -90170,8 +90170,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657338",
     "kind": "Car",
     "title": {
-      "en": "Ford Focus",
-      "ar": "Ford Focus"
+      "en": "Ford Focus 2017",
+      "ar": "Ford Focus 2017"
     },
     "price": 157000,
     "quickFacts": [
@@ -90189,7 +90189,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -90254,7 +90254,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -90294,7 +90294,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -90376,8 +90376,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-630178",
     "kind": "Car",
     "title": {
-      "en": "Audi Q2",
-      "ar": "Audi Q2"
+      "en": "Audi Q2 2018",
+      "ar": "Audi Q2 2018"
     },
     "price": 218000,
     "quickFacts": [
@@ -90395,7 +90395,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -90460,7 +90460,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -90500,7 +90500,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -90574,8 +90574,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-656343",
     "kind": "Car",
     "title": {
-      "en": "Nissan Evalia",
-      "ar": "Nissan Evalia"
+      "en": "Nissan Evalia 2013",
+      "ar": "Nissan Evalia 2013"
     },
     "price": 78500,
     "quickFacts": [
@@ -90593,7 +90593,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -90658,7 +90658,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -90698,7 +90698,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -90790,8 +90790,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-478491",
     "kind": "Car",
     "title": {
-      "en": "Alfa Romeo Giulietta",
-      "ar": "Alfa Romeo Giulietta"
+      "en": "Alfa Romeo Giulietta 2016",
+      "ar": "Alfa Romeo Giulietta 2016"
     },
     "price": 131000,
     "quickFacts": [
@@ -90809,7 +90809,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -90874,7 +90874,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -90914,7 +90914,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -91001,8 +91001,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-636070",
     "kind": "Car",
     "title": {
-      "en": "Audi A4",
-      "ar": "Audi A4"
+      "en": "Audi A4 2015",
+      "ar": "Audi A4 2015"
     },
     "price": 163000,
     "quickFacts": [
@@ -91020,7 +91020,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -91085,7 +91085,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -91125,7 +91125,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -91192,8 +91192,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-497728",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Touran",
-      "ar": "Volkswagen Touran"
+      "en": "Volkswagen Touran 2020",
+      "ar": "Volkswagen Touran 2020"
     },
     "price": 250000,
     "quickFacts": [
@@ -91211,7 +91211,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -91276,7 +91276,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -91316,7 +91316,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -91403,8 +91403,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-654207",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 8",
-      "ar": "Volkswagen Golf 8"
+      "en": "Volkswagen Golf 8 2020",
+      "ar": "Volkswagen Golf 8 2020"
     },
     "price": 285000,
     "quickFacts": [
@@ -91422,7 +91422,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -91487,7 +91487,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -91527,7 +91527,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -91548,8 +91548,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-640023",
     "kind": "Car",
     "title": {
-      "en": "Volvo S60",
-      "ar": "Volvo S60"
+      "en": "Volvo S60 2018",
+      "ar": "Volvo S60 2018"
     },
     "price": 172000,
     "quickFacts": [
@@ -91567,7 +91567,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -91632,7 +91632,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -91662,7 +91662,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -91682,8 +91682,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-627400",
     "kind": "Car",
     "title": {
-      "en": "Peugeot Partner",
-      "ar": "Peugeot Partner"
+      "en": "Peugeot Partner 2018",
+      "ar": "Peugeot Partner 2018"
     },
     "price": 143000,
     "quickFacts": [
@@ -91701,7 +91701,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -91766,7 +91766,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -91796,7 +91796,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -91813,8 +91813,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657337",
     "kind": "Car",
     "title": {
-      "en": "Seat Ateca",
-      "ar": "Seat Ateca"
+      "en": "Seat Ateca 2022",
+      "ar": "Seat Ateca 2022"
     },
     "price": 298000,
     "quickFacts": [
@@ -91832,7 +91832,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -91897,7 +91897,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -91937,7 +91937,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -92024,8 +92024,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-654383",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Creta",
-      "ar": "Hyundai Creta"
+      "en": "Hyundai Creta 2021",
+      "ar": "Hyundai Creta 2021"
     },
     "price": 225000,
     "quickFacts": [
@@ -92043,7 +92043,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -92108,7 +92108,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -92148,7 +92148,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -92225,8 +92225,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-421208",
     "kind": "Car",
     "title": {
-      "en": "Ssangyong Korando - 3.0",
-      "ar": "Ssangyong Korando - 3.0"
+      "en": "Ssangyong Korando - 3.0 2015",
+      "ar": "Ssangyong Korando - 3.0 2015"
     },
     "price": 95000,
     "quickFacts": [
@@ -92244,7 +92244,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -92309,7 +92309,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -92349,7 +92349,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -92433,8 +92433,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-486119",
     "kind": "Car",
     "title": {
-      "en": "Porsche Macan",
-      "ar": "Porsche Macan"
+      "en": "Porsche Macan 2024",
+      "ar": "Porsche Macan 2024"
     },
     "price": 630000,
     "quickFacts": [
@@ -92452,7 +92452,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -92517,7 +92517,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -92557,7 +92557,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -92651,8 +92651,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657324",
     "kind": "Car",
     "title": {
-      "en": "Renault R19",
-      "ar": "Renault R19"
+      "en": "Renault R19 1990",
+      "ar": "Renault R19 1990"
     },
     "price": 27000,
     "quickFacts": [
@@ -92670,7 +92670,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -92735,7 +92735,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -92775,7 +92775,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -92792,8 +92792,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657325",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 207",
-      "ar": "Peugeot 207"
+      "en": "Peugeot 207 2008",
+      "ar": "Peugeot 207 2008"
     },
     "price": 55000,
     "quickFacts": [
@@ -92811,7 +92811,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -92876,7 +92876,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -92916,7 +92916,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -92972,8 +92972,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657266",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe C - C220 amg",
-      "ar": "Mercedes-Benz Classe C - C220 amg"
+      "en": "Mercedes-Benz Classe C - C220 amg 2016",
+      "ar": "Mercedes-Benz Classe C - C220 amg 2016"
     },
     "price": 285000,
     "quickFacts": [
@@ -92991,7 +92991,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -93056,7 +93056,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -93096,7 +93096,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -93190,8 +93190,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-647459",
     "kind": "Car",
     "title": {
-      "en": "Opel Adam",
-      "ar": "Opel Adam"
+      "en": "Opel Adam 2017",
+      "ar": "Opel Adam 2017"
     },
     "price": 105000,
     "quickFacts": [
@@ -93209,7 +93209,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -93274,7 +93274,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -93314,7 +93314,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -93386,8 +93386,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657326",
     "kind": "Car",
     "title": {
-      "en": "Geely EX5",
-      "ar": "Geely EX5"
+      "en": "Geely EX5 2025",
+      "ar": "Geely EX5 2025"
     },
     "price": 318000,
     "quickFacts": [
@@ -93405,7 +93405,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -93470,7 +93470,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -93510,7 +93510,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -93602,8 +93602,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-652310",
     "kind": "Car",
     "title": {
-      "en": "BMW X5",
-      "ar": "BMW X5"
+      "en": "BMW X5 2016",
+      "ar": "BMW X5 2016"
     },
     "price": 240000,
     "quickFacts": [
@@ -93621,7 +93621,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -93686,7 +93686,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -93726,7 +93726,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -93809,8 +93809,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657328",
     "kind": "Car",
     "title": {
-      "en": "Jaguar E-Pace",
-      "ar": "Jaguar E-Pace"
+      "en": "Jaguar E-Pace 2020",
+      "ar": "Jaguar E-Pace 2020"
     },
     "price": 245000,
     "quickFacts": [
@@ -93828,7 +93828,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -93893,7 +93893,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -93933,7 +93933,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -94016,8 +94016,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-646564",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 3",
-      "ar": "BMW Série 3"
+      "en": "BMW Série 3 2012",
+      "ar": "BMW Série 3 2012"
     },
     "price": 159000,
     "quickFacts": [
@@ -94035,7 +94035,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -94100,7 +94100,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -94140,7 +94140,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -94232,8 +94232,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657329",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Jetta",
-      "ar": "Volkswagen Jetta"
+      "en": "Volkswagen Jetta 2018",
+      "ar": "Volkswagen Jetta 2018"
     },
     "price": 125000,
     "quickFacts": [
@@ -94251,7 +94251,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -94316,7 +94316,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -94356,7 +94356,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -94425,8 +94425,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-505441",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson",
-      "ar": "Hyundai Tucson"
+      "en": "Hyundai Tucson 2024",
+      "ar": "Hyundai Tucson 2024"
     },
     "price": 260000,
     "quickFacts": [
@@ -94444,7 +94444,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -94509,7 +94509,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -94549,7 +94549,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -94641,8 +94641,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-651282",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 7",
-      "ar": "BMW Série 7"
+      "en": "BMW Série 7 2008",
+      "ar": "BMW Série 7 2008"
     },
     "price": 170000,
     "quickFacts": [
@@ -94660,7 +94660,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -94725,7 +94725,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -94765,7 +94765,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -94854,8 +94854,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494197",
     "kind": "Car",
     "title": {
-      "en": "Renault Megane",
-      "ar": "Renault Megane"
+      "en": "Renault Megane 2022",
+      "ar": "Renault Megane 2022"
     },
     "price": 185000,
     "quickFacts": [
@@ -94873,7 +94873,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -94938,7 +94938,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -94978,7 +94978,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -95070,8 +95070,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657330",
     "kind": "Car",
     "title": {
-      "en": "Kia Sorento",
-      "ar": "Kia Sorento"
+      "en": "Kia Sorento 2007",
+      "ar": "Kia Sorento 2007"
     },
     "price": 70000,
     "quickFacts": [
@@ -95089,7 +95089,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -95154,7 +95154,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -95194,7 +95194,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -95268,8 +95268,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657331",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Polo",
-      "ar": "Volkswagen Polo"
+      "en": "Volkswagen Polo 2004",
+      "ar": "Volkswagen Polo 2004"
     },
     "price": 72000,
     "quickFacts": [
@@ -95287,7 +95287,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -95352,7 +95352,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -95392,7 +95392,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -95435,8 +95435,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657332",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe E",
-      "ar": "Mercedes-Benz Classe E"
+      "en": "Mercedes-Benz Classe E 1986",
+      "ar": "Mercedes-Benz Classe E 1986"
     },
     "price": 70000,
     "quickFacts": [
@@ -95454,7 +95454,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -95519,7 +95519,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -95559,7 +95559,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -95584,8 +95584,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657333",
     "kind": "Car",
     "title": {
-      "en": "Renault Clio",
-      "ar": "Renault Clio"
+      "en": "Renault Clio 2018",
+      "ar": "Renault Clio 2018"
     },
     "price": 113000,
     "quickFacts": [
@@ -95603,7 +95603,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -95668,7 +95668,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -95708,7 +95708,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -95783,8 +95783,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-635220",
     "kind": "Car",
     "title": {
-      "en": "Audi Q5",
-      "ar": "Audi Q5"
+      "en": "Audi Q5 2021",
+      "ar": "Audi Q5 2021"
     },
     "price": 309000,
     "quickFacts": [
@@ -95802,7 +95802,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -95867,7 +95867,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -95907,7 +95907,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -95996,8 +95996,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657334",
     "kind": "Car",
     "title": {
-      "en": "Renault Clio",
-      "ar": "Renault Clio"
+      "en": "Renault Clio 2021",
+      "ar": "Renault Clio 2021"
     },
     "price": 145000,
     "quickFacts": [
@@ -96015,7 +96015,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -96080,7 +96080,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -96120,7 +96120,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -96313,8 +96313,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-482556",
     "kind": "Car",
     "title": {
-      "en": "Alfa Romeo Stelvio",
-      "ar": "Alfa Romeo Stelvio"
+      "en": "Alfa Romeo Stelvio 2020",
+      "ar": "Alfa Romeo Stelvio 2020"
     },
     "price": 193000,
     "quickFacts": [
@@ -96332,7 +96332,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -96397,7 +96397,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -96437,7 +96437,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -96521,8 +96521,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657314",
     "kind": "Car",
     "title": {
-      "en": "Dacia Sandero",
-      "ar": "Dacia Sandero"
+      "en": "Dacia Sandero 2018",
+      "ar": "Dacia Sandero 2018"
     },
     "price": 140000,
     "quickFacts": [
@@ -96540,7 +96540,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -96605,7 +96605,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -96645,7 +96645,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -96688,8 +96688,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657315",
     "kind": "Car",
     "title": {
-      "en": "Nissan Juke",
-      "ar": "Nissan Juke"
+      "en": "Nissan Juke 2022",
+      "ar": "Nissan Juke 2022"
     },
     "price": 219000,
     "quickFacts": [
@@ -96707,7 +96707,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -96772,7 +96772,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -96812,7 +96812,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -96899,8 +96899,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657317",
     "kind": "Car",
     "title": {
-      "en": "Kia Seltos",
-      "ar": "Kia Seltos"
+      "en": "Kia Seltos 2022",
+      "ar": "Kia Seltos 2022"
     },
     "price": 190000,
     "quickFacts": [
@@ -96918,7 +96918,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -96983,7 +96983,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -97023,7 +97023,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -97103,8 +97103,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-615043",
     "kind": "Car",
     "title": {
-      "en": "Jeep Grand Cherokee",
-      "ar": "Jeep Grand Cherokee"
+      "en": "Jeep Grand Cherokee 2016",
+      "ar": "Jeep Grand Cherokee 2016"
     },
     "price": 148000,
     "quickFacts": [
@@ -97122,7 +97122,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -97187,7 +97187,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -97217,7 +97217,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -97294,8 +97294,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-469935",
     "kind": "Car",
     "title": {
-      "en": "Opel Astra",
-      "ar": "Opel Astra"
+      "en": "Opel Astra 2021",
+      "ar": "Opel Astra 2021"
     },
     "price": 177000,
     "quickFacts": [
@@ -97313,7 +97313,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -97378,7 +97378,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -97418,7 +97418,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -97507,8 +97507,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-483084",
     "kind": "Car",
     "title": {
-      "en": "Lexus UX",
-      "ar": "Lexus UX"
+      "en": "Lexus UX 2021",
+      "ar": "Lexus UX 2021"
     },
     "price": 280000,
     "quickFacts": [
@@ -97526,7 +97526,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -97591,7 +97591,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -97631,7 +97631,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -97725,8 +97725,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-493255",
     "kind": "Car",
     "title": {
-      "en": "Audi A6",
-      "ar": "Audi A6"
+      "en": "Audi A6 2020",
+      "ar": "Audi A6 2020"
     },
     "price": 340000,
     "quickFacts": [
@@ -97744,7 +97744,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -97809,7 +97809,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -97849,7 +97849,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -97943,8 +97943,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657318",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson",
-      "ar": "Hyundai Tucson"
+      "en": "Hyundai Tucson 2016",
+      "ar": "Hyundai Tucson 2016"
     },
     "price": 180000,
     "quickFacts": [
@@ -97962,7 +97962,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -98027,7 +98027,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -98067,7 +98067,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -98158,8 +98158,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657321",
     "kind": "Car",
     "title": {
-      "en": "Hyundai i20",
-      "ar": "Hyundai i20"
+      "en": "Hyundai i20 2021",
+      "ar": "Hyundai i20 2021"
     },
     "price": 125000,
     "quickFacts": [
@@ -98177,7 +98177,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -98242,7 +98242,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -98282,7 +98282,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -98358,8 +98358,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657319",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe GLE",
-      "ar": "Mercedes-Benz Classe GLE"
+      "en": "Mercedes-Benz Classe GLE 2022",
+      "ar": "Mercedes-Benz Classe GLE 2022"
     },
     "price": 670000,
     "quickFacts": [
@@ -98377,7 +98377,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -98442,7 +98442,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -98482,7 +98482,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -98564,8 +98564,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657320",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe C",
-      "ar": "Mercedes-Benz Classe C"
+      "en": "Mercedes-Benz Classe C 2002",
+      "ar": "Mercedes-Benz Classe C 2002"
     },
     "price": 90000,
     "quickFacts": [
@@ -98583,7 +98583,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -98648,7 +98648,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -98688,7 +98688,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -98747,8 +98747,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-618781",
     "kind": "Car",
     "title": {
-      "en": "BMW X5",
-      "ar": "BMW X5"
+      "en": "BMW X5 2012",
+      "ar": "BMW X5 2012"
     },
     "price": 104000,
     "quickFacts": [
@@ -98766,7 +98766,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -98831,7 +98831,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -98871,7 +98871,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -98894,8 +98894,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-631673",
     "kind": "Car",
     "title": {
-      "en": "BMW X5",
-      "ar": "BMW X5"
+      "en": "BMW X5 2023",
+      "ar": "BMW X5 2023"
     },
     "price": 475000,
     "quickFacts": [
@@ -98913,7 +98913,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -98978,7 +98978,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -99018,7 +99018,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -99111,8 +99111,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-635323",
     "kind": "Car",
     "title": {
-      "en": "BMW X3",
-      "ar": "BMW X3"
+      "en": "BMW X3 2021",
+      "ar": "BMW X3 2021"
     },
     "price": 455000,
     "quickFacts": [
@@ -99130,7 +99130,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -99195,7 +99195,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -99235,7 +99235,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -99323,8 +99323,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-495309",
     "kind": "Car",
     "title": {
-      "en": "Renault Kardian",
-      "ar": "Renault Kardian"
+      "en": "Renault Kardian 2025",
+      "ar": "Renault Kardian 2025"
     },
     "price": 177000,
     "quickFacts": [
@@ -99342,7 +99342,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -99407,7 +99407,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -99447,7 +99447,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -99526,8 +99526,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-652252",
     "kind": "Car",
     "title": {
-      "en": "Porsche Cayenne",
-      "ar": "Porsche Cayenne"
+      "en": "Porsche Cayenne 2012",
+      "ar": "Porsche Cayenne 2012"
     },
     "price": 190000,
     "quickFacts": [
@@ -99545,7 +99545,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -99610,7 +99610,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -99650,7 +99650,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -99742,8 +99742,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-509212",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2018",
+      "ar": "Volkswagen Tiguan 2018"
     },
     "price": 290000,
     "quickFacts": [
@@ -99761,7 +99761,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -99826,7 +99826,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -99866,7 +99866,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -99886,8 +99886,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-498757",
     "kind": "Car",
     "title": {
-      "en": "Ford Focus",
-      "ar": "Ford Focus"
+      "en": "Ford Focus 2022",
+      "ar": "Ford Focus 2022"
     },
     "price": 195000,
     "quickFacts": [
@@ -99905,7 +99905,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -99970,7 +99970,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -100000,7 +100000,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -100082,8 +100082,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657322",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 4",
-      "ar": "Volkswagen Golf 4"
+      "en": "Volkswagen Golf 4 2003",
+      "ar": "Volkswagen Golf 4 2003"
     },
     "price": 73000,
     "quickFacts": [
@@ -100101,7 +100101,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -100166,7 +100166,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -100206,7 +100206,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -100258,8 +100258,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-486468",
     "kind": "Car",
     "title": {
-      "en": "Lexus UX",
-      "ar": "Lexus UX"
+      "en": "Lexus UX 2022",
+      "ar": "Lexus UX 2022"
     },
     "price": 285000,
     "quickFacts": [
@@ -100277,7 +100277,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -100342,7 +100342,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -100382,7 +100382,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -100476,8 +100476,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657316",
     "kind": "Car",
     "title": {
-      "en": "Toyota Corolla",
-      "ar": "Toyota Corolla"
+      "en": "Toyota Corolla 2005",
+      "ar": "Toyota Corolla 2005"
     },
     "price": 62000,
     "quickFacts": [
@@ -100495,7 +100495,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -100560,7 +100560,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -100600,7 +100600,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -100644,8 +100644,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657304",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson",
-      "ar": "Hyundai Tucson"
+      "en": "Hyundai Tucson 2019",
+      "ar": "Hyundai Tucson 2019"
     },
     "price": 265000,
     "quickFacts": [
@@ -100663,7 +100663,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -100728,7 +100728,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -100768,7 +100768,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -100784,8 +100784,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-502421",
     "kind": "Car",
     "title": {
-      "en": "Fiat 500",
-      "ar": "Fiat 500"
+      "en": "Fiat 500 2022",
+      "ar": "Fiat 500 2022"
     },
     "price": 150000,
     "quickFacts": [
@@ -100803,7 +100803,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -100868,7 +100868,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -100898,7 +100898,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -100919,8 +100919,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-499033",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe CLA",
-      "ar": "Mercedes-Benz Classe CLA"
+      "en": "Mercedes-Benz Classe CLA 2018",
+      "ar": "Mercedes-Benz Classe CLA 2018"
     },
     "price": 305000,
     "quickFacts": [
@@ -100938,7 +100938,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -101003,7 +101003,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -101043,7 +101043,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -101135,8 +101135,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657306",
     "kind": "Car",
     "title": {
-      "en": "Fiat 500",
-      "ar": "Fiat 500"
+      "en": "Fiat 500 2014",
+      "ar": "Fiat 500 2014"
     },
     "price": 85000,
     "quickFacts": [
@@ -101154,7 +101154,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -101219,7 +101219,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -101259,7 +101259,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -101321,8 +101321,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494087",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Touareg",
-      "ar": "Volkswagen Touareg"
+      "en": "Volkswagen Touareg 2007",
+      "ar": "Volkswagen Touareg 2007"
     },
     "price": 125000,
     "quickFacts": [
@@ -101340,7 +101340,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -101405,7 +101405,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -101445,7 +101445,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -101531,8 +101531,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657307",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz 220",
-      "ar": "Mercedes-Benz 220"
+      "en": "Mercedes-Benz 220 2026",
+      "ar": "Mercedes-Benz 220 2026"
     },
     "price": 900000,
     "quickFacts": [
@@ -101550,7 +101550,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -101615,7 +101615,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -101655,7 +101655,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -101740,8 +101740,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657308",
     "kind": "Car",
     "title": {
-      "en": "Renault Megane",
-      "ar": "Renault Megane"
+      "en": "Renault Megane 1998",
+      "ar": "Renault Megane 1998"
     },
     "price": 45000,
     "quickFacts": [
@@ -101759,7 +101759,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -101824,7 +101824,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -101864,7 +101864,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -101896,8 +101896,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-482018",
     "kind": "Car",
     "title": {
-      "en": "Lexus NX",
-      "ar": "Lexus NX"
+      "en": "Lexus NX 2021",
+      "ar": "Lexus NX 2021"
     },
     "price": 315000,
     "quickFacts": [
@@ -101915,7 +101915,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -101980,7 +101980,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -102020,7 +102020,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -102114,8 +102114,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-506810",
     "kind": "Car",
     "title": {
-      "en": "Kia Picanto",
-      "ar": "Kia Picanto"
+      "en": "Kia Picanto 2025",
+      "ar": "Kia Picanto 2025"
     },
     "price": 145000,
     "quickFacts": [
@@ -102133,7 +102133,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -102198,7 +102198,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -102238,7 +102238,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -102298,8 +102298,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-633015",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe GLA",
-      "ar": "Mercedes-Benz Classe GLA"
+      "en": "Mercedes-Benz Classe GLA 2018",
+      "ar": "Mercedes-Benz Classe GLA 2018"
     },
     "price": 255000,
     "quickFacts": [
@@ -102317,7 +102317,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -102382,7 +102382,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -102412,7 +102412,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -102431,8 +102431,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-612907",
     "kind": "Car",
     "title": {
-      "en": "Seat Ibiza",
-      "ar": "Seat Ibiza"
+      "en": "Seat Ibiza 2021",
+      "ar": "Seat Ibiza 2021"
     },
     "price": 174000,
     "quickFacts": [
@@ -102450,7 +102450,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -102515,7 +102515,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -102555,7 +102555,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -102649,8 +102649,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657309",
     "kind": "Car",
     "title": {
-      "en": "Dacia Duster",
-      "ar": "Dacia Duster"
+      "en": "Dacia Duster 2012",
+      "ar": "Dacia Duster 2012"
     },
     "price": 117000,
     "quickFacts": [
@@ -102668,7 +102668,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -102733,7 +102733,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -102773,7 +102773,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -102836,8 +102836,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494405",
     "kind": "Car",
     "title": {
-      "en": "Chevrolet Cruze",
-      "ar": "Chevrolet Cruze"
+      "en": "Chevrolet Cruze 2015",
+      "ar": "Chevrolet Cruze 2015"
     },
     "price": 120000,
     "quickFacts": [
@@ -102855,7 +102855,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -102920,7 +102920,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -102960,7 +102960,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -103047,8 +103047,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657312",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Vito",
-      "ar": "Mercedes-Benz Vito"
+      "en": "Mercedes-Benz Vito 2018",
+      "ar": "Mercedes-Benz Vito 2018"
     },
     "price": 285000,
     "quickFacts": [
@@ -103066,7 +103066,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -103131,7 +103131,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -103171,7 +103171,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -103188,8 +103188,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657313",
     "kind": "Car",
     "title": {
-      "en": "Renault Megane",
-      "ar": "Renault Megane"
+      "en": "Renault Megane 2018",
+      "ar": "Renault Megane 2018"
     },
     "price": 145000,
     "quickFacts": [
@@ -103207,7 +103207,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -103272,7 +103272,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -103312,7 +103312,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -103381,8 +103381,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-506066",
     "kind": "Car",
     "title": {
-      "en": "Audi A3 Berline",
-      "ar": "Audi A3 Berline"
+      "en": "Audi A3 Berline 2024",
+      "ar": "Audi A3 Berline 2024"
     },
     "price": 430000,
     "quickFacts": [
@@ -103400,7 +103400,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -103465,7 +103465,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -103505,7 +103505,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -103596,8 +103596,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-478446",
     "kind": "Moto",
     "title": {
-      "en": "Becane 150 cc - 2023",
-      "ar": "Becane 150 cc - 2023"
+      "en": "Becane 150 cc - 2023 2024",
+      "ar": "Becane 150 cc - 2023 2024"
     },
     "price": 11000,
     "quickFacts": [
@@ -103719,8 +103719,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-478428",
     "kind": "Moto",
     "title": {
-      "en": "Kawasaki z 650 sr",
-      "ar": "Kawasaki z 650 sr"
+      "en": "Kawasaki z 650 sr 2022",
+      "ar": "Kawasaki z 650 sr 2022"
     },
     "price": 86000,
     "quickFacts": [
@@ -103841,8 +103841,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-478301",
     "kind": "Moto",
     "title": {
-      "en": "Royal Enfield himalayan - 450",
-      "ar": "Royal Enfield himalayan - 450"
+      "en": "Royal Enfield himalayan - 450 2024",
+      "ar": "Royal Enfield himalayan - 450 2024"
     },
     "price": 72000,
     "quickFacts": [
@@ -103959,8 +103959,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-478159",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha x-max 250",
-      "ar": "Yamaha x-max 250"
+      "en": "Yamaha x-max 250 2013",
+      "ar": "Yamaha x-max 250 2013"
     },
     "price": 36000,
     "quickFacts": [
@@ -104072,8 +104072,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-470225",
     "kind": "Moto",
     "title": {
-      "en": "2021Tanger",
-      "ar": "2021Tanger"
+      "en": "2021Tanger 2021",
+      "ar": "2021Tanger 2021"
     },
     "price": 73000,
     "quickFacts": [
@@ -104172,8 +104172,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-477991",
     "kind": "Moto",
     "title": {
-      "en": "Zontes 350gk - scrambler 155g1",
-      "ar": "Zontes 350gk - scrambler 155g1"
+      "en": "Zontes 350gk - scrambler 155g1 2023",
+      "ar": "Zontes 350gk - scrambler 155g1 2023"
     },
     "price": 30000,
     "quickFacts": [
@@ -104294,8 +104294,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-477900",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha mt-07 - 07",
-      "ar": "Yamaha mt-07 - 07"
+      "en": "Yamaha mt-07 - 07 2020",
+      "ar": "Yamaha mt-07 - 07 2020"
     },
     "price": 85000,
     "quickFacts": [
@@ -104417,8 +104417,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-477866",
     "kind": "Moto",
     "title": {
-      "en": "SYM cruisym",
-      "ar": "SYM cruisym"
+      "en": "SYM cruisym 2019",
+      "ar": "SYM cruisym 2019"
     },
     "price": 42000,
     "quickFacts": [
@@ -104537,8 +104537,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-477832",
     "kind": "Moto",
     "title": {
-      "en": "Royal Enfield bullet 500 classic - chrome",
-      "ar": "Royal Enfield bullet 500 classic - chrome"
+      "en": "Royal Enfield bullet 500 classic - chrome 2020",
+      "ar": "Royal Enfield bullet 500 classic - chrome 2020"
     },
     "price": 52000,
     "quickFacts": [
@@ -104780,8 +104780,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-477455",
     "kind": "Moto",
     "title": {
-      "en": "BMW r1250 gs",
-      "ar": "BMW r1250 gs"
+      "en": "BMW r1250 gs 2023",
+      "ar": "BMW r1250 gs 2023"
     },
     "price": 240000,
     "quickFacts": [
@@ -104904,8 +104904,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-477236",
     "kind": "Moto",
     "title": {
-      "en": "Aprilia rs 50",
-      "ar": "Aprilia rs 50"
+      "en": "Aprilia rs 50 2012",
+      "ar": "Aprilia rs 50 2012"
     },
     "price": 5500,
     "quickFacts": [
@@ -105003,8 +105003,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-477231",
     "kind": "Moto",
     "title": {
-      "en": "SYM joyride 200 - sym joyride 300",
-      "ar": "SYM joyride 200 - sym joyride 300"
+      "en": "SYM joyride 200 - sym joyride 300 2022",
+      "ar": "SYM joyride 200 - sym joyride 300 2022"
     },
     "price": 40000,
     "quickFacts": [
@@ -105122,8 +105122,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-477076",
     "kind": "Moto",
     "title": {
-      "en": "Becane 150 cc - rvx",
-      "ar": "Becane 150 cc - rvx"
+      "en": "Becane 150 cc - rvx 2024",
+      "ar": "Becane 150 cc - rvx 2024"
     },
     "price": 11000,
     "quickFacts": [
@@ -105241,8 +105241,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-476916",
     "kind": "Moto",
     "title": {
-      "en": "Keeway autre",
-      "ar": "Keeway autre"
+      "en": "Keeway autre 2019",
+      "ar": "Keeway autre 2019"
     },
     "price": 30000,
     "quickFacts": [
@@ -105367,8 +105367,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-476798",
     "kind": "Moto",
     "title": {
-      "en": "Docker c50 - xcbly",
-      "ar": "Docker c50 - xcbly"
+      "en": "Docker c50 - xcbly 2025",
+      "ar": "Docker c50 - xcbly 2025"
     },
     "price": 9000,
     "quickFacts": [
@@ -105489,8 +105489,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-476779",
     "kind": "Moto",
     "title": {
-      "en": "CFMoto 700cl-x HERITAGE - srambler",
-      "ar": "CFMoto 700cl-x HERITAGE - srambler"
+      "en": "CFMoto 700cl-x HERITAGE - srambler 2022",
+      "ar": "CFMoto 700cl-x HERITAGE - srambler 2022"
     },
     "price": 60000,
     "quickFacts": [
@@ -105611,8 +105611,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-476640",
     "kind": "Moto",
     "title": {
-      "en": "Suzuki gsx - routiers",
-      "ar": "Suzuki gsx - routiers"
+      "en": "Suzuki gsx - routiers 2015",
+      "ar": "Suzuki gsx - routiers 2015"
     },
     "price": 80000,
     "quickFacts": [
@@ -105736,8 +105736,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-476613",
     "kind": "Moto",
     "title": {
-      "en": "Suzuki gsx - gxs s 1000",
-      "ar": "Suzuki gsx - gxs s 1000"
+      "en": "Suzuki gsx - gxs s 1000 2015",
+      "ar": "Suzuki gsx - gxs s 1000 2015"
     },
     "price": 80000,
     "quickFacts": [
@@ -105859,8 +105859,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-476612",
     "kind": "Moto",
     "title": {
-      "en": "Hanway raw 125 - hanway raw race 49",
-      "ar": "Hanway raw 125 - hanway raw race 49"
+      "en": "Hanway raw 125 - hanway raw race 49 2021",
+      "ar": "Hanway raw 125 - hanway raw race 49 2021"
     },
     "price": 11500,
     "quickFacts": [
@@ -105984,8 +105984,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-476507",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha xt1200z super tenere - xt1200z",
-      "ar": "Yamaha xt1200z super tenere - xt1200z"
+      "en": "Yamaha xt1200z super tenere - xt1200z 2020",
+      "ar": "Yamaha xt1200z super tenere - xt1200z 2020"
     },
     "price": 145000,
     "quickFacts": [
@@ -106109,8 +106109,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-476344",
     "kind": "Moto",
     "title": {
-      "en": "2024Tanger",
-      "ar": "2024Tanger"
+      "en": "2024Tanger 2024",
+      "ar": "2024Tanger 2024"
     },
     "price": 16000,
     "quickFacts": [
@@ -106231,8 +106231,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-476137",
     "kind": "Moto",
     "title": {
-      "en": "Kawasaki zx-6r - abs",
-      "ar": "Kawasaki zx-6r - abs"
+      "en": "Kawasaki zx-6r - abs 2020",
+      "ar": "Kawasaki zx-6r - abs 2020"
     },
     "price": 113000,
     "quickFacts": [
@@ -106353,8 +106353,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-476093",
     "kind": "Moto",
     "title": {
-      "en": "2024Casablanca",
-      "ar": "2024Casablanca"
+      "en": "2024Casablanca 2024",
+      "ar": "2024Casablanca 2024"
     },
     "price": 13500,
     "quickFacts": [
@@ -106718,8 +106718,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-475898",
     "kind": "Moto",
     "title": {
-      "en": "Highland c50",
-      "ar": "Highland c50"
+      "en": "Highland c50 2023",
+      "ar": "Highland c50 2023"
     },
     "price": 8400,
     "quickFacts": [
@@ -106837,8 +106837,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-475880",
     "kind": "Moto",
     "title": {
-      "en": "MBK swing",
-      "ar": "MBK swing"
+      "en": "MBK swing 2014",
+      "ar": "MBK swing 2014"
     },
     "price": 2700,
     "quickFacts": [
@@ -107080,8 +107080,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-475702",
     "kind": "Moto",
     "title": {
-      "en": "Harley-Davidson sportster 1200 - superlow 1200",
-      "ar": "Harley-Davidson sportster 1200 - superlow 1200"
+      "en": "Harley-Davidson sportster 1200 - superlow 1200 2011",
+      "ar": "Harley-Davidson sportster 1200 - superlow 1200 2011"
     },
     "price": 65000,
     "quickFacts": [
@@ -107200,8 +107200,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-514396",
     "kind": "Car",
     "title": {
-      "en": "Audi Q3",
-      "ar": "Audi Q3"
+      "en": "Audi Q3 2020",
+      "ar": "Audi Q3 2020"
     },
     "price": 500000,
     "quickFacts": [
@@ -107219,7 +107219,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -107284,7 +107284,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -107324,7 +107324,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -107416,8 +107416,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-640602",
     "kind": "Car",
     "title": {
-      "en": "Ford raptor",
-      "ar": "Ford raptor"
+      "en": "Ford raptor 2022",
+      "ar": "Ford raptor 2022"
     },
     "price": 430000,
     "quickFacts": [
@@ -107435,7 +107435,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -107500,7 +107500,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -107530,7 +107530,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -107551,8 +107551,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657296",
     "kind": "Car",
     "title": {
-      "en": "Fiat Tipo",
-      "ar": "Fiat Tipo"
+      "en": "Fiat Tipo 2019",
+      "ar": "Fiat Tipo 2019"
     },
     "price": 115000,
     "quickFacts": [
@@ -107570,7 +107570,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -107635,7 +107635,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -107675,7 +107675,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -107724,8 +107724,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-651416",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson",
-      "ar": "Hyundai Tucson"
+      "en": "Hyundai Tucson 2019",
+      "ar": "Hyundai Tucson 2019"
     },
     "price": 205000,
     "quickFacts": [
@@ -107743,7 +107743,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -107808,7 +107808,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -107838,7 +107838,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -107889,8 +107889,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-656190",
     "kind": "Car",
     "title": {
-      "en": "soueast S 05",
-      "ar": "soueast S 05"
+      "en": "soueast S 05 2026",
+      "ar": "soueast S 05 2026"
     },
     "price": 175000,
     "quickFacts": [
@@ -107908,7 +107908,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -107973,7 +107973,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -108013,7 +108013,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -108101,8 +108101,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494215",
     "kind": "Car",
     "title": {
-      "en": "Audi Q7",
-      "ar": "Audi Q7"
+      "en": "Audi Q7 2024",
+      "ar": "Audi Q7 2024"
     },
     "price": 640000,
     "quickFacts": [
@@ -108120,7 +108120,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -108185,7 +108185,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -108225,7 +108225,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -108245,8 +108245,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657300",
     "kind": "Car",
     "title": {
-      "en": "Renault Megane",
-      "ar": "Renault Megane"
+      "en": "Renault Megane 2008",
+      "ar": "Renault Megane 2008"
     },
     "price": 60000,
     "quickFacts": [
@@ -108264,7 +108264,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -108329,7 +108329,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -108369,7 +108369,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -108427,8 +108427,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657299",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 5",
-      "ar": "BMW Série 5"
+      "en": "BMW Série 5 2017",
+      "ar": "BMW Série 5 2017"
     },
     "price": 255000,
     "quickFacts": [
@@ -108446,7 +108446,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -108511,7 +108511,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -108551,7 +108551,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -108639,8 +108639,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657298",
     "kind": "Car",
     "title": {
-      "en": "Dacia Jogger",
-      "ar": "Dacia Jogger"
+      "en": "Dacia Jogger 2025",
+      "ar": "Dacia Jogger 2025"
     },
     "price": 187000,
     "quickFacts": [
@@ -108658,7 +108658,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -108723,7 +108723,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -108763,7 +108763,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -108810,8 +108810,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-642833",
     "kind": "Car",
     "title": {
-      "en": "Skoda Kodiaq",
-      "ar": "Skoda Kodiaq"
+      "en": "Skoda Kodiaq 2023",
+      "ar": "Skoda Kodiaq 2023"
     },
     "price": 300000,
     "quickFacts": [
@@ -108829,7 +108829,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -108894,7 +108894,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -108934,7 +108934,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -109026,8 +109026,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-647779",
     "kind": "Car",
     "title": {
-      "en": "Alfa Romeo Giulia",
-      "ar": "Alfa Romeo Giulia"
+      "en": "Alfa Romeo Giulia 2018",
+      "ar": "Alfa Romeo Giulia 2018"
     },
     "price": 247000,
     "quickFacts": [
@@ -109045,7 +109045,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -109110,7 +109110,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -109150,7 +109150,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -109240,8 +109240,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657303",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 3008",
-      "ar": "Peugeot 3008"
+      "en": "Peugeot 3008 2020",
+      "ar": "Peugeot 3008 2020"
     },
     "price": 229000,
     "quickFacts": [
@@ -109259,7 +109259,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -109324,7 +109324,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -109354,7 +109354,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -109446,8 +109446,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-495118",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Evoque",
-      "ar": "Land Rover Range Rover Evoque"
+      "en": "Land Rover Range Rover Evoque 2018",
+      "ar": "Land Rover Range Rover Evoque 2018"
     },
     "price": 225000,
     "quickFacts": [
@@ -109465,7 +109465,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -109530,7 +109530,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -109570,7 +109570,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -109657,8 +109657,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-490666",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Defender",
-      "ar": "Land Rover Defender"
+      "en": "Land Rover Defender 2002",
+      "ar": "Land Rover Defender 2002"
     },
     "price": 385000,
     "quickFacts": [
@@ -109676,7 +109676,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -109741,7 +109741,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -109781,7 +109781,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -109835,8 +109835,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657288",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Caddy",
-      "ar": "Volkswagen Caddy"
+      "en": "Volkswagen Caddy 2009",
+      "ar": "Volkswagen Caddy 2009"
     },
     "price": 103000,
     "quickFacts": [
@@ -109854,7 +109854,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -109919,7 +109919,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -109959,7 +109959,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -110050,8 +110050,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657289",
     "kind": "Car",
     "title": {
-      "en": "Renault Clio",
-      "ar": "Renault Clio"
+      "en": "Renault Clio 2021",
+      "ar": "Renault Clio 2021"
     },
     "price": 135000,
     "quickFacts": [
@@ -110069,7 +110069,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -110134,7 +110134,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -110174,7 +110174,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -110235,8 +110235,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657290",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 208",
-      "ar": "Peugeot 208"
+      "en": "Peugeot 208 2019",
+      "ar": "Peugeot 208 2019"
     },
     "price": 112000,
     "quickFacts": [
@@ -110254,7 +110254,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -110319,7 +110319,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -110359,7 +110359,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -110428,8 +110428,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657291",
     "kind": "Car",
     "title": {
-      "en": "Dacia Logan",
-      "ar": "Dacia Logan"
+      "en": "Dacia Logan 2013",
+      "ar": "Dacia Logan 2013"
     },
     "price": 75000,
     "quickFacts": [
@@ -110447,7 +110447,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -110512,7 +110512,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -110552,7 +110552,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -110585,8 +110585,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657292",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz 220",
-      "ar": "Mercedes-Benz 220"
+      "en": "Mercedes-Benz 220 2014",
+      "ar": "Mercedes-Benz 220 2014"
     },
     "price": 215000,
     "quickFacts": [
@@ -110604,7 +110604,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -110669,7 +110669,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -110709,7 +110709,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -110794,8 +110794,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657293",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Accent",
-      "ar": "Hyundai Accent"
+      "en": "Hyundai Accent 2022",
+      "ar": "Hyundai Accent 2022"
     },
     "price": 145000,
     "quickFacts": [
@@ -110813,7 +110813,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -110878,7 +110878,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -110918,7 +110918,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -111003,8 +111003,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-643821",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson",
-      "ar": "Hyundai Tucson"
+      "en": "Hyundai Tucson 2018",
+      "ar": "Hyundai Tucson 2018"
     },
     "price": 225000,
     "quickFacts": [
@@ -111022,7 +111022,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -111087,7 +111087,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -111127,7 +111127,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -111218,8 +111218,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-638908",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Santa Fe",
-      "ar": "Hyundai Santa Fe"
+      "en": "Hyundai Santa Fe 2023",
+      "ar": "Hyundai Santa Fe 2023"
     },
     "price": 330000,
     "quickFacts": [
@@ -111237,7 +111237,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -111302,7 +111302,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -111342,7 +111342,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -111434,8 +111434,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-639245",
     "kind": "Car",
     "title": {
-      "en": "BMW X3",
-      "ar": "BMW X3"
+      "en": "BMW X3 2019",
+      "ar": "BMW X3 2019"
     },
     "price": 280000,
     "quickFacts": [
@@ -111453,7 +111453,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -111518,7 +111518,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -111558,7 +111558,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -111652,8 +111652,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-630977",
     "kind": "Car",
     "title": {
-      "en": "BMW X3",
-      "ar": "BMW X3"
+      "en": "BMW X3 2019",
+      "ar": "BMW X3 2019"
     },
     "price": 255000,
     "quickFacts": [
@@ -111671,7 +111671,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -111736,7 +111736,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -111776,7 +111776,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -111860,8 +111860,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-655241",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 1",
-      "ar": "BMW Série 1"
+      "en": "BMW Série 1 2014",
+      "ar": "BMW Série 1 2014"
     },
     "price": 155000,
     "quickFacts": [
@@ -111879,7 +111879,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -111944,7 +111944,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -111984,7 +111984,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -112002,8 +112002,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-648461",
     "kind": "Car",
     "title": {
-      "en": "Audi Q5",
-      "ar": "Audi Q5"
+      "en": "Audi Q5 2023",
+      "ar": "Audi Q5 2023"
     },
     "price": 580000,
     "quickFacts": [
@@ -112021,7 +112021,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -112086,7 +112086,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -112126,7 +112126,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -112218,8 +112218,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494314",
     "kind": "Car",
     "title": {
-      "en": "Fiat Tipo",
-      "ar": "Fiat Tipo"
+      "en": "Fiat Tipo 2020",
+      "ar": "Fiat Tipo 2020"
     },
     "price": 115000,
     "quickFacts": [
@@ -112237,7 +112237,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -112302,7 +112302,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -112342,7 +112342,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -112432,8 +112432,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-645442",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Touareg",
-      "ar": "Volkswagen Touareg"
+      "en": "Volkswagen Touareg 2019",
+      "ar": "Volkswagen Touareg 2019"
     },
     "price": 187000,
     "quickFacts": [
@@ -112451,7 +112451,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -112516,7 +112516,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -112556,7 +112556,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -112644,8 +112644,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-492034",
     "kind": "Car",
     "title": {
-      "en": "Renault Clio",
-      "ar": "Renault Clio"
+      "en": "Renault Clio 2024",
+      "ar": "Renault Clio 2024"
     },
     "price": 165000,
     "quickFacts": [
@@ -112663,7 +112663,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -112728,7 +112728,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -112768,7 +112768,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -112855,8 +112855,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-637314",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Golf 7",
-      "ar": "Volkswagen Golf 7"
+      "en": "Volkswagen Golf 7 2020",
+      "ar": "Volkswagen Golf 7 2020"
     },
     "price": 2350000,
     "quickFacts": [
@@ -112874,7 +112874,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -112939,7 +112939,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -112979,7 +112979,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -113071,8 +113071,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657284",
     "kind": "Car",
     "title": {
-      "en": "Kia Picanto",
-      "ar": "Kia Picanto"
+      "en": "Kia Picanto 2006",
+      "ar": "Kia Picanto 2006"
     },
     "price": 54000,
     "quickFacts": [
@@ -113090,7 +113090,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -113155,7 +113155,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -113195,7 +113195,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -113247,8 +113247,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657285",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Tucson",
-      "ar": "Hyundai Tucson"
+      "en": "Hyundai Tucson 2022",
+      "ar": "Hyundai Tucson 2022"
     },
     "price": 245000,
     "quickFacts": [
@@ -113266,7 +113266,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -113331,7 +113331,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -113371,7 +113371,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -113456,8 +113456,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-637025",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 208",
-      "ar": "Peugeot 208"
+      "en": "Peugeot 208 2018",
+      "ar": "Peugeot 208 2018"
     },
     "price": 123000,
     "quickFacts": [
@@ -113475,7 +113475,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -113540,7 +113540,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -113580,7 +113580,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -113667,8 +113667,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-651270",
     "kind": "Car",
     "title": {
-      "en": "Volvo S60",
-      "ar": "Volvo S60"
+      "en": "Volvo S60 2016",
+      "ar": "Volvo S60 2016"
     },
     "price": 132000,
     "quickFacts": [
@@ -113686,7 +113686,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -113751,7 +113751,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -113791,7 +113791,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -113878,8 +113878,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-519683",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 5",
-      "ar": "BMW Série 5"
+      "en": "BMW Série 5 2016",
+      "ar": "BMW Série 5 2016"
     },
     "price": 200000,
     "quickFacts": [
@@ -113897,7 +113897,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -113962,7 +113962,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -114002,7 +114002,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -114094,8 +114094,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-492033",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Accent",
-      "ar": "Hyundai Accent"
+      "en": "Hyundai Accent 2022",
+      "ar": "Hyundai Accent 2022"
     },
     "price": 150000,
     "quickFacts": [
@@ -114113,7 +114113,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -114178,7 +114178,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -114218,7 +114218,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -114311,8 +114311,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494295",
     "kind": "Car",
     "title": {
-      "en": "Opel Adam",
-      "ar": "Opel Adam"
+      "en": "Opel Adam 2016",
+      "ar": "Opel Adam 2016"
     },
     "price": 103000,
     "quickFacts": [
@@ -114330,7 +114330,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -114395,7 +114395,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -114435,7 +114435,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -114527,8 +114527,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-649184",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe B",
-      "ar": "Mercedes-Benz Classe B"
+      "en": "Mercedes-Benz Classe B 2005",
+      "ar": "Mercedes-Benz Classe B 2005"
     },
     "price": 68000,
     "quickFacts": [
@@ -114546,7 +114546,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -114611,7 +114611,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -114651,7 +114651,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -114730,8 +114730,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-648316",
     "kind": "Car",
     "title": {
-      "en": "Ford Ranger",
-      "ar": "Ford Ranger"
+      "en": "Ford Ranger 2024",
+      "ar": "Ford Ranger 2024"
     },
     "price": 645000,
     "quickFacts": [
@@ -114749,7 +114749,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -114814,7 +114814,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -114854,7 +114854,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -114916,8 +114916,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657287",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Santa Fe",
-      "ar": "Hyundai Santa Fe"
+      "en": "Hyundai Santa Fe 2010",
+      "ar": "Hyundai Santa Fe 2010"
     },
     "price": 64000,
     "quickFacts": [
@@ -114935,7 +114935,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -115000,7 +115000,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -115040,7 +115040,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -115130,8 +115130,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-655238",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 5008",
-      "ar": "Peugeot 5008"
+      "en": "Peugeot 5008 2017",
+      "ar": "Peugeot 5008 2017"
     },
     "price": 200000,
     "quickFacts": [
@@ -115149,7 +115149,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -115214,7 +115214,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -115254,7 +115254,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -115341,8 +115341,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-654280",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Polo",
-      "ar": "Volkswagen Polo"
+      "en": "Volkswagen Polo 2009",
+      "ar": "Volkswagen Polo 2009"
     },
     "price": 77000,
     "quickFacts": [
@@ -115360,7 +115360,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -115425,7 +115425,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -115465,7 +115465,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -115521,8 +115521,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-489206",
     "kind": "Car",
     "title": {
-      "en": "Seat Ibiza",
-      "ar": "Seat Ibiza"
+      "en": "Seat Ibiza 2016",
+      "ar": "Seat Ibiza 2016"
     },
     "price": 95000,
     "quickFacts": [
@@ -115540,7 +115540,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -115605,7 +115605,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -115645,7 +115645,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -115739,8 +115739,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-488322",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Touareg",
-      "ar": "Volkswagen Touareg"
+      "en": "Volkswagen Touareg 2016",
+      "ar": "Volkswagen Touareg 2016"
     },
     "price": 157000,
     "quickFacts": [
@@ -115758,7 +115758,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -115823,7 +115823,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -115863,7 +115863,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -115956,8 +115956,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-635755",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2017",
+      "ar": "Volkswagen Tiguan 2017"
     },
     "price": 265000,
     "quickFacts": [
@@ -115975,7 +115975,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -116040,7 +116040,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -116080,7 +116080,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -116167,8 +116167,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-638004",
     "kind": "Car",
     "title": {
-      "en": "Audi Autre",
-      "ar": "Audi Autre"
+      "en": "Audi Autre 2015",
+      "ar": "Audi Autre 2015"
     },
     "price": 177000,
     "quickFacts": [
@@ -116186,7 +116186,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -116251,7 +116251,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -116291,7 +116291,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -116385,8 +116385,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657270",
     "kind": "Car",
     "title": {
-      "en": "Kia Picanto",
-      "ar": "Kia Picanto"
+      "en": "Kia Picanto 2024",
+      "ar": "Kia Picanto 2024"
     },
     "price": 90000,
     "quickFacts": [
@@ -116404,7 +116404,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -116469,7 +116469,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -116509,7 +116509,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -116587,8 +116587,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-651245",
     "kind": "Car",
     "title": {
-      "en": "Fiat 500 X",
-      "ar": "Fiat 500 X"
+      "en": "Fiat 500 X 2022",
+      "ar": "Fiat 500 X 2022"
     },
     "price": 175000,
     "quickFacts": [
@@ -116606,7 +116606,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -116671,7 +116671,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -116711,7 +116711,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -116803,8 +116803,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657267",
     "kind": "Car",
     "title": {
-      "en": "Dacia Logan",
-      "ar": "Dacia Logan"
+      "en": "Dacia Logan 2006",
+      "ar": "Dacia Logan 2006"
     },
     "price": 68000,
     "quickFacts": [
@@ -116822,7 +116822,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -116887,7 +116887,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -116927,7 +116927,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -116974,8 +116974,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657268",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 3008",
-      "ar": "Peugeot 3008"
+      "en": "Peugeot 3008 2019",
+      "ar": "Peugeot 3008 2019"
     },
     "price": 255000,
     "quickFacts": [
@@ -116993,7 +116993,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -117058,7 +117058,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -117098,7 +117098,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -117182,8 +117182,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657269",
     "kind": "Car",
     "title": {
-      "en": "Nissan Qashqai",
-      "ar": "Nissan Qashqai"
+      "en": "Nissan Qashqai 2013",
+      "ar": "Nissan Qashqai 2013"
     },
     "price": 135000,
     "quickFacts": [
@@ -117201,7 +117201,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -117266,7 +117266,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -117306,7 +117306,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -117373,8 +117373,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-491716",
     "kind": "Car",
     "title": {
-      "en": "Land Rover Range Rover Sport",
-      "ar": "Land Rover Range Rover Sport"
+      "en": "Land Rover Range Rover Sport 2011",
+      "ar": "Land Rover Range Rover Sport 2011"
     },
     "price": 105000,
     "quickFacts": [
@@ -117392,7 +117392,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -117457,7 +117457,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -117497,7 +117497,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -117591,8 +117591,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494512",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Coccinelle",
-      "ar": "Volkswagen Coccinelle"
+      "en": "Volkswagen Coccinelle 2017",
+      "ar": "Volkswagen Coccinelle 2017"
     },
     "price": 198000,
     "quickFacts": [
@@ -117610,7 +117610,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -117675,7 +117675,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -117715,7 +117715,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -117806,8 +117806,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-503810",
     "kind": "Car",
     "title": {
-      "en": "BMW Série 5",
-      "ar": "BMW Série 5"
+      "en": "BMW Série 5 2010",
+      "ar": "BMW Série 5 2010"
     },
     "price": 145000,
     "quickFacts": [
@@ -117825,7 +117825,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -117890,7 +117890,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -117930,7 +117930,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -118007,8 +118007,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-647444",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe C",
-      "ar": "Mercedes-Benz Classe C"
+      "en": "Mercedes-Benz Classe C 2020",
+      "ar": "Mercedes-Benz Classe C 2020"
     },
     "price": 350000,
     "quickFacts": [
@@ -118026,7 +118026,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -118091,7 +118091,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -118131,7 +118131,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -118241,7 +118241,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -118306,7 +118306,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -118346,7 +118346,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -118440,8 +118440,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-490804",
     "kind": "Car",
     "title": {
-      "en": "Citroën C4",
-      "ar": "Citroën C4"
+      "en": "Citroën C4 2024",
+      "ar": "Citroën C4 2024"
     },
     "price": 255000,
     "quickFacts": [
@@ -118459,7 +118459,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -118524,7 +118524,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -118564,7 +118564,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -118658,8 +118658,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494350",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz 220",
-      "ar": "Mercedes-Benz 220"
+      "en": "Mercedes-Benz 220 2022",
+      "ar": "Mercedes-Benz 220 2022"
     },
     "price": 480000,
     "quickFacts": [
@@ -118677,7 +118677,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -118742,7 +118742,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -118782,7 +118782,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -118874,8 +118874,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-492924",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe C",
-      "ar": "Mercedes-Benz Classe C"
+      "en": "Mercedes-Benz Classe C 2014",
+      "ar": "Mercedes-Benz Classe C 2014"
     },
     "price": 175000,
     "quickFacts": [
@@ -118893,7 +118893,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -118958,7 +118958,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -118998,7 +118998,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -119088,8 +119088,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-647690",
     "kind": "Car",
     "title": {
-      "en": "Seat Ibiza",
-      "ar": "Seat Ibiza"
+      "en": "Seat Ibiza 2015",
+      "ar": "Seat Ibiza 2015"
     },
     "price": 105000,
     "quickFacts": [
@@ -119107,7 +119107,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -119172,7 +119172,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -119212,7 +119212,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -119251,8 +119251,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-486122",
     "kind": "Car",
     "title": {
-      "en": "Porsche Macan",
-      "ar": "Porsche Macan"
+      "en": "Porsche Macan 2024",
+      "ar": "Porsche Macan 2024"
     },
     "price": 630000,
     "quickFacts": [
@@ -119270,7 +119270,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -119335,7 +119335,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -119375,7 +119375,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -119469,8 +119469,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-653388",
     "kind": "Car",
     "title": {
-      "en": "Hyundai Santa Fe",
-      "ar": "Hyundai Santa Fe"
+      "en": "Hyundai Santa Fe 2016",
+      "ar": "Hyundai Santa Fe 2016"
     },
     "price": 170000,
     "quickFacts": [
@@ -119488,7 +119488,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -119553,7 +119553,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -119593,7 +119593,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -119685,8 +119685,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-656238",
     "kind": "Car",
     "title": {
-      "en": "Fiat 500",
-      "ar": "Fiat 500"
+      "en": "Fiat 500 2025",
+      "ar": "Fiat 500 2025"
     },
     "price": 130000,
     "quickFacts": [
@@ -119704,7 +119704,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -119769,7 +119769,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -119809,7 +119809,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -119828,8 +119828,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-491715",
     "kind": "Car",
     "title": {
-      "en": "Renault Clio",
-      "ar": "Renault Clio"
+      "en": "Renault Clio 2018",
+      "ar": "Renault Clio 2018"
     },
     "price": 123000,
     "quickFacts": [
@@ -119847,7 +119847,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -119912,7 +119912,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -119952,7 +119952,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -120044,8 +120044,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-645445",
     "kind": "Car",
     "title": {
-      "en": "Mercedes-Benz Classe CLA",
-      "ar": "Mercedes-Benz Classe CLA"
+      "en": "Mercedes-Benz Classe CLA 2020",
+      "ar": "Mercedes-Benz Classe CLA 2020"
     },
     "price": 350000,
     "quickFacts": [
@@ -120063,7 +120063,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -120128,7 +120128,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -120158,7 +120158,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -120179,8 +120179,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657277",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Coccinelle",
-      "ar": "Volkswagen Coccinelle"
+      "en": "Volkswagen Coccinelle 2002",
+      "ar": "Volkswagen Coccinelle 2002"
     },
     "price": 45000,
     "quickFacts": [
@@ -120198,7 +120198,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -120263,7 +120263,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -120303,7 +120303,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -120395,8 +120395,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657283",
     "kind": "Car",
     "title": {
-      "en": "Fiat Panda",
-      "ar": "Fiat Panda"
+      "en": "Fiat Panda 2015",
+      "ar": "Fiat Panda 2015"
     },
     "price": 65000,
     "quickFacts": [
@@ -120414,7 +120414,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -120479,7 +120479,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -120519,7 +120519,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -120540,8 +120540,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657282",
     "kind": "Car",
     "title": {
-      "en": "Peugeot 208",
-      "ar": "Peugeot 208"
+      "en": "Peugeot 208 2020",
+      "ar": "Peugeot 208 2020"
     },
     "price": 90000,
     "quickFacts": [
@@ -120559,7 +120559,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -120624,7 +120624,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -120664,7 +120664,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -120742,8 +120742,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657281",
     "kind": "Car",
     "title": {
-      "en": "Ford Ka",
-      "ar": "Ford Ka"
+      "en": "Ford Ka 2000",
+      "ar": "Ford Ka 2000"
     },
     "price": 28000,
     "quickFacts": [
@@ -120761,7 +120761,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -120826,7 +120826,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -120866,7 +120866,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -120931,8 +120931,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657280",
     "kind": "Car",
     "title": {
-      "en": "Mini Cooper",
-      "ar": "Mini Cooper"
+      "en": "Mini Cooper 2013",
+      "ar": "Mini Cooper 2013"
     },
     "price": 80000,
     "quickFacts": [
@@ -120950,7 +120950,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -121015,7 +121015,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -121055,7 +121055,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -121078,8 +121078,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657279",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Tiguan",
-      "ar": "Volkswagen Tiguan"
+      "en": "Volkswagen Tiguan 2016",
+      "ar": "Volkswagen Tiguan 2016"
     },
     "price": 255000,
     "quickFacts": [
@@ -121097,7 +121097,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -121162,7 +121162,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -121202,7 +121202,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -121279,8 +121279,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657278",
     "kind": "Car",
     "title": {
-      "en": "Renault Kangoo",
-      "ar": "Renault Kangoo"
+      "en": "Renault Kangoo 2012",
+      "ar": "Renault Kangoo 2012"
     },
     "price": 10500,
     "quickFacts": [
@@ -121298,7 +121298,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -121363,7 +121363,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -121403,7 +121403,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -121448,8 +121448,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-499737",
     "kind": "Car",
     "title": {
-      "en": "Dacia Duster",
-      "ar": "Dacia Duster"
+      "en": "Dacia Duster 2019",
+      "ar": "Dacia Duster 2019"
     },
     "price": 160000,
     "quickFacts": [
@@ -121467,7 +121467,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -121532,7 +121532,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -121572,7 +121572,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -121663,8 +121663,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-646154",
     "kind": "Car",
     "title": {
-      "en": "Volkswagen Touareg",
-      "ar": "Volkswagen Touareg"
+      "en": "Volkswagen Touareg 2019",
+      "ar": "Volkswagen Touareg 2019"
     },
     "price": 289000,
     "quickFacts": [
@@ -121682,7 +121682,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -121747,7 +121747,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -121777,7 +121777,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -121867,8 +121867,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-630163",
     "kind": "Car",
     "title": {
-      "en": "Nissan Juke",
-      "ar": "Nissan Juke"
+      "en": "Nissan Juke 2023",
+      "ar": "Nissan Juke 2023"
     },
     "price": 236000,
     "quickFacts": [
@@ -121886,7 +121886,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -121951,7 +121951,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -121991,7 +121991,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -122065,8 +122065,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-621349",
     "kind": "Car",
     "title": {
-      "en": "BMW X1",
-      "ar": "BMW X1"
+      "en": "BMW X1 2015",
+      "ar": "BMW X1 2015"
     },
     "price": 150000,
     "quickFacts": [
@@ -122084,7 +122084,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -122149,7 +122149,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -122189,7 +122189,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -122277,8 +122277,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-490313",
     "kind": "Car",
     "title": {
-      "en": "Opel Insignia",
-      "ar": "Opel Insignia"
+      "en": "Opel Insignia 2015",
+      "ar": "Opel Insignia 2015"
     },
     "price": 109000,
     "quickFacts": [
@@ -122296,7 +122296,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -122361,7 +122361,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -122401,7 +122401,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -122495,8 +122495,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-498680",
     "kind": "Car",
     "title": {
-      "en": "Jeep Wrangler",
-      "ar": "Jeep Wrangler"
+      "en": "Jeep Wrangler 2018",
+      "ar": "Jeep Wrangler 2018"
     },
     "price": 275000,
     "quickFacts": [
@@ -122514,7 +122514,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -122579,7 +122579,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -122619,7 +122619,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -122690,8 +122690,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-654225",
     "kind": "Car",
     "title": {
-      "en": "Ford Fiesta",
-      "ar": "Ford Fiesta"
+      "en": "Ford Fiesta 2017",
+      "ar": "Ford Fiesta 2017"
     },
     "price": 98000,
     "quickFacts": [
@@ -122709,7 +122709,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -122774,7 +122774,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -122814,7 +122814,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -122871,8 +122871,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-494509",
     "kind": "Car",
     "title": {
-      "en": "Chery Tiggo 4 Pro",
-      "ar": "Chery Tiggo 4 Pro"
+      "en": "Chery Tiggo 4 Pro 2024",
+      "ar": "Chery Tiggo 4 Pro 2024"
     },
     "price": 139000,
     "quickFacts": [
@@ -122890,7 +122890,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -122955,7 +122955,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -122995,7 +122995,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -123087,8 +123087,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-657260",
     "kind": "Car",
     "title": {
-      "en": "Jeep Renegade",
-      "ar": "Jeep Renegade"
+      "en": "Jeep Renegade 2019",
+      "ar": "Jeep Renegade 2019"
     },
     "price": 195000,
     "quickFacts": [
@@ -123106,7 +123106,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Automatic",
-        "ar": "أوتوماتيكي"
+        "ar": "أوطوماتيك"
       }
     ],
     "summary": {
@@ -123171,7 +123171,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       },
       {
@@ -123211,7 +123211,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Automatic",
-          "ar": "أوتوماتيكي"
+          "ar": "أوطوماتيك"
         }
       }
     ],
@@ -123232,8 +123232,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-475365",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha aerox - 2t",
-      "ar": "Yamaha aerox - 2t"
+      "en": "Yamaha aerox - 2t 2017",
+      "ar": "Yamaha aerox - 2t 2017"
     },
     "price": 18500,
     "quickFacts": [
@@ -123351,8 +123351,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-475269",
     "kind": "Moto",
     "title": {
-      "en": "Harley-Davidson autre - 1gym",
-      "ar": "Harley-Davidson autre - 1gym"
+      "en": "Harley-Davidson autre - 1gym 2014",
+      "ar": "Harley-Davidson autre - 1gym 2014"
     },
     "price": 150000,
     "quickFacts": [
@@ -123475,8 +123475,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-475193",
     "kind": "Moto",
     "title": {
-      "en": "Cooper winner s",
-      "ar": "Cooper winner s"
+      "en": "Cooper winner s 2024",
+      "ar": "Cooper winner s 2024"
     },
     "price": 12000,
     "quickFacts": [
@@ -123584,8 +123584,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-475138",
     "kind": "Moto",
     "title": {
-      "en": "Kawasaki z800 - r",
-      "ar": "Kawasaki z800 - r"
+      "en": "Kawasaki z800 - r 2014",
+      "ar": "Kawasaki z800 - r 2014"
     },
     "price": 74000,
     "quickFacts": [
@@ -123696,8 +123696,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-475101",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha x-max 125",
-      "ar": "Yamaha x-max 125"
+      "en": "Yamaha x-max 125 2013",
+      "ar": "Yamaha x-max 125 2013"
     },
     "price": 31000,
     "quickFacts": [
@@ -123820,8 +123820,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-475049",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha xtz - 1200",
-      "ar": "Yamaha xtz - 1200"
+      "en": "Yamaha xtz - 1200 2020",
+      "ar": "Yamaha xtz - 1200 2020"
     },
     "price": 148000,
     "quickFacts": [
@@ -123937,8 +123937,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-474837",
     "kind": "Moto",
     "title": {
-      "en": "2022Meknes",
-      "ar": "2022Meknes"
+      "en": "2022Meknes 2022",
+      "ar": "2022Meknes 2022"
     },
     "price": 7000,
     "quickFacts": [
@@ -124045,8 +124045,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-474827",
     "kind": "Moto",
     "title": {
-      "en": "Triumph scrambler - scamnier",
-      "ar": "Triumph scrambler - scamnier"
+      "en": "Triumph scrambler - scamnier 2022",
+      "ar": "Triumph scrambler - scamnier 2022"
     },
     "price": 16000,
     "quickFacts": [
@@ -124172,8 +124172,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-474762",
     "kind": "Moto",
     "title": {
-      "en": "Honda adv - adv 350",
-      "ar": "Honda adv - adv 350"
+      "en": "Honda adv - adv 350 2024",
+      "ar": "Honda adv - adv 350 2024"
     },
     "price": 88000,
     "quickFacts": [
@@ -124296,8 +124296,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-474699",
     "kind": "Moto",
     "title": {
-      "en": "BMW r 1200 gs adventure",
-      "ar": "BMW r 1200 gs adventure"
+      "en": "BMW r 1200 gs adventure 2012",
+      "ar": "BMW r 1200 gs adventure 2012"
     },
     "price": 120000,
     "quickFacts": [
@@ -124414,8 +124414,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-474639",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha tmax",
-      "ar": "Yamaha tmax"
+      "en": "Yamaha tmax 2015",
+      "ar": "Yamaha tmax 2015"
     },
     "price": 60000,
     "quickFacts": [
@@ -124525,8 +124525,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-474535",
     "kind": "Moto",
     "title": {
-      "en": "2015Temara",
-      "ar": "2015Temara"
+      "en": "2015Temara 2015",
+      "ar": "2015Temara 2015"
     },
     "price": 12000,
     "quickFacts": [
@@ -124636,8 +124636,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-474441",
     "kind": "Moto",
     "title": {
-      "en": "Suzuki dl 1000 v-strom - trail",
-      "ar": "Suzuki dl 1000 v-strom - trail"
+      "en": "Suzuki dl 1000 v-strom - trail 2011",
+      "ar": "Suzuki dl 1000 v-strom - trail 2011"
     },
     "price": 64000,
     "quickFacts": [
@@ -124754,8 +124754,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-474416",
     "kind": "Moto",
     "title": {
-      "en": "Siamoto birdie 50 - forza sport",
-      "ar": "Siamoto birdie 50 - forza sport"
+      "en": "Siamoto birdie 50 - forza sport 2025",
+      "ar": "Siamoto birdie 50 - forza sport 2025"
     },
     "price": 12000,
     "quickFacts": [
@@ -125006,8 +125006,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-474305",
     "kind": "Moto",
     "title": {
-      "en": "Vespa primavera - 50",
-      "ar": "Vespa primavera - 50"
+      "en": "Vespa primavera - 50 2022",
+      "ar": "Vespa primavera - 50 2022"
     },
     "price": 25000,
     "quickFacts": [
@@ -125253,8 +125253,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-474050",
     "kind": "Moto",
     "title": {
-      "en": "Harley-Davidson autre - panamerica special",
-      "ar": "Harley-Davidson autre - panamerica special"
+      "en": "Harley-Davidson autre - panamerica special 2023",
+      "ar": "Harley-Davidson autre - panamerica special 2023"
     },
     "price": 190000,
     "quickFacts": [
@@ -125378,8 +125378,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-474052",
     "kind": "Moto",
     "title": {
-      "en": "Harley-Davidson autre - panamerica special",
-      "ar": "Harley-Davidson autre - panamerica special"
+      "en": "Harley-Davidson autre - panamerica special 2023",
+      "ar": "Harley-Davidson autre - panamerica special 2023"
     },
     "price": 185000,
     "quickFacts": [
@@ -125502,8 +125502,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-474000",
     "kind": "Moto",
     "title": {
-      "en": "Harley-Davidson vrsca v-rod - 100eme anniversaire",
-      "ar": "Harley-Davidson vrsca v-rod - 100eme anniversaire"
+      "en": "Harley-Davidson vrsca v-rod - 100eme anniversaire 2007",
+      "ar": "Harley-Davidson vrsca v-rod - 100eme anniversaire 2007"
     },
     "price": 68000,
     "quickFacts": [
@@ -125620,8 +125620,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-473852",
     "kind": "Moto",
     "title": {
-      "en": "Yamaha mt-07 - europe",
-      "ar": "Yamaha mt-07 - europe"
+      "en": "Yamaha mt-07 - europe 2021",
+      "ar": "Yamaha mt-07 - europe 2021"
     },
     "price": 98000,
     "quickFacts": [
@@ -125744,8 +125744,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-473782",
     "kind": "Moto",
     "title": {
-      "en": "Honda sh 150i",
-      "ar": "Honda sh 150i"
+      "en": "Honda sh 150i 2020",
+      "ar": "Honda sh 150i 2020"
     },
     "price": 45000,
     "quickFacts": [
@@ -125872,8 +125872,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-473631",
     "kind": "Moto",
     "title": {
-      "en": "2025Meknes",
-      "ar": "2025Meknes"
+      "en": "2025Meknes 2025",
+      "ar": "2025Meknes 2025"
     },
     "price": 7850,
     "quickFacts": [
@@ -125891,7 +125891,7 @@ window.DEMO_LISTINGS = [
       },
       {
         "en": "Manual",
-        "ar": "يدوي"
+        "ar": "مانييل"
       }
     ],
     "summary": {
@@ -125966,7 +125966,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       },
       {
@@ -125986,7 +125986,7 @@ window.DEMO_LISTINGS = [
         },
         "value": {
           "en": "Manual",
-          "ar": "يدوي"
+          "ar": "مانييل"
         }
       }
     ],
@@ -126121,8 +126121,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-473133",
     "kind": "Moto",
     "title": {
-      "en": "Harley-Davidson flstsb softail cross",
-      "ar": "Harley-Davidson flstsb softail cross"
+      "en": "Harley-Davidson flstsb softail cross 2010",
+      "ar": "Harley-Davidson flstsb softail cross 2010"
     },
     "price": 200000,
     "quickFacts": [
@@ -126234,8 +126234,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-473127",
     "kind": "Moto",
     "title": {
-      "en": "SYM symphony",
-      "ar": "SYM symphony"
+      "en": "SYM symphony 2024",
+      "ar": "SYM symphony 2024"
     },
     "price": 16500,
     "quickFacts": [
@@ -126359,8 +126359,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-473105",
     "kind": "Moto",
     "title": {
-      "en": "Vespa 300 gts - 300 gts edition ed",
-      "ar": "Vespa 300 gts - 300 gts edition ed"
+      "en": "Vespa 300 gts - 300 gts edition ed 2011",
+      "ar": "Vespa 300 gts - 300 gts edition ed 2011"
     },
     "price": 65000,
     "quickFacts": [
@@ -126600,8 +126600,8 @@ window.DEMO_LISTINGS = [
     "id": "moteur-472879",
     "kind": "Moto",
     "title": {
-      "en": "Cimatti monstre - alien 400",
-      "ar": "Cimatti monstre - alien 400"
+      "en": "Cimatti monstre - alien 400 2024",
+      "ar": "Cimatti monstre - alien 400 2024"
     },
     "price": 50000,
     "quickFacts": [
