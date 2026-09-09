@@ -176,7 +176,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012 Honda Accord Diesel with manual transmission. Reliable, economical sedan with clean interior and up-to-date maintenance in Casablanca.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦240,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦240,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -610,7 +610,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023 BMW 4 Series Convertible Diesel. Modern luxury styling, spotless bodywork, like-new condition and available for viewing in Casablanca.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦47,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦47,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -805,7 +805,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021 Volkswagen Touareg VWG Diesel. Premium full-size SUV offering exceptional highway comfort, rich equipment and complete dealer history in Casablanca.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦90,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦90,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -1021,7 +1021,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024 Dacia Sandero Stepway Diesel. Economical, practical crossover in like-new condition with minimal mileage, ready to drive in Marrakech.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦99,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦99,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -1235,7 +1235,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018 Volkswagen Tiguan R-Line (150 hp) Diesel. Sporty styling, premium panoramic cockpit and full equipment in Tétouan.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦180,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦180,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -1448,7 +1448,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2010 Nissan 370Z sports coupe with manual gearbox imported from the USA. Thrilling naturally aspirated V6 performance, sound mechanics and careful maintenance in Fès.",
-      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦0 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦0 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -1581,7 +1581,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015 Nissan Qashqai 2.0L 4x4 Automatic. High-spec family crossover with all-wheel drive, full options, and reliable maintenance in Khouribga.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦160 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦160 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -1792,7 +1792,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2009 Fiat Grande Punto Diesel. Highly economical city hatchback, low fuel consumption, recent servicing and clean runaround in Casablanca.",
-      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -1927,7 +1927,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2026 Vespa GTS 310 Super Tech with only 900 km. Premium modern classic scooter featuring a 310 cc HPE single-cylinder engine, full digital display, and all original factory paperwork in Tangier.",
-      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦900 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦900 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -2031,7 +2031,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2026 Honda ADV 350 in Iridium Grey with 5,000 km. Rugged adventure scooter powered by a 330 cc single-cylinder engine, ABS, smart key, and versatile long-travel suspension in Tangier.",
-      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦5,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦5,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -2177,7 +2177,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018 Harley-Davidson Street Rod 750 featuring a 749 cc High Output Revolution X V-Twin (2 cylinders). Sporty street posture, inverted forks, throaty exhaust sound, and pristine condition in Tangier.",
-      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦22,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦22,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -2387,7 +2387,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019 Honda Gold Wing 1800 powered by the legendary 1,833 cc 6-cylinder flat-six engine. The pinnacle of luxury touring with electronic suspension, audio system, and effortless power in Rabat.",
-      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦22,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦22,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -2500,7 +2500,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025 Honda X-ADV 750 with only 1,200 km. Equipped with a 745 cc 2-cylinder engine and dual-clutch transmission (DCT). The benchmark adventure crossover scooter, like-new in Nador.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦3,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦3,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -2611,7 +2611,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023 Voge 500 DS adventure tourer with 471 cc parallel-twin 2-cylinder engine and 6,500 km. Fitted with crash bars, luggage rack, TFT screen, and ready for touring in Casablanca.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦30,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦30,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -2755,7 +2755,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2026 Vespa GTS 310 SuperSport brand new with 0 km and full equipment pack. 310 cc single-cylinder engine, matte sport styling, full manufacturer warranty and ready for immediate delivery in Tangier.",
-      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -3019,7 +3019,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 220,000 km, Diesel, manuelle transmission. Opel Crossland in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦220,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦220,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -3202,7 +3202,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 34,800 km, Diesel, manuelle transmission. Renault Megane in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦34,800 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦34,800 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -3335,7 +3335,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 76,000 km, Diesel, automatique transmission. Volkswagen T-Roc in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦76,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦76,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -3698,7 +3698,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1999, with 500,000 km, Diesel, manuelle transmission. Volkswagen Golf 4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1999⁩، ضاربة ⁦500,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1999⁩، ضاربة ⁦500,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -3865,7 +3865,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2026, with 18,000 km, Essence, automatique transmission. Hyundai Accent in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2026⁩، ضاربة ⁦18,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2026⁩، ضاربة ⁦18,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -4068,7 +4068,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2009, with 320,000 km, Essence, manuelle transmission. Renault Clio in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦320,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦320,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -4443,7 +4443,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 234 km, Diesel, manuelle transmission. Volkswagen Caddy in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦234 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦234 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -4648,7 +4648,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2010, with 240,000 km, Diesel, automatique transmission. BMW Série 5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦240,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦240,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -4844,7 +4844,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 46,000 km, Diesel, manuelle transmission. Citroën C3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦46,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦46,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -5013,7 +5013,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 63,000 km, Hybride, automatique transmission. Toyota C-HR in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦63,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦63,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -5173,7 +5173,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 180,000 km, Diesel, manuelle transmission. Toyota Prado in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦180,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦180,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -5308,7 +5308,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 180,000 km, Diesel, automatique transmission. Land Rover Range Rover Sport in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦180,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦180,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -5524,7 +5524,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2009, with 317,000 km, Diesel, automatique transmission. Mercedes-Benz 220 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦317,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦317,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -5731,7 +5731,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1998, with 0 km, Diesel, manuelle transmission. Volkswagen Polo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1998⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1998⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -5863,7 +5863,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 132,000 km, Diesel, automatique transmission. BMW X3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦132,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦132,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -6079,7 +6079,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 67,200 km, Diesel, automatique transmission. BMW Série 5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦67,200 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦67,200 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -6467,7 +6467,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 177,000 km, Diesel, manuelle transmission. Seat Ibiza in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦177,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦177,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -6608,7 +6608,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 179,000 km, Essence, automatique transmission. Mercedes-Benz Classe C in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦179,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦179,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -6824,7 +6824,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 115,000 km, Diesel, manuelle transmission. Kia Soul in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦115,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦115,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -7000,7 +7000,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 21,379 km, Diesel, automatique transmission. Audi Q3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦21,379 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦21,379 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -7208,7 +7208,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 145,000 km, Diesel, manuelle transmission. Citroën C3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦145,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦145,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -7409,7 +7409,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 153,000 km, Diesel, automatique transmission. Land Rover Range Rover Sport in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦153,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦153,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -7618,7 +7618,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2010, with 255,000 km, Essence, manuelle transmission. Volkswagen Golf 4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦255,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦255,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -7748,7 +7748,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 70,000 km, Essence, automatique transmission. Audi A1 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦70,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦70,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -8093,7 +8093,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 12,000 km, Diesel, manuelle transmission. Renault Clio in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦12,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦12,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -8294,7 +8294,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 280,000 km, Diesel, manuelle transmission. Ford Fiesta in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦280,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦280,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -8458,7 +8458,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 150,000 km, Diesel, automatique transmission. Jeep Grand Cherokee in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦150,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦150,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -8671,7 +8671,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1996, with 300,000 km, Diesel, manuelle transmission. Mercedes-Benz 220 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1996⁩، ضاربة ⁦300,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1996⁩، ضاربة ⁦300,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -8805,7 +8805,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 110,000 km, Diesel, automatique transmission. Audi A6 - A6 2l tdi in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦110,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦110,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -9152,7 +9152,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 197,000 km, Diesel, manuelle transmission. Fiat Tipo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦197,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦197,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -9310,7 +9310,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2010, with 270,000 km, Diesel, automatique transmission. Mercedes-Benz Classe C in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦270,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦270,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -9524,7 +9524,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 29,000 km, Diesel, automatique transmission. Land Rover Range Rover Velar in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦29,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦29,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -9740,7 +9740,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 85,000 km, Diesel, automatique transmission. Mercedes-Benz Classe GLE in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦85,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦85,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -9956,7 +9956,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 169,000 km, Diesel, automatique transmission. Audi Q7 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦169,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦169,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -10157,7 +10157,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 173,000 km, Essence, manuelle transmission. Skoda Fabia in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦173,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦173,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -10353,7 +10353,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 67,000 km, Diesel, automatique transmission. Opel Grandland in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦67,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦67,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -10567,7 +10567,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 79,000 km, Diesel, manuelle transmission. Peugeot 208 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦79,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦79,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -10749,7 +10749,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 76,000 km, Essence, automatique transmission. Fiat 500 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦76,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦76,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -10918,7 +10918,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 150,000 km, Essence, automatique transmission. Jeep Compass in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦150,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦150,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -11274,7 +11274,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2010, with 187,000 km, Essence, manuelle transmission. Skoda Fabia in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦187,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦187,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -11643,7 +11643,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 225 km, Diesel, manuelle transmission. Ford C Max in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦225 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦225 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -11849,7 +11849,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 242,000 km, Diesel, manuelle transmission. Ford Tourneo Custom in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦242,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦242,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -12017,7 +12017,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 180,000 km, Diesel, manuelle transmission. Dacia Dokker in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦180,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦180,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -12202,7 +12202,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 192,000 km, Diesel, automatique transmission. BMW Série 2 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦192,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦192,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -12410,7 +12410,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 140,000 km, Diesel, automatique transmission. Jeep Renegade in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦140,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦140,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -12805,7 +12805,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 94,530 km, Hybride, automatique transmission. Porsche Cayenne in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦94,530 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦94,530 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -12938,7 +12938,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 240,000 km, Diesel, manuelle transmission. Volkswagen Tiguan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦240,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦240,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -13145,7 +13145,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2005, with 300,000 km, Diesel, manuelle transmission. Honda Accord in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2005⁩، ضاربة ⁦300,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2005⁩، ضاربة ⁦300,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -13336,7 +13336,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 160,000 km, Diesel, automatique transmission. Volkswagen Tiguan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦160,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦160,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -13546,7 +13546,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 170,000 km, Diesel, manuelle transmission. Volkswagen Golf 7 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦170,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦170,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -13753,7 +13753,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 23,000 km, Essence, automatique transmission. Fiat 500 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦23,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦23,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -13959,7 +13959,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 205,000 km, Diesel, automatique transmission. Mercedes-Benz Classe GLC in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦205,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦205,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -14175,7 +14175,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 170,000 km, Hybride, automatique transmission. BMW Série 5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦170,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦170,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -14315,7 +14315,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 260,000 km, Diesel, manuelle transmission. BMW Série 1 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦260,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦260,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -14508,7 +14508,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 84,000 km, Diesel, automatique transmission. Mercedes-Benz Classe CLA in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦84,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦84,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -14724,7 +14724,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 200,000 km, Essence, manuelle transmission. Mini Cooper in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦200,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦200,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -14919,7 +14919,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 75,000 km, Diesel, manuelle transmission. Hyundai Creta in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦75,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦75,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -15120,7 +15120,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 250,000 km, Diesel, automatique transmission. Land Rover Range Rover Sport in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦250,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦250,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -15336,7 +15336,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 169,000 km, Diesel, manuelle transmission. Volkswagen Polo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦169,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦169,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -15536,7 +15536,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2009, with 297,000 km, Diesel, automatique transmission. Volkswagen Tiguan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦297,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦297,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -15729,7 +15729,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2009, with 280 km, Diesel, manuelle transmission. Citroën Berlingo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦280 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦280 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -15920,7 +15920,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 134,000 km, Diesel, manuelle transmission. Renault Kangoo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦134,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦134,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -16113,7 +16113,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 200,000 km, Diesel, automatique transmission. Jeep Grand Cherokee in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -16329,7 +16329,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 240,000 km, Diesel, automatique transmission. Audi A5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦240,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦240,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -16528,7 +16528,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2004, with 136,000 km, Essence, manuelle transmission. Nissan Note in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2004⁩، ضاربة ⁦136,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2004⁩، ضاربة ⁦136,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -16728,7 +16728,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 271,000 km, Diesel, manuelle transmission. Renault Laguna in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦271,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦271,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -16924,7 +16924,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 107,000 km, Hybride, automatique transmission. BMW X5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦107,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦107,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -17134,7 +17134,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 23,000 km, Diesel, automatique transmission. Volkswagen Tiguan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦23,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦23,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -17349,7 +17349,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 60,000 km, Essence, automatique transmission. Hyundai i20 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦60,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦60,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -17708,7 +17708,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 40,000 km, Diesel, manuelle transmission. Opel Corsa in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦40,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦40,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -17913,7 +17913,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 170 km, Diesel, manuelle transmission. Citroën C-Elysée in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦170 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦170 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -18104,7 +18104,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2005, with 235,364 km, Diesel, manuelle transmission. Peugeot 206 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2005⁩، ضاربة ⁦235,364 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2005⁩، ضاربة ⁦235,364 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -18247,7 +18247,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2009, with 90,000 km, Essence, automatique transmission. Honda Jazz in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦90,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦90,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -18842,7 +18842,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 105,000 km, Diesel, automatique transmission. Mercedes-Benz Classe C in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦105,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦105,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -19056,7 +19056,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2004, with 260,000 km, Diesel, automatique transmission. Mercedes-Benz 220 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2004⁩، ضاربة ⁦260,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2004⁩، ضاربة ⁦260,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -19186,7 +19186,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 84,000 km, Diesel, automatique transmission. Mercedes-Benz Classe A in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦84,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦84,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -19515,7 +19515,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 180 km, Diesel, manuelle transmission. Peugeot Partner in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦180 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦180 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -19725,7 +19725,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 65,000 km, Essence, manuelle transmission. Kia Picanto in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦65,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦65,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -19904,7 +19904,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 100,000 km, Diesel, automatique transmission. Peugeot 2008 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦100,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦100,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -20122,7 +20122,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 21,000 km, Essence, manuelle transmission. Suzuki sv 650 abs in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦21,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦21,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -20252,7 +20252,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 1,100 km. Vespa Sprint 50cc 1 000 KM in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦1,100 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦1,100 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -20343,7 +20343,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 1 km. YAMAHA RAPTOR 700 R 2024 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦1 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦1 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -20436,7 +20436,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2026, with 0 km. Honda ADV 350 2026 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -20535,7 +20535,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2026, with 0 km. HONDA ADV 160 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -20632,7 +20632,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2026, with 0 km. Honda XADV 750 2026 Garantie HONDA in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -20729,7 +20729,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 2,200 km. KAWASAKI Eliminator 500 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦2,200 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦2,200 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -20875,7 +20875,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 18,000 km, Essence, automatique transmission. Yamaha tmax - Esseence in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦18,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦18,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -21019,7 +21019,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 16,500 km, Essence, manuelle transmission. Yamaha tracer 9 gt - TRACER 9 GT in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦16,500 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦16,500 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -21166,7 +21166,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 19,000 km, Essence, manuelle transmission. Yamaha mt-07 - essense in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦19,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦19,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -21451,7 +21451,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 1,000 km, Essence, automatique transmission. Royal Enfield 500s continental - Himalayan 450 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦1,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦1,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -21595,7 +21595,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 100 km, Essence, manuelle transmission. Kawasaki bayou 250 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦100 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦100 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -21737,7 +21737,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 45,000 km, Essence, automatique transmission. Citroën C3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦45,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦45,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -21947,7 +21947,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2007, with 200,000 km, Diesel, manuelle transmission. Alfa Romeo Tonale in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -22087,7 +22087,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 180,000 km, Diesel, automatique transmission. Hyundai i40 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦180,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦180,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -22275,7 +22275,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 133,786 km, Essence, automatique transmission. Porsche Panamera in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦133,786 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦133,786 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -22485,7 +22485,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 137,000 km, Essence, automatique transmission. Audi A5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦137,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦137,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -22695,7 +22695,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 55,000 km, Diesel, manuelle transmission. Dacia Sandero in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦55,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦55,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -22905,7 +22905,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 112,000 km, Hybride, automatique transmission. Volkswagen Golf 8 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦112,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦112,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -23046,7 +23046,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 175,000 km, Essence, manuelle transmission. Mini Cooper in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦175,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦175,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -23255,7 +23255,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 140,000 km, Diesel, manuelle transmission. Peugeot Partner in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦140,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦140,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -23439,7 +23439,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 170,000 km, Diesel, automatique transmission. Volkswagen Passat in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦170,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦170,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -23655,7 +23655,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 20,000 km, Diesel, manuelle transmission. Peugeot 208 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦20,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦20,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -24264,7 +24264,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 58 km, Diesel, manuelle transmission. Dacia Sandero in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦58 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦58 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -24472,7 +24472,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 154,100 km, Diesel, manuelle transmission. Ford Focus in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦154,100 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦154,100 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -24683,7 +24683,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1980, with 150,000 km, Essence, automatique transmission. Mercedes-Benz Classe SL in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1980⁩، ضاربة ⁦150,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1980⁩، ضاربة ⁦150,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -24839,7 +24839,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 145,000 km, Diesel, automatique transmission. Volkswagen Passat in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦145,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦145,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -25044,7 +25044,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 216,000 km, Diesel, manuelle transmission. Volkswagen Tiguan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦216,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦216,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -25242,7 +25242,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 80,000 km, Diesel, automatique transmission. Audi A3 Sportback in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦80,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦80,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -25458,7 +25458,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 58 km, Diesel, manuelle transmission. Dacia Sandero in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦58 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦58 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -25666,7 +25666,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 190,000 km, Diesel, automatique transmission. BMW X5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦190,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦190,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -26194,7 +26194,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 221,200 km, Diesel, manuelle transmission. Dacia Sandero in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦221,200 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦221,200 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -26338,7 +26338,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2002, with 200,000 km, Diesel, manuelle transmission. Peugeot 206 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2002⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2002⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -26691,7 +26691,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 146,000 km, Diesel, manuelle transmission. Peugeot 208 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦146,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦146,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -27055,7 +27055,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 140,000 km, Diesel, manuelle transmission. Renault Clio in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦140,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦140,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -27261,7 +27261,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 60,000 km, Diesel, automatique transmission. Peugeot 2008 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦60,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦60,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -27471,7 +27471,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 234,574 km, Diesel, manuelle transmission. Fiat Grande Punto in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦234,574 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦234,574 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -27642,7 +27642,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2007, with 300,000 km, Essence, manuelle transmission. Kia Picanto in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦300,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦300,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -27774,7 +27774,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1980, with 160,000 km, Essence, automatique transmission. Mercedes-Benz Classe SL in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1980⁩، ضاربة ⁦160,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1980⁩، ضاربة ⁦160,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -27918,7 +27918,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2007, with 0 km, Essence, manuelle transmission. Fiat Grande Punto in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦0 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦0 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -28537,7 +28537,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1980, with 160,000 km, Essence, automatique transmission. Mercedes-Benz Classe SL in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1980⁩، ضاربة ⁦160,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1980⁩، ضاربة ⁦160,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -28680,7 +28680,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 173,000 km, Diesel, automatique transmission. Peugeot 508 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦173,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦173,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -28876,7 +28876,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 200,000 km, Diesel, automatique transmission. Volkswagen Passat in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -29067,7 +29067,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 0 km, Diesel, manuelle transmission. c partner fourgon 2023 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -29284,7 +29284,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 0 km, Diesel, automatique transmission. Ford Kuga in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦0 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦0 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -29498,7 +29498,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 189,000 km, Diesel, automatique transmission. BMW Série 5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦189,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦189,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -29635,7 +29635,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2007, with 310,000 km, Diesel, automatique transmission. Mercedes-Benz 220 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦310,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦310,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -29947,7 +29947,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 240,000 km, Diesel, automatique transmission. Audi A6 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦240,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦240,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -30085,7 +30085,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 145,000 km, Diesel, automatique transmission. Mercedes-Benz Classe S in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦145,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦145,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -30663,7 +30663,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2026, with 0 km, Essence, manuelle transmission. Peugeot 208 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2026⁩، ضاربة ⁦0 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2026⁩، ضاربة ⁦0 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -30881,7 +30881,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1992, with 467,443 km, Diesel, manuelle transmission. Mercedes-Benz 190 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1992⁩، ضاربة ⁦467,443 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1992⁩، ضاربة ⁦467,443 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -31067,7 +31067,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 1,107 km, Hybride, automatique transmission. BMW X5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦1,107 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦1,107 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -31282,7 +31282,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1989, with 32,000 km, Essence, automatique transmission. Mercedes-Benz Classe SL in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1989⁩، ضاربة ⁦32,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1989⁩، ضاربة ⁦32,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -31480,7 +31480,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1999, with 120,000 km, Essence, automatique transmission. Mercedes-Benz Classe S in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1999⁩، ضاربة ⁦120,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1999⁩، ضاربة ⁦120,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -31693,7 +31693,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 136,000 km, Diesel, automatique transmission. Ford Kuga in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦136,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦136,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -32044,7 +32044,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 139,000 km, Diesel, automatique transmission. BMW Série 5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦139,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦139,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -32255,7 +32255,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 220,000 km, Diesel, manuelle transmission. Hyundai Accent in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦220,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦220,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -32399,7 +32399,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 138,000 km, Diesel, manuelle transmission. Seat Arona in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦138,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦138,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -32615,7 +32615,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 160,000 km, Diesel, manuelle transmission. Suzuki SX-4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦160,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦160,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -32790,7 +32790,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 18,000 km, Essence, manuelle transmission. Skoda Fabia in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦18,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦18,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -33146,7 +33146,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 237,000 km, Diesel, automatique transmission. Volkswagen Tiguan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦237,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦237,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -33355,7 +33355,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 25,000 km, Électrique, automatique transmission. BYD Seal in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦25,000 km⁩، إلكتريك، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦25,000 km⁩، إلكتريك، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -33778,7 +33778,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 50,000 km, Diesel, manuelle transmission. Kia Sportage in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦50,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦50,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -33915,7 +33915,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 137,000 km, Diesel, automatique transmission. Mercedes-Benz Classe GLC in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦137,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦137,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -34060,7 +34060,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 66,700 km, Diesel, automatique transmission. Hyundai Tucson in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦66,700 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦66,700 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -34393,7 +34393,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 280,000 km, Diesel, manuelle transmission. Ford Focus in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦280,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦280,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -34564,7 +34564,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 139 km, Diesel, manuelle transmission. Dacia Logan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦139 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦139 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -34775,7 +34775,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1999, with 100,000 km, Essence, automatique transmission. Lincoln Town Car in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1999⁩، ضاربة ⁦100,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1999⁩، ضاربة ⁦100,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -34922,7 +34922,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 125,000 km, Diesel, manuelle transmission. Jeep Compass in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦125,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦125,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -35108,7 +35108,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 210,000 km, Diesel, manuelle transmission. Dacia Logan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦210,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦210,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -35310,7 +35310,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 128,000 km, Diesel, automatique transmission. Jeep Grand Cherokee in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦128,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦128,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -35525,7 +35525,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2010, with 0 km, Diesel, manuelle transmission. Nissan X-Trail in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -35733,7 +35733,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2005, with 230,000 km, Essence, automatique transmission. Honda Civic in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2005⁩، ضاربة ⁦230,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2005⁩، ضاربة ⁦230,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -35881,7 +35881,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 42,000 km, Diesel, automatique transmission. BMW Série 2 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦42,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦42,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -36086,7 +36086,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2010, with 280,000 km, Diesel, manuelle transmission. Ford Focus in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦280,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦280,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -36228,7 +36228,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 220,000 km, Diesel, automatique transmission. Renault Koleos - 3.0 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦220,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦220,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -36421,7 +36421,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 40,000 km, Essence, automatique transmission. BMW Série 2 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦40,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦40,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -36637,7 +36637,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 56,000 km, Diesel, automatique transmission. BMW X3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦56,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦56,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -36848,7 +36848,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 111,000 km, Diesel, automatique transmission. Citroën C4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦111,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦111,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -37052,7 +37052,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 10,000 km, Essence, automatique transmission. Nissan magnite in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦10,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦10,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -37260,7 +37260,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2006, with 200,000 km, Diesel, manuelle transmission. Dacia Logan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2006⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2006⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -37400,7 +37400,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 110,000 km, Diesel, automatique transmission. Hyundai Tucson - gazwal 1.6 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦110,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦110,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -37795,7 +37795,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 170,000 km, Diesel, automatique transmission. Hyundai Tucson in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦170,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦170,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -38011,7 +38011,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 100,000 km, Diesel, automatique transmission. Audi Q3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦100,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦100,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -38227,7 +38227,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 179,000 km, Diesel, automatique transmission. Honda CR-V in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦179,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦179,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -38427,7 +38427,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 70,000 km, Essence, automatique transmission. Mercedes-Benz Classe CLA in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦70,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦70,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -38638,7 +38638,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2006, with 258,000 km, Diesel, manuelle transmission. Dacia Logan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2006⁩، ضاربة ⁦258,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2006⁩، ضاربة ⁦258,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -38796,7 +38796,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 130,000 km, Diesel, manuelle transmission. Toyota Corolla in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦130,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦130,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -38941,7 +38941,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 89,000 km, Diesel, automatique transmission. Kia Sportage in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦89,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦89,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -39078,7 +39078,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 98,000 km, Hybride, automatique transmission. Kia K5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦98,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦98,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -39215,7 +39215,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1986, with 45,000 km, Diesel, manuelle transmission. Volkswagen Golf 2 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1986⁩، ضاربة ⁦45,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1986⁩، ضاربة ⁦45,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -39381,7 +39381,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 100,000 km, Diesel, manuelle transmission. Renault Kangoo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦100,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦100,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -39879,7 +39879,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 130,000 km, Essence, automatique transmission. Hyundai i10 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦130,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦130,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -40022,7 +40022,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 24,000 km, Essence, automatique transmission. Fiat 500 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦24,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦24,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -40759,7 +40759,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 50,000 km, Diesel, automatique transmission. Hyundai Tucson in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦50,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦50,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -41160,7 +41160,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 290,000 km, Diesel, automatique transmission. Kia Sportage in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦290,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦290,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -41715,7 +41715,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 190,000 km, Essence, manuelle transmission. Chevrolet Optra in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦190,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦190,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -41891,7 +41891,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 240,000 km, Diesel, manuelle transmission. Fiat Freemont in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦240,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦240,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -42076,7 +42076,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 120,000 km, Diesel, automatique transmission. Ford Tourneo Connect in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦120,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦120,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -42292,7 +42292,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2026, with 14,000 km, Diesel, automatique transmission. Kia Sportage in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2026⁩، ضاربة ⁦14,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2026⁩، ضاربة ⁦14,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -42646,7 +42646,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 117,000 km, Diesel, manuelle transmission. Dacia Duster in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦117,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦117,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -43025,7 +43025,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 44,000 km, Essence, automatique transmission. Yamaha x-max 250 - Xmax 250 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2014⁩، ضاربة ⁦44,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2014⁩، ضاربة ⁦44,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -43167,7 +43167,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 4,200 km, Essence, automatique transmission. BMW c 650 gt - Moto c650 gt in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2013⁩، ضاربة ⁦4,200 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2013⁩، ضاربة ⁦4,200 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -43307,7 +43307,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 74,000 km, Essence, manuelle transmission. BMW f 800 gs in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦74,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦74,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -43438,7 +43438,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 64,000 km, Essence. KTM autre - 1 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦64,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦64,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -43555,7 +43555,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "with 0 km. Yamaha Raptor 700 R Casablanca in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -43639,7 +43639,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 88,000 km, Essence, manuelle transmission. BMW r 1200 gs adventure - R 1200 GS LC in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2013⁩، ضاربة ⁦88,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2013⁩، ضاربة ⁦88,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -43780,7 +43780,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 35,000 km, Essence, manuelle transmission. Harley-Davidson autre in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦35,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦35,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -43923,7 +43923,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 20,000 km. Tech in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦20,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦20,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -44135,7 +44135,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2026, with 4,900 km, Essence, manuelle transmission. Voge 500r - 2026 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦4,900 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦4,900 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -44275,7 +44275,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 34,000 km, Essence, automatique transmission. SYM autre in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦34,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦34,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -44417,7 +44417,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 37,000 km, Essence, manuelle transmission. Yamaha mt-03 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2011⁩، ضاربة ⁦37,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2011⁩، ضاربة ⁦37,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -44558,7 +44558,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 1,900 km, Essence, manuelle transmission. Cimatti monstre - Evo 4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦1,900 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦1,900 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -44699,7 +44699,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 25,000 km, Essence, automatique transmission. Yamaha nmax 155 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦25,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦25,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -44838,7 +44838,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 25,000 km, Essence, manuelle transmission. Harley-Davidson autre - Ultra Limited FLHTH in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦25,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦25,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -44982,7 +44982,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 12,300 km, Essence, manuelle transmission. Benelli 502c - TRK 502 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦12,300 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦12,300 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -45129,7 +45129,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 42,000 km, Essence, automatique transmission. Yamaha stunt in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2012⁩، ضاربة ⁦42,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2012⁩، ضاربة ⁦42,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -45259,7 +45259,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 19,500 km, Essence, automatique transmission. Honda forza-x - 300cc 2021 Importe neuf in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦19,500 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦19,500 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -45402,7 +45402,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 34,000 km, Essence, manuelle transmission. Yamaha xt1200z super tenere in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦34,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦34,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -45542,7 +45542,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 1 km, Électrique, manuelle transmission. Maxwheel gt4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦1 km⁩، إلكتريك، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦1 km⁩، إلكتريك، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -45667,7 +45667,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 23,000 km, Essence, manuelle transmission. Yamaha mt-07 - Essence in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦23,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦23,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -45812,7 +45812,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 36,000 km, Essence, manuelle transmission. Yamaha v-max vmx 1200 - Vmax 1700 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2011⁩، ضاربة ⁦36,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2011⁩، ضاربة ⁦36,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -45950,7 +45950,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 4,300 km. BMW R in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦4,300 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦4,300 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -46041,7 +46041,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 10,000 km, Essence. BMW r1250 rt in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦10,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦10,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -46159,7 +46159,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 220,000 km, Essence. Yamaha t‑max tech max in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦220,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦220,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -46280,7 +46280,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2026, with 12,500 km, Hybride, automatique transmission. Peugeot 408 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2026⁩، ضاربة ⁦12,500 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2026⁩، ضاربة ⁦12,500 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -46650,7 +46650,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 13,000 km, Essence, manuelle transmission. Neo Motors BVM in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦13,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦13,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -46841,7 +46841,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 240,000 km, Diesel, automatique transmission. Audi A6 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦240,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦240,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -47046,7 +47046,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 160,000 km, Diesel, automatique transmission. Land Rover Range Rover Vogue in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦160,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦160,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -47347,7 +47347,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 20,000 km, Diesel, automatique transmission. Land Rover Range Rover Sport in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦20,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦20,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -47564,7 +47564,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 300,000 km, Diesel, automatique transmission. Land Rover Range Rover Sport in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦300,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦300,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -47780,7 +47780,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 170 km, Diesel, manuelle transmission. Dacia Logan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦170 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦170 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -47946,7 +47946,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 157,000 km, Diesel, automatique transmission. Land Rover Range Rover Sport in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦157,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦157,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -48162,7 +48162,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 188,000 km, Diesel, automatique transmission. Alfa Romeo Giulietta in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦188,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦188,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -48378,7 +48378,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 74,000 km, Essence, automatique transmission. Kia Sonet in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦74,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦74,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -48588,7 +48588,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 116,000 km, Diesel, automatique transmission. Citroën C4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦116,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦116,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -48806,7 +48806,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 94,000 km, Diesel, automatique transmission. Kia Sorento in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦94,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦94,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -48941,7 +48941,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 120,000 km, Essence, automatique transmission. Porsche Macan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦120,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦120,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -49159,7 +49159,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 92,000 km, Diesel, manuelle transmission. Renault Captur in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦92,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦92,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -49567,7 +49567,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 63,000 km, Diesel, automatique transmission. Mercedes-Benz Classe CLA in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦63,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦63,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -49785,7 +49785,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 79,000 km, Diesel, automatique transmission. BMW Série 5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦79,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦79,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -49988,7 +49988,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 171,000 km, Diesel, automatique transmission. Volkswagen Tiguan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦171,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦171,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -50191,7 +50191,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 136,000 km, Diesel, automatique transmission. Land Rover Range Rover Sport in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦136,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦136,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -50409,7 +50409,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2002, with 0 km, Diesel, manuelle transmission. Peugeot 307 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2002⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2002⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -50579,7 +50579,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 185,000 km, Diesel, automatique transmission. Land Rover Range Rover Evoque in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦185,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦185,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -50785,7 +50785,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 280,000 km, Diesel, automatique transmission. Volkswagen Touareg in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦280,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦280,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -51002,7 +51002,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 220,000 km, Diesel, automatique transmission. Volvo S60 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦220,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦220,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -51218,7 +51218,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 130,000 km, Diesel, automatique transmission. BMW Série 2 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦130,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦130,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -51425,7 +51425,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 79,000 km, Hybride, automatique transmission. Toyota Corolla in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦79,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦79,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -51621,7 +51621,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 30,500 km, Diesel, automatique transmission. Hyundai Tucson in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦30,500 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦30,500 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -51835,7 +51835,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 202,000 km, Diesel, manuelle transmission. Dacia Logan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦202,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦202,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -52046,7 +52046,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 50,000 km, Diesel, automatique transmission. Cupra Formentor in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦50,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦50,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -52257,7 +52257,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 142,000 km, Diesel, manuelle transmission. Ford Kuga in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦142,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦142,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -52440,7 +52440,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2009, with 297,000 km, Diesel, automatique transmission. Volkswagen Touareg in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦297,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦297,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -52619,7 +52619,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "with 0 km. NANROBOT Mono Motor| Trottinette Électrique Casablanca in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -52729,7 +52729,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 156,731 km, Diesel, manuelle transmission. Hyundai Santa Fe in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦156,731 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦156,731 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -52945,7 +52945,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 319,000 km, Diesel, automatique transmission. Volkswagen Golf 6 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦319,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦319,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -53154,7 +53154,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 30,500 km, Diesel, automatique transmission. Hyundai Tucson in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦30,500 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦30,500 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -53367,7 +53367,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 80,000 km, Hybride, automatique transmission. Volkswagen Golf 7 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦80,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦80,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -53578,7 +53578,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 254,000 km, Diesel, manuelle transmission. Peugeot 208 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦254,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦254,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -53764,7 +53764,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 195,000 km, Diesel, manuelle transmission. Dacia Sandero in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦195,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦195,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -53933,7 +53933,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 195,000 km, Diesel, automatique transmission. Jeep Grand Cherokee in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦195,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦195,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -54139,7 +54139,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 320,000 km, Diesel, manuelle transmission. Toyota RAV-4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦320,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦320,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -54335,7 +54335,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 75,000 km, Essence, automatique transmission. Audi Autre in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦75,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦75,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -54684,7 +54684,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 160,000 km, Diesel, manuelle transmission. Peugeot 208 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦160,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦160,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -55444,7 +55444,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1999, with 235,000 km, Essence, manuelle transmission. Fiat Uno in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1999⁩، ضاربة ⁦235,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1999⁩، ضاربة ⁦235,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -55594,7 +55594,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 230,000 km, Diesel, automatique transmission. BMW X4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦230,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦230,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -55809,7 +55809,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 120,000 km, Essence, automatique transmission. Volkswagen Touareg in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦120,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦120,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -56174,7 +56174,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 300,000 km, Diesel, manuelle transmission. Dacia Dokker in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦300,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦300,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -56306,7 +56306,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 70,000 km, Essence, automatique transmission. Kia Picanto in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦70,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦70,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -56455,7 +56455,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 158,000 km, Diesel, automatique transmission. Jeep Wrangler in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦158,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦158,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -56655,7 +56655,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 51,000 km, Diesel, manuelle transmission. Dacia Sandero in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦51,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦51,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -56850,7 +56850,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 200,000 km, Diesel, automatique transmission. Opel Insignia in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -57068,7 +57068,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 156,000 km, Diesel, automatique transmission. Peugeot 3008 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦156,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦156,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -57285,7 +57285,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1997, with 500,000 km, Diesel, manuelle transmission. Peugeot 405 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1997⁩، ضاربة ⁦500,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1997⁩، ضاربة ⁦500,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -57434,7 +57434,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 94,000 km, Diesel, automatique transmission. Audi Q5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦94,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦94,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -57640,7 +57640,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 359,000 km, Diesel, manuelle transmission. Volkswagen Touareg in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦359,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦359,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -57836,7 +57836,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 200,000 km, Diesel, automatique transmission. Land Rover Range Rover Sport in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -58054,7 +58054,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2009, with 300,000 km, Diesel, manuelle transmission. Kia Cerato in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦300,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦300,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -58260,7 +58260,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 169,000 km, Diesel, automatique transmission. Volkswagen Golf 7 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦169,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦169,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -58598,7 +58598,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 107 km, Diesel, manuelle transmission. Opel Corsa in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦107 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦107 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -58927,7 +58927,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 230,000 km, Diesel, manuelle transmission. Mazda 6 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦230,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦230,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -59104,7 +59104,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 115,000 km, Essence, automatique transmission. Mini Cooper in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦115,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦115,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -59607,7 +59607,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 170,000 km, Essence, automatique transmission. Honda Accord in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦170,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦170,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -59794,7 +59794,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 162,000 km, Diesel, automatique transmission. Volkswagen Tiguan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦162,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦162,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -59964,7 +59964,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 50,000 km, Essence, manuelle transmission. MG MG3 - 2.0 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦50,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦50,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -60172,7 +60172,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2005, with 190,000 km, Essence, manuelle transmission. Volkswagen Gol in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2005⁩، ضاربة ⁦190,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2005⁩، ضاربة ⁦190,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -60312,7 +60312,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 200,000 km, Diesel, automatique transmission. Volkswagen Golf 7 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -60513,7 +60513,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 179,900 km, Diesel, manuelle transmission. Opel Astra in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦179,900 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦179,900 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -60935,7 +60935,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2006, with 190,000 km, Essence, manuelle transmission. BMW Série 3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2006⁩، ضاربة ⁦190,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2006⁩، ضاربة ⁦190,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -61153,7 +61153,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 250,000 km, Diesel, manuelle transmission. Peugeot 308 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦250,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦250,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -61335,7 +61335,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 170,000 km, Essence, automatique transmission. Fiat 500 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦170,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦170,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -61541,7 +61541,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2003, with 280,000 km, Essence, manuelle transmission. BMW Série 3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2003⁩، ضاربة ⁦280,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2003⁩، ضاربة ⁦280,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -61732,7 +61732,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 100,000 km, Essence, automatique transmission. Mercedes-Benz Classe C in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦100,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦100,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -61945,7 +61945,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 165,000 km, Diesel, manuelle transmission. Kia Sportage in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦165,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦165,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -62109,7 +62109,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 265,000 km, Essence, manuelle transmission. Peugeot 308 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦265,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦265,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -62265,7 +62265,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 230,000 km, Diesel, automatique transmission. Audi A3 Berline in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦230,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦230,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -62689,7 +62689,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 260,000 km, Diesel, automatique transmission. Nissan Qashqai in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦260,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦260,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -63050,7 +63050,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 40,000 km, Hybride, automatique transmission. Renault Arkana in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦40,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦40,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -63187,7 +63187,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 200,000 km, Diesel, manuelle transmission. Renault Megane in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -63373,7 +63373,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 230,000 km, Diesel, manuelle transmission. Citroën C5 - prestige in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦230,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦230,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -63576,7 +63576,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 167,000 km, Diesel, automatique transmission. Volkswagen Passat in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦167,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦167,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -63788,7 +63788,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 120,000 km, Essence, manuelle transmission. Citroën C3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦120,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦120,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -64122,7 +64122,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2007, with 450,000 km, Diesel, manuelle transmission. Peugeot Partner in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦450,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦450,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -64282,7 +64282,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 121,000 km, Diesel, automatique transmission. Peugeot 2008 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦121,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦121,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -64498,7 +64498,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 167,000 km, Diesel, automatique transmission. Hyundai Elantra in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦167,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦167,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -64709,7 +64709,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1999, with 100,000 km, Essence, automatique transmission. Volvo C70 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1999⁩، ضاربة ⁦100,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1999⁩، ضاربة ⁦100,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -64856,7 +64856,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1981, with 0 km, Essence, manuelle transmission. Citroën 2 CV in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1981⁩، ضاربة ⁦0 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1981⁩، ضاربة ⁦0 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -65003,7 +65003,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 116,000 km, Diesel, automatique transmission. Skoda Karoq in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦116,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦116,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -65415,7 +65415,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 200,000 km, Diesel, automatique transmission. Volkswagen Tiguan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -65631,7 +65631,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2003, with 198,000 km, Diesel, automatique transmission. BMW Série 3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2003⁩، ضاربة ⁦198,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2003⁩، ضاربة ⁦198,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -65849,7 +65849,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2009, with 220,000 km, Diesel, automatique transmission. Jeep Grand Cherokee - 2.0 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦220,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦220,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -66189,7 +66189,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 130,000 km, Diesel, automatique transmission. Audi A6 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦130,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦130,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -66405,7 +66405,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 69,000 km, Diesel, automatique transmission. Land Rover Range Rover Evoque in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦69,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦69,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -66623,7 +66623,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2005, with 120,000 km, Diesel, manuelle transmission. Volkswagen Polo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2005⁩، ضاربة ⁦120,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2005⁩، ضاربة ⁦120,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -66766,7 +66766,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2026, with 0 km. Outlander 1000 Xtp in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2026⁩، ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -66879,7 +66879,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 17,200 km, Essence. Zontes 350gk - 2023 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦17,200 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦17,200 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -66997,7 +66997,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 11,000 km, Essence. Cooper winner s - 2025 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦11,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦11,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -67119,7 +67119,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 2,600 km, Essence. BMW g 310 gs in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦2,600 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦2,600 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -67232,7 +67232,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 5,235 km, Essence. Indian autre - challenger in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦5,235 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦5,235 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -67359,7 +67359,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 26,500 km, Essence. BMW r 1150 rt - rt 1250 r in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦26,500 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦26,500 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -67483,7 +67483,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 17,000 km, Essence. Yamaha mt-09 - phase 3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦17,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦17,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -67603,7 +67603,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 14,000 km, Essence. SYM autre in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦14,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦14,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -67714,7 +67714,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 2,700 km, Essence. Becane super cub - florense super in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦2,700 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦2,700 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -67825,7 +67825,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 8,000 km, Essence. Cappuccino jnen in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦8,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦8,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -67937,7 +67937,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 1,200 km, Essence. Becane super cub - becan atx 125 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦1,200 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦1,200 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -68059,7 +68059,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2009, with 0 km, Essence. Yamaha neos - new in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2009⁩، ضاربة ⁦0 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2009⁩، ضاربة ⁦0 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -68171,7 +68171,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2003, with 38,000 km, Essence. Yamaha v star custom 650 - custome in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2003⁩، ضاربة ⁦38,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2003⁩، ضاربة ⁦38,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -68291,7 +68291,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 83,000 km, Essence. BMW r1250 gs - lc full black in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦83,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦83,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -68415,7 +68415,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 12,500 km, Essence. SYM 50 st - 2024 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦12,500 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦12,500 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -68540,7 +68540,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 15,000 km, Essence. Cimatti ycr 250 - brutal in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦15,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦15,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -68661,7 +68661,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 50,000 km, Essence. Kawasaki zx-6r - 2017 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2017⁩، ضاربة ⁦50,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2017⁩، ضاربة ⁦50,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -68783,7 +68783,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 17,000 km, Essence. Yamaha xsr900 - 2020 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦17,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦17,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -68905,7 +68905,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 20,000 km, Essence. Honda sh 125i - vetro in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦20,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦20,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -69026,7 +69026,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 1,000 km, Essence. Benelli trk - 702x in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦1,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦1,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -69151,7 +69151,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 15,000 km. yamaha XT125 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2014⁩، ضاربة ⁦15,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2014⁩، ضاربة ⁦15,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -69256,7 +69256,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 70,000 km, Essence. Harley-Davidson fat boy - softaile in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2011⁩، ضاربة ⁦70,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2011⁩، ضاربة ⁦70,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -69376,7 +69376,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 45 km, Essence. Yamaha mt-09 in very good condition with regular servicing and careful ownership. Road-ready and available for viewing in tanger.",
-      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦45 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة. موجودة فـ طنجة."
+      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦45 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة. موجودة فـ طنجة."
     },
     "features": [
       {
@@ -69508,7 +69508,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 6,000 km, Essence. Peugeot django in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦6,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦6,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -69632,7 +69632,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2009, with 53,558 km, Essence. Yamaha fzs 600 n - s2 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2009⁩، ضاربة ⁦53,558 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2009⁩، ضاربة ⁦53,558 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -69754,7 +69754,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2009, with 0 km, Diesel, manuelle transmission. Fiat Grande Punto in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -69886,7 +69886,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 89,000 km, Diesel, automatique transmission. Renault Megane in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦89,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦89,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -70102,7 +70102,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1988, with 300,000 km, Diesel, manuelle transmission. Mercedes-Benz 190 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1988⁩، ضاربة ⁦300,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1988⁩، ضاربة ⁦300,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -70232,7 +70232,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 108,000 km, Diesel, automatique transmission. Peugeot 2008 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦108,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦108,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -70443,7 +70443,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 210,000 km, Diesel, manuelle transmission. Peugeot 508 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦210,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦210,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -70649,7 +70649,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 237,000 km, Diesel, manuelle transmission. Peugeot 508 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦237,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦237,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -71050,7 +71050,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 6,000 km, Essence, automatique transmission. Geely Autre in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦6,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦6,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -71319,7 +71319,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 90,000 km, Diesel, manuelle transmission. Renault Express in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦90,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦90,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -71515,7 +71515,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 98,000 km, Diesel, automatique transmission. Hyundai Tucson in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦98,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦98,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -71726,7 +71726,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 39,900 km, Essence, automatique transmission. Nissan Juke in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦39,900 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦39,900 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -72298,7 +72298,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 154,000 km, Diesel, automatique transmission. Renault Clio in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦154,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦154,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -72509,7 +72509,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 66,000 km, Diesel, manuelle transmission. Citroën C-Elysée in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦66,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦66,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -72695,7 +72695,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 71,000 km, Diesel, automatique transmission. Mercedes-Benz Classe C in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦71,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦71,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -72838,7 +72838,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 95,000 km, Diesel, automatique transmission. Fiat 500 X in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦95,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦95,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -73048,7 +73048,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 50,000 km, Diesel, automatique transmission. BMW Série 1 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦50,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦50,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -73254,7 +73254,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 59,000 km, Diesel, manuelle transmission. Opel Corsa in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦59,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦59,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -73470,7 +73470,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 120,000 km, Diesel, automatique transmission. Peugeot 3008 - gt-line 2.0 hdi automatique 2020 ttoptions in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦120,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦120,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -73688,7 +73688,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 146 km, Diesel, automatique transmission. Renault Koleos in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦146 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦146 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -74120,7 +74120,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 135,000 km, Diesel, manuelle transmission. Fiat Punto in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦135,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦135,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -74264,7 +74264,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2007, with 250,000 km, Essence, manuelle transmission. Kia Picanto in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦250,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦250,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -74464,7 +74464,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 138,000 km, Diesel, automatique transmission. Skoda Kodiaq in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦138,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦138,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -74659,7 +74659,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 128,000 km, Diesel, manuelle transmission. Peugeot 2008 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦128,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦128,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -74794,7 +74794,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 30,000 km, Diesel, automatique transmission. Land Rover Defender in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦30,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦30,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -75007,7 +75007,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 74,000 km, Hybride, automatique transmission. Jeep Renegade in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦74,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦74,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -75218,7 +75218,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 70,552 km, Diesel, automatique transmission. Renault Talisman in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦70,552 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦70,552 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -75424,7 +75424,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1994, with 300,000 km, Essence, manuelle transmission. Peugeot 306 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1994⁩، ضاربة ⁦300,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1994⁩، ضاربة ⁦300,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -75710,7 +75710,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 257,000 km, Diesel, automatique transmission. Jaguar XF in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦257,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦257,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -75895,7 +75895,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 42,000 km, Diesel, automatique transmission. BMW Série 5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦42,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦42,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -76111,7 +76111,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2007, with 300 km, Diesel, manuelle transmission. Mercedes-Benz Classe C in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦300 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦300 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -76302,7 +76302,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 221,000 km, Diesel, automatique transmission. Audi Q5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦221,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦221,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -76517,7 +76517,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 100,000 km, Diesel, manuelle transmission. Fiat Ducato in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦100,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦100,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -76832,7 +76832,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 39,700 km, Diesel, manuelle transmission. Mitsubishi L200 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦39,700 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦39,700 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -77018,7 +77018,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 235,000 km, Diesel, manuelle transmission. Ford Focus in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦235,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦235,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -77229,7 +77229,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 121,000 km, Diesel, automatique transmission. DS 7 2021 ds7 rivoli rabat in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦121,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦121,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -77445,7 +77445,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2006, with 312,000 km, Diesel, manuelle transmission. Renault Clio in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2006⁩، ضاربة ⁦312,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2006⁩، ضاربة ⁦312,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -77585,7 +77585,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 200,000 km, Diesel, manuelle transmission. Peugeot 301 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -77747,7 +77747,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 100,000 km, Hybride, automatique transmission. Lexus NX in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦100,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦100,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -77965,7 +77965,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 173,000 km, Diesel, automatique transmission. Jaguar E-Pace in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦173,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦173,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -78181,7 +78181,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 94,000 km, Diesel, manuelle transmission. Opel Combo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦94,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦94,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -78396,7 +78396,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 110,000 km, Diesel, automatique transmission. Volkswagen Touran in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦110,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦110,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -78612,7 +78612,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 49,000 km, Hybride, automatique transmission. Porsche Cayenne in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦49,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦49,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -78756,7 +78756,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 158,000 km, Diesel, manuelle transmission. Hyundai Tucson in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦158,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦158,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -78969,7 +78969,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 80,000 km, Diesel, automatique transmission. Audi Q8 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦80,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦80,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -79186,7 +79186,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 217,000 km, Diesel, manuelle transmission. Volkswagen Passat in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦217,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦217,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -79321,7 +79321,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 62,000 km, Essence, automatique transmission. Nissan Qashqai in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦62,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦62,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -79517,7 +79517,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 234 km, Diesel, manuelle transmission. Volkswagen Golf 5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦234 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦234 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -79698,7 +79698,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 175,000 km, Diesel, automatique transmission. Volkswagen Passat in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦175,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦175,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -79892,7 +79892,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 400 km, Diesel, automatique transmission. Volkswagen Caddy in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦400 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦400 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -80037,7 +80037,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 180,000 km, Diesel, automatique transmission. Chevrolet Cruze - 2.0 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦180,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦180,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -80255,7 +80255,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 250,000 km, Diesel, manuelle transmission. Peugeot 308 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦250,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦250,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -80629,7 +80629,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 210,000 km, Diesel, automatique transmission. Volkswagen Tiguan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦210,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦210,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -80846,7 +80846,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 200,000 km, Diesel, automatique transmission. Volvo S90 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -81001,7 +81001,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 230,000 km, Diesel, automatique transmission. Hyundai Santa Fe - 2.0 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦230,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦230,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -81214,7 +81214,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2004, with 163,000 km, Diesel, manuelle transmission. Toyota Corolla in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2004⁩، ضاربة ⁦163,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2004⁩، ضاربة ⁦163,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -81372,7 +81372,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 140,000 km, Diesel, automatique transmission. Renault Kadjar in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦140,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦140,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -81588,7 +81588,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 60,000 km, Diesel, automatique transmission. Mercedes-Benz Classe C in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦60,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦60,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -82020,7 +82020,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 14,900 km, Essence. Honda gorilla 50 - giorno in very good condition with regular servicing and careful ownership. Road-ready and available for viewing in 105.",
-      "ar": "موطور موديل ⁦2015⁩، ضاربة ⁦14,900 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة. موجودة فـ 105."
+      "ar": "موطور موديل ⁦2015⁩، ضاربة ⁦14,900 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة. موجودة فـ 105."
     },
     "features": [
       {
@@ -82149,7 +82149,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 7,000 km, Essence. Kawasaki vulcan 750 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦7,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦7,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -82271,7 +82271,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 40,000 km, Essence. Vespa sprint - bien in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2015⁩، ضاربة ⁦40,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2015⁩، ضاربة ⁦40,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -82395,7 +82395,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 9,500 km, Essence. Cimatti monstre - 2024 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦9,500 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦9,500 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -82517,7 +82517,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 50,000 km, Essence. Honda sh 300i - 2018 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦50,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦50,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -82643,7 +82643,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 20,000 km, Essence. Beta rr motard 50 - novelle in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦20,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦20,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -82765,7 +82765,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 10,000 km, Essence. SYM 50 st - 2024/09 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦10,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦10,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -82885,7 +82885,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 19,000 km, Essence. Yamaha mt-07 - black édition in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦19,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦19,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -83007,7 +83007,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 8,000 km, Essence. Cimatti naked 50 - bobber in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦8,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦8,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -83130,7 +83130,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 0 km, Essence. Becane super cub in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2017⁩، ضاربة ⁦0 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2017⁩، ضاربة ⁦0 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -83252,7 +83252,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2002, with 57,000 km, Essence. Yamaha tdm 900 - 2002 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2002⁩، ضاربة ⁦57,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2002⁩، ضاربة ⁦57,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -83370,7 +83370,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 2,500 km, Essence. Yamaha ténéré 700 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦2,500 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦2,500 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -83492,7 +83492,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 4,000 km, Essence. CFMoto 700cl-x HERITAGE in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦4,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦4,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -83615,7 +83615,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 35,000 km, Essence. Vespa 300 gts - 2019 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦35,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦35,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -83728,7 +83728,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 13,000 km, Essence. Kawasaki z 650 sr - ereg 1 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦13,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦13,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -83851,7 +83851,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 8,300 km, Essence. SYM nht - 200 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦8,300 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦8,300 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -83967,7 +83967,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 59,000 km, Essence. Honda x adv - 2018 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦59,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦59,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -84090,7 +84090,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 59,000 km, Essence, automatique transmission. Honda Autre in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦59,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦59,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -84222,7 +84222,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 7,000 km, Essence. Royal Enfield scram 411 - 2024 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦7,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦7,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -84330,7 +84330,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 20,000 km, Essence. Access Motor ddr 50 - zontes t1 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦20,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦20,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -84440,7 +84440,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 21,500 km, Essence. Royal Enfield himalayan - himalayan 452 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦21,500 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦21,500 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -84567,7 +84567,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 4,700 km, Essence. SYM symphony - 50s in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦4,700 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦4,700 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -84687,7 +84687,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 11,700 km, Essence. KTM 790 adventure - adventure rally in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦11,700 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦11,700 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -84814,7 +84814,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 4,000 km, Essence. Honda forza-x in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦4,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦4,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -84927,7 +84927,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 35,000 km, Essence. KTM 390 - duke in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦35,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦35,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -85050,7 +85050,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 24,000 km, Essence. Peugeot django in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦24,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦24,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -85172,7 +85172,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 15,000 km, Essence. Honda sh 150i - digital in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦15,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦15,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -85295,7 +85295,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 2,800 km, Essence. QJMoto srt800x in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦2,800 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦2,800 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -85414,7 +85414,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 60,000 km, Essence. Kymco xtown 300 - 300i in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦60,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦60,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -85539,7 +85539,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 63,000 km, Essence. Yamaha x-max 250 - hd in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2013⁩، ضاربة ⁦63,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2013⁩، ضاربة ⁦63,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -85659,7 +85659,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 122,000 km, Diesel, manuelle transmission. Jeep Wrangler in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦122,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦122,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -85874,7 +85874,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 94,000 km, Diesel, automatique transmission. Peugeot 3008 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦94,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦94,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -86090,7 +86090,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 117,000 km, Diesel, automatique transmission. BMW X1 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦117,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦117,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -86308,7 +86308,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2010, with 245,000 km, Diesel, automatique transmission. Mercedes-Benz 220 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦245,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦245,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -86894,7 +86894,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 160,000 km, Diesel, automatique transmission. Audi A4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦160,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦160,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -87110,7 +87110,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 167 km, Diesel, manuelle transmission. Citroën C3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦167 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦167 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -87296,7 +87296,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 78,000 km, Diesel, automatique transmission. Seat Tarraco in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦78,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦78,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -87507,7 +87507,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 170,000 km, Diesel, manuelle transmission. Nissan Qashqai in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦170,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦170,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -87773,7 +87773,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 220,000 km, Diesel, manuelle transmission. Citroën C5 - 3.0 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦220,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦220,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -88175,7 +88175,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 29,000 km, Diesel, manuelle transmission. Fiat Doblo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦29,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦29,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -88376,7 +88376,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1993, with 144,000 km, Essence, manuelle transmission. Renault R4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1993⁩، ضاربة ⁦144,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1993⁩، ضاربة ⁦144,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -88536,7 +88536,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 120,000 km, Diesel, automatique transmission. Dacia Duster in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦120,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦120,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -88747,7 +88747,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 89,000 km, Diesel, automatique transmission. Kia Carnival in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦89,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦89,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -88884,7 +88884,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1999, with 40,000 km, Diesel, manuelle transmission. Volkswagen Golf 4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1999⁩، ضاربة ⁦40,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1999⁩، ضاربة ⁦40,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -89046,7 +89046,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 370,000 km, Diesel, manuelle transmission. Kia Sportage in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦370,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦370,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -89211,7 +89211,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 100,000 km, Diesel, automatique transmission. Audi Q8 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦100,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦100,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -89426,7 +89426,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 130,000 km, Diesel, automatique transmission. Land Rover Range Rover Evoque in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦130,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦130,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -89632,7 +89632,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 224,000 km, Diesel, automatique transmission. Mercedes-Benz Classe C in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦224,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦224,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -89765,7 +89765,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 220,000 km, Diesel, manuelle transmission. Volkswagen Golf 7 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦220,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦220,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -89981,7 +89981,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 117,501 km, Diesel, automatique transmission. Audi A8 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦117,501 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦117,501 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -90194,7 +90194,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 143,000 km, Diesel, manuelle transmission. Ford Focus in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦143,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦143,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -90400,7 +90400,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 112,000 km, Diesel, automatique transmission. Audi Q2 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦112,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦112,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -90598,7 +90598,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 200,000 km, Diesel, manuelle transmission. Nissan Evalia in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -90814,7 +90814,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 95,000 km, Diesel, automatique transmission. Alfa Romeo Giulietta in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦95,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦95,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -91025,7 +91025,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 180,000 km, Diesel, automatique transmission. Audi A4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦180,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦180,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -91216,7 +91216,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 159,000 km, Diesel, automatique transmission. Volkswagen Touran in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦159,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦159,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -91427,7 +91427,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 140,000 km, Diesel, automatique transmission. Volkswagen Golf 8 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦140,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦140,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -91572,7 +91572,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 155,000 km, Diesel, automatique transmission. Volvo S60 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦155,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦155,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -91706,7 +91706,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 145,000 km, Diesel, manuelle transmission. Peugeot Partner in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦145,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦145,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -91837,7 +91837,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 110,950 km, Diesel, automatique transmission. Seat Ateca in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦110,950 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦110,950 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -92048,7 +92048,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 103,000 km, Diesel, automatique transmission. Hyundai Creta in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦103,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦103,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -92249,7 +92249,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 170,000 km, Diesel, automatique transmission. Ssangyong Korando - 3.0 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦170,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦170,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -92457,7 +92457,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 83,000 km, Essence, automatique transmission. Porsche Macan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦83,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦83,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -92675,7 +92675,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1990, with 0 km, Essence, manuelle transmission. Renault R19 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1990⁩، ضاربة ⁦0 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1990⁩، ضاربة ⁦0 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -92816,7 +92816,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 455,000 km, Essence, manuelle transmission. Peugeot 207 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦455,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦455,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -92996,7 +92996,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 230 km, Diesel, automatique transmission. Mercedes-Benz Classe C - C220 amg in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦230 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦230 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -93214,7 +93214,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 117,000 km, Essence, manuelle transmission. Opel Adam in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦117,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦117,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -93410,7 +93410,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 23,000 km, Hybride, automatique transmission. Geely EX5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦23,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦23,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -94040,7 +94040,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 207,000 km, Essence, automatique transmission. BMW Série 3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦207,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦207,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -94256,7 +94256,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 300,000 km, Diesel, automatique transmission. Volkswagen Jetta in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦300,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦300,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -94449,7 +94449,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 74,000 km, Diesel, automatique transmission. Hyundai Tucson in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦74,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦74,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -94665,7 +94665,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 202,000 km, Essence, automatique transmission. BMW Série 7 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦202,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦202,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -94878,7 +94878,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 160,000 km, Diesel, automatique transmission. Renault Megane in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦160,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦160,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -95094,7 +95094,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2007, with 0 km, Diesel, manuelle transmission. Kia Sorento in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2007⁩، ضاربة ⁦0 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -95292,7 +95292,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2004, with 270,000 km, Diesel, manuelle transmission. Volkswagen Polo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2004⁩، ضاربة ⁦270,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2004⁩، ضاربة ⁦270,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -95459,7 +95459,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "1986, with 430,000 km, Diesel, manuelle transmission. Mercedes-Benz Classe E in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦1986⁩، ضاربة ⁦430,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦1986⁩، ضاربة ⁦430,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -95608,7 +95608,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 135,000 km, Diesel, manuelle transmission. Renault Clio in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦135,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦135,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -96020,7 +96020,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 105,000 km, Diesel, manuelle transmission. Renault Clio in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦105,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦105,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -96223,7 +96223,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "with 0 km. jet ski yamaha1800 Casablanca in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل ضاربة ⁦0 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -96337,7 +96337,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 160,000 km, Diesel, automatique transmission. Alfa Romeo Stelvio in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦160,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦160,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -96545,7 +96545,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 73,000 km, Diesel, manuelle transmission. Dacia Sandero in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦73,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦73,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -96923,7 +96923,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 140,000 km, Diesel, automatique transmission. Kia Seltos in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦140,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦140,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -97127,7 +97127,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 98,000 km, Diesel, automatique transmission. Jeep Grand Cherokee in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦98,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦98,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -97318,7 +97318,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 38,000 km, Diesel, automatique transmission. Opel Astra in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦38,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦38,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -97531,7 +97531,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 80,000 km, Hybride, automatique transmission. Lexus UX in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦80,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦80,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -97749,7 +97749,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 90,000 km, Diesel, automatique transmission. Audi A6 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦90,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦90,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -97967,7 +97967,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 105,000 km, Diesel, manuelle transmission. Hyundai Tucson in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦105,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦105,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -98182,7 +98182,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 116,000 km, Diesel, manuelle transmission. Hyundai i20 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦116,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦116,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -98771,7 +98771,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 290,000 km, Diesel, automatique transmission. BMW X5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦290,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦290,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -98918,7 +98918,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 100,000 km, Diesel, automatique transmission. BMW X5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦100,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦100,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -99135,7 +99135,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 105,000 km, Diesel, automatique transmission. BMW X3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦105,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦105,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -99347,7 +99347,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 27,000 km, Diesel, manuelle transmission. Renault Kardian in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦27,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦27,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -99550,7 +99550,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 134,000 km, Diesel, automatique transmission. Porsche Cayenne in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦134,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦134,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -99766,7 +99766,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 121,000 km, Diesel, automatique transmission. Volkswagen Tiguan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦121,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦121,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -99910,7 +99910,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 78,000 km, Diesel, automatique transmission. Ford Focus in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦78,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦78,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -100106,7 +100106,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2003, with 411,200 km, Diesel, manuelle transmission. Volkswagen Golf 4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2003⁩، ضاربة ⁦411,200 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2003⁩، ضاربة ⁦411,200 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -100282,7 +100282,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 83,000 km, Hybride, automatique transmission. Lexus UX in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦83,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦83,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -100500,7 +100500,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2005, with 300 km, Diesel, manuelle transmission. Toyota Corolla in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2005⁩، ضاربة ⁦300 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2005⁩، ضاربة ⁦300 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -100668,7 +100668,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 150 km, Diesel, automatique transmission. Hyundai Tucson in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦150 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦150 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -100808,7 +100808,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 22,000 km, Essence, automatique transmission. Fiat 500 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦22,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦22,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -100943,7 +100943,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 90,000 km, Diesel, automatique transmission. Mercedes-Benz Classe CLA in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦90,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦90,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -101159,7 +101159,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 200,000 km, Essence, manuelle transmission. Fiat 500 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦200,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦200,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -101555,7 +101555,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2026, with 15,000 km, Diesel, automatique transmission. Mercedes-Benz 220 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2026⁩، ضاربة ⁦15,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2026⁩، ضاربة ⁦15,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -101920,7 +101920,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 65,000 km, Hybride, automatique transmission. Lexus NX in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦65,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦65,000 km⁩، هايبريد، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -102138,7 +102138,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 16,000 km, Essence, automatique transmission. Kia Picanto in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦16,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦16,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -102322,7 +102322,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 130,000 km, Diesel, automatique transmission. Mercedes-Benz Classe GLA in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦130,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦130,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -102673,7 +102673,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 179,000 km, Diesel, manuelle transmission. Dacia Duster in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦179,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦179,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -102860,7 +102860,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 185,000 km, Diesel, manuelle transmission. Chevrolet Cruze in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦185,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦185,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -103071,7 +103071,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 296,000 km, Diesel, manuelle transmission. Mercedes-Benz Vito in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦296,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦296,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -103212,7 +103212,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 148,000 km, Diesel, manuelle transmission. Renault Megane in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦148,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦148,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -103405,7 +103405,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 35,000 km, Diesel, automatique transmission. Audi A3 Berline in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦35,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦35,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -103620,7 +103620,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 9,000 km, Essence. Becane 150 cc - 2023 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦9,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦9,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -103743,7 +103743,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 8,000 km, Essence. Kawasaki z 650 sr in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦8,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦8,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -103865,7 +103865,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 6,900 km, Essence. Royal Enfield himalayan - 450 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦6,900 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦6,900 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -103983,7 +103983,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 35,000 km, Essence. Yamaha x-max 250 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2013⁩، ضاربة ⁦35,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2013⁩، ضاربة ⁦35,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -104096,7 +104096,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 14,000 km. 2021Tanger in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦14,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦14,000 km⁩. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -104196,7 +104196,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 26,000 km, Essence. Zontes 350gk - scrambler 155g1 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦26,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦26,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -104318,7 +104318,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 16,000 km, Essence. Yamaha mt-07 - 07 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦16,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦16,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -104441,7 +104441,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 44,000 km, Essence. SYM cruisym in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦44,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦44,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -104561,7 +104561,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 4,200 km, Essence. Royal Enfield bullet 500 classic - chrome in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦4,200 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦4,200 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -104683,7 +104683,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 6,719 km, Essence. Becane 150 cc - 2024 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦6,719 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦6,719 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -104804,7 +104804,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 16,000 km, Essence. BMW r1250 gs in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦16,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦16,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -104928,7 +104928,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 0 km, Essence. Aprilia rs 50 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2012⁩، ضاربة ⁦0 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2012⁩، ضاربة ⁦0 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -105027,7 +105027,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 1,500 km, Essence. SYM joyride 200 - sym joyride 300 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦1,500 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦1,500 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -105146,7 +105146,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 4,000 km, Essence. Becane 150 cc - rvx in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦4,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦4,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -105265,7 +105265,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 10,332 km, Essence. Keeway autre in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦10,332 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2019⁩، ضاربة ⁦10,332 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -105391,7 +105391,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 59,308 km, Essence. Docker c50 - xcbly in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦59,308 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦59,308 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -105513,7 +105513,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 8,000 km, Essence. CFMoto 700cl-x HERITAGE - srambler in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦8,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦8,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -105635,7 +105635,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 65,000 km, Essence. Suzuki gsx - routiers in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2015⁩، ضاربة ⁦65,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2015⁩، ضاربة ⁦65,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -105760,7 +105760,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 65,000 km, Essence. Suzuki gsx - gxs s 1000 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2015⁩، ضاربة ⁦65,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2015⁩، ضاربة ⁦65,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -105883,7 +105883,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 10,000 km, Essence. Hanway raw 125 - hanway raw race 49 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦10,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦10,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -106008,7 +106008,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 50,000 km, Essence. Yamaha xt1200z super tenere - xt1200z in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦50,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦50,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -106133,7 +106133,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 19,000 km, Essence. 2024Tanger in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦19,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦19,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -106255,7 +106255,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 48,600 km, Essence. Kawasaki zx-6r - abs in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦48,600 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦48,600 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -106377,7 +106377,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 5,800 km, Essence. 2024Casablanca in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦5,800 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦5,800 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -106498,7 +106498,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 29,000 km, Essence. Kawasaki z900 - 2018 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦29,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2018⁩، ضاربة ⁦29,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -106621,7 +106621,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 34,000 km, Essence. Royal Enfield himalayan - 411 model 2023 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦34,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦34,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -106742,7 +106742,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 532 km, Essence. Highland c50 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦532 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦532 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -106861,7 +106861,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 6,542 km, Essence. MBK swing in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2014⁩، ضاربة ⁦6,542 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2014⁩، ضاربة ⁦6,542 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -106980,7 +106980,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 29,000 km, Essence. Zontes 350gk - 2023 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦29,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦29,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -107104,7 +107104,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 34,000 km, Essence. Harley-Davidson sportster 1200 - superlow 1200 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2011⁩، ضاربة ⁦34,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2011⁩، ضاربة ⁦34,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -107224,7 +107224,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 110,000 km, Essence, automatique transmission. Audi Q3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦110,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦110,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -107440,7 +107440,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 165,000 km, Diesel, automatique transmission. Ford raptor in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦165,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦165,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -107575,7 +107575,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 107,000 km, Diesel, manuelle transmission. Fiat Tipo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦107,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦107,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -107913,7 +107913,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2026, with 4,000 km, Essence, automatique transmission. soueast S 05 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2026⁩، ضاربة ⁦4,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2026⁩، ضاربة ⁦4,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -108125,7 +108125,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 28,000 km, Diesel, automatique transmission. Audi Q7 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦28,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦28,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -108269,7 +108269,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 160,000 km, Diesel, manuelle transmission. Renault Megane in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦160,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦160,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -108451,7 +108451,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 250,000 km, Diesel, automatique transmission. BMW Série 5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦250,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦250,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -108834,7 +108834,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 165,000 km, Diesel, automatique transmission. Skoda Kodiaq in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦165,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦165,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -109050,7 +109050,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 130,000 km, Diesel, automatique transmission. Alfa Romeo Giulia in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦130,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦130,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -109470,7 +109470,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 132,000 km, Diesel, automatique transmission. Land Rover Range Rover Evoque in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦132,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦132,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -109681,7 +109681,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2002, with 1 km, Diesel, manuelle transmission. Land Rover Defender in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2002⁩، ضاربة ⁦1 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2002⁩، ضاربة ⁦1 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -110074,7 +110074,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 160,000 km, Diesel, manuelle transmission. Renault Clio in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦160,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦160,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -110259,7 +110259,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 143,000 km, Diesel, manuelle transmission. Peugeot 208 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦143,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦143,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -110452,7 +110452,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 197 km, Diesel, manuelle transmission. Dacia Logan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦197 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦197 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -110609,7 +110609,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 256,000 km, Diesel, manuelle transmission. Mercedes-Benz 220 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦256,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦256,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -110818,7 +110818,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 74,000 km, Diesel, automatique transmission. Hyundai Accent in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦74,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦74,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -111027,7 +111027,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 210,000 km, Diesel, automatique transmission. Hyundai Tucson in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦210,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦210,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -111242,7 +111242,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 116,000 km, Diesel, automatique transmission. Hyundai Santa Fe in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦116,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦116,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -111458,7 +111458,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 123,000 km, Diesel, automatique transmission. BMW X3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦123,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦123,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -111676,7 +111676,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 200,000 km, Diesel, automatique transmission. BMW X3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -111884,7 +111884,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 98,000 km, Diesel, manuelle transmission. BMW Série 1 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦98,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦98,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -112026,7 +112026,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 145,000 km, Diesel, automatique transmission. Audi Q5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦145,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦145,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -112242,7 +112242,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 128 km, Diesel, manuelle transmission. Fiat Tipo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦128 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦128 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -112668,7 +112668,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 58,000 km, Diesel, manuelle transmission. Renault Clio in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦58,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦58,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -112879,7 +112879,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 218,000 km, Diesel, automatique transmission. Volkswagen Golf 7 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦218,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦218,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -113095,7 +113095,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2006, with 140,000 km, Essence, manuelle transmission. Kia Picanto in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2006⁩، ضاربة ⁦140,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2006⁩، ضاربة ⁦140,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -113271,7 +113271,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 52,000 km, Diesel, automatique transmission. Hyundai Tucson in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦52,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦52,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -113480,7 +113480,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 117,390 km, Diesel, manuelle transmission. Peugeot 208 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦117,390 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦117,390 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -113691,7 +113691,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 244,000 km, Diesel, automatique transmission. Volvo S60 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦244,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦244,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -113902,7 +113902,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 170,000 km, Diesel, automatique transmission. BMW Série 5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦170,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦170,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -114118,7 +114118,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 100,000 km, Diesel, automatique transmission. Hyundai Accent in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦100,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦100,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -114551,7 +114551,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2005, with 270,000 km, Diesel, manuelle transmission. Mercedes-Benz Classe B in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2005⁩، ضاربة ⁦270,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2005⁩، ضاربة ⁦270,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -114754,7 +114754,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 35,000 km, Diesel, automatique transmission. Ford Ranger in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦35,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦35,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -114940,7 +114940,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2010, with 140,000 km, Diesel, manuelle transmission. Hyundai Santa Fe in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦140,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦140,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -115154,7 +115154,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 119,000 km, Diesel, manuelle transmission. Peugeot 5008 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦119,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦119,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -115365,7 +115365,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2009, with 327,000 km, Diesel, manuelle transmission. Volkswagen Polo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦327,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦327,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -115545,7 +115545,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 195,000 km, Diesel, manuelle transmission. Seat Ibiza in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦195,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦195,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -115763,7 +115763,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 200,000 km, Diesel, automatique transmission. Volkswagen Touareg in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -115980,7 +115980,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 151,000 km, Diesel, manuelle transmission. Volkswagen Tiguan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦151,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦151,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -116191,7 +116191,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 180,000 km, Diesel, automatique transmission. Audi Autre in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦180,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦180,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -116409,7 +116409,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 35,000 km, Essence, manuelle transmission. Kia Picanto in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦35,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦35,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -116611,7 +116611,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 73,000 km, Diesel, automatique transmission. Fiat 500 X in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦73,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦73,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -116827,7 +116827,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2006, with 40,000 km, Diesel, manuelle transmission. Dacia Logan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2006⁩، ضاربة ⁦40,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2006⁩، ضاربة ⁦40,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -117397,7 +117397,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 200,000 km, Diesel, automatique transmission. Land Rover Range Rover Sport in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2011⁩، ضاربة ⁦200,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -117615,7 +117615,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 120,000 km, Diesel, automatique transmission. Volkswagen Coccinelle in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦120,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦120,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -117830,7 +117830,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2010, with 290,000 km, Diesel, automatique transmission. BMW Série 5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦290,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2010⁩، ضاربة ⁦290,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -118031,7 +118031,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 90,000 km, Diesel, automatique transmission. Mercedes-Benz Classe C in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦90,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦90,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -118464,7 +118464,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 38,000 km, Diesel, automatique transmission. Citroën C4 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦38,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦38,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -118682,7 +118682,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 62,000 km, Diesel, automatique transmission. Mercedes-Benz 220 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦62,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦62,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -118898,7 +118898,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 200,000 km, Diesel, manuelle transmission. Mercedes-Benz Classe C in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2014⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -119112,7 +119112,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 186,000 km, Diesel, manuelle transmission. Seat Ibiza in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦186,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦186,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -119275,7 +119275,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 80,000 km, Essence, automatique transmission. Porsche Macan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦80,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦80,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -119493,7 +119493,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 360,000 km, Diesel, automatique transmission. Hyundai Santa Fe in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦360,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦360,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -119709,7 +119709,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 6,000 km, Essence, automatique transmission. Fiat 500 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦6,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦6,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -119852,7 +119852,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 120,000 km, Diesel, automatique transmission. Renault Clio in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦120,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦120,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -120068,7 +120068,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 105,201 km, Diesel, automatique transmission. Mercedes-Benz Classe CLA in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦105,201 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦105,201 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -120203,7 +120203,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2002, with 84,000 km, Essence, manuelle transmission. Volkswagen Coccinelle in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2002⁩، ضاربة ⁦84,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2002⁩، ضاربة ⁦84,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -120419,7 +120419,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 178 km, Diesel, manuelle transmission. Fiat Panda in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦178 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦178 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -120564,7 +120564,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 124,000 km, Diesel, manuelle transmission. Peugeot 208 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦124,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2020⁩، ضاربة ⁦124,000 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -120766,7 +120766,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2000, with 120,000 km, Essence, manuelle transmission. Ford Ka in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2000⁩، ضاربة ⁦120,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2000⁩، ضاربة ⁦120,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -120955,7 +120955,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 149,000 km, Essence, automatique transmission. Mini Cooper in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦149,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦149,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -121102,7 +121102,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 67,000 km, Diesel, automatique transmission. Volkswagen Tiguan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦67,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦67,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -121303,7 +121303,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 282 km, Diesel, manuelle transmission. Renault Kangoo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦282 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦282 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -121472,7 +121472,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 160,000 km, Diesel, automatique transmission. Dacia Duster in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦160,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦160,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -121891,7 +121891,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 28,873 km, Essence, automatique transmission. Nissan Juke in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦28,873 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2023⁩، ضاربة ⁦28,873 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -122089,7 +122089,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 190,000 km, Diesel, automatique transmission. BMW X1 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦190,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦190,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -122301,7 +122301,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 220,000 km, Diesel, automatique transmission. Opel Insignia in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦220,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2015⁩، ضاربة ⁦220,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -122519,7 +122519,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 99,000 km, Diesel, automatique transmission. Jeep Wrangler in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦99,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦99,000 km⁩، مازوت، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -122714,7 +122714,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 283,600 km, Diesel, manuelle transmission. Ford Fiesta in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦283,600 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2017⁩، ضاربة ⁦283,600 km⁩، مازوت، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -122895,7 +122895,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 22,000 km, Essence, automatique transmission. Chery Tiggo 4 Pro in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦22,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦22,000 km⁩، ليصانص، أوطوماتيك. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -123256,7 +123256,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2017, with 23,000 km, Essence. Yamaha aerox - 2t in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2017⁩، ضاربة ⁦23,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2017⁩، ضاربة ⁦23,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -123375,7 +123375,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 22,000 km, Essence. Harley-Davidson autre - 1gym in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2014⁩، ضاربة ⁦22,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2014⁩، ضاربة ⁦22,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -123499,7 +123499,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 0 km, Essence. Cooper winner s in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦0 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦0 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -123608,7 +123608,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2014, with 46,000 km, Essence. Kawasaki z800 - r in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2014⁩، ضاربة ⁦46,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2014⁩، ضاربة ⁦46,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -123720,7 +123720,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 35,000 km, Essence. Yamaha x-max 125 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2013⁩، ضاربة ⁦35,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2013⁩، ضاربة ⁦35,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -123844,7 +123844,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 34,000 km, Essence. Yamaha xtz - 1200 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦34,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦34,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -123961,7 +123961,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 22,222 km, Essence. 2022Meknes in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦22,222 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦22,222 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -124069,7 +124069,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 0 km, Essence. Triumph scrambler - scamnier in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦0 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦0 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -124196,7 +124196,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 1,100 km, Essence. Honda adv - adv 350 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦1,100 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦1,100 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -124320,7 +124320,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 82,000 km, Essence. BMW r 1200 gs adventure in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2012⁩، ضاربة ⁦82,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2012⁩، ضاربة ⁦82,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -124438,7 +124438,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 40,000 km, Essence. Yamaha tmax in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2015⁩، ضاربة ⁦40,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2015⁩، ضاربة ⁦40,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -124549,7 +124549,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2015, with 0 km, Essence. 2015Temara in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2015⁩، ضاربة ⁦0 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2015⁩، ضاربة ⁦0 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -124660,7 +124660,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 100,000 km, Essence. Suzuki dl 1000 v-strom - trail in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2011⁩، ضاربة ⁦100,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2011⁩، ضاربة ⁦100,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -124778,7 +124778,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 3,500 km, Essence. Siamoto birdie 50 - forza sport in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦3,500 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦3,500 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -124898,7 +124898,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 1,000 km, Essence. Honda gl 1800 gold wing - honda gold wing gl1800 (2025) in very good condition with regular servicing and careful ownership. Road-ready and available for viewing in 105.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦1,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة. موجودة فـ 105."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦1,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة. موجودة فـ 105."
     },
     "features": [
       {
@@ -125030,7 +125030,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 14,000 km, Essence. Vespa primavera - 50 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦14,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2022⁩، ضاربة ⁦14,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -125151,7 +125151,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 5,000 km, Essence. Cimatti monstre - 2024 evo3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦5,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦5,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -125277,7 +125277,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 6,000 km, Essence. Harley-Davidson autre - panamerica special in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦6,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦6,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -125402,7 +125402,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2023, with 7,300 km, Essence. Harley-Davidson autre - panamerica special in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦7,300 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2023⁩، ضاربة ⁦7,300 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -125526,7 +125526,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2007, with 25,000 km, Essence. Harley-Davidson vrsca v-rod - 100eme anniversaire in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2007⁩، ضاربة ⁦25,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2007⁩، ضاربة ⁦25,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -125644,7 +125644,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 11,000 km, Essence. Yamaha mt-07 - europe in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦11,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦11,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -125768,7 +125768,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2020, with 26,000 km, Essence. Honda sh 150i in very good condition with regular servicing and careful ownership. Road-ready and available for viewing in 105.",
-      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦26,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة. موجودة فـ 105."
+      "ar": "موطور موديل ⁦2020⁩، ضاربة ⁦26,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة. موجودة فـ 105."
     },
     "features": [
       {
@@ -125896,7 +125896,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 17,000 km, Essence, manuelle transmission. 2025Meknes in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦17,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2025⁩، ضاربة ⁦17,000 km⁩، ليصانص، مانييل. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -126025,7 +126025,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 0 km, Essence. Yamaha aerox - 2011 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2011⁩، ضاربة ⁦0 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2011⁩، ضاربة ⁦0 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -126145,7 +126145,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2010, with 72,000 km, Essence. Harley-Davidson flstsb softail cross in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2010⁩، ضاربة ⁦72,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2010⁩، ضاربة ⁦72,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -126258,7 +126258,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 5,680 km, Essence. SYM symphony in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦5,680 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦5,680 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -126383,7 +126383,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2011, with 20,000 km, Essence. Vespa 300 gts - 300 gts edition ed in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2011⁩، ضاربة ⁦20,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2011⁩، ضاربة ⁦20,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -126506,7 +126506,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 1,700 km, Essence. Phoenix classic 50 - 2021 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦1,700 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2021⁩، ضاربة ⁦1,700 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -126624,7 +126624,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 7,800 km, Essence. Cimatti monstre - alien 400 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦7,800 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2024⁩، ضاربة ⁦7,800 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -126747,7 +126747,7 @@ window.DEMO_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 40,000 km, Essence. Honda sh 125i - 2013 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "موطور موديل ⁦2013⁩، ضاربة ⁦40,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة."
+      "ar": "موطور موديل ⁦2013⁩، ضاربة ⁦40,000 km⁩، ليصانص. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
