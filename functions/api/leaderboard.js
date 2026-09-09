@@ -111,8 +111,8 @@ export async function onRequestPost({ request, env = {} }) {
     // Keep top 100 entries to prevent unbounded JSON size
     const topEntries = currentList.slice(0, 100);
 
-    // Save as array of [name, score] to match original structure
-    const toSave = topEntries.map((e) => [e.name, e.score]);
+    // Save as array of [name, score, mode] to match structure and preserve mode
+    const toSave = topEntries.map((e) => [e.name, e.score, e.mode || 'cars']);
 
     // 3. Put to JSONbin
     const putRes = await fetch(`https://api.jsonbin.io/v3/b/${binId}`, {
@@ -139,7 +139,7 @@ export async function onRequestPost({ request, env = {} }) {
       rank: index + 1,
       name: entry.name,
       score: entry.score,
-      mode: entry.mode
+      mode: entry.mode || 'cars'
     }));
 
     return Response.json(

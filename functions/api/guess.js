@@ -30,7 +30,7 @@ export async function onRequestPost({ request, env = {} }) {
   const listing = listings.find((item) => item.id === token.id && Number.isFinite(item.price));
   if (!listing) return Response.json({ error: 'Listing not found.' }, { status: 404 });
   const guess = body.guess === null ? null : Number(body.guess);
-  if (guess !== null && (!Number.isFinite(guess) || guess < 0 || guess > 100_000_000)) return Response.json({ error: 'Invalid price.' }, { status: 400 });
+  if (guess !== null && (!Number.isFinite(guess) || guess <= 0 || guess > 100_000_000)) return Response.json({ error: 'Invalid price.' }, { status: 400 });
   const difference = guess === null ? null : Math.abs(guess - listing.price);
   const relativeError = guess === null ? 1 : difference / listing.price;
   const score = Math.max(0, Math.round(1000 * (1 - Math.min(1, relativeError))));

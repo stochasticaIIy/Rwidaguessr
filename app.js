@@ -315,7 +315,7 @@
   async function submitGuess(guess, timedOut = false) {
     if (state.submitting) return;
     const item = state.listings[state.current];
-    if (!timedOut && (guess === null || !Number.isFinite(guess) || guess < 0)) {
+    if (!timedOut && (guess === null || !Number.isFinite(guess) || guess <= 0)) {
       ui.error.textContent = t('invalidGuess'); ui.error.classList.remove('hidden'); return;
     }
     state.submitting = true; window.clearInterval(state.timer);
@@ -541,7 +541,15 @@
     Sound.playFinalResults(total);
     fetchLeaderboard();
   }
-  function cleanGuess(value) { return Number(String(value).replace(/[^\d]/g, '')); }
+  function normalizeDigits(str) {
+    return String(str || '')
+      .replace(/[\u0660-\u0669]/g, (d) => d.charCodeAt(0) - 1632)
+      .replace(/[\u06F0-\u06F9]/g, (d) => d.charCodeAt(0) - 1776);
+  }
+  function cleanGuess(value) {
+    const raw = normalizeDigits(value).replace(/[^\d]/g, '');
+    return raw ? Number(raw) : null;
+  }
   function changeImage(delta) {
     const item = state.listings[state.current];
     const images = item && listingImages(item);
@@ -683,7 +691,7 @@
     });
   }
   ui.guess.addEventListener('input', () => {
-    const raw = ui.guess.value.replace(/[^\d]/g, '');
+    const raw = normalizeDigits(ui.guess.value).replace(/[^\d]/g, '');
     if (!raw) return;
     const num = Number(raw);
     if (Number.isFinite(num) && raw.length > 3) {
@@ -691,6 +699,8 @@
       if (ui.guess.value !== formatted) {
         ui.guess.value = formatted;
       }
+    } else if (raw !== ui.guess.value && !raw.includes(',')) {
+      ui.guess.value = raw;
     }
   });
   ui.next.addEventListener('click', nextRound);
