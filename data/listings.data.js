@@ -123,26 +123,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -284,32 +264,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -537,26 +497,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -778,26 +718,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -994,26 +914,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -1229,32 +1129,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -1478,26 +1358,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -1706,16 +1566,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -1855,26 +1705,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -2077,26 +1907,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -3179,26 +2989,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -3363,26 +3153,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -3565,26 +3335,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -3730,26 +3480,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -3945,26 +3675,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -4147,26 +3857,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -4335,26 +4025,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -4567,26 +4237,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -4747,26 +4397,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "4",
-          "ar": "4"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -4992,26 +4622,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -5222,26 +4832,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -5443,26 +5033,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -5637,26 +5207,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -5812,26 +5362,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -5979,26 +5509,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -6224,26 +5734,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "10",
-          "ar": "10"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -6446,26 +5936,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -6610,26 +6080,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -6845,32 +6295,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -7090,26 +6520,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -7293,26 +6703,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -7456,26 +6846,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -7701,26 +7071,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -7898,26 +7248,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -8135,26 +7465,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -8357,26 +7667,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -8585,26 +7875,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -8747,26 +8017,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -8920,26 +8170,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -9142,26 +8372,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -9372,26 +8582,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -9557,26 +8747,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -9789,26 +8959,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -9949,26 +9099,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -10180,26 +9310,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "41",
-          "ar": "41"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -10347,26 +9457,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "5",
-          "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -10530,26 +9620,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -10769,26 +9839,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -11014,26 +10064,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -11255,26 +10285,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -11481,26 +10491,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -11698,26 +10688,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -11941,26 +10911,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -12148,26 +11098,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -12338,26 +11268,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -12583,26 +11493,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -12745,26 +11635,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -12941,26 +11811,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -13164,26 +12014,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -13399,26 +12229,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -13588,26 +12398,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -13798,26 +12588,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -14035,26 +12805,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -14268,26 +13018,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -14470,26 +13200,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "41",
-          "ar": "41"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -14635,26 +13345,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -14871,26 +13561,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -15083,26 +13753,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -15322,26 +13972,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -15554,26 +14184,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -15781,26 +14391,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -16026,26 +14616,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -16188,26 +14758,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -16406,26 +14956,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -16651,26 +15181,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -16867,26 +15377,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -17093,26 +15583,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "16",
-          "ar": "16"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -17338,26 +15808,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "5",
-          "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -17563,26 +16013,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -17777,26 +16207,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -17997,26 +16407,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -18211,26 +16601,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -18456,26 +16826,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -18676,26 +17026,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "10",
-          "ar": "10"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -18905,26 +17235,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -19117,26 +17427,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -19352,26 +17642,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -19596,26 +17866,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -19832,26 +18082,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -20001,26 +18231,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -20235,26 +18445,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -20451,26 +18641,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -20616,26 +18786,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -20810,26 +18960,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -21055,26 +19185,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -21290,26 +19400,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -21519,26 +19609,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -21681,26 +19751,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -21850,26 +19900,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -22061,26 +20091,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -22295,26 +20305,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "5",
-          "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -22489,32 +20479,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -24357,26 +22327,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "4",
-          "ar": "4"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -24592,26 +22542,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -24740,26 +22670,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -24967,26 +22877,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "21",
-          "ar": "21"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -25206,26 +23096,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "18",
-          "ar": "18"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -25437,26 +23307,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -25676,26 +23526,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -25839,26 +23669,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -26077,26 +23887,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -26282,26 +24072,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -26527,26 +24297,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -26735,26 +24485,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -26980,26 +24710,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -27207,26 +24917,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -27444,26 +25134,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -27670,26 +25340,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "26",
-          "ar": "26"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -27857,26 +25507,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -28091,26 +25721,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -28310,26 +25920,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -28555,26 +26145,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -28788,26 +26358,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -28955,26 +26505,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -29151,26 +26681,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "14",
-          "ar": "14"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -29392,26 +26902,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -29558,26 +27048,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -29729,26 +27199,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -29961,26 +27411,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -30201,26 +27631,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -30375,26 +27785,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -30606,26 +27996,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -30845,26 +28215,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "5",
-          "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -31031,26 +28381,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -31195,26 +28525,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "26",
-          "ar": "26"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -31369,26 +28679,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -31537,32 +28827,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -31716,26 +28986,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -31917,26 +29167,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -32090,26 +29320,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "26",
-          "ar": "26"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -32255,26 +29465,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -32480,26 +29670,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -32686,32 +29856,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -32938,26 +30088,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -33167,26 +30297,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -33334,26 +30444,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -33496,26 +30586,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -33697,26 +30767,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -33857,26 +30907,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -34024,32 +31054,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -34277,26 +31287,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "5",
-          "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -34505,32 +31495,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -34758,26 +31728,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -34965,26 +31915,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "17",
-          "ar": "17"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -35199,26 +32129,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "28",
-          "ar": "28"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -35422,32 +32332,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "25",
-          "ar": "25"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -35670,26 +32560,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -35901,26 +32771,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -36068,26 +32918,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -36308,26 +33138,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -36474,26 +33284,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -36719,26 +33509,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -36919,26 +33689,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -37085,26 +33835,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -37326,26 +34056,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -37556,26 +34266,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -37801,26 +34491,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -38023,26 +34693,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -38186,26 +34836,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -38357,26 +34987,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -38574,26 +35184,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -38727,26 +35317,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -38937,26 +35507,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -39167,32 +35717,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "28",
-          "ar": "28"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -39346,26 +35876,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -39557,26 +36067,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -39784,26 +36274,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -40028,26 +36498,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -40261,26 +36711,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -40430,26 +36860,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -40664,26 +37074,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -40828,26 +37218,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -41046,26 +37416,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "30",
-          "ar": "30"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -41291,26 +37641,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -41527,26 +37857,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -41752,26 +38062,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -41989,26 +38279,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -42151,26 +38421,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -42394,26 +38644,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -42596,26 +38826,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -42841,26 +39051,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -43082,26 +39272,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -43303,26 +39473,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -43543,26 +39693,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -43726,26 +39856,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "5",
-          "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -43873,26 +39983,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -44030,26 +40120,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -44201,26 +40271,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -44396,26 +40446,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -44556,26 +40586,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -44801,26 +40811,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -44965,26 +40955,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -45118,32 +41088,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -45371,26 +41321,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -45562,26 +41492,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -45744,26 +41654,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -45961,26 +41851,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -46184,26 +42054,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -46412,26 +42262,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -46657,26 +42487,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -46883,26 +42693,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -47043,26 +42833,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -47244,26 +43014,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -47454,26 +43204,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -47699,26 +43429,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -47925,26 +43635,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -48099,26 +43789,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -48302,26 +43972,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -51787,26 +47437,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -52026,26 +47656,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -52203,26 +47813,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -52419,26 +48009,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -52653,26 +48223,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -52820,26 +48370,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -52995,32 +48525,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -53247,26 +48757,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -53488,26 +48978,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -53675,26 +49145,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -53920,26 +49370,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -54161,26 +49591,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -54392,26 +49802,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -54629,26 +50019,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -54796,26 +50166,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -55043,26 +50393,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -55275,26 +50605,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -55497,26 +50807,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -55726,26 +51016,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -55972,26 +51242,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -56196,26 +51446,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -56443,26 +51673,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -56634,26 +51844,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -56865,26 +52055,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -57111,26 +52281,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -57352,26 +52502,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -57584,26 +52714,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -57801,26 +52911,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -58044,26 +53134,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -58280,26 +53350,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -58506,26 +53556,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -58724,26 +53754,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "10",
-          "ar": "10"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -58905,16 +53915,6 @@ export const DEFAULT_LISTINGS = [
           "en": "N/A",
           "ar": "N/A"
         }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
       }
     ],
     "options": [],
@@ -59044,26 +54044,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -59289,26 +54269,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -59519,26 +54479,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -59761,26 +54701,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -59997,26 +54917,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -60208,26 +55108,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -60384,26 +55264,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -60633,26 +55493,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -60850,26 +55690,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "13",
-          "ar": "13"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -61087,26 +55907,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "41",
-          "ar": "41"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -61250,26 +56050,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -61476,26 +56256,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -61721,26 +56481,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -61949,26 +56689,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -62111,26 +56831,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -62286,26 +56986,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -62530,26 +57210,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -62716,26 +57376,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -62935,26 +57575,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -63085,26 +57705,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -63273,26 +57873,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -63502,26 +58082,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -63712,32 +58272,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -63955,32 +58495,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -64207,26 +58727,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -64377,26 +58877,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -64612,26 +59092,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -64829,26 +59289,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -65076,26 +59516,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -65307,26 +59727,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -65471,26 +59871,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -65696,26 +60076,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -65897,26 +60257,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -66066,26 +60406,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -66272,26 +60592,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -66461,26 +60761,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -66629,26 +60909,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -66832,26 +61092,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -67062,26 +61302,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -67253,26 +61473,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -67490,26 +61690,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -67652,26 +61832,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -67878,26 +62038,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -68113,26 +62253,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -68344,32 +62464,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -68597,26 +62697,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -68800,26 +62880,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -69035,26 +63095,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "10",
-          "ar": "10"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -69247,26 +63287,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -69489,26 +63509,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -69660,26 +63660,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -69855,26 +63835,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -70100,26 +64060,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -70323,32 +64263,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -70502,26 +64422,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -70735,26 +64635,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -70898,26 +64778,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -71109,26 +64969,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -71337,26 +65177,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -71578,26 +65398,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -71790,26 +65590,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -71959,26 +65739,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -72144,26 +65904,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -72389,26 +66129,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -72625,26 +66345,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -72788,32 +66488,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "4",
-          "ar": "4"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -72967,26 +66647,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -73207,26 +66867,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -73429,26 +67069,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -73670,26 +67290,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -73917,26 +67517,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -74135,26 +67715,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -74304,26 +67864,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -74549,26 +68089,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -74788,26 +68308,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -77939,26 +71439,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -78097,26 +71577,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -78332,26 +71792,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -78482,32 +71922,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -78728,26 +72148,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -78959,26 +72359,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -79165,26 +72545,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -79400,26 +72760,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -79549,26 +72889,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -79707,26 +73027,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -79946,26 +73246,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -80178,26 +73458,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -80420,26 +73680,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -80588,26 +73828,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -80829,26 +74049,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -81065,26 +74265,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -81276,26 +74456,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -81441,26 +74601,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -81680,26 +74820,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -81907,26 +75027,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -82148,26 +75248,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -82395,26 +75475,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -82632,26 +75692,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -82877,26 +75917,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -83043,26 +76063,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -83272,26 +76272,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -83482,26 +76462,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -83649,26 +76609,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -83891,26 +76831,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -84109,26 +77029,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -84358,26 +77258,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -84521,26 +77401,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -84692,26 +77552,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -84902,26 +77742,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -85147,26 +77967,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -85359,26 +78159,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -85593,26 +78373,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -85759,26 +78519,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -85965,26 +78705,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "10",
-          "ar": "10"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -86176,26 +78896,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -86412,26 +79112,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -86657,26 +79337,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -86819,26 +79479,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -87000,32 +79640,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "14",
-          "ar": "14"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -87253,26 +79873,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -87490,26 +80090,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -87734,26 +80314,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -87970,26 +80530,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "17",
-          "ar": "17"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -88136,26 +80676,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -88378,26 +80898,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -88610,26 +81110,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -88771,26 +81251,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -88986,26 +81446,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -89184,26 +81624,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -89421,26 +81841,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -89582,26 +81982,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -89829,26 +82209,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -90053,26 +82413,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -90249,26 +82589,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -90495,26 +82815,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -90671,26 +82971,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -90913,26 +83193,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -91092,26 +83352,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -91337,26 +83577,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -91574,26 +83794,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -95458,26 +87658,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -95698,26 +87878,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -95929,32 +88089,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -96182,26 +88322,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -96413,26 +88533,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -96614,26 +88714,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -96839,26 +88919,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -97084,26 +89144,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -97291,26 +89331,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -97521,26 +89541,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -97674,26 +89674,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -97845,26 +89825,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -98082,26 +90042,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -98297,26 +90237,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -98527,26 +90447,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -98708,26 +90608,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -98938,26 +90818,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -99101,26 +90961,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -99292,26 +91132,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -99478,26 +91298,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -99722,26 +91522,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -99943,26 +91723,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -100108,26 +91868,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -100343,32 +92083,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -100591,26 +92311,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -100812,32 +92512,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -101041,26 +92721,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -101286,26 +92946,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -101522,26 +93162,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -101734,26 +93354,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -101974,26 +93574,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -102127,26 +93707,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -102295,26 +93855,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -102452,26 +93992,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -102692,26 +94212,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -102914,26 +94414,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -103147,26 +94627,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -103394,26 +94854,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -103557,26 +94997,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -103762,26 +95182,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -104009,26 +95409,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -104226,26 +95606,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -104471,26 +95831,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -104703,26 +96043,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -104931,26 +96251,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -105176,26 +96476,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -105390,26 +96670,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -105635,26 +96895,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "27",
-          "ar": "27"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -105869,26 +97109,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -106114,26 +97334,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "10",
-          "ar": "10"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -106337,26 +97537,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -106529,26 +97709,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "10",
-          "ar": "10"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -106699,26 +97859,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -106923,26 +98063,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -107165,26 +98285,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -107370,16 +98470,6 @@ export const DEFAULT_LISTINGS = [
           "en": "N/A",
           "ar": "N/A"
         }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
       }
     ],
     "options": [],
@@ -107513,26 +98603,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -107750,26 +98820,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -107938,26 +98988,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -108178,26 +99208,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -108389,26 +99399,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -108619,26 +99609,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -108861,26 +99831,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -109094,32 +100044,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -109347,26 +100277,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -109587,26 +100497,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -109808,26 +100698,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -110043,26 +100913,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -110241,32 +101091,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -110414,32 +101244,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -110666,26 +101476,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -110903,26 +101693,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -111127,26 +101897,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -111372,26 +102122,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -111524,26 +102254,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -111763,26 +102473,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -111960,26 +102650,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -112207,26 +102877,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -112400,26 +103050,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -112548,26 +103178,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -112723,26 +103333,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -112968,26 +103558,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -113175,26 +103745,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -113414,26 +103964,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -113648,26 +104178,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -113825,26 +104335,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "14",
-          "ar": "14"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -114072,26 +104562,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -114271,26 +104741,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -114430,32 +104880,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -114683,26 +105113,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -114891,26 +105301,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -115131,26 +105521,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -115294,26 +105664,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -115512,26 +105862,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -119360,26 +109690,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "14",
-          "ar": "14"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -119591,26 +109901,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -119758,26 +110048,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "5",
-          "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -119942,26 +110212,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -120141,26 +110391,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -120382,26 +110612,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -120548,26 +110758,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "10",
-          "ar": "10"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -120755,26 +110945,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -120996,26 +111166,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -121188,26 +111338,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -121433,26 +111563,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -121654,26 +111764,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -121903,26 +111993,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -122139,26 +112209,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "10",
-          "ar": "10"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -122338,26 +112388,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -122582,26 +112612,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -122788,26 +112798,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -123010,26 +113000,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -123188,26 +113158,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -123426,26 +113376,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -123656,26 +113586,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -123896,26 +113806,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -124141,26 +114031,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -124374,32 +114244,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -124617,26 +114467,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -124781,26 +114611,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -125026,26 +114836,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -125265,26 +115055,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -125492,32 +115262,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -125734,26 +115484,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -125979,26 +115709,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -126176,26 +115886,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -126410,26 +116100,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -126650,26 +116320,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -126886,26 +116536,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -127117,32 +116747,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -127369,26 +116979,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -127610,26 +117200,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -127838,26 +117408,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -128045,26 +117595,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -128288,26 +117818,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -128524,26 +118034,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -128719,32 +118209,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -128972,26 +118442,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -129214,26 +118664,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -129440,32 +118870,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -129693,26 +119103,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -129916,26 +119306,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -130161,26 +119531,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -130353,26 +119703,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -130590,26 +119920,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -130796,32 +120106,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "12",
-          "ar": "12"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -131049,26 +120339,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -131289,26 +120559,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -131511,26 +120761,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -131755,26 +120985,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -131988,32 +121198,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -132241,26 +121431,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -132472,32 +121642,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -132721,26 +121871,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -132905,26 +122035,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -133152,26 +122262,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -133393,26 +122483,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -133552,32 +122622,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -133793,26 +122843,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -133954,26 +122984,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "3",
           "ar": "3"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -134199,26 +123209,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "7",
-          "ar": "7"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -134366,26 +123356,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -134597,26 +123567,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -134811,26 +123761,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "4",
-          "ar": "4"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -134979,26 +123909,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -135209,26 +124119,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -135399,26 +124289,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -135625,26 +124495,6 @@ export const DEFAULT_LISTINGS = [
         "label": {
           "en": "Colour",
           "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "13",
-          "ar": "13"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
         },
         "value": {
           "en": "N/A",
@@ -135862,32 +124712,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -136091,26 +124921,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -136322,32 +125132,12 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "8",
-          "ar": "8"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -136575,26 +125365,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "11",
-          "ar": "11"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -136795,26 +125565,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -136997,26 +125747,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "9",
-          "ar": "9"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -137238,26 +125968,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "5",
           "ar": "5"
-        }
-      },
-      {
-        "label": {
-          "en": "Tax horsepower",
-          "ar": "القوة الجبائية"
-        },
-        "value": {
-          "en": "6",
-          "ar": "6"
-        }
-      },
-      {
-        "label": {
-          "en": "Statut de douane",
-          "ar": "Statut de douane"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {

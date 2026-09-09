@@ -295,6 +295,13 @@ export function parseMoteurHtml(html, sourceUrl) {
       label: { en: 'Cylinders', ar: 'عدد الأسطوانات' },
       value: { en: bikeCyl.en, ar: bikeCyl.ar }
     });
+  } else {
+    // Filter out Statut de douane and Tax horsepower for cars
+    features = features.filter(f => {
+      const lblEn = (f.label && (f.label.en || f.label) || '').trim();
+      if (lblEn === 'Statut de douane' || lblEn === 'Tax horsepower') return false;
+      return true;
+    });
   }
 
   // Equipment & options: leave in original French for both languages per user specification

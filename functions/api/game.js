@@ -15,6 +15,19 @@ function sample(items, count) {
   return [...items].sort(() => crypto.getRandomValues(new Uint32Array(1))[0] - 0x80000000).slice(0, count);
 }
 
+function sanitizeListingFeatures(item) {
+  const isBike = (item.kind || '').toLowerCase().includes('moto') || (item.kind || '').toLowerCase().includes('bike');
+  if (isBike || !Array.isArray(item.features)) return item.features;
+  return item.features.filter((f) => {
+    const label = f.label;
+    const en = (label && typeof label === 'object' ? (label.en || label.fr || label.raw || '') : String(label || '')).toLowerCase().trim();
+    const ar = (label && typeof label === 'object' ? (label.ar || '') : '').toLowerCase().trim();
+    if (en.includes('douane') || ar.includes('douane') || en.includes('customs') || ar.includes('جمارك')) return false;
+    if (en.includes('tax horsepower') || en === 'tax hp' || en.includes('puissance fiscale') || ar.includes('الجبائية')) return false;
+    return true;
+  });
+}
+
 export async function onRequestGet({ request, env = {} }) {
   const signingSecret = env.GAME_SIGNING_SECRET || env.APP_SECRET || FALLBACK_SECRET;
   let listings = DEFAULT_LISTINGS;
@@ -46,7 +59,11 @@ export async function onRequestGet({ request, env = {} }) {
 
   const round = await Promise.all(sample(pool, 5).map(async ({ price, ...publicListing }) => {
     const payload = base64url(new TextEncoder().encode(JSON.stringify({ id: publicListing.id, expiresAt })));
-    return { ...publicListing, token: `${payload}.${await sign(payload, signingSecret)}` };
+    return {
+      ...publicListing,
+      features: sanitizeListingFeatures(publicListing),
+      token: `${payload}.${await sign(payload, signingSecret)}`
+    };
   }));
   return Response.json({ round }, { headers: { 'cache-control': 'no-store' } });
 }

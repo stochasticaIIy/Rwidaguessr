@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="en" dir="ltr">
+<html lang="ar" dir="rtl">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Guess the price of cars and motorbikes in Morocco." />
-    <meta property="og:title" content="RwidaGuessr — guess the price" />
-    <meta property="og:description" content="Guess the price of cars and motorbikes in Morocco." />
-    <title>RwidaGuessr — guess the price</title>
+    <meta name="description" content="خمّن ثمن السيارات والدراجات النارية في المغرب." />
+    <meta property="og:title" content="RwidaGuessr — خمّن الثمن" />
+    <meta property="og:description" content="خمّن ثمن السيارات والدراجات النارية في المغرب." />
+    <title>RwidaGuessr — خمّن الثمن</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Kufi+Arabic:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
@@ -20,7 +20,7 @@
           <span>Rwida<span>Guessr</span></span>
         </a>
         <div class="round-status" aria-live="polite">
-          <span id="round-label">Ready to play</span>
+          <span id="round-label">جاهز للعب</span>
           <div class="round-dots" id="round-dots" aria-label="Round progress"></div>
         </div>
         <div class="header-actions">
@@ -29,42 +29,42 @@
             <span>DarGuessr</span>
             <span class="game-arrow" aria-hidden="true">↗</span>
           </a>
-          <button class="theme-button" id="sound-toggle" type="button" aria-label="Toggle sound" title="Sound effects"><span id="sound-icon" aria-hidden="true">🔊</span></button>
-          <button class="ghost-button" id="language-toggle" type="button" aria-label="Switch language">العربية</button>
-          <button class="theme-button" id="theme-toggle" type="button" aria-label="Use dark mode"><span aria-hidden="true">☾</span></button>
-          <button class="ghost-button" id="leaderboard-toggle" type="button" aria-label="Leaderboard">🏆 <span data-i18n="leaderboardBtn">Leaderboard</span></button>
-          <button class="ghost-button" id="how-to-play" type="button" data-i18n="howTo">How to play</button>
+          <button class="theme-button" id="sound-toggle" type="button" aria-label="المؤثرات الصوتية مفعلة" title="المؤثرات الصوتية"><span id="sound-icon" aria-hidden="true">🔊</span></button>
+          <button class="ghost-button" id="language-toggle" type="button" aria-label="التبديل إلى الإنجليزية">English</button>
+          <button class="theme-button" id="theme-toggle" type="button" aria-label="استخدم الوضع الداكن"><span aria-hidden="true">☾</span></button>
+          <button class="ghost-button" id="leaderboard-toggle" type="button" aria-label="المتصدرين">🏆 <span data-i18n="leaderboardBtn">المتصدرين</span></button>
+          <button class="ghost-button" id="how-to-play" type="button" data-i18n="howTo">كيفاش تلعب</button>
         </div>
       </header>
 
       <section class="start-screen" id="start-screen">
-        <div class="eyebrow" data-i18n="eyebrow">Cars &amp; motorbikes · Morocco</div>
-        <h1 data-i18n-html="heroTitle">What’s the price<br /><em>of this vehicle?</em></h1>
-        <p class="intro" data-i18n="intro">Five listings, their full details, and zero price clues. Estimate the listed price in dirhams.</p>
+        <div class="eyebrow" data-i18n="eyebrow">سيارات ودراجات نارية · المغرب</div>
+        <h1 data-i18n-html="heroTitle">كم يبلغ سعر<br /><em>هذه السيارة؟</em></h1>
+        <p class="intro" data-i18n="intro">خمس إعلانات وتفاصيلها الكاملة من دون أي تلميح للسعر. قدّر السعر المعروض بالدرهم.</p>
         <div class="start-card">
           <div class="mode-selector-group">
-            <span class="mode-label" id="mode-group-label" data-i18n="modeLabel">Vehicle category</span>
+            <span class="mode-label" id="mode-group-label" data-i18n="modeLabel">نوع المركبات</span>
             <div class="mode-switch" role="radiogroup" aria-labelledby="mode-group-label">
               <button class="mode-button is-active" id="mode-cars" type="button" role="radio" aria-checked="true" data-mode="cars">
                 <span class="mode-icon">🚗</span>
-                <span class="mode-text" data-i18n="modeCars">Cars</span>
+                <span class="mode-text" data-i18n="modeCars">سيارات</span>
               </button>
               <button class="mode-button" id="mode-motorbikes" type="button" role="radio" aria-checked="false" data-mode="motorbikes">
                 <span class="mode-icon">🏍️</span>
-                <span class="mode-text" data-i18n="modeBikes">Motorbikes</span>
+                <span class="mode-text" data-i18n="modeBikes">دراجات نارية</span>
               </button>
             </div>
           </div>
-          <label for="duration" data-i18n="durationLabel">Maximum time per guess</label>
+          <label for="duration" data-i18n="durationLabel">الوقت الأقصى لكل تخمين</label>
           <select id="duration">
-            <option value="600" selected data-i18n="tenMinutes">10 minutes</option>
-            <option value="1800" data-i18n="thirtyMinutes">30 minutes</option>
-            <option value="3000" data-i18n="fiftyMinutes">50 minutes (maximum)</option>
+            <option value="600" selected data-i18n="tenMinutes">10 دقائق</option>
+            <option value="1800" data-i18n="thirtyMinutes">30 دقيقة</option>
+            <option value="3000" data-i18n="fiftyMinutes">50 دقيقة (الحد الأقصى)</option>
           </select>
-          <small data-i18n="durationNote">Time is capped at 50 minutes for every listing.</small>
-          <button class="primary-button" id="start-game" type="button" data-i18n-html="start">Start 5 rounds <span>→</span></button>
+          <small data-i18n="durationNote">الوقت لا يتجاوز 50 دقيقة لكل إعلان.</small>
+          <button class="primary-button" id="start-game" type="button" data-i18n-html="start">ابدأ 5 جولات <span>←</span></button>
         </div>
-        <p class="data-note" id="data-note">Loading listings…</p>
+        <p class="data-note" id="data-note">جارٍ تحميل الإعلانات…</p>
       </section>
 
       <section class="game-screen hidden" id="game-screen" aria-live="polite">
@@ -110,21 +110,21 @@
         </div>
 
         <form class="guess-form" id="guess-form">
-          <label for="guess" data-i18n="yourGuess">Your guess</label>
+          <label for="guess" data-i18n="yourGuess">تخمينك</label>
           <div class="guess-input-row">
-            <input id="guess" inputmode="numeric" autocomplete="off" min="0" placeholder="e.g. 185,000" dir="ltr" required />
-            <span id="currency-label">MAD</span>
-            <button class="primary-button" type="submit" data-i18n-html="submit">Submit <span>→</span></button>
+            <input id="guess" inputmode="numeric" autocomplete="off" min="0" placeholder="مثال: &#x2066;185,000&#x2069;" dir="ltr" required />
+            <span id="currency-label">درهم</span>
+            <button class="primary-button" type="submit" data-i18n-html="submit">إرسال <span>←</span></button>
           </div>
           <div class="guess-increments-bar" id="guess-increments-bar" aria-label="Quick price increments">
-            <span class="increments-label" data-i18n="quickIncrements">Quick add:</span>
+            <span class="increments-label" data-i18n="quickIncrements">إضافة سريعة:</span>
             <div class="increment-buttons">
               <button type="button" class="increment-btn" data-add="1000">+1K</button>
               <button type="button" class="increment-btn" data-add="5000">+5K</button>
               <button type="button" class="increment-btn" data-add="10000">+10K</button>
               <button type="button" class="increment-btn" data-add="50000">+50K</button>
               <button type="button" class="increment-btn" data-add="100000">+100K</button>
-              <button type="button" class="increment-btn reset" id="clear-guess-btn" data-i18n="clearInput">Reset</button>
+              <button type="button" class="increment-btn reset" id="clear-guess-btn" data-i18n="clearInput">مسح</button>
             </div>
           </div>
           <p class="form-error hidden" id="form-error"></p>
