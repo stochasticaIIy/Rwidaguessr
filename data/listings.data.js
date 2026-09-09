@@ -132,13 +132,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154781806?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154781804?t=moteur_feed",
@@ -353,11 +347,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Limiteur de vitesse",
         "ar": "Limiteur de vitesse",
         "raw": "Limiteur de vitesse"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -507,11 +496,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -729,11 +713,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -928,11 +907,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -1218,11 +1192,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -1368,11 +1337,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -1719,11 +1683,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -2904,7 +2863,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2006, with 188,000 km, Diesel, manuelle transmission. Hyundai Accent in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Hyundai Accent سيارة هيونداي اكسنت موديل 2006 ديزل 6cv 2006Kenitra_phrase. Carburant: Diesel. Référence 657626 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2006⁩، ضاربة ⁦188,000 km⁩، مازوت، مانييل. سيارة هيونداي اكسنت موديل 2006 ديزل 6cv. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -2999,11 +2958,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -3167,11 +3121,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -3344,13 +3293,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154839649?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839650?t=moteur_feed",
@@ -3495,11 +3438,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -3580,7 +3518,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2002, with 250,000 km, Diesel, automatique transmission. Mercedes-Benz 220 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Mercedes-Benz 220 الاتصال من الساعة 11 صباحا الى الساعة 23 2002Khenifra_phrase. Carburant: Diesel. Référence 657630 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2002⁩، ضاربة ⁦250,000 km⁩، مازوت، أوطوماتيك. الاتصال من الساعة 11 صباحا الى الساعة 23. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -3685,11 +3623,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -3868,11 +3801,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -4039,11 +3967,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -4248,11 +4171,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -4411,11 +4329,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -4633,11 +4546,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -4843,11 +4751,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -5044,11 +4947,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -5218,11 +5116,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Intérieur cuir",
         "ar": "Intérieur cuir",
         "raw": "Intérieur cuir"
@@ -5371,13 +5264,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154586281?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154586283?t=moteur_feed",
@@ -5523,11 +5410,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -5745,11 +5627,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -5945,13 +5822,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154839887?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839890?t=moteur_feed",
@@ -6094,11 +5965,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -6379,11 +6245,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -6425,7 +6286,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 95,000 km, Diesel, manuelle transmission. Opel Mokka in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Opel Mokka أوبل موكا باقة جديدة موديل 2022 2022Agadir_phrase. Carburant: Diesel. Référence 657617 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦95,000 km⁩، مازوت، مانييل. أوبل موكا باقة جديدة موديل 2022. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -6530,11 +6391,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -6712,13 +6568,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154839673?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839684?t=moteur_feed",
@@ -6860,11 +6710,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -7082,11 +6927,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -7262,11 +7102,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -7476,11 +7311,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -7682,11 +7512,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -7884,13 +7709,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154839577?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839578?t=moteur_feed",
@@ -8032,11 +7851,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Jantes",
         "ar": "Jantes",
         "raw": "Jantes"
@@ -8079,7 +7893,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 65,000 km, Diesel, manuelle transmission. Dacia Logan in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Dacia Logan حومة طنجاوة تطوان 2024Tetouan_phrase. Carburant: Diesel. Référence 657612 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦65,000 km⁩، مازوت، مانييل. حومة طنجاوة تطوان. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -8184,11 +7998,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -8386,11 +8195,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -8593,11 +8397,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -8761,11 +8560,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -9114,11 +8908,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -9319,13 +9108,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154839176?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839174?t=moteur_feed",
@@ -9471,11 +9254,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -9634,11 +9412,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -9853,11 +9626,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -10075,11 +9843,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -10296,11 +10059,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -10502,11 +10260,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -10702,11 +10455,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -10922,11 +10670,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -11109,11 +10852,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -11282,11 +11020,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Limiteur de vitesse",
         "ar": "Limiteur de vitesse",
@@ -11502,13 +11235,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10152766117?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152766129?t=moteur_feed",
@@ -11649,11 +11376,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -11825,11 +11547,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -12028,11 +11745,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -12240,11 +11952,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -12412,11 +12119,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -12602,11 +12304,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -12816,11 +12513,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -12923,7 +12615,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2018, with 128,000 km, Diesel, manuelle transmission. Dacia Dokker in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Dacia Dokker 14 سيارة مليحة لبغاها مرحبا 2018Mohammedia_phrase. Carburant: Diesel. Référence 657593 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2018⁩، ضاربة ⁦128,000 km⁩، مازوت، مانييل. سيارة مليحة لبغاها مرحبا. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -13028,11 +12720,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -13209,13 +12896,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154837828?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837837?t=moteur_feed",
@@ -13359,11 +13040,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -13572,11 +13248,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -13767,11 +13438,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -13983,11 +13649,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -14195,11 +13856,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -14405,11 +14061,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -14625,13 +14276,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154836232?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836231?t=moteur_feed",
@@ -14772,11 +14417,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -14970,11 +14610,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -15192,11 +14827,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -15391,11 +15021,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -15597,11 +15222,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -15819,11 +15439,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -16024,11 +15639,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -16222,11 +15832,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -16417,11 +16022,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -16615,11 +16215,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -16837,11 +16432,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -17040,11 +16630,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -17442,11 +17027,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -17656,11 +17236,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -17877,11 +17452,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -17987,7 +17557,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "1998, with 0 km, Essence, manuelle transmission. Fiat Siena in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Fiat Siena سيارة فيات سيينا للبيع كارت گريز 1998Kenitra_phrase. Carburant: Essence. Référence 657575 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦1998⁩، ليصانص، مانييل. سيارة فيات سيينا للبيع كارت گريز. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -18092,11 +17662,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Vitres électriques",
         "ar": "Vitres électriques",
@@ -18245,11 +17810,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -18456,11 +18016,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -18650,13 +18205,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154837331?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837333?t=moteur_feed",
@@ -18800,11 +18349,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -18974,11 +18518,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -19196,11 +18735,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -19411,11 +18945,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -19618,13 +19147,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154837238?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837256?t=moteur_feed",
@@ -19764,13 +19287,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154837060?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837059?t=moteur_feed",
@@ -19809,7 +19326,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2008, with 194,000 km, Diesel, manuelle transmission. Volkswagen Golf 5 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Volkswagen Golf 5 تارودانت لوازيس 2008Taroudannt_phrase. Carburant: Diesel. Référence 657556 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2008⁩، ضاربة ⁦194,000 km⁩، مازوت، مانييل. تارودانت لوازيس. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -19914,11 +19431,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -20316,11 +19828,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -20568,11 +20075,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -22338,11 +21840,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -22551,13 +22048,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10151471032?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10151471033?t=moteur_feed",
@@ -22688,11 +22179,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -22891,11 +22377,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -23107,11 +22588,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -23322,11 +22798,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -23535,13 +23006,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154786438?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154786439?t=moteur_feed",
@@ -23683,11 +23148,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -23898,11 +23358,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -24086,11 +23541,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -24308,11 +23758,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -24499,11 +23944,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -24721,11 +24161,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -24931,11 +24366,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -25145,11 +24575,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -25351,11 +24776,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -25521,11 +24941,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -25732,11 +25147,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -25934,11 +25344,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -26156,11 +25561,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -26367,13 +25767,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154030355?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154030371?t=moteur_feed",
@@ -26414,7 +25808,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2000, with 200,000 km, Diesel, manuelle transmission. Peugeot 306 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Peugeot 306 بيجو 306 مازوط موديل 2000 2000Casablanca_phrase. Carburant: Diesel. Référence 657539 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2000⁩، ضاربة ⁦200,000 km⁩، مازوت، مانييل. بيجو 306 مازوط موديل 2000. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -26519,11 +25913,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -26695,11 +26084,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -26911,13 +26295,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154836361?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836352?t=moteur_feed",
@@ -27062,11 +26440,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -27213,11 +26586,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -27425,11 +26793,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -27642,11 +27005,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -27799,11 +27157,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -28010,11 +27363,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -28226,11 +27574,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
@@ -28390,13 +27733,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154542984-997363.jpg",
       "https://content.avito.ma/classifieds/images/10154012750?t=moteur_feed",
@@ -28538,13 +27875,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154835921?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835924?t=moteur_feed",
@@ -28689,11 +28020,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
@@ -28846,13 +28172,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://www.moteur.ma/storage/media/images/ads/resized/10149140468-744484.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10149140474-555314.jpg",
@@ -29000,11 +28320,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -29176,13 +28491,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://www.moteur.ma/media/photos/ads/resized/jaguar-xf-593882.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/jaguar-xf-583478.jpg",
@@ -29329,13 +28638,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154836064?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836063?t=moteur_feed",
@@ -29479,11 +28782,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -29680,11 +28978,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -29945,11 +29238,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -30098,11 +29386,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -30453,13 +29736,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://www.moteur.ma/storage/media/images/ads/resized/10148934436-961882.jpg",
       "https://content.avito.ma/classifieds/images/10129534956?t=moteur_feed",
@@ -30495,7 +29772,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "1995, with 100,000 km, Diesel, manuelle transmission. Nissan Maxima in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Nissan Maxima نيسان ماكسيما v6 1995Casablanca_phrase. Carburant: Diesel. Référence 657528 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦1995⁩، ضاربة ⁦100,000 km⁩، مازوت، مانييل. نيسان ماكسيما v6. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -30600,11 +29877,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -30776,13 +30048,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154836149?t=moteur_feed"
     ],
@@ -30920,13 +30186,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://www.moteur.ma/storage/media/images/ads/resized/10149589800-929754.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10149589791-109229.jpg",
@@ -31074,11 +30334,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Jantes",
         "ar": "Jantes",
@@ -31297,11 +30552,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -31584,11 +30834,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -31738,11 +30983,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -31929,11 +31169,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -32198,11 +31433,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -32416,11 +31646,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -32570,11 +31795,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -32780,13 +32000,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10149586034?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10149586028?t=moteur_feed",
@@ -32932,11 +32146,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -33147,13 +32356,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154835572?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835580?t=moteur_feed",
@@ -33298,11 +32501,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -33520,11 +32718,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -33698,13 +32891,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154835413?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835410?t=moteur_feed",
@@ -33849,11 +33036,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -34067,11 +33249,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -34280,11 +33457,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -34501,11 +33673,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -34849,13 +34016,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154712800?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154712801?t=moteur_feed",
@@ -35050,11 +34211,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -35193,13 +34349,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10151289990?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10151289992?t=moteur_feed",
@@ -35335,11 +34485,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -35521,11 +34666,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -35736,13 +34876,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://www.moteur.ma/storage/media/images/ads/resized/10148611203-378914.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10148611201-741394.jpg",
@@ -35890,11 +35024,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -36081,11 +35210,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -36288,11 +35412,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -36509,11 +35628,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -36722,11 +35836,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "CD / MP3 / Bluetooth",
         "ar": "CD / MP3 / Bluetooth",
         "raw": "CD / MP3 / Bluetooth"
@@ -36874,11 +35983,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -37083,13 +36187,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154580752?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154580751?t=moteur_feed",
@@ -37276,11 +36374,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Ordinateur de bord",
         "ar": "Ordinateur de bord",
         "raw": "Ordinateur de bord"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -37430,11 +36523,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -37652,11 +36740,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -37868,11 +36951,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -38076,11 +37154,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -38288,13 +37361,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154834794?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834795?t=moteur_feed",
@@ -38436,11 +37503,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -38549,7 +37611,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 135,000 km, Diesel, manuelle transmission. Dacia Duster in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Dacia Duster ثمن جد مناسب اخر ثمن بدون نيقاش كارط كريز 2022Tanger_phrase. Carburant: Diesel. Référence 657496 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦135,000 km⁩، مازوت، مانييل. ثمن جد مناسب اخر ثمن بدون نيقاش كارط كريز. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -38654,11 +37716,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -38840,11 +37897,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -39062,11 +38114,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -39283,11 +38330,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -39487,11 +38529,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -39703,11 +38740,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Airbags",
         "ar": "Airbags",
@@ -40286,11 +39318,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
@@ -40601,11 +39628,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -40820,13 +39842,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154834428?t=moteur_feed"
     ],
@@ -41177,11 +40193,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -41226,7 +40237,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2004, with 28,000 km, Essence, manuelle transmission. Renault Megane in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Renault Megane رونو ميكان كاسكيطة 2004 لمليح 2004Tanger_phrase. Carburant: Essence. Référence 657488 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2004⁩، ضاربة ⁦28,000 km⁩، ليصانص، مانييل. رونو ميكان كاسكيطة 2004 لمليح. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -41332,11 +40343,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -41407,7 +40413,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 19,999 km, Diesel, manuelle transmission. Citroën C3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Citroën C3 ستروين سي3 2016Sale_phrase. Carburant: Diesel. Référence 657489 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦19,999 km⁩، مازوت، مانييل. ستروين سي3. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -41503,11 +40509,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -41563,7 +40564,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 300,000 km, Diesel, manuelle transmission. Dacia Duster in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Dacia Duster سيارة مليحة 2012Marrakech_phrase. Carburant: Diesel. Référence 657491 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦300,000 km⁩، مازوت، مانييل. سيارة مليحة. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -41668,11 +40669,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -41866,11 +40862,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -41963,7 +40954,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 62,000 km, Diesel, manuelle transmission. Nissan Note in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Nissan Note القصر الصغير 2016Tanger_phrase. Carburant: Diesel. Référence 657492 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦62,000 km⁩، مازوت، مانييل. القصر الصغير. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -42068,11 +41059,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -42276,11 +41262,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -42498,11 +41479,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -42702,13 +41678,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154833771?t=moteur_feed"
     ],
@@ -42847,11 +41817,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Airbags",
         "ar": "Airbags",
@@ -43028,11 +41993,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -43218,11 +42178,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -43440,11 +42395,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -43540,7 +42490,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2004, with 300,000 km, Diesel, manuelle transmission. Fiat Palio in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Fiat Palio اناسي سيدي مومن 2004Casablanca_phrase. Carburant: Diesel. Référence 657483 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2004⁩، ضاربة ⁦300,000 km⁩، مازوت، مانييل. اناسي سيدي مومن. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -43645,11 +42595,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Airbags",
         "ar": "Airbags",
@@ -43803,11 +42748,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -43986,11 +42926,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -47448,11 +46383,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -47561,7 +46491,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 300,000 km, Diesel, manuelle transmission. Citroën Berlingo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Citroën Berlingo سيارة جديدة 2012Autre_phrase. Carburant: Diesel. Référence 657469 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦300,000 km⁩، مازوت، مانييل. سيارة جديدة. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -47666,11 +46596,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -47827,11 +46752,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -48023,11 +46943,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -48232,13 +47147,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10146013880?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10146013905?t=moteur_feed",
@@ -48279,7 +47188,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 300,000 km, Diesel, manuelle transmission. Citroën Berlingo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Citroën Berlingo سيارة جديدة 2012Autre_phrase. Carburant: Diesel. Référence 657471 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦300,000 km⁩، مازوت، مانييل. سيارة جديدة. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -48384,11 +47293,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -48614,11 +47518,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Ordinateur de bord",
         "ar": "Ordinateur de bord",
         "raw": "Ordinateur de bord"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -48767,11 +47666,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -48989,11 +47883,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -49159,11 +48048,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -49381,11 +48265,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -49601,11 +48480,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -49885,11 +48759,6 @@ export const DEFAULT_LISTINGS = [
         "en": "ESP",
         "ar": "ESP",
         "raw": "ESP"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -50028,13 +48897,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10153465876?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153465875?t=moteur_feed",
@@ -50249,11 +49112,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -50403,11 +49261,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -50615,11 +49468,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -50882,11 +49730,6 @@ export const DEFAULT_LISTINGS = [
         "raw": "Ordinateur de bord"
       },
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Jantes",
         "ar": "Jantes",
         "raw": "Jantes"
@@ -51034,11 +49877,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -51252,11 +50090,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -51526,11 +50359,6 @@ export const DEFAULT_LISTINGS = [
         "raw": "Radar de recul"
       },
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Intérieur cuir",
         "ar": "Intérieur cuir",
         "raw": "Intérieur cuir"
@@ -51683,11 +50511,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
@@ -51858,11 +50681,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -52093,11 +50911,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       },
       {
         "en": "Intérieur cuir",
@@ -52360,11 +51173,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Jantes",
         "ar": "Jantes",
         "raw": "Jantes"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -52512,11 +51320,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -52725,11 +51528,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -52925,11 +51723,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -53145,11 +51938,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -53361,11 +52149,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -53567,11 +52350,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -53764,11 +52542,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -54059,11 +52832,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -54280,11 +53048,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -54493,11 +53256,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -54712,11 +53470,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -54928,11 +53681,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -55119,11 +53867,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Airbags",
         "ar": "Airbags",
         "raw": "Airbags"
@@ -55282,11 +54025,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -55503,11 +54241,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -55773,11 +54506,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -55822,7 +54550,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2009, with 540,000 km, Essence, manuelle transmission. Renault Kangoo in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Renault Kangoo كانغو موديل 2009 d65 2009Tanger_phrase. Carburant: Essence. Référence 657465 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦540,000 km⁩، ليصانص، مانييل. كانغو موديل 2009 d65. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -55916,13 +54644,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154839648?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154840099?t=moteur_feed",
@@ -56064,11 +54786,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -56270,11 +54987,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -56555,11 +55267,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -56604,7 +55311,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2002, with 0 km, Diesel, manuelle transmission. Skoda Fabia in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Skoda Fabia للبيع skoda fabia 2002Temara_phrase. Carburant: Diesel. Référence 657467 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2002⁩، مازوت، مانييل. للبيع skoda fabia. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -56698,13 +55405,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154832305?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832307?t=moteur_feed",
@@ -56845,11 +55546,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
@@ -57000,11 +55696,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -57221,11 +55912,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -57390,11 +56076,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -57584,13 +56265,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154832304?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832308?t=moteur_feed",
@@ -57723,11 +56398,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -57887,11 +56557,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -58092,11 +56757,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -58361,11 +57021,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Ordinateur de bord",
         "ar": "Ordinateur de bord",
         "raw": "Ordinateur de bord"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -58584,11 +57239,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -58738,11 +57388,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Intérieur cuir",
         "ar": "Intérieur cuir",
         "raw": "Intérieur cuir"
@@ -58891,11 +57536,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -59102,11 +57742,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -59372,11 +58007,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Intérieur cuir",
         "ar": "Intérieur cuir",
         "raw": "Intérieur cuir"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -59582,11 +58212,6 @@ export const DEFAULT_LISTINGS = [
         "raw": "Fermeture centralisée"
       },
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Jantes",
         "ar": "Jantes",
         "raw": "Jantes"
@@ -59736,13 +58361,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154484083?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154488976?t=moteur_feed",
@@ -59885,11 +58504,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -60087,11 +58701,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -60172,7 +58781,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2016, with 19,999 km, Diesel, manuelle transmission. Citroën C3 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Citroën C3 سيطروين سي 3 2016Sale_phrase. Carburant: Diesel. Référence 657444 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2016⁩، ضاربة ⁦19,999 km⁩، مازوت، مانييل. سيطروين سي 3. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -60421,11 +59030,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -60603,11 +59207,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -60666,7 +59265,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 274 km, Diesel, manuelle transmission. Dacia Duster in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Dacia Duster ميسور داسيا دوستر 2013Missour_phrase. Carburant: Diesel. Référence 657414 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦274 km⁩، مازوت، مانييل. ميسور داسيا دوستر. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -60772,11 +59371,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Jantes",
         "ar": "Jantes",
         "raw": "Jantes"
@@ -60818,7 +59412,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2022, with 58,000 km, Diesel, manuelle transmission. Dacia Sandero in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Dacia Sandero دسيا ستبوي بقا مليحة 2022Fes_phrase. Carburant: Diesel. Référence 657415 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2022⁩، ضاربة ⁦58,000 km⁩، مازوت، مانييل. دسيا ستبوي بقا مليحة. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -60923,11 +59517,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -61110,11 +59699,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -61312,11 +59896,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -61533,11 +60112,6 @@ export const DEFAULT_LISTINGS = [
         "raw": "Ordinateur de bord"
       },
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Limiteur de vitesse",
         "ar": "Limiteur de vitesse",
         "raw": "Limiteur de vitesse"
@@ -61699,13 +60273,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154831539?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831538?t=moteur_feed",
@@ -61846,11 +60414,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -62053,11 +60616,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -62158,7 +60716,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2013, with 283 km, Diesel, automatique transmission. Land Rover Range Rover Evoque in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Land Rover Range Rover Evoque سيارة في حالة جيدة 2013Casablanca_phrase. Carburant: Diesel. Référence 657422 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2013⁩، ضاربة ⁦283 km⁩، مازوت، أوطوماتيك. سيارة في حالة جيدة. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -62263,11 +60821,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -62553,11 +61106,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Ordinateur de bord",
         "ar": "Ordinateur de bord",
         "raw": "Ordinateur de bord"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -62707,11 +61255,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -62958,11 +61501,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -63105,11 +61643,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -63301,11 +61834,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -63520,11 +62048,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -63678,11 +62201,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -63850,11 +62368,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Jantes",
         "ar": "Jantes",
         "raw": "Jantes"
@@ -63965,7 +62478,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2012, with 160,000 km, Essence, manuelle transmission. Peugeot 508 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Peugeot 508 بيجو 508 عامرة لي مهتم مرحبة 2012Oujda_phrase. Carburant: Essence. Référence 657407 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2012⁩، ضاربة ⁦160,000 km⁩، ليصانص، مانييل. بيجو 508 عامرة لي مهتم مرحبة. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -64070,11 +62583,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -64282,13 +62790,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152627014-674265.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152627013-224594.jpg",
@@ -64436,11 +62938,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -64793,11 +63290,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -65029,11 +63521,6 @@ export const DEFAULT_LISTINGS = [
         "raw": "Ordinateur de bord"
       },
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Radar de recul",
         "ar": "Radar de recul",
         "raw": "Radar de recul"
@@ -65191,11 +63678,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -65409,11 +63891,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -65599,13 +64076,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152118547-867678.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152118546-165072.jpg",
@@ -65753,11 +64224,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Vitres électriques",
         "ar": "Vitres électriques",
@@ -65918,11 +64384,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -66140,11 +64601,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -66354,13 +64810,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://www.moteur.ma/storage/media/images/ads/resized/10148610635-923821.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10148610636-648554.jpg",
@@ -66507,13 +64957,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://www.moteur.ma/storage/media/images/ads/resized/10148610853-332275.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10148610858-397479.jpg",
@@ -66661,11 +65105,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -66878,11 +65317,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -67083,11 +65517,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -67373,11 +65802,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -67571,11 +65995,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Ordinateur de bord",
         "ar": "Ordinateur de bord",
         "raw": "Ordinateur de bord"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -67724,13 +66143,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://www.moteur.ma/storage/media/images/ads/resized/10149066265-755354.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10149098895-887050.jpg",
@@ -67878,11 +66291,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -68168,11 +66576,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -68321,13 +66724,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154830644?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830622?t=moteur_feed",
@@ -71592,11 +69989,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -72006,11 +70398,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -72158,11 +70545,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -72370,11 +70752,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -72559,11 +70936,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -72812,7 +71184,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2024, with 104,000 km, Diesel, automatique transmission. Volkswagen Caddy in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Volkswagen Caddy فولكس فاجن كادي ديزل أوتوماتيك 2024 في طنجة 2024Tanger_phrase. Carburant: Diesel. Référence 657397 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2024⁩، ضاربة ⁦104,000 km⁩، مازوت، أوطوماتيك. فولكس فاجن كادي ديزل أوتوماتيك 2024 في طنجة. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -72906,13 +71278,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154830397?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830447?t=moteur_feed",
@@ -73045,11 +71411,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -73256,11 +71617,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -73473,11 +71829,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -73585,7 +71936,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "1994, with 354,000 km, Diesel, manuelle transmission. Renault R19 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Renault R19 تيزي وسلي تازة ديوانة 2008 1994Taza_phrase. Carburant: Diesel. Référence 657387 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦1994⁩، ضاربة ⁦354,000 km⁩، مازوت، مانييل. تيزي وسلي تازة ديوانة 2008. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -73690,11 +72041,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Jantes",
         "ar": "Jantes",
@@ -73842,11 +72188,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -74060,11 +72401,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -74276,11 +72612,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -74465,13 +72796,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10138046185?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10138046188?t=moteur_feed",
@@ -74615,11 +72940,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -74831,11 +73151,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -75041,11 +73356,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -75331,11 +73641,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -75485,11 +73790,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -75707,11 +74007,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -75926,13 +74221,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154829698?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829699?t=moteur_feed",
@@ -76077,11 +74366,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -76283,11 +74567,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -76471,13 +74750,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154830044?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830048?t=moteur_feed",
@@ -76623,11 +74896,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -76842,11 +75110,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -77047,11 +75310,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -77267,13 +75525,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154829879?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829880?t=moteur_feed",
@@ -77414,13 +75666,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154827919?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154827920?t=moteur_feed",
@@ -77566,11 +75812,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -77756,11 +75997,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -77978,11 +76214,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -78173,11 +76404,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -78382,13 +76608,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154829653?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829654?t=moteur_feed",
@@ -78533,11 +76753,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -78719,11 +76934,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -78910,11 +77120,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -79126,11 +77331,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -79346,13 +77546,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10152420143?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152420142?t=moteur_feed",
@@ -79493,11 +77687,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -79729,11 +77918,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -79883,11 +78067,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -80104,11 +78283,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -80539,13 +78713,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154829288?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829287?t=moteur_feed",
@@ -80690,11 +78858,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -80977,11 +79140,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -81266,11 +79424,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -81457,11 +79610,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -81642,11 +79790,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -82042,11 +80185,6 @@ export const DEFAULT_LISTINGS = [
         "raw": "Ordinateur de bord"
       },
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Limiteur de vitesse",
         "ar": "Limiteur de vitesse",
         "raw": "Limiteur de vitesse"
@@ -82219,11 +80357,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -82423,11 +80556,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -82669,11 +80797,6 @@ export const DEFAULT_LISTINGS = [
         "raw": "Fermeture centralisée"
       },
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Intérieur cuir",
         "ar": "Intérieur cuir",
         "raw": "Intérieur cuir"
@@ -82825,11 +80948,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -83031,11 +81149,6 @@ export const DEFAULT_LISTINGS = [
         "raw": "Ordinateur de bord"
       },
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Limiteur de vitesse",
         "ar": "Limiteur de vitesse",
         "raw": "Limiteur de vitesse"
@@ -83204,11 +81317,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Vitres électriques",
         "ar": "Vitres électriques",
         "raw": "Vitres électriques"
@@ -83366,11 +81474,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -83588,11 +81691,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -83703,7 +81801,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 20,000 km, Diesel, automatique transmission. Cupra Ateca in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Cupra Ateca طنجة حي اهلا 2025Tanger_phrase. Carburant: Diesel. Référence 657352 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦20,000 km⁩، مازوت، أوطوماتيك. طنجة حي اهلا. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -83808,11 +81906,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -87669,11 +85762,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -87888,11 +85976,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -88178,11 +86261,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -88333,11 +86411,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -88438,7 +86511,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2021, with 250 km, Diesel, manuelle transmission. Renault Express in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Renault Express الصخيرات الصخيرات 2021Skhirat_phrase. Carburant: Diesel. Référence 657364 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2021⁩، ضاربة ⁦250 km⁩، مازوت، مانييل. الصخيرات الصخيرات. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -88544,11 +86617,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -88637,7 +86705,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 93,000 km, Essence, manuelle transmission. Peugeot 208 in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Peugeot 208 208 سيارة بيجو 2019Marrakech_phrase. Carburant: Essence. Référence 657340 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦93,000 km⁩، ليصانص، مانييل. سيارة بيجو. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -88732,11 +86800,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -88933,11 +86996,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -89155,11 +87213,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -89345,11 +87398,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -89550,13 +87598,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154829812?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832488?t=moteur_feed",
@@ -89597,7 +87639,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "1990, with 300,000 km, Essence, manuelle transmission. Hyundai Tucson in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Hyundai Tucson بيع سيارة Suzuki 1990Tanger_phrase. Carburant: Essence. Référence 657345 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦1990⁩، ضاربة ⁦300,000 km⁩، ليصانص، مانييل. بيع سيارة Suzuki. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -89691,13 +87733,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154828457?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154828461?t=moteur_feed",
@@ -89885,11 +87921,6 @@ export const DEFAULT_LISTINGS = [
         "raw": "Ordinateur de bord"
       },
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Limiteur de vitesse",
         "ar": "Limiteur de vitesse",
         "raw": "Limiteur de vitesse"
@@ -90052,11 +88083,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -90251,11 +88277,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -90458,11 +88479,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Intérieur cuir",
         "ar": "Intérieur cuir",
         "raw": "Intérieur cuir"
@@ -90622,11 +88638,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -90976,11 +88987,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
@@ -91142,11 +89148,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Airbags",
         "ar": "Airbags",
@@ -91312,11 +89313,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -91591,11 +89587,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -91732,13 +89723,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10153903395?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153903392?t=moteur_feed",
@@ -91882,11 +89867,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -92167,11 +90147,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -92321,11 +90296,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -92586,11 +90556,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -92735,11 +90700,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -93020,11 +90980,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -93172,11 +91127,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -93368,11 +91318,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -93583,13 +91528,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154670416?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154670419?t=moteur_feed",
@@ -93724,13 +91663,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10153903290?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153903292?t=moteur_feed",
@@ -94007,11 +91940,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -94222,11 +92150,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -94474,11 +92397,6 @@ export const DEFAULT_LISTINGS = [
         "raw": "Ordinateur de bord"
       },
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Limiteur de vitesse",
         "ar": "Limiteur de vitesse",
         "raw": "Limiteur de vitesse"
@@ -94710,11 +92628,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -94863,13 +92776,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154839649?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154840080?t=moteur_feed",
@@ -95011,11 +92918,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -95196,11 +93098,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -95420,11 +93317,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -95620,11 +93512,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -95842,11 +93729,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -96054,11 +93936,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -96265,11 +94142,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -96487,11 +94359,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -96684,11 +94551,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -96906,11 +94768,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -97123,11 +94980,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -97345,11 +95197,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -97548,11 +95395,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -97720,11 +95562,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Jantes",
         "ar": "Jantes",
         "raw": "Jantes"
@@ -97873,11 +95710,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -98077,11 +95909,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -98295,11 +96122,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -98676,11 +96498,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -98830,11 +96647,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -99002,11 +96814,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -99219,11 +97026,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -99417,11 +97219,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -99687,11 +97484,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -99900,11 +97692,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       },
       {
         "en": "Intérieur cuir",
@@ -100133,11 +97920,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -100287,11 +98069,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -100508,11 +98285,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -100713,11 +98485,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -100818,7 +98585,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2002, with 280,000 km, Diesel, manuelle transmission. Mercedes-Benz Classe C in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Mercedes-Benz Classe C لمن يهمهم الأمر 2002Temara_phrase. Carburant: Diesel. Référence 657320 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2002⁩، ضاربة ⁦280,000 km⁩، مازوت، مانييل. لمن يهمهم الأمر. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -100923,11 +98690,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -101110,13 +98872,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152775438-192905.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152775439-440136.jpg",
@@ -101333,11 +99089,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -101486,11 +99237,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -101704,11 +99450,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -101911,11 +99652,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -102131,13 +99867,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10152142785?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152143721?t=moteur_feed",
@@ -102272,11 +100002,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -102483,11 +100208,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -102733,11 +100453,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -102887,11 +100602,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Airbags",
         "ar": "Airbags",
@@ -103059,13 +100769,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154826284?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154826286?t=moteur_feed",
@@ -103195,13 +100899,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10151782866?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10151782865?t=moteur_feed",
@@ -103347,11 +101045,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -103569,11 +101262,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -103759,11 +101447,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -103975,11 +101658,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -104083,7 +101761,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "1998, with 333,333 km, Diesel, manuelle transmission. Renault Megane in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Renault Megane طنجة حي العرفان بوخالف 1998Tanger_phrase. Carburant: Diesel. Référence 657308 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦1998⁩، ضاربة ⁦333,333 km⁩، مازوت، مانييل. طنجة حي العرفان بوخالف. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -104188,11 +101866,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
@@ -104418,11 +102091,6 @@ export const DEFAULT_LISTINGS = [
         "en": "CD / MP3 / Bluetooth",
         "ar": "CD / MP3 / Bluetooth",
         "raw": "CD / MP3 / Bluetooth"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -104572,11 +102240,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -104750,13 +102413,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10153605640?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153605641?t=moteur_feed",
@@ -104969,11 +102626,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -105123,11 +102775,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -105315,11 +102962,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -105530,13 +103172,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154825914?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825913?t=moteur_feed",
@@ -105678,11 +103314,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -105876,11 +103507,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -109701,11 +107327,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -109910,13 +107531,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10153934284?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153934285?t=moteur_feed",
@@ -110063,11 +107678,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -110135,7 +107745,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 230,000 km, Diesel, manuelle transmission. Hyundai Tucson in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Hyundai Tucson هيونداي توسون موديل 2019 بحالة ممتازة 2019Fes_phrase. Carburant: Diesel. Référence 651416 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦230,000 km⁩، مازوت، مانييل. هيونداي توسون موديل 2019 بحالة ممتازة. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -110406,11 +108016,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -110621,13 +108226,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10153710002?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152770012?t=moteur_feed",
@@ -110772,11 +108371,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -110960,11 +108554,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -111071,7 +108660,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2025, with 13,000 km, Diesel, manuelle transmission. Dacia Jogger in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Dacia Jogger Dacia jogger داسيا جوكير 2025Guelmim_phrase. Carburant: Diesel. Référence 657298 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2025⁩، ضاربة ⁦13,000 km⁩، مازوت، مانييل. داسيا جوكير. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -111176,11 +108765,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -111352,11 +108936,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -111574,11 +109153,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -111782,11 +109356,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -112003,11 +109572,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -112248,11 +109812,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Jantes",
         "ar": "Jantes",
         "raw": "Jantes"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -112297,7 +109856,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2009, with 187,000 km, Diesel, automatique transmission. Volkswagen Caddy in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Volkswagen Caddy سيارة ممتازة 2009Taza_phrase. Carburant: Diesel. Référence 657288 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2009⁩، ضاربة ⁦187,000 km⁩، مازوت، أوطوماتيك. سيارة ممتازة. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -112402,11 +109961,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -112623,11 +110177,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -112812,11 +110361,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -113011,11 +110555,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
@@ -113172,11 +110711,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -113387,11 +110921,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -113600,11 +111129,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -113820,11 +111344,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -114110,11 +111629,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -114323,11 +111837,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -114476,13 +111985,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154728056?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154728055?t=moteur_feed",
@@ -114625,11 +112128,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -114847,11 +112345,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -115065,11 +112558,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -115346,11 +112834,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Ordinateur de bord",
         "ar": "Ordinateur de bord",
         "raw": "Ordinateur de bord"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -115498,11 +112981,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -115720,11 +113198,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -115900,11 +113373,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -116114,11 +113582,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -116331,11 +113794,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -116546,11 +114004,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -116833,11 +114286,6 @@ export const DEFAULT_LISTINGS = [
         "raw": "Ordinateur de bord"
       },
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Intérieur cuir",
         "ar": "Intérieur cuir",
         "raw": "Intérieur cuir"
@@ -116989,11 +114437,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -117211,11 +114654,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -117419,11 +114857,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -117609,11 +115042,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -117829,11 +115257,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -118044,11 +115467,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -118298,11 +115716,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Limiteur de vitesse",
         "ar": "Limiteur de vitesse",
         "raw": "Limiteur de vitesse"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -118518,11 +115931,6 @@ export const DEFAULT_LISTINGS = [
         "raw": "Régulateur de vitesse"
       },
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Intérieur cuir",
         "ar": "Intérieur cuir",
         "raw": "Intérieur cuir"
@@ -118674,11 +116082,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -118959,11 +116362,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Limiteur de vitesse",
         "ar": "Limiteur de vitesse",
         "raw": "Limiteur de vitesse"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -119113,11 +116511,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -119320,11 +116713,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -119542,11 +116930,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -119717,11 +117100,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -119930,11 +117308,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -120195,11 +117568,6 @@ export const DEFAULT_LISTINGS = [
         "en": "CD / MP3 / Bluetooth",
         "ar": "CD / MP3 / Bluetooth",
         "raw": "CD / MP3 / Bluetooth"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -120349,11 +117717,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -120570,11 +117933,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -120775,11 +118133,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -121064,11 +118417,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -121284,11 +118632,6 @@ export const DEFAULT_LISTINGS = [
         "raw": "Fermeture centralisée"
       },
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Intérieur cuir",
         "ar": "Intérieur cuir",
         "raw": "Intérieur cuir"
@@ -121441,11 +118784,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -121731,11 +119069,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -121881,11 +119214,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "Climatisation",
         "ar": "Climatisation",
@@ -122118,11 +119446,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -122272,11 +119595,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -122492,13 +119810,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154771363?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154771364?t=moteur_feed",
@@ -122696,11 +120008,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       },
       {
         "en": "Jantes",
@@ -122999,11 +120306,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -123218,13 +120520,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154823757?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154823761?t=moteur_feed",
@@ -123370,11 +120666,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -123578,11 +120869,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -123772,11 +121058,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Jantes",
         "ar": "Jantes",
         "raw": "Jantes"
@@ -123923,11 +121204,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -124130,11 +121406,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -124303,11 +121574,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -124513,11 +121779,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -124781,11 +122042,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -124935,11 +122191,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -125221,11 +122472,6 @@ export const DEFAULT_LISTINGS = [
         "en": "Fermeture centralisée",
         "ar": "Fermeture centralisée",
         "raw": "Fermeture centralisée"
-      },
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
       }
     ],
     "images": [
@@ -125375,11 +122621,6 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
       {
         "en": "ABS",
         "ar": "ABS",
@@ -125576,11 +122817,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "Climatisation",
         "ar": "Climatisation",
         "raw": "Climatisation"
@@ -125762,11 +122998,6 @@ export const DEFAULT_LISTINGS = [
     ],
     "options": [
       {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      },
-      {
         "en": "ABS",
         "ar": "ABS",
         "raw": "ABS"
@@ -125877,7 +123108,7 @@ export const DEFAULT_LISTINGS = [
     ],
     "summary": {
       "en": "2019, with 85,000 km, Diesel, automatique transmission. Jeep Renegade in very good condition with regular servicing and careful ownership. Road-ready and in solid running order.",
-      "ar": "Découvrez l'annonce Jeep Renegade جيب رينيجاد 2019Rabat_phrase. Carburant: Diesel. Référence 657260 sur Moteur.ma."
+      "ar": "طوموبيل موديل ⁦2019⁩، ضاربة ⁦85,000 km⁩، مازوت، أوطوماتيك. جيب رينيجاد. حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة."
     },
     "features": [
       {
@@ -125981,13 +123212,7 @@ export const DEFAULT_LISTINGS = [
         }
       }
     ],
-    "options": [
-      {
-        "en": "État du véhicule",
-        "ar": "État du véhicule",
-        "raw": "État du véhicule"
-      }
-    ],
+    "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154823966?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154838641?t=moteur_feed",

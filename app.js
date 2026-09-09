@@ -212,6 +212,30 @@
     const roundKey = state.mode === 'motorbikes' ? 'roundBikes' : 'roundCars';
     ui.roundLabel.textContent = state.current < 5 ? t(roundKey, { n: state.current + 1 }) : t('complete');
   }
+  const preloadedUrls = new Set();
+  function preloadImage(url) {
+    if (!url || typeof url !== 'string' || !url.startsWith('https://') || preloadedUrls.has(url)) return;
+    preloadedUrls.add(url);
+    const img = new Image();
+    img.decoding = 'async';
+    img.src = url;
+  }
+  function preloadListingImages(item, limit = null) {
+    if (!item) return;
+    const images = listingImages(item);
+    const toPreload = limit ? images.slice(0, limit) : images;
+    toPreload.forEach(preloadImage);
+  }
+  function preloadGameImages(listings) {
+    if (!Array.isArray(listings) || !listings.length) return;
+    // Preload primary cover photo of all 5 rounds
+    listings.forEach((item) => {
+      const imgs = listingImages(item);
+      if (imgs[0]) preloadImage(imgs[0]);
+    });
+    // Fully preload first round photos for immediate display
+    if (listings[0]) preloadListingImages(listings[0]);
+  }
   function listingImages(item) {
     const candidates = Array.isArray(item.images) ? item.images : item.imageUrl ? [item.imageUrl] : [];
     return candidates.filter((image) => typeof image === 'string' && /^https:\/\//.test(image));
@@ -224,18 +248,35 @@
       ui.gallery.classList.add('hidden'); ui.imageActions.classList.add('hidden'); return;
     }
     state.imageIndex = ((state.imageIndex % images.length) + images.length) % images.length;
+    ui.image.loading = 'eager';
+    ui.image.decoding = 'async';
     ui.image.src = images[state.imageIndex]; ui.image.alt = localized(item.title);
     ui.image.classList.remove('hidden'); ui.fallback.classList.add('hidden'); ui.imageActions.classList.remove('hidden');
     ui.gallery.classList.toggle('hidden', images.length < 2);
     ui.imageCount.textContent = `${state.imageIndex + 1} / ${images.length}`;
     ui.previousImage.disabled = images.length < 2; ui.nextImage.disabled = images.length < 2;
+    if (images.length > 1) {
+      preloadImage(images[(state.imageIndex + 1) % images.length]);
+      preloadImage(images[((state.imageIndex - 1) % images.length + images.length) % images.length]);
+    }
   }
   function renderListing(item) {
     ui.title.textContent = localized(item.title);
     const isBike = item.kind === 'Moto' || item.kind === 'Motorbike';
     ui.kind.textContent = isBike ? t('bike') : t('car');
     ui.facts.innerHTML = (item.quickFacts || []).map((fact) => `<span dir="auto"><bdi>${escape(localized(fact))}</bdi></span>`).join('');
-    ui.summary.textContent = localized(item.summary);
+    let summaryText = localized(item.summary) || '';
+    if (/découvrez\s+l['’]annonce|moteur\.ma|_phrase|carburant\s*:/i.test(summaryText)) {
+      summaryText = summaryText
+        .replace(/^découvrez\s+l['’]annonce\s+.*?(?=[\u0600-\u06FF]|$)/i, '')
+        .replace(/\b\d{4}[A-Za-z]+_phrase\b\.?/gi, '')
+        .replace(/\bcarburant\s*:\s*[\w\s-]+\.?/gi, '')
+        .replace(/\bréférence\s*\d+\s*sur\s*moteur\.ma\.?/gi, '')
+        .replace(/\bsur\s*moteur\.ma\.?/gi, '')
+        .replace(/\s+/g, ' ')
+        .trim();
+    }
+    ui.summary.textContent = summaryText || localized(item.title) || '';
     ui.summary.setAttribute('dir', state.language === 'ar' ? 'rtl' : 'ltr');
     let featureEntries = Array.isArray(item.features) ? item.features.map((feature) => [feature.label, feature.value]) : Object.entries(item.features || {});
     
@@ -271,9 +312,20 @@
       }
     }
 
+    const visibleOptions = (item.options || []).filter((option) => {
+      const text = (option && typeof option === 'object' && !Array.isArray(option))
+        ? (option.raw || option.fr || option.en || option.ar || localized(option) || '')
+        : String(option ?? '');
+      const lower = text.toLowerCase().trim();
+      return !lower.includes('état du véhicule') &&
+             !lower.includes('etat du vehicule') &&
+             !lower.includes('حالة المركبة') &&
+             !lower.includes('حالة السيارة');
+    });
+
     ui.features.innerHTML = featureEntries.map(([label, value]) => `<div><dt dir="auto"><bdi>${escape(localized(label))}</bdi></dt><dd dir="auto"><bdi>${escape(localized(value))}</bdi></dd></div>`).join('');
-    ui.options.innerHTML = (item.options || []).length
-      ? item.options.map((option) => {
+    ui.options.innerHTML = visibleOptions.length
+      ? visibleOptions.map((option) => {
           const text = (option && typeof option === 'object' && !Array.isArray(option))
             ? (option.raw || option.fr || localized(option))
             : (option ?? '');
@@ -307,6 +359,12 @@
     ui.error.classList.add('hidden');
     renderDots(); renderListing(item); setScreen('game'); startTimer();
     window.setTimeout(() => ui.guess.focus(), 80);
+
+    // Preload remaining photos for the active listing and the upcoming round
+    preloadListingImages(item);
+    if (state.listings[state.current + 1]) {
+      preloadListingImages(state.listings[state.current + 1]);
+    }
   }
   function calculateDemo(item, guess) {
     const error = guess === null ? 1 : Math.abs(guess - item.price) / item.price;
@@ -589,6 +647,8 @@
     const images = item && listingImages(item);
     if (!images || !images.length) return;
     state.imageIndex = ((state.imageIndex % images.length) + images.length) % images.length;
+    ui.lightboxImage.loading = 'eager';
+    ui.lightboxImage.decoding = 'async';
     ui.lightboxImage.src = images[state.imageIndex];
     ui.lightboxImage.alt = localized(item.title);
     ui.lightboxCount.textContent = `${state.imageIndex + 1} / ${images.length}`;
@@ -596,6 +656,10 @@
     ui.lightboxNext.disabled = images.length < 2;
     ui.lightbox.classList.remove('is-zoomed');
     ui.lightboxZoom.setAttribute('aria-label', t('zoomIn'));
+    if (images.length > 1) {
+      preloadImage(images[(state.imageIndex + 1) % images.length]);
+      preloadImage(images[((state.imageIndex - 1) % images.length + images.length) % images.length]);
+    }
   }
   function toggleLightboxZoom() {
     ui.lightbox.classList.toggle('is-zoomed');
@@ -642,6 +706,7 @@
       state.listings = selectFive(pool); state.live = false;
       ui.dataNote.textContent = t('liveData');
     }
+    preloadGameImages(state.listings);
   }
   function setMode(mode) {
     if (state.mode === mode) return;

@@ -71,6 +71,14 @@ function sanitizeSummary(text) {
   // Remove calls to action
   cleaned = cleaned.replace(/(?:contactez[- ]moi|appelez|disponible sur whatsapp|tel|gsm|numéro)[\s\w:.]*/gi, '');
 
+  // Remove Moteur.ma SEO boilerplate
+  cleaned = cleaned
+    .replace(/^découvrez\s+l['’]annonce\s+.*?(?=[\u0600-\u06FF]|$)/i, '')
+    .replace(/\b\d{4}[A-Za-z]+_phrase\b\.?/gi, '')
+    .replace(/\bcarburant\s*:\s*[\w\s-]+\.?/gi, '')
+    .replace(/\bréférence\s*\d+\s*sur\s*moteur\.ma\.?/gi, '')
+    .replace(/\bsur\s*moteur\.ma\.?/gi, '');
+
   return cleanText(cleaned).slice(0, 350);
 }
 
@@ -200,12 +208,16 @@ export function parseMoteurHtml(html, sourceUrl) {
   }
 
   // 6. Options / Equipements
+  const isConditionOption = (str) => {
+    const s = str.toLowerCase();
+    return s.includes('état du véhicule') || s.includes('etat du vehicule') || s.includes('حالة المركبة') || s.includes('حالة السيارة');
+  };
   const rawOptions = [];
   $('h4').each((_, el) => {
     if ($(el).text().trim().toLowerCase().includes('option')) {
       $(el).parent().find('.row > div, li').each((_, optEl) => {
         const t = cleanText($(optEl).text());
-        if (t && t.length > 1 && t.length < 50 && !t.toLowerCase().includes('option') && !t.includes('propriétaire') && !rawOptions.includes(t)) {
+        if (t && t.length > 1 && t.length < 50 && !t.toLowerCase().includes('option') && !t.includes('propriétaire') && !isConditionOption(t) && !rawOptions.includes(t)) {
           rawOptions.push(t);
         }
       });
@@ -214,7 +226,7 @@ export function parseMoteurHtml(html, sourceUrl) {
   if (rawOptions.length === 0) {
     $('.options-list li, .equipements li, .equipement li, .options-block span').each((_, el) => {
       const opt = cleanText($(el).text());
-      if (opt && opt.length > 1 && opt.length < 50 && !rawOptions.includes(opt)) {
+      if (opt && opt.length > 1 && opt.length < 50 && !isConditionOption(opt) && !rawOptions.includes(opt)) {
         rawOptions.push(opt);
       }
     });

@@ -85,21 +85,39 @@ export function frenchToDarija(frenchText, meta = {}) {
     return generateDefaultDarija(meta);
   }
 
-  // Check if text already contains Arabic characters
-  if (/[\u0600-\u06FF]/.test(frenchText)) {
-    return frenchText.trim();
+  // Strip Moteur.ma SEO boilerplate if present
+  let text = frenchText;
+  const isBoilerplate = /découvrez\s+l['’]annonce|moteur\.ma|_phrase|carburant\s*:/i.test(text);
+  let extractedNote = '';
+  if (isBoilerplate) {
+    text = text
+      .replace(/^découvrez\s+l['’]annonce\s+.*?(?=[\u0600-\u06FF]|$)/i, '')
+      .replace(/\b\d{4}[A-Za-z]+_phrase\b\.?/gi, '')
+      .replace(/\bcarburant\s*:\s*[\w\s-]+\.?/gi, '')
+      .replace(/\bréférence\s*\d+\s*sur\s*moteur\.ma\.?/gi, '')
+      .replace(/\bsur\s*moteur\.ma\.?/gi, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (/[\u0600-\u06FF]/.test(text)) {
+      extractedNote = text;
+    }
+  }
+
+  // Check if text is clean standalone Arabic / Darija without French boilerplate
+  if (!isBoilerplate && /[\u0600-\u06FF]/.test(text) && !/[a-zA-Z]{4,}/.test(text)) {
+    return text.trim();
   }
 
   // Extract matched Darija bullet points from French description
   const matchedPoints = [];
   for (const { pattern, darija } of DARIJA_PHRASE_MAP) {
-    if (pattern.test(frenchText)) {
+    if (pattern.test(text)) {
       // Handle dynamic capture groups if any
-      const replaced = frenchText.match(pattern);
+      const replaced = text.match(pattern);
       if (replaced) {
         let textResult = darija;
         if (darija.includes('$1')) {
-          const match = pattern.exec(frenchText);
+          const match = pattern.exec(text);
           if (match && match[1]) {
             const rawCity = match[1].trim().toLowerCase();
             const darijaCity = CITY_DARIJA[rawCity] || match[1].trim();
@@ -119,23 +137,32 @@ export function frenchToDarija(frenchText, meta = {}) {
   // Opening
   if (meta.year || meta.fuel || meta.transmission) {
     const specs = [];
-    if (meta.year) specs.push(`موديل \u2066${meta.year}\u2069`);
-    if (meta.mileage) specs.push(`ضاربة \u2066${meta.mileage}\u2069`);
-    if (meta.fuel) {
+    if (meta.year && meta.year !== 'N/A') specs.push(`موديل \u2066${meta.year}\u2069`);
+    if (meta.mileage && meta.mileage !== 'N/A' && meta.mileage !== '0 km') specs.push(`ضاربة \u2066${meta.mileage}\u2069`);
+    if (meta.fuel && meta.fuel !== 'N/A') {
       const f = meta.fuel.toLowerCase();
       if (f.includes('diesel')) specs.push('مازوت');
-      else if (f.includes('essence')) specs.push('ليصانص');
-      else if (f.includes('hybride')) specs.push('هايبريد');
-      else if (f.includes('électrique')) specs.push('إلكتريك');
+      else if (f.includes('essence') || f.includes('petrol')) specs.push('ليصانص');
+      else if (f.includes('hybride') || f.includes('hybrid')) specs.push('هايبريد');
+      else if (f.includes('électrique') || f.includes('electric')) specs.push('إلكتريك');
     }
-    if (meta.transmission) {
+    if (meta.transmission && meta.transmission !== 'N/A') {
       const t = meta.transmission.toLowerCase();
       if (t.includes('auto')) specs.push('أوطوماتيك');
-      else if (t.includes('manuel')) specs.push('مانييل');
+      else if (t.includes('manuel') || t.includes('manual')) specs.push('مانييل');
     }
-    parts.push(`${vehicleWord} ${specs.join('، ')}.`);
+    if (specs.length) {
+      parts.push(`${vehicleWord} ${specs.join('، ')}.`);
+    } else {
+      parts.push(`${vehicleWord} نقية وبحالة مزيانة.`);
+    }
   } else {
     parts.push(`${vehicleWord} نقية وبحالة مزيانة.`);
+  }
+
+  // Add extracted Arabic note if found from seller
+  if (extractedNote && extractedNote.length > 2) {
+    parts.push(`${extractedNote}.`);
   }
 
   // Add extracted highlights

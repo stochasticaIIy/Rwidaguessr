@@ -28,6 +28,43 @@ function sanitizeListingFeatures(item) {
   });
 }
 
+function sanitizeListingOptions(item) {
+  if (!Array.isArray(item.options)) return [];
+  return item.options.filter((opt) => {
+    const raw = (opt && typeof opt === 'object' ? (opt.raw || opt.fr || opt.en || opt.ar || '') : String(opt || '')).toLowerCase().trim();
+    if (raw.includes('état du véhicule') || raw.includes('etat du vehicule') || raw.includes('حالة المركبة') || raw.includes('حالة السيارة')) {
+      return false;
+    }
+    return true;
+  });
+}
+
+function sanitizeListingSummary(item) {
+  if (!item.summary) return item.summary;
+  const cleanStr = (str) => {
+    if (!str || typeof str !== 'string') return str;
+    if (!/découvrez\s+l['’]annonce|moteur\.ma|_phrase|carburant\s*:/i.test(str)) return str;
+    let cleaned = str
+      .replace(/^découvrez\s+l['’]annonce\s+.*?(?=[\u0600-\u06FF]|$)/i, '')
+      .replace(/\b\d{4}[A-Za-z]+_phrase\b\.?/gi, '')
+      .replace(/\bcarburant\s*:\s*[\w\s-]+\.?/gi, '')
+      .replace(/\bréférence\s*\d+\s*sur\s*moteur\.ma\.?/gi, '')
+      .replace(/\bsur\s*moteur\.ma\.?/gi, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+    return cleaned || (item.title && (item.title.ar || item.title.en)) || '';
+  };
+
+  if (typeof item.summary === 'string') {
+    return cleanStr(item.summary);
+  }
+  return {
+    ...item.summary,
+    ar: cleanStr(item.summary.ar),
+    en: cleanStr(item.summary.en)
+  };
+}
+
 export async function onRequestGet({ request, env = {} }) {
   const signingSecret = env.GAME_SIGNING_SECRET || env.APP_SECRET || FALLBACK_SECRET;
   let listings = DEFAULT_LISTINGS;
@@ -61,7 +98,9 @@ export async function onRequestGet({ request, env = {} }) {
     const payload = base64url(new TextEncoder().encode(JSON.stringify({ id: publicListing.id, expiresAt })));
     return {
       ...publicListing,
+      summary: sanitizeListingSummary(publicListing),
       features: sanitizeListingFeatures(publicListing),
+      options: sanitizeListingOptions(publicListing),
       token: `${payload}.${await sign(payload, signingSecret)}`
     };
   }));
