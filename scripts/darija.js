@@ -6,14 +6,14 @@
 const DARIJA_PHRASE_MAP = [
   // Condition & accident status
   { pattern: /\b(?:jamais\s+accident[ée]e?|non\s+accident[ée]e?|sans\s+accident|pas\s+d['’]accident)\b/gi, darija: 'عمرها دارت كسيدة' },
-  { pattern: /\b(?:peinture\s+d['’]origine|peinture\s+originale)\b/gi, darija: 'صباغة الدار الأصلية' },
+  { pattern: /\b(?:peinture\s+d['’]origine|peinture\s+originale)\b/gi, darija: 'صباغة لاميزون الأصلية' },
   { pattern: /\b(?:en\s+tr[èe]s\s+bon\s+[ée]tat|tr[èe]s\s+bon\s+[ée]tat|excellent\s+[ée]tat|[ée]tat\s+irr[ée]prochable|[ée]tat\s+neuf)\b/gi, darija: 'حالة ممتازة ونقية بزاف' },
   { pattern: /\b(?:bon\s+[ée]tat|propre|tr[èe]s\s+propre)\b/gi, darija: 'نقية وبحالة مزيانة' },
   
   // Ownership & maintenance
-  { pattern: /\b(?:premi[èe]re\s+main|1[èe]re\s+main|1ere\s+main)\b/gi, darija: 'اليد الأولى' },
-  { pattern: /\b(?:deuxi[èe]me\s+main|2[èe]me\s+main|2eme\s+main)\b/gi, darija: 'اليد الثانية' },
-  { pattern: /\b(?:carnet\s+d['’]entretien(?:\s+[àa]\s+jour)?|entretien\s+(?:maison|[àa]\s+la\s+maison))\b/gi, darija: 'لونتروتيان ديالها متبع فالدار وبالكارني' },
+  { pattern: /\b(?:premi[èe]re\s+main|1[èe]re\s+main|1ere\s+main)\b/gi, darija: 'بروميار مان' },
+  { pattern: /\b(?:deuxi[èe]me\s+main|2[èe]me\s+main|2eme\s+main)\b/gi, darija: 'دوزيام مان' },
+  { pattern: /\b(?:carnet\s+d['’]entretien(?:\s+[àa]\s+jour)?|entretien\s+(?:maison|[àa]\s+la\s+maison))\b/gi, darija: 'صيانة دورية ومنتظمة' },
   { pattern: /\b(?:aucun\s+frais\s+[àa]\s+pr[ée]voir|rien\s+[àa]\s+pr[ée]voir)\b/gi, darija: 'ما كاين حتى مصاريف، ركب وسير' },
   { pattern: /\b(?:vidange\s+(?:faite|r[ée]cente|effectu[ée]e)|entretien\s+r[ée]cent)\b/gi, darija: 'لافيدونج عاد تدارت جديدة' },
   { pattern: /\b(?:faible\s+kilom[ée]trage|peu\s+roul[ée]e?)\b/gi, darija: 'ضاربة كيلومتراج قليل' },
@@ -26,13 +26,11 @@ const DARIJA_PHRASE_MAP = [
   { pattern: /\b(?:salon\s+tr[èe]s\s+propre|int[ée]rieur\s+tr[èe]s\s+propre|int[ée]rieur\s+comme\s+neuf)\b/gi, darija: 'صالون نقي بزاف بحال جديد' },
   { pattern: /\b(?:toit\s+panoramique|toit\s+ouvrant)\b/gi, darija: 'طوا بانوراميك « toit panoramique »' },
   { pattern: /\b(?:climatisation\s+marche|clim\s+marche|climatisation\s+auto)\b/gi, darija: 'كليما خدامة مزيان' },
-  { pattern: /\b(?:cam[ée]ra\s+de\s+recul)\b/gi, darija: 'كاميرا دو روكول' },
-  { pattern: /\b(?:jantes\s+alu(?:minium)?|jantes\s+alliage)\b/gi, darija: 'جوانط ألو' },
   { pattern: /\b(?:bo[îi]te\s+automatique|bva)\b/gi, darija: 'بواط أوطوماتيك' },
   { pattern: /\b(?:bo[îi]te\s+manuelle)\b/gi, darija: 'بواط مانييل' },
   
   // Registration & paperwork
-  { pattern: /\b(?:d[ée]douan[ée]e?(?:\s+en\s+\d{4})?)\b/gi, darija: 'ديوانية ووريقاتها ناضيين' },
+  { pattern: /\b(?:d[ée]douan[ée]e?(?:\s+en\s+\d{4})?)\b/gi, darija: 'ديوانة ووريقاتها ناضيين' },
   { pattern: /\b(?:vignette\s+pay[ée]e|vignette\s+\d{4}\s+pay[ée]e)\b/gi, darija: 'لافينييت مخلصة' },
   { pattern: /\b(?:visite\s+technique\s+[àa]\s+jour|visite\s+[àa]\s+jour)\b/gi, darija: 'لافيزيت تكنيك باقا صالحة' },
 
@@ -144,7 +142,7 @@ export function frenchToDarija(frenchText, meta = {}) {
   if (matchedPoints.length > 0) {
     parts.push(matchedPoints.join('، ') + '.');
   } else {
-    parts.push('حالة ممتازة وجاهزة للطريق، الصيانة متبعة وما خاصها حتى مصاريف زايدة.');
+    parts.push('حالة ممتازة وجاهزة للطريق، الصيانة دورية ومنتظمة وما خاصها حتى مصاريف زايدة.');
   }
 
   // City availability if known
@@ -165,7 +163,7 @@ function generateDefaultDarija(meta = {}) {
   const parts = [`${vehicleWord} نقية وبحالة ممتازة.`];
   if (meta.year) parts.push(`موديل ${meta.year}`);
   if (meta.mileage) parts.push(`ضاربة ${meta.mileage}`);
-  parts.push('جاهزة للطريق والصيانة متبعة وما خاصها حتى مصاريف.');
+  parts.push('جاهزة للطريق والصيانة دورية ومنتظمة وما خاصها حتى مصاريف.');
   if (meta.city) {
     const rawCity = meta.city.trim().toLowerCase();
     const city = CITY_DARIJA[rawCity] || meta.city;
