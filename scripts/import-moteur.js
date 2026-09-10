@@ -372,6 +372,30 @@ export function parseMoteurHtml(html, sourceUrl) {
   const summaryEn = frenchToEnglish(summaryFr, metaSummary);
   const summaryDarija = frenchToDarija(summaryFr, metaSummary);
 
+  const PRICE_REGEX = /(?:💰|prix|ثمن|tarif|vendu|cout|coût)?\s*[:=]?\s*\d{1,3}(?:[\s.,]\d{3})*\s*(?:dh|mad|dhs|درهم|د\.م|مليون|سنتيم)\b|(?:prix|ثمن)\s*[:=]?\s*[\d\s.,*]+(?:\b|dh|درهم)|(?:prix\s*fixe|prix\s*n[ée]gociable|prix\s*[àa]\s*d[ée]battre|bon\s*prix|ثمن\s*مناسب|قابل\s*للتفاوض|الثمن\s*التالي)|(?:الضريبة|ضريبة)\s*[:=]?\s*\d+\s*(?:dh|درهم)?/gi;
+  const hadPrice = PRICE_REGEX.test(summaryFr);
+  const cleanedSummaryFr = summaryFr.replace(PRICE_REGEX, '').replace(/\s+/g, ' ').trim();
+
+  const isTooShort = cleanedSummaryFr.length < 40;
+  const isTooLong = cleanedSummaryFr.length > 200;
+
+  let summaryObj;
+  if (hadPrice || isTooShort || isTooLong) {
+    summaryObj = {
+      original: summaryDarija,
+      ar: summaryDarija,
+      en: summaryEn,
+      usedDarija: true
+    };
+  } else {
+    summaryObj = {
+      original: cleanedSummaryFr,
+      ar: cleanedSummaryFr,
+      en: cleanedSummaryFr,
+      usedDarija: false
+    };
+  }
+
   return {
     id,
     kind,
@@ -381,10 +405,7 @@ export function parseMoteurHtml(html, sourceUrl) {
     },
     price,
     quickFacts,
-    summary: {
-      en: summaryEn,
-      ar: summaryDarija
-    },
+    summary: summaryObj,
     features,
     options,
     images: rawImages.slice(0, 10),

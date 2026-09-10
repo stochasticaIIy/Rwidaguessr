@@ -1,20 +1,21 @@
 import fs from 'fs';
 import * as cheerio from 'cheerio';
 import { localizeTerm } from './dictionary.js';
+import { generateEnrichedSummary } from './darija.js';
 
 const list = JSON.parse(fs.readFileSync('data/listings.imported.json', 'utf8'));
 console.log(`Starting update of ${list.length} listings...`);
 
-function cleanAndSummarizeSpecRapides(rawDescription, rawTitle) {
+const PRICE_REGEX = /(?:💰|prix|ثمن|tarif|vendu|cout|coût)?\s*[:=]?\s*\d{1,3}(?:[\s.,]\d{3})*\s*(?:dh|mad|dhs|درهم|د\.م|مليون|سنتيم)\b|(?:prix|ثمن)\s*[:=]?\s*[\d\s.,*]+(?:\b|dh|درهم)|(?:prix\s*fixe|prix\s*n[ée]gociable|prix\s*[àa]\s*d[ée]battre|bon\s*prix|ثمن\s*مناسب|قابل\s*للتفاوض|الثمن\s*التالي)|(?:الضريبة|ضريبة)\s*[:=]?\s*\d+\s*(?:dh|درهم)?/gi;
+
+function getSummaryForItem(rawDescription, item) {
+  const rawTitle = (item.title && (item.title.en || item.title.ar)) || '';
   if (!rawDescription || !rawDescription.trim()) {
-    return `${rawTitle} en bon état général, disponible pour visite.`;
+    const darija = generateEnrichedSummary(item);
+    return { original: darija.ar, ar: darija.ar, en: darija.en, usedDarija: true };
   }
   let text = rawDescription
     .replace(/\r\n/g, '\n')
-    // Remove prices like 140,000 DH or 140 000 درهم or Prix : 150000
-    .replace(/(?:💰|prix|ثمن|tarif)?\s*[:=]?\s*\d{1,3}(?:[\s.,]\d{3})*\s*(?:dh|mad|dhs|درهم|مليون|سنتيم)\b/gi, '')
-    .replace(/(?:prix|ثمن)\s*[:=]?\s*[\d\s.,]+(?:\b|dh|درهم)/gi, '')
-    .replace(/(?:prix\s*fixe|prix\s*n[ée]gociable|prix\s*[àa]\s*d[ée]battre|ثمن\s*مناسب|قابل\s*للتفاوض)/gi, '')
     // Remove phone numbers and emails
     .replace(/(?:\+?212|0)[5-7](?:[\s.-]?\d{2}){4}/g, '')
     .replace(/(?:\+?212|0)[5-7]\d{8}/g, '')
@@ -27,28 +28,16 @@ function cleanAndSummarizeSpecRapides(rawDescription, rawTitle) {
     .replace(/\n\s*\n+/g, '\n')
     .trim();
 
-  // If section is very long (> 220 chars), summarize it cleanly in its original language
-  if (text.length > 220) {
-    const rawLines = text.split(/\n|(?<=[.!?])\s+/).map(l => l.trim()).filter(Boolean);
-    const informativeLines = rawLines.filter(l => {
-      const lower = l.toLowerCase();
-      if (/^[-•*]?\s*(marque|modèle|modele|carburant|boite|boîte|puissance|année|annee|kilométrage|kilometrage)/i.test(lower)) return false;
-      if (lower.includes('المسافة') || lower.includes('الوقود') || lower.includes('علبة السرعات') || lower.includes('سنة الصنع')) return false;
-      return true;
-    });
+  const hadPrice = PRICE_REGEX.test(text);
+  text = text.replace(PRICE_REGEX, '').replace(/\s+/g, ' ').trim();
 
-    if (informativeLines.length > 0) {
-      text = informativeLines.slice(0, 3).join('. ');
-      if (!text.endsWith('.')) text += '.';
-    } else {
-      text = rawLines.slice(0, 2).join('. ') + '.';
-    }
-    if (text.length > 240) {
-      text = text.slice(0, 230).replace(/[,;:\s]+[^\s.]*$/, '') + '…';
-    }
+  // If too short (< 40), too long (> 200), or had price clues: fall back to the Darija summary
+  if (hadPrice || text.length < 40 || text.length > 200) {
+    const darija = generateEnrichedSummary(item);
+    return { original: darija.ar, ar: darija.ar, en: darija.en, usedDarija: true };
   }
 
-  return text || `${rawTitle} en bon état général, disponible pour visite.`;
+  return { original: text, ar: text, en: text, usedDarija: false };
 }
 
 function getGearboxForItem(item) {
@@ -139,13 +128,8 @@ async function run() {
       const isBike = (item.kind || '').toLowerCase().includes('moto') || (item.kind || '').toLowerCase().includes('bike');
       const rawTitle = (item.title && (item.title.en || item.title.ar)) || '';
 
-      // 1. Spécifications rapides (original language, sanitized & summarized if long)
-      const cleanSummary = cleanAndSummarizeSpecRapides(specRapides, rawTitle);
-      item.summary = {
-        en: cleanSummary,
-        ar: cleanSummary,
-        original: cleanSummary
-      };
+      // 1. Spécifications rapides (original language, or Darija if too short/long/has price)
+      item.summary = getSummaryForItem(specRapides, item);
 
       // 2. Customs status (Statut de douane)
       let customsVal = { en: 'Dédouanée', ar: 'مجمركة' };

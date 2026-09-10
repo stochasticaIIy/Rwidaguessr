@@ -317,17 +317,41 @@
       .map((fact) => `<span dir="auto"><bdi>${escape(localized(fact))}</bdi></span>`)
       .join('');
 
-    let summaryText = (typeof item.summary === 'object' && item.summary ? (item.summary.original || item.summary[state.language] || item.summary.en || item.summary.fr || localized(item.summary)) : item.summary) || '';
-    if (/découvrez\s+l['’]annonce|moteur\.ma|_phrase|carburant\s*:/i.test(summaryText)) {
-      summaryText = summaryText
-        .replace(/^découvrez\s+l['’]annonce\s+.*?(?=[\u0600-\u06FF]|$)/i, '')
-        .replace(/\b\d{4}[A-Za-z]+_phrase\b\.?/gi, '')
-        .replace(/\bcarburant\s*:\s*[\w\s-]+\.?/gi, '')
-        .replace(/\bréférence\s*\d+\s*sur\s*moteur\.ma\.?/gi, '')
-        .replace(/\bsur\s*moteur\.ma\.?/gi, '')
-        .replace(/\s+/g, ' ')
-        .trim();
+    const PRICE_SCRUB_REGEX = /(?:💰|prix|ثمن|tarif|vendu|cout|coût)?\s*[:=]?\s*\d{1,3}(?:[\s.,]\d{3})*\s*(?:dh|mad|dhs|درهم|د\.م|مليون|سنتيم)\b|(?:prix|ثمن)\s*[:=]?\s*[\d\s.,*]+(?:\b|dh|درهم)|(?:prix\s*fixe|prix\s*n[ée]gociable|prix\s*[àa]\s*d[ée]battre|bon\s*prix|ثمن\s*مناسب|قابل\s*للتفاوض|الثمن\s*التالي)|(?:الضريبة|ضريبة)\s*[:=]?\s*\d+\s*(?:dh|درهم)?/gi;
+
+    let summaryText = '';
+    if (typeof item.summary === 'object' && item.summary) {
+      if (item.summary.usedDarija) {
+        summaryText = (state.language === 'ar' ? (item.summary.ar || item.summary.original) : (item.summary.en || item.summary.original)) || '';
+      } else {
+        summaryText = item.summary.original || item.summary[state.language] || item.summary.en || item.summary.fr || '';
+      }
+    } else {
+      summaryText = String(item.summary || '');
     }
+
+    // Clean boilerplates and strictly scrub any price mentions
+    summaryText = summaryText
+      .replace(/^découvrez\s+l['’]annonce\s+.*?(?=[\u0600-\u06FF]|$)/i, '')
+      .replace(/\b\d{4}[A-Za-z]+_phrase\b\.?/gi, '')
+      .replace(/\bcarburant\s*:\s*[\w\s-]+\.?/gi, '')
+      .replace(/\bréférence\s*\d+\s*sur\s*moteur\.ma\.?/gi, '')
+      .replace(/\bsur\s*moteur\.ma\.?/gi, '')
+      .replace(PRICE_SCRUB_REGEX, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+
+    // If "Spécifications rapides" is too long (> 200 chars) or too short (< 40 chars), use the Darija summary
+    if ((summaryText.length < 40 || summaryText.length > 200) && item.summary && typeof item.summary === 'object') {
+      const fallback = state.language === 'ar'
+        ? (item.summary.ar || item.summary.original || '')
+        : (item.summary.en || item.summary.original || item.summary.ar || '');
+      const cleanedFallback = fallback.replace(PRICE_SCRUB_REGEX, '').trim();
+      if (cleanedFallback && cleanedFallback.length >= 25) {
+        summaryText = cleanedFallback;
+      }
+    }
+
     ui.summary.textContent = summaryText || formatTitleWithYear(item) || '';
     const isArabicSummary = /[\u0600-\u06FF]/.test(summaryText);
     ui.summary.setAttribute('dir', isArabicSummary ? 'rtl' : 'ltr');

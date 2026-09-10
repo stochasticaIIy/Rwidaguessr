@@ -27,9 +27,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Audi Q3 de 2020 en très bon état, première main.. - Type de carburant : Diesel. - Origine : WW au Maroc.",
-      "ar": "Je vends une Audi Q3 de 2020 en très bon état, première main.. - Type de carburant : Diesel. - Origine : WW au Maroc.",
-      "original": "Je vends une Audi Q3 de 2020 en très bon état, première main.. - Type de carburant : Diesel. - Origine : WW au Maroc."
+      "original": "Je vends une Audi Q3 de 2020 en très bon état, première main.. - Type de . - Origine : WW au Maroc.",
+      "ar": "Je vends une Audi Q3 de 2020 en très bon état, première main.. - Type de . - Origine : WW au Maroc.",
+      "en": "Je vends une Audi Q3 de 2020 en très bon état, première main.. - Type de . - Origine : WW au Maroc.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -173,9 +174,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Honda Accord Diesel Manuelle de 2012, en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "Honda Accord Diesel Manuelle de 2012, en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "Honda Accord Diesel Manuelle de 2012, en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "Honda Accord Diesel Manuelle de 2012, en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "Honda Accord Diesel Manuelle de 2012, en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -392,9 +394,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma voiture Ford kuga diesel automatique titanium la tout option. Ma voiture 1er main et en très très bonne état et faible kilométrage pour plus d’informations . Miss circulation fin 2021/10",
-      "ar": "Je mets en vente ma voiture Ford kuga diesel automatique titanium la tout option. Ma voiture 1er main et en très très bonne état et faible kilométrage pour plus d’informations . Miss circulation fin 2021/10",
-      "original": "Je mets en vente ma voiture Ford kuga diesel automatique titanium la tout option. Ma voiture 1er main et en très très bonne état et faible kilométrage pour plus d’informations . Miss circulation fin 2021/10"
+      "original": "سيارة واسعة ومجهزة مزيان، صالحة للعائلة والرحلات الطويلة بلا عياء. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "سيارة واسعة ومجهزة مزيان، صالحة للعائلة والرحلات الطويلة بلا عياء. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Practical, spacious SUV perfectly suited for both daily family routines and long Moroccan road trips. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -609,9 +612,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une BMW Série 4 Cabriolet en très bon état.. - Origine : WW au Maroc. - Première main : Oui.",
+      "original": "Je vends une BMW Série 4 Cabriolet en très bon état.. - Origine : WW au Maroc. - Première main : Oui.",
       "ar": "Je vends une BMW Série 4 Cabriolet en très bon état.. - Origine : WW au Maroc. - Première main : Oui.",
-      "original": "Je vends une BMW Série 4 Cabriolet en très bon état.. - Origine : WW au Maroc. - Première main : Oui."
+      "en": "Je vends une BMW Série 4 Cabriolet en très bon état.. - Origine : WW au Maroc. - Première main : Oui.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -805,9 +809,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "excellent état \nvidange toujours a la maison VWG\n90000 km",
-      "ar": "excellent état \nvidange toujours a la maison VWG\n90000 km",
-      "original": "excellent état \nvidange toujours a la maison VWG\n90000 km"
+      "original": "excellent état vidange toujours a la maison VWG 90000 km",
+      "ar": "excellent état vidange toujours a la maison VWG 90000 km",
+      "en": "excellent état vidange toujours a la maison VWG 90000 km",
+      "usedDarija": false
     },
     "features": [
       {
@@ -1022,9 +1027,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture en exéllent état\nJamais Accidentée\n2 Clés Originaux",
-      "ar": "Voiture en exéllent état\nJamais Accidentée\n2 Clés Originaux",
-      "original": "Voiture en exéllent état\nJamais Accidentée\n2 Clés Originaux"
+      "original": "Voiture en exéllent état Jamais Accidentée 2 Clés Originaux",
+      "ar": "Voiture en exéllent état Jamais Accidentée 2 Clés Originaux",
+      "en": "Voiture en exéllent état Jamais Accidentée 2 Clés Originaux",
+      "usedDarija": false
     },
     "features": [
       {
@@ -1237,9 +1243,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Tiguan R-Line intérieur et extérieur 150 Cho\nmatricul Rabat. 1/و\nmodèle : 2018\nDédouanement : 2022\nkilométrage : 180.000 km\ntoute option : angle mort / ACC/ Line assiste",
-      "ar": "Tiguan R-Line intérieur et extérieur 150 Cho\nmatricul Rabat. 1/و\nmodèle : 2018\nDédouanement : 2022\nkilométrage : 180.000 km\ntoute option : angle mort / ACC/ Line assiste",
-      "original": "Tiguan R-Line intérieur et extérieur 150 Cho\nmatricul Rabat. 1/و\nmodèle : 2018\nDédouanement : 2022\nkilométrage : 180.000 km\ntoute option : angle mort / ACC/ Line assiste"
+      "original": "Tiguan R-Line intérieur et extérieur 150 Cho matricul Rabat. 1/و modèle : 2018 Dédouanement : 2022 kilométrage : 180.000 km toute option : angle mort / ACC/ Line assiste",
+      "ar": "Tiguan R-Line intérieur et extérieur 150 Cho matricul Rabat. 1/و modèle : 2018 Dédouanement : 2022 kilométrage : 180.000 km toute option : angle mort / ACC/ Line assiste",
+      "en": "Tiguan R-Line intérieur et extérieur 150 Cho matricul Rabat. 1/و modèle : 2018 Dédouanement : 2022 kilométrage : 180.000 km toute option : angle mort / ACC/ Line assiste",
+      "usedDarija": false
     },
     "features": [
       {
@@ -1451,9 +1458,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma Nissan 370z manuelle, la voiture est dans un état impeccable! uniquement au passionnés. Une voiture qui offre des sensations fortes et un véritable plaisir de conduite.",
+      "original": "Je mets en vente ma Nissan 370z manuelle, la voiture est dans un état impeccable! uniquement au passionnés. Une voiture qui offre des sensations fortes et un véritable plaisir de conduite.",
       "ar": "Je mets en vente ma Nissan 370z manuelle, la voiture est dans un état impeccable! uniquement au passionnés. Une voiture qui offre des sensations fortes et un véritable plaisir de conduite.",
-      "original": "Je mets en vente ma Nissan 370z manuelle, la voiture est dans un état impeccable! uniquement au passionnés. Une voiture qui offre des sensations fortes et un véritable plaisir de conduite."
+      "en": "Je mets en vente ma Nissan 370z manuelle, la voiture est dans un état impeccable! uniquement au passionnés. Une voiture qui offre des sensations fortes et un véritable plaisir de conduite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -1585,9 +1593,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيارة نيسان قاشقاي موديل 2015 بحالة ممتازة.. - محرك 2 لتر 4x4 أوتوماتيك.. - وقود ديزل، 8 خيول ضريبية.",
+      "original": "أعرض للبيع سيارة نيسان قاشقاي موديل 2015 بحالة ممتازة.. - محرك 2 لتر 4x4 أوتوماتيك.. - وقود ديزل، 8 خيول ضريبية.",
       "ar": "أعرض للبيع سيارة نيسان قاشقاي موديل 2015 بحالة ممتازة.. - محرك 2 لتر 4x4 أوتوماتيك.. - وقود ديزل، 8 خيول ضريبية.",
-      "original": "أعرض للبيع سيارة نيسان قاشقاي موديل 2015 بحالة ممتازة.. - محرك 2 لتر 4x4 أوتوماتيك.. - وقود ديزل، 8 خيول ضريبية."
+      "en": "أعرض للبيع سيارة نيسان قاشقاي موديل 2015 بحالة ممتازة.. - محرك 2 لتر 4x4 أوتوماتيك.. - وقود ديزل، 8 خيول ضريبية.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -1797,9 +1806,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "fiat punto 2009 à vendre",
-      "ar": "fiat punto 2009 à vendre",
-      "original": "fiat punto 2009 à vendre"
+      "original": "طوموبيل عملية ومريحة، ما كتاكل والو فـ الطريق ومحافظ عليها مولاها. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل عملية ومريحة، ما كتاكل والو فـ الطريق ومحافظ عليها مولاها. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Reliable, cost-effective daily driver built for endurance with widely available parts and low operating costs. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -1933,9 +1943,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Vespa comme Neuf \n07/2026 \n900 KM",
-      "ar": "Vespa comme Neuf \n07/2026 \n900 KM",
-      "original": "Vespa comme Neuf \n07/2026 \n900 KM"
+      "original": "سكوتر كلاس وخفيف فـ الزحام، تبارك الله كينقز فـ الدورة وراحة فـ السوگان اليومي. باقا بحال يلا عاد خارجة من لا ميزون. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "سكوتر كلاس وخفيف فـ الزحام، تبارك الله كينقز فـ الدورة وراحة فـ السوگان اليومي. باقا بحال يلا عاد خارجة من لا ميزون. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Agile, stylish modern scooter designed for effortless city commuting and low running costs. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -2058,9 +2069,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "HONDA ADV | 350cc | Année 2026 | 00 KM | Importé Neuf | immatriculé à Rabat\nGarantie 6 mois \nFinancement a travers les organismes de crédit. \nFacture Possible",
-      "ar": "HONDA ADV | 350cc | Année 2026 | 00 KM | Importé Neuf | immatriculé à Rabat\nGarantie 6 mois \nFinancement a travers les organismes de crédit. \nFacture Possible",
-      "original": "HONDA ADV | 350cc | Année 2026 | 00 KM | Importé Neuf | immatriculé à Rabat\nGarantie 6 mois \nFinancement a travers les organismes de crédit. \nFacture Possible"
+      "original": "HONDA ADV | 350cc | Année 2026 | 00 KM | Importé Neuf | immatriculé à Rabat Garantie 6 mois Financement a travers les organismes de crédit. Facture Possible",
+      "ar": "HONDA ADV | 350cc | Année 2026 | 00 KM | Importé Neuf | immatriculé à Rabat Garantie 6 mois Financement a travers les organismes de crédit. Facture Possible",
+      "en": "HONDA ADV | 350cc | Année 2026 | 00 KM | Importé Neuf | immatriculé à Rabat Garantie 6 mois Financement a travers les organismes de crédit. Facture Possible",
+      "usedDarija": false
     },
     "features": [
       {
@@ -2225,9 +2237,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "2018 Harley-Davidson Street Rod XG750A | 22.000 KM | 750 \n68–70 horsepower @ 9,000 RPM and 64–65 Nm of torque @ 4,000 RPM.",
-      "ar": "2018 Harley-Davidson Street Rod XG750A | 22.000 KM | 750 \n68–70 horsepower @ 9,000 RPM and 64–65 Nm of torque @ 4,000 RPM.",
-      "original": "2018 Harley-Davidson Street Rod XG750A | 22.000 KM | 750 \n68–70 horsepower @ 9,000 RPM and 64–65 Nm of torque @ 4,000 RPM."
+      "original": "2018 Harley-Davidson Street Rod XG750A | 22.000 KM | 750 68–70 horsepower @ 9,000 RPM and 64–65 Nm of torque @ 4,000 RPM.",
+      "ar": "2018 Harley-Davidson Street Rod XG750A | 22.000 KM | 750 68–70 horsepower @ 9,000 RPM and 64–65 Nm of torque @ 4,000 RPM.",
+      "en": "2018 Harley-Davidson Street Rod XG750A | 22.000 KM | 750 68–70 horsepower @ 9,000 RPM and 64–65 Nm of torque @ 4,000 RPM.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -2349,9 +2362,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "CAN-AM SPYDER  RS S 1000 ROTAX BRP akrapovic Dédouanèe en 2017 immatriculé à Rabat 1/ها SEMI AUTOMATIQUE avec changement MANUEL SEC5.. tres propre, faible kilomètrages 15.000km  avec vidange complet Full full option. vitesse…",
-      "ar": "CAN-AM SPYDER  RS S 1000 ROTAX BRP akrapovic Dédouanèe en 2017 immatriculé à Rabat 1/ها SEMI AUTOMATIQUE avec changement MANUEL SEC5.. tres propre, faible kilomètrages 15.000km  avec vidange complet Full full option. vitesse…",
-      "original": "CAN-AM SPYDER  RS S 1000 ROTAX BRP akrapovic Dédouanèe en 2017 immatriculé à Rabat 1/ها SEMI AUTOMATIQUE avec changement MANUEL SEC5.. tres propre, faible kilomètrages 15.000km  avec vidange complet Full full option. vitesse…"
+      "original": "وحش فـ الطرقات الوعرة والرملة، صحيح فـ الجبدة وتحكم ساهل وشكل كيجلب العين. معروضة للبيع فـ الرباط. موطور مضمون وناضي، لي داه غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "وحش فـ الطرقات الوعرة والرملة، صحيح فـ الجبدة وتحكم ساهل وشكل كيجلب العين. معروضة للبيع فـ الرباط. موطور مضمون وناضي، لي داه غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Rugged off-road machine delivering thrilling torque, aggressive styling, and dependable trail handling. Very low mileage with bodywork and interior in near-showroom condition. Available for viewing in Rabat. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -2477,9 +2491,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "New Espace maamoura\nprix **** dh\nHonda goldwing 1800 \ntouring dct gl 1800\nModèle 2019 \n22 000 km matricule Rabat E1",
-      "ar": "New Espace maamoura\nprix **** dh\nHonda goldwing 1800 \ntouring dct gl 1800\nModèle 2019 \n22 000 km matricule Rabat E1",
-      "original": "New Espace maamoura\nprix **** dh\nHonda goldwing 1800 \ntouring dct gl 1800\nModèle 2019 \n22 000 km matricule Rabat E1"
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. موجودة للمعاينة فـ الرباط. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. موجودة للمعاينة فـ الرباط. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Available for viewing in Rabat. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -2611,9 +2626,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "HONDA X-ADV 750 Modél 2025 dédouannée 2026",
+      "original": "HONDA X-ADV 750 Modél 2025 dédouannée 2026",
       "ar": "HONDA X-ADV 750 Modél 2025 dédouannée 2026",
-      "original": "HONDA X-ADV 750 Modél 2025 dédouannée 2026"
+      "en": "HONDA X-ADV 750 Modél 2025 dédouannée 2026",
+      "usedDarija": false
     },
     "features": [
       {
@@ -2743,9 +2759,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voge 500 DS – Modèle 2023 /// 1ère main // 30 000 km // Entretien effectués en concession // Moto bien entretenue // 2 cylindres //",
+      "original": "Voge 500 DS – Modèle 2023 /// 1ère main // 30 000 km // Entretien effectués en concession // Moto bien entretenue // 2 cylindres //",
       "ar": "Voge 500 DS – Modèle 2023 /// 1ère main // 30 000 km // Entretien effectués en concession // Moto bien entretenue // 2 cylindres //",
-      "original": "Voge 500 DS – Modèle 2023 /// 1ère main // 30 000 km // Entretien effectués en concession // Moto bien entretenue // 2 cylindres //"
+      "en": "Voge 500 DS – Modèle 2023 /// 1ère main // 30 000 km // Entretien effectués en concession // Moto bien entretenue // 2 cylindres //",
+      "usedDarija": false
     },
     "features": [
       {
@@ -2888,9 +2905,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Vespa GTS 310 SuperSport 2026 0 Km Importé Neuf\nPACK OFFERT : \nVisière Fumée (D’origine Vespa)\nTop Case avec Dosseret \nPorte Bagage Avant.\nPorte Bagage Arrière.\nMeilleur offre fin d’été",
-      "ar": "Vespa GTS 310 SuperSport 2026 0 Km Importé Neuf\nPACK OFFERT : \nVisière Fumée (D’origine Vespa)\nTop Case avec Dosseret \nPorte Bagage Avant.\nPorte Bagage Arrière.\nMeilleur offre fin d’été",
-      "original": "Vespa GTS 310 SuperSport 2026 0 Km Importé Neuf\nPACK OFFERT : \nVisière Fumée (D’origine Vespa)\nTop Case avec Dosseret \nPorte Bagage Avant.\nPorte Bagage Arrière.\nMeilleur offre fin d’été"
+      "original": "Vespa GTS 310 SuperSport 2026 0 Km Importé Neuf PACK OFFERT : Visière Fumée (D’origine Vespa) Top Case avec Dosseret Porte Bagage Avant. Porte Bagage Arrière. Meilleur offre fin d’été",
+      "ar": "Vespa GTS 310 SuperSport 2026 0 Km Importé Neuf PACK OFFERT : Visière Fumée (D’origine Vespa) Top Case avec Dosseret Porte Bagage Avant. Porte Bagage Arrière. Meilleur offre fin d’été",
+      "en": "Vespa GTS 310 SuperSport 2026 0 Km Importé Neuf PACK OFFERT : Visière Fumée (D’origine Vespa) Top Case avec Dosseret Porte Bagage Avant. Porte Bagage Arrière. Meilleur offre fin d’été",
+      "usedDarija": false
     },
     "features": [
       {
@@ -3020,9 +3038,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Hyundai Accent 2006 en bon état général, disponible pour visite.",
+      "original": "Hyundai Accent 2006 en bon état général, disponible pour visite.",
       "ar": "Hyundai Accent 2006 en bon état général, disponible pour visite.",
-      "original": "Hyundai Accent 2006 en bon état général, disponible pour visite."
+      "en": "Hyundai Accent 2006 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -3174,9 +3193,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "للبيع Opel Crossland موديل 2021 – Oujda. سيارة Opel Crossland موديل 2021، محرك Diesel، ناقل حركة يدوي، بقوة 7 CV.. 📍 المكان: وجدة – Oujda.",
+      "original": "للبيع Opel Crossland موديل 2021 – Oujda. سيارة Opel Crossland موديل 2021، محرك Diesel، ناقل حركة يدوي، بقوة 7 CV.. 📍 المكان: وجدة – Oujda.",
       "ar": "للبيع Opel Crossland موديل 2021 – Oujda. سيارة Opel Crossland موديل 2021، محرك Diesel، ناقل حركة يدوي، بقوة 7 CV.. 📍 المكان: وجدة – Oujda.",
-      "original": "للبيع Opel Crossland موديل 2021 – Oujda. سيارة Opel Crossland موديل 2021، محرك Diesel، ناقل حركة يدوي، بقوة 7 CV.. 📍 المكان: وجدة – Oujda."
+      "en": "للبيع Opel Crossland موديل 2021 – Oujda. سيارة Opel Crossland موديل 2021، محرك Diesel، ناقل حركة يدوي، بقوة 7 CV.. 📍 المكان: وجدة – Oujda.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -3358,9 +3378,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "🚗 À VENDRE – Renault Mégane 4 Equilibre – 2022. 🔹 Motorisation : 1.5 Blue dCi. 🔹 Puissance : 115 ch.",
+      "original": "🚗 À VENDRE – Renault Mégane 4 Equilibre – 2022. 🔹 Motorisation : 1.5 Blue dCi. 🔹 Puissance : 115 ch.",
       "ar": "🚗 À VENDRE – Renault Mégane 4 Equilibre – 2022. 🔹 Motorisation : 1.5 Blue dCi. 🔹 Puissance : 115 ch.",
-      "original": "🚗 À VENDRE – Renault Mégane 4 Equilibre – 2022. 🔹 Motorisation : 1.5 Blue dCi. 🔹 Puissance : 115 ch."
+      "en": "🚗 À VENDRE – Renault Mégane 4 Equilibre – 2022. 🔹 Motorisation : 1.5 Blue dCi. 🔹 Puissance : 115 ch.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -3492,9 +3513,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre : Volkswagen T-Roc modèle 2021 en très bon état.. faible kilométrage. - Motorisation Diesel, Boîte automatique.",
+      "original": "À vendre : Volkswagen T-Roc modèle 2021 en très bon état.. faible kilométrage. - Motorisation Diesel, Boîte automatique.",
       "ar": "À vendre : Volkswagen T-Roc modèle 2021 en très bon état.. faible kilométrage. - Motorisation Diesel, Boîte automatique.",
-      "original": "À vendre : Volkswagen T-Roc modèle 2021 en très bon état.. faible kilométrage. - Motorisation Diesel, Boîte automatique."
+      "en": "À vendre : Volkswagen T-Roc modèle 2021 en très bon état.. faible kilométrage. - Motorisation Diesel, Boîte automatique.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -3679,9 +3701,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mercedes-Benz 220 2002 en bon état général, disponible pour visite.",
+      "original": "Mercedes-Benz 220 2002 en bon état général, disponible pour visite.",
       "ar": "Mercedes-Benz 220 2002 en bon état général, disponible pour visite.",
-      "original": "Mercedes-Benz 220 2002 en bon état général, disponible pour visite."
+      "en": "Mercedes-Benz 220 2002 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -3857,9 +3880,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض سيارة فولكس فاجن غولف 4 موديل 1999 شهر 12. - بحالة جيدة جدا.. - عجلات ألمنيوم.",
+      "original": "أعرض سيارة فولكس فاجن غولف 4 موديل 1999 شهر 12. - بحالة جيدة جدا.. - عجلات ألمنيوم.",
       "ar": "أعرض سيارة فولكس فاجن غولف 4 موديل 1999 شهر 12. - بحالة جيدة جدا.. - عجلات ألمنيوم.",
-      "original": "أعرض سيارة فولكس فاجن غولف 4 موديل 1999 شهر 12. - بحالة جيدة جدا.. - عجلات ألمنيوم."
+      "en": "أعرض سيارة فولكس فاجن غولف 4 موديل 1999 شهر 12. - بحالة جيدة جدا.. - عجلات ألمنيوم.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -4025,9 +4049,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma Hyundai Accent encore neuve. \nVoiture économique, fiable et très confortable. \nÉquipée d’une boîte automatique IVT. \nParfaite pour la ville et les longs trajets.\n*négociable \n*Contact :",
-      "ar": "Je mets en vente ma Hyundai Accent encore neuve. \nVoiture économique, fiable et très confortable. \nÉquipée d’une boîte automatique IVT. \nParfaite pour la ville et les longs trajets.\n*négociable \n*Contact :",
-      "original": "Je mets en vente ma Hyundai Accent encore neuve. \nVoiture économique, fiable et très confortable. \nÉquipée d’une boîte automatique IVT. \nParfaite pour la ville et les longs trajets.\n*négociable \n*Contact :"
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS. باقا بحال يلا عاد خارجة من لا ميزون. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS. باقا بحال يلا عاد خارجة من لا ميزون. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with stylish alloy wheels, air conditioning, and touchscreen GPS navigation. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -4229,9 +4254,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Renault Clio de 2009 en très bon état.. - Climatisation. - Lecteur CD/MP3/Bluetooth.",
+      "original": "Je vends une Renault Clio de 2009 en très bon état.. - Climatisation. - Lecteur CD/MP3/Bluetooth.",
       "ar": "Je vends une Renault Clio de 2009 en très bon état.. - Climatisation. - Lecteur CD/MP3/Bluetooth.",
-      "original": "Je vends une Renault Clio de 2009 en très bon état.. - Climatisation. - Lecteur CD/MP3/Bluetooth."
+      "en": "Je vends une Renault Clio de 2009 en très bon état.. - Climatisation. - Lecteur CD/MP3/Bluetooth.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -4389,9 +4415,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mercedes EQE AMG Line plus full options full électrique\nProtection carrosserie PPF\n69000 km \nModel 2024\nAutonomie 580km\nd’achat : 1160\nde vente : 700",
-      "ar": "Mercedes EQE AMG Line plus full options full électrique\nProtection carrosserie PPF\n69000 km \nModel 2024\nAutonomie 580km\nd’achat : 1160\nde vente : 700",
-      "original": "Mercedes EQE AMG Line plus full options full électrique\nProtection carrosserie PPF\n69000 km \nModel 2024\nAutonomie 580km\nd’achat : 1160\nde vente : 700"
+      "original": "Mercedes EQE AMG Line plus full options full électrique Protection carrosserie PPF 69000 km Model 2024 Autonomie 580km d’achat : 1160 de vente : 700",
+      "ar": "Mercedes EQE AMG Line plus full options full électrique Protection carrosserie PPF 69000 km Model 2024 Autonomie 580km d’achat : 1160 de vente : 700",
+      "en": "Mercedes EQE AMG Line plus full options full électrique Protection carrosserie PPF 69000 km Model 2024 Autonomie 580km d’achat : 1160 de vente : 700",
+      "usedDarija": false
     },
     "features": [
       {
@@ -4606,9 +4633,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "234,000 km\nBoîte manuelle\nDiesel – 8 cv \noptique Xénon\nSièges chauffants\nrétroviseurs rabattables\n2 pneus neuf\nFull options",
-      "ar": "234,000 km\nBoîte manuelle\nDiesel – 8 cv \noptique Xénon\nSièges chauffants\nrétroviseurs rabattables\n2 pneus neuf\nFull options",
-      "original": "234,000 km\nBoîte manuelle\nDiesel – 8 cv \noptique Xénon\nSièges chauffants\nrétroviseurs rabattables\n2 pneus neuf\nFull options"
+      "original": "234,000 km Boîte manuelle Diesel – 8 cv optique Xénon Sièges chauffants rétroviseurs rabattables 2 pneus neuf Full options",
+      "ar": "234,000 km Boîte manuelle Diesel – 8 cv optique Xénon Sièges chauffants rétroviseurs rabattables 2 pneus neuf Full options",
+      "en": "234,000 km Boîte manuelle Diesel – 8 cv optique Xénon Sièges chauffants rétroviseurs rabattables 2 pneus neuf Full options",
+      "usedDarija": false
     },
     "features": [
       {
@@ -4812,9 +4840,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "BMW Série 5 (F10) — 520d — Boîte automatique 8 rapports — 2010. ✅ Chaîne de distribution neuve (point faible connu du moteur N47 — déjà réglé y a plus de 10 mois). ✅ Pompe à eau et batterie neuves.",
+      "original": "BMW Série 5 (F10) — 520d — Boîte automatique 8 rapports — 2010. ✅ Chaîne de distribution neuve (point faible connu du moteur N47 — déjà réglé y a plus de 10 mois). ✅ Pompe à eau et batterie neuves.",
       "ar": "BMW Série 5 (F10) — 520d — Boîte automatique 8 rapports — 2010. ✅ Chaîne de distribution neuve (point faible connu du moteur N47 — déjà réglé y a plus de 10 mois). ✅ Pompe à eau et batterie neuves.",
-      "original": "BMW Série 5 (F10) — 520d — Boîte automatique 8 rapports — 2010. ✅ Chaîne de distribution neuve (point faible connu du moteur N47 — déjà réglé y a plus de 10 mois). ✅ Pompe à eau et batterie neuves."
+      "en": "BMW Série 5 (F10) — 520d — Boîte automatique 8 rapports — 2010. ✅ Chaîne de distribution neuve (point faible connu du moteur N47 — déjà réglé y a plus de 10 mois). ✅ Pompe à eau et batterie neuves.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -5009,9 +5038,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre – Citroën C3 Toutes Options\n🚗 Marque : Citroën\n📌 Modèle : C3\n📅 Année : 2023\n🛣️ Kilométrage : 46 000 km\n✨ État : Très bon état\n👤 Première main\n⚙️ Toutes options\n🧾 Véhicule bien entretenu, utilisation",
-      "ar": "À vendre – Citroën C3 Toutes Options\n🚗 Marque : Citroën\n📌 Modèle : C3\n📅 Année : 2023\n🛣️ Kilométrage : 46 000 km\n✨ État : Très bon état\n👤 Première main\n⚙️ Toutes options\n🧾 Véhicule bien entretenu, utilisation",
-      "original": "À vendre – Citroën C3 Toutes Options\n🚗 Marque : Citroën\n📌 Modèle : C3\n📅 Année : 2023\n🛣️ Kilométrage : 46 000 km\n✨ État : Très bon état\n👤 Première main\n⚙️ Toutes options\n🧾 Véhicule bien entretenu, utilisation"
+      "original": "ديال الخدمة والدوام والصبر، موطورها معروف بالمتانة والبياس ديالها متوفر ورخيص. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "ديال الخدمة والدوام والصبر، موطورها معروف بالمتانة والبياس ديالها متوفر ورخيص. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Reliable, cost-effective daily driver built for endurance with widely available parts and low operating costs. Richly specified with air conditioning, touchscreen GPS navigation, and reversing camera and parking sensors. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -5179,9 +5209,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Toyota C-HR Hybride Automatique de 2022.. - État : Excellent. - Origine : Importée neuve.",
+      "original": "Je propose à la vente une Toyota C-HR Hybride Automatique de 2022.. - État : Excellent. - Origine : Importée neuve.",
       "ar": "Je propose à la vente une Toyota C-HR Hybride Automatique de 2022.. - État : Excellent. - Origine : Importée neuve.",
-      "original": "Je propose à la vente une Toyota C-HR Hybride Automatique de 2022.. - État : Excellent. - Origine : Importée neuve."
+      "en": "Je propose à la vente une Toyota C-HR Hybride Automatique de 2022.. - État : Excellent. - Origine : Importée neuve.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -5340,9 +5371,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Toyota Prado Land Cruiser à vendre en excellent état.\n- Marque : Toyota\n- Modèle : Prado\n- Année-Modèle : 2015\n- Carburant : Diesel\n- Boîte de vitesses : Manuelle\n- Origine : WW au Maroc\n.",
-      "ar": "Toyota Prado Land Cruiser à vendre en excellent état.\n- Marque : Toyota\n- Modèle : Prado\n- Année-Modèle : 2015\n- Carburant : Diesel\n- Boîte de vitesses : Manuelle\n- Origine : WW au Maroc\n.",
-      "original": "Toyota Prado Land Cruiser à vendre en excellent état.\n- Marque : Toyota\n- Modèle : Prado\n- Année-Modèle : 2015\n- Carburant : Diesel\n- Boîte de vitesses : Manuelle\n- Origine : WW au Maroc\n."
+      "original": "Toyota Prado Land Cruiser à vendre en excellent état. - Marque : Toyota - Modèle : Prado - Année-Modèle : 2015 - îte de vitesses : Manuelle - Origine : WW au Maroc .",
+      "ar": "Toyota Prado Land Cruiser à vendre en excellent état. - Marque : Toyota - Modèle : Prado - Année-Modèle : 2015 - îte de vitesses : Manuelle - Origine : WW au Maroc .",
+      "en": "Toyota Prado Land Cruiser à vendre en excellent état. - Marque : Toyota - Modèle : Prado - Année-Modèle : 2015 - îte de vitesses : Manuelle - Origine : WW au Maroc .",
+      "usedDarija": false
     },
     "features": [
       {
@@ -5476,9 +5508,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente mon **Range Rover Sport SE**, acheté **neuf en 2021**\\.\nLe véhicule est en excellent état, aussi bien esthétique que mécanique. Il a toujours été entretenu avec soin et n’a jamais été accidenté",
-      "ar": "Je mets en vente mon **Range Rover Sport SE**, acheté **neuf en 2021**\\.\nLe véhicule est en excellent état, aussi bien esthétique que mécanique. Il a toujours été entretenu avec soin et n’a jamais été accidenté",
-      "original": "Je mets en vente mon **Range Rover Sport SE**, acheté **neuf en 2021**\\.\nLe véhicule est en excellent état, aussi bien esthétique que mécanique. Il a toujours été entretenu avec soin et n’a jamais été accidenté"
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with premium leather upholstery, touchscreen GPS navigation, and reversing camera and parking sensors. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -5693,9 +5726,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "mercedes benz C220",
-      "ar": "mercedes benz C220",
-      "original": "mercedes benz C220"
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with reversing camera and parking sensors, cruise control, and stylish alloy wheels. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -5901,9 +5935,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen Polo 1998 en bon état général, disponible pour visite.",
+      "original": "Volkswagen Polo 1998 en bon état général, disponible pour visite.",
       "ar": "Volkswagen Polo 1998 en bon état général, disponible pour visite.",
-      "original": "Volkswagen Polo 1998 en bon état général, disponible pour visite."
+      "en": "Volkswagen Polo 1998 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -6034,9 +6069,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je mets en vente ma propre voiture BMW X3 en excellente état, toute option sauf toit ouvrant, parcourue 132000 km, deuxième main en avril 2026. aucune réparation à prévoir. visible sur rabat.",
+      "original": "je mets en vente ma propre voiture BMW X3 en excellente état, toute option sauf toit ouvrant, parcourue 132000 km, deuxième main en avril 2026. aucune réparation à prévoir. visible sur rabat.",
       "ar": "je mets en vente ma propre voiture BMW X3 en excellente état, toute option sauf toit ouvrant, parcourue 132000 km, deuxième main en avril 2026. aucune réparation à prévoir. visible sur rabat.",
-      "original": "je mets en vente ma propre voiture BMW X3 en excellente état, toute option sauf toit ouvrant, parcourue 132000 km, deuxième main en avril 2026. aucune réparation à prévoir. visible sur rabat."
+      "en": "je mets en vente ma propre voiture BMW X3 en excellente état, toute option sauf toit ouvrant, parcourue 132000 km, deuxième main en avril 2026. aucune réparation à prévoir. visible sur rabat.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -6251,9 +6287,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Possibilité de reprendre l'ancienne voiture.",
+      "original": "Possibilité de reprendre l'ancienne voiture.",
       "ar": "Possibilité de reprendre l'ancienne voiture.",
-      "original": "Possibilité de reprendre l'ancienne voiture."
+      "en": "Possibilité de reprendre l'ancienne voiture.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -6462,9 +6499,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Opel Mokka GS Line Plus Diesel — فرصة مميزة. 🚗 موديل 08/2022 | 1ère main. استعمال شخصي من المالك الأول، من الدار مباشرة.",
+      "original": "Opel Mokka GS Line Plus Diesel — فرصة مميزة. 🚗 موديل 08/2022 | 1ère main. استعمال شخصي من المالك الأول، من الدار مباشرة.",
       "ar": "Opel Mokka GS Line Plus Diesel — فرصة مميزة. 🚗 موديل 08/2022 | 1ère main. استعمال شخصي من المالك الأول، من الدار مباشرة.",
-      "original": "Opel Mokka GS Line Plus Diesel — فرصة مميزة. 🚗 موديل 08/2022 | 1ère main. استعمال شخصي من المالك الأول، من الدار مباشرة."
+      "en": "Opel Mokka GS Line Plus Diesel — فرصة مميزة. 🚗 موديل 08/2022 | 1ère main. استعمال شخصي من المالك الأول، من الدار مباشرة.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -6641,9 +6679,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Seat Ibiza de 2015 en excellent état.. - Nombre de portes : 5. - Première main : Non.",
+      "original": "Je vends une Seat Ibiza de 2015 en excellent état.. - Nombre de portes : 5. - Première main : Non.",
       "ar": "Je vends une Seat Ibiza de 2015 en excellent état.. - Nombre de portes : 5. - Première main : Non.",
-      "original": "Je vends une Seat Ibiza de 2015 en excellent état.. - Nombre de portes : 5. - Première main : Non."
+      "en": "Je vends une Seat Ibiza de 2015 en excellent état.. - Nombre de portes : 5. - Première main : Non.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -6783,9 +6822,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Mercedes Classe C 200 Pack AMG LINE en très bon état.. - Origine : Dédouanée. - deuxiéme main.",
+      "original": "Je propose à la vente une Mercedes Classe C 200 Pack AMG LINE en très bon état.. - Origine : Dédouanée. - deuxiéme main.",
       "ar": "Je propose à la vente une Mercedes Classe C 200 Pack AMG LINE en très bon état.. - Origine : Dédouanée. - deuxiéme main.",
-      "original": "Je propose à la vente une Mercedes Classe C 200 Pack AMG LINE en très bon état.. - Origine : Dédouanée. - deuxiéme main."
+      "en": "Je propose à la vente une Mercedes Classe C 200 Pack AMG LINE en très bon état.. - Origine : Dédouanée. - deuxiéme main.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -7000,9 +7040,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Kia Soul modèle 2016\n115.000 km\nMoteur CRDI 1.6 Diesel 128 CV sans Adblue\nBoite manuelle 6 rapports \nBluetooth, Caméra de recule, Airbags \nJantes aluminium, Climatisation \nJamais accidentée",
-      "ar": "Kia Soul modèle 2016\n115.000 km\nMoteur CRDI 1.6 Diesel 128 CV sans Adblue\nBoite manuelle 6 rapports \nBluetooth, Caméra de recule, Airbags \nJantes aluminium, Climatisation \nJamais accidentée",
-      "original": "Kia Soul modèle 2016\n115.000 km\nMoteur CRDI 1.6 Diesel 128 CV sans Adblue\nBoite manuelle 6 rapports \nBluetooth, Caméra de recule, Airbags \nJantes aluminium, Climatisation \nJamais accidentée"
+      "original": "Kia Soul modèle 2016 115.000 km Moteur CRDI 1.6 Diesel 128 CV sans Adblue Boite manuelle 6 rapports Bluetooth, Caméra de recule, Airbags Jantes aluminium, Climatisation Jamais accidentée",
+      "ar": "Kia Soul modèle 2016 115.000 km Moteur CRDI 1.6 Diesel 128 CV sans Adblue Boite manuelle 6 rapports Bluetooth, Caméra de recule, Airbags Jantes aluminium, Climatisation Jamais accidentée",
+      "en": "Kia Soul modèle 2016 115.000 km Moteur CRDI 1.6 Diesel 128 CV sans Adblue Boite manuelle 6 rapports Bluetooth, Caméra de recule, Airbags Jantes aluminium, Climatisation Jamais accidentée",
+      "usedDarija": false
     },
     "features": [
       {
@@ -7177,9 +7218,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "App WTSP. À VENDRE – Audi Q3 35 TDI S-Line | 2024. ✨ Audi Q3 35 TDI S-Line – 2024.",
+      "original": "App WTSP. À VENDRE – Audi Q3 35 TDI S-Line | 2024. ✨ Audi Q3 35 TDI S-Line – 2024.",
       "ar": "App WTSP. À VENDRE – Audi Q3 35 TDI S-Line | 2024. ✨ Audi Q3 35 TDI S-Line – 2024.",
-      "original": "App WTSP. À VENDRE – Audi Q3 35 TDI S-Line | 2024. ✨ Audi Q3 35 TDI S-Line – 2024."
+      "en": "App WTSP. À VENDRE – Audi Q3 35 TDI S-Line | 2024. ✨ Audi Q3 35 TDI S-Line – 2024.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -7386,9 +7428,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Citroen C3 Shine Boite manuel -diesel. Avec **** km. ‏Modèle: 10/2020.",
+      "original": "Citroen C3 Shine Boite manuel -diesel. Avec **** km. ‏Modèle: 10/2020.",
       "ar": "Citroen C3 Shine Boite manuel -diesel. Avec **** km. ‏Modèle: 10/2020.",
-      "original": "Citroen C3 Shine Boite manuel -diesel. Avec **** km. ‏Modèle: 10/2020."
+      "en": "Citroen C3 Shine Boite manuel -diesel. Avec **** km. ‏Modèle: 10/2020.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -7588,9 +7631,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Land Rover Range Rover Sport Modèle 12/2013 www au Maroc pour plus d’informations \nIntérieur tabac pneus neuf état neuf de la voiture kilométrage actuel 153000km .",
-      "ar": "Land Rover Range Rover Sport Modèle 12/2013 www au Maroc pour plus d’informations \nIntérieur tabac pneus neuf état neuf de la voiture kilométrage actuel 153000km .",
-      "original": "Land Rover Range Rover Sport Modèle 12/2013 www au Maroc pour plus d’informations \nIntérieur tabac pneus neuf état neuf de la voiture kilométrage actuel 153000km ."
+      "original": "Land Rover Range Rover Sport Modèle 12/2013 www au Maroc pour plus d’informations Intérieur tabac pneus neuf état neuf de la voiture kilométrage actuel 153000km .",
+      "ar": "Land Rover Range Rover Sport Modèle 12/2013 www au Maroc pour plus d’informations Intérieur tabac pneus neuf état neuf de la voiture kilométrage actuel 153000km .",
+      "en": "Land Rover Range Rover Sport Modèle 12/2013 www au Maroc pour plus d’informations Intérieur tabac pneus neuf état neuf de la voiture kilométrage actuel 153000km .",
+      "usedDarija": false
     },
     "features": [
       {
@@ -7798,9 +7842,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen Golf 4 2010 en bon état général, disponible pour visite.",
+      "original": "Volkswagen Golf 4 2010 en bon état général, disponible pour visite.",
       "ar": "Volkswagen Golf 4 2010 en bon état général, disponible pour visite.",
-      "original": "Volkswagen Golf 4 2010 en bon état général, disponible pour visite."
+      "en": "Volkswagen Golf 4 2010 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -7929,9 +7974,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "AUDI A1 25 TFSI 95 ch , 5 cv, 5 portes, première mise en circulation le 28/07/2022. 5 places, couleur intérieur : Noir. OPTIONS ET ÉQUIPEMENTS :.",
+      "original": "AUDI A1 25 TFSI 95 ch , 5 cv, 5 portes, première mise en circulation le 28/07/2022. 5 places, couleur intérieur : Noir. OPTIONS ET ÉQUIPEMENTS :.",
       "ar": "AUDI A1 25 TFSI 95 ch , 5 cv, 5 portes, première mise en circulation le 28/07/2022. 5 places, couleur intérieur : Noir. OPTIONS ET ÉQUIPEMENTS :.",
-      "original": "AUDI A1 25 TFSI 95 ch , 5 cv, 5 portes, première mise en circulation le 28/07/2022. 5 places, couleur intérieur : Noir. OPTIONS ET ÉQUIPEMENTS :."
+      "en": "AUDI A1 25 TFSI 95 ch , 5 cv, 5 portes, première mise en circulation le 28/07/2022. 5 places, couleur intérieur : Noir. OPTIONS ET ÉQUIPEMENTS :.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -8078,9 +8124,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "داسيا لوجان 2024 بحالة جيدة متوفرة في تطوان.. - عجلات ألمنيوم. - وسائد هوائية.",
+      "original": "داسيا لوجان 2024 بحالة جيدة متوفرة في تطوان.. - عجلات ألمنيوم. - وسائد هوائية.",
       "ar": "داسيا لوجان 2024 بحالة جيدة متوفرة في تطوان.. - عجلات ألمنيوم. - وسائد هوائية.",
-      "original": "داسيا لوجان 2024 بحالة جيدة متوفرة في تطوان.. - عجلات ألمنيوم. - وسائد هوائية."
+      "en": "داسيا لوجان 2024 بحالة جيدة متوفرة في تطوان.. - عجلات ألمنيوم. - وسائد هوائية.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -8276,9 +8323,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Renault Clio 2018 en bon état général, disponible pour visite.",
+      "original": "Renault Clio 2018 en bon état général, disponible pour visite.",
       "ar": "Renault Clio 2018 en bon état général, disponible pour visite.",
-      "original": "Renault Clio 2018 en bon état général, disponible pour visite."
+      "en": "Renault Clio 2018 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -8478,9 +8526,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Ford Fiesta de 2017 en bon état, origine WW Maroc.. - Nombre de portes 5. - Climatisation.",
+      "original": "Je vends une Ford Fiesta de 2017 en bon état, origine WW Maroc.. - Nombre de portes 5. - Climatisation.",
       "ar": "Je vends une Ford Fiesta de 2017 en bon état, origine WW Maroc.. - Nombre de portes 5. - Climatisation.",
-      "original": "Je vends une Ford Fiesta de 2017 en bon état, origine WW Maroc.. - Nombre de portes 5. - Climatisation."
+      "en": "Je vends une Ford Fiesta de 2017 en bon état, origine WW Maroc.. - Nombre de portes 5. - Climatisation.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -8643,9 +8692,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Jeep Grand Cherokee Diesel Automatique de 2015 en très bon état.. - Jantes aluminium. - Airbags.",
+      "original": "Je propose à la vente une Jeep Grand Cherokee Diesel Automatique de 2015 en très bon état.. - Jantes aluminium. - Airbags.",
       "ar": "Je propose à la vente une Jeep Grand Cherokee Diesel Automatique de 2015 en très bon état.. - Jantes aluminium. - Airbags.",
-      "original": "Je propose à la vente une Jeep Grand Cherokee Diesel Automatique de 2015 en très bon état.. - Jantes aluminium. - Airbags."
+      "en": "Je propose à la vente une Jeep Grand Cherokee Diesel Automatique de 2015 en très bon état.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -8857,9 +8907,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mercedes-Benz 220 1996 en bon état général, disponible pour visite.",
+      "original": "Mercedes-Benz 220 1996 en bon état général, disponible pour visite.",
       "ar": "Mercedes-Benz 220 1996 en bon état général, disponible pour visite.",
-      "original": "Mercedes-Benz 220 1996 en bon état général, disponible pour visite."
+      "en": "Mercedes-Benz 220 1996 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -8992,9 +9043,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "🚘 Audi A6 2.0 TDI – 2014 – 110 000 km Très belle Audi A6, très propre et parfaitement entretenue, avec seulement 110 000 km.. Véhicule très bien conservé, intérieur et extérieur soignés.. ✨ Diesel 2.0 TDI ✨ Boîte automatique ✨ 4…",
-      "ar": "🚘 Audi A6 2.0 TDI – 2014 – 110 000 km Très belle Audi A6, très propre et parfaitement entretenue, avec seulement 110 000 km.. Véhicule très bien conservé, intérieur et extérieur soignés.. ✨ Diesel 2.0 TDI ✨ Boîte automatique ✨ 4…",
-      "original": "🚘 Audi A6 2.0 TDI – 2014 – 110 000 km Très belle Audi A6, très propre et parfaitement entretenue, avec seulement 110 000 km.. Véhicule très bien conservé, intérieur et extérieur soignés.. ✨ Diesel 2.0 TDI ✨ Boîte automatique ✨ 4…"
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with stylish alloy wheels, air conditioning, and premium leather upholstery. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -9205,9 +9257,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Jeep grand Cherokee première main model 2016 très bon état kilométrage 200000",
+      "original": "Jeep grand Cherokee première main model 2016 très bon état kilométrage 200000",
       "ar": "Jeep grand Cherokee première main model 2016 très bon état kilométrage 200000",
-      "original": "Jeep grand Cherokee première main model 2016 très bon état kilométrage 200000"
+      "en": "Jeep grand Cherokee première main model 2016 très bon état kilométrage 200000",
+      "usedDarija": false
     },
     "features": [
       {
@@ -9341,9 +9394,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Tipo tres bon état \nQuelques retouches simples seulement",
-      "ar": "Tipo tres bon état \nQuelques retouches simples seulement",
-      "original": "Tipo tres bon état \nQuelques retouches simples seulement"
+      "original": "Tipo tres bon état Quelques retouches simples seulement",
+      "ar": "Tipo tres bon état Quelques retouches simples seulement",
+      "en": "Tipo tres bon état Quelques retouches simples seulement",
+      "usedDarija": false
     },
     "features": [
       {
@@ -9500,9 +9554,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mercedes-Benz C220 CDI W204 – Pack AMG – Toit panoramique – BVA. Je mets en vente ma Mercedes-Benz Classe C 220 CDI W204, modèle 2010, dédouanée en 2014, en très bon état général.. Une voiture élégante, confortable et agréable à…",
-      "ar": "Mercedes-Benz C220 CDI W204 – Pack AMG – Toit panoramique – BVA. Je mets en vente ma Mercedes-Benz Classe C 220 CDI W204, modèle 2010, dédouanée en 2014, en très bon état général.. Une voiture élégante, confortable et agréable à…",
-      "original": "Mercedes-Benz C220 CDI W204 – Pack AMG – Toit panoramique – BVA. Je mets en vente ma Mercedes-Benz Classe C 220 CDI W204, modèle 2010, dédouanée en 2014, en très bon état général.. Une voiture élégante, confortable et agréable à…"
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. موتورها معروف بالصبر والخدمة وكيدور مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. موتورها معروف بالصبر والخدمة وكيدور مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with reversing camera and parking sensors, cruise control, and stylish alloy wheels. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -9715,9 +9770,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente un Land Rover Range Rover Velar de 2022 en excellent état.. - Entretien Maison Range. - Première main.",
+      "original": "Je propose à la vente un Land Rover Range Rover Velar de 2022 en excellent état.. - Entretien Maison Range. - Première main.",
       "ar": "Je propose à la vente un Land Rover Range Rover Velar de 2022 en excellent état.. - Entretien Maison Range. - Première main.",
-      "original": "Je propose à la vente un Land Rover Range Rover Velar de 2022 en excellent état.. - Entretien Maison Range. - Première main."
+      "en": "Je propose à la vente un Land Rover Range Rover Velar de 2022 en excellent état.. - Entretien Maison Range. - Première main.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -9932,9 +9988,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Mercedes-Benz Classe GLE Diesel Automatique de 2017 en excellent état.. - Première main. - Importée neuve.",
+      "original": "Je vends une Mercedes-Benz Classe GLE Diesel Automatique de 2017 en excellent état.. - Première main. - Importée neuve.",
       "ar": "Je vends une Mercedes-Benz Classe GLE Diesel Automatique de 2017 en excellent état.. - Première main. - Importée neuve.",
-      "original": "Je vends une Mercedes-Benz Classe GLE Diesel Automatique de 2017 en excellent état.. - Première main. - Importée neuve."
+      "en": "Je vends une Mercedes-Benz Classe GLE Diesel Automatique de 2017 en excellent état.. - Première main. - Importée neuve.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -10149,9 +10206,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Audi Q7 7places",
-      "ar": "Audi Q7 7places",
-      "original": "Audi Q7 7places"
+      "original": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with premium leather upholstery, reversing camera and parking sensors, and cruise control. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -10351,9 +10409,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Skoda Fabia de 2019 en excellent état.. - Origine WW au Maroc. - Nombre de portes 5.",
+      "original": "Je vends une Skoda Fabia de 2019 en excellent état.. - Origine WW au Maroc. - Nombre de portes 5.",
       "ar": "Je vends une Skoda Fabia de 2019 en excellent état.. - Origine WW au Maroc. - Nombre de portes 5.",
-      "original": "Je vends une Skoda Fabia de 2019 en excellent état.. - Origine WW au Maroc. - Nombre de portes 5."
+      "en": "Je vends une Skoda Fabia de 2019 en excellent état.. - Origine WW au Maroc. - Nombre de portes 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -10548,9 +10607,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "OpeL Grandkand X excellent état full option",
+      "original": "OpeL Grandkand X excellent état full option",
       "ar": "OpeL Grandkand X excellent état full option",
-      "original": "OpeL Grandkand X excellent état full option"
+      "en": "OpeL Grandkand X excellent état full option",
+      "usedDarija": false
     },
     "features": [
       {
@@ -10763,9 +10823,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Peugeot 208 2021 en bon état général, disponible pour visite.",
+      "original": "Peugeot 208 2021 en bon état général, disponible pour visite.",
       "ar": "Peugeot 208 2021 en bon état général, disponible pour visite.",
-      "original": "Peugeot 208 2021 en bon état général, disponible pour visite."
+      "en": "Peugeot 208 2021 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -10946,9 +11007,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Fiat 500 de 2018 en excellent état.. - Options : Airbags, Climatisation, Système de navigation/GPS, Caméra de recul, ESP, CD/MP3/Bluetooth. - Nombre de portes : 3.",
+      "original": "À vendre Fiat 500 de 2018 en excellent état.. - Options : Airbags, Climatisation, Système de navigation/GPS, Caméra de recul, ESP, CD/MP3/Bluetooth. - Nombre de portes : 3.",
       "ar": "À vendre Fiat 500 de 2018 en excellent état.. - Options : Airbags, Climatisation, Système de navigation/GPS, Caméra de recul, ESP, CD/MP3/Bluetooth. - Nombre de portes : 3.",
-      "original": "À vendre Fiat 500 de 2018 en excellent état.. - Options : Airbags, Climatisation, Système de navigation/GPS, Caméra de recul, ESP, CD/MP3/Bluetooth. - Nombre de portes : 3."
+      "en": "À vendre Fiat 500 de 2018 en excellent état.. - Options : Airbags, Climatisation, Système de navigation/GPS, Caméra de recul, ESP, CD/MP3/Bluetooth. - Nombre de portes : 3.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -11116,9 +11178,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "CENTRAL MOTORS CARS **\nUne panoplie de voitures pour satisfaire tous les goûts avec des imbattables.\nVenez nombreux à notre showroom\nPossibilité de reprise soyez les bienvenues chez nous",
-      "ar": "CENTRAL MOTORS CARS **\nUne panoplie de voitures pour satisfaire tous les goûts avec des imbattables.\nVenez nombreux à notre showroom\nPossibilité de reprise soyez les bienvenues chez nous",
-      "original": "CENTRAL MOTORS CARS **\nUne panoplie de voitures pour satisfaire tous les goûts avec des imbattables.\nVenez nombreux à notre showroom\nPossibilité de reprise soyez les bienvenues chez nous"
+      "original": "CENTRAL MOTORS CARS ** Une panoplie de voitures pour satisfaire tous les goûts avec des imbattables. Venez nombreux à notre showroom Possibilité de reprise soyez les bienvenues chez nous",
+      "ar": "CENTRAL MOTORS CARS ** Une panoplie de voitures pour satisfaire tous les goûts avec des imbattables. Venez nombreux à notre showroom Possibilité de reprise soyez les bienvenues chez nous",
+      "en": "CENTRAL MOTORS CARS ** Une panoplie de voitures pour satisfaire tous les goûts avec des imbattables. Venez nombreux à notre showroom Possibilité de reprise soyez les bienvenues chez nous",
+      "usedDarija": false
     },
     "features": [
       {
@@ -11333,9 +11396,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Mercedes-Benz C. lasse GLC de 2016 en très bon état.. - Type de carburant : Diesel.",
-      "ar": "Je vends une Mercedes-Benz C. lasse GLC de 2016 en très bon état.. - Type de carburant : Diesel.",
-      "original": "Je vends une Mercedes-Benz C. lasse GLC de 2016 en très bon état.. - Type de carburant : Diesel."
+      "original": "Je vends une Mercedes-Benz C. lasse GLC de 2016 en très bon état.. - Type de .",
+      "ar": "Je vends une Mercedes-Benz C. lasse GLC de 2016 en très bon état.. - Type de .",
+      "en": "Je vends une Mercedes-Benz C. lasse GLC de 2016 en très bon état.. - Type de .",
+      "usedDarija": false
     },
     "features": [
       {
@@ -11474,9 +11538,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je met en vente ma voiture skoda fabia en parfaite état sincèrement très économique praticable en ville et excellente en voyage fixe pas intéressé ne me dérange plus",
+      "original": "je met en vente ma voiture skoda fabia en parfaite état sincèrement très économique praticable en ville et excellente en voyage fixe pas intéressé ne me dérange plus",
       "ar": "je met en vente ma voiture skoda fabia en parfaite état sincèrement très économique praticable en ville et excellente en voyage fixe pas intéressé ne me dérange plus",
-      "original": "je met en vente ma voiture skoda fabia en parfaite état sincèrement très économique praticable en ville et excellente en voyage fixe pas intéressé ne me dérange plus"
+      "en": "je met en vente ma voiture skoda fabia en parfaite état sincèrement très économique praticable en ville et excellente en voyage fixe pas intéressé ne me dérange plus",
+      "usedDarija": false
     },
     "features": [
       {
@@ -11646,9 +11711,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Nissan Qashqai 2010 en bon état général, disponible pour visite.",
+      "original": "Nissan Qashqai 2010 en bon état général, disponible pour visite.",
       "ar": "Nissan Qashqai 2010 en bon état général, disponible pour visite.",
-      "original": "Nissan Qashqai 2010 en bon état général, disponible pour visite."
+      "en": "Nissan Qashqai 2010 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -11845,9 +11911,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Ford C Max 2013 en bon état général, disponible pour visite.",
+      "original": "Ford C Max 2013 en bon état général, disponible pour visite.",
       "ar": "Ford C Max 2013 en bon état général, disponible pour visite.",
-      "original": "Ford C Max 2013 en bon état général, disponible pour visite."
+      "en": "Ford C Max 2013 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -12052,9 +12119,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Ford costum Modèle 2020",
-      "ar": "Ford costum Modèle 2020",
-      "original": "Ford costum Modèle 2020"
+      "original": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. فيها تجهيزات مزيانة بحال كليما خدامة مزيان و كاميرا ورادار للمارشاريير. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. فيها تجهيزات مزيانة بحال كليما خدامة مزيان و كاميرا ورادار للمارشاريير. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Features desirable equipment including air conditioning and reversing camera and parking sensors. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -12221,9 +12289,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Dacia Dokker de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "Je vends une Dacia Dokker de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "Je vends une Dacia Dokker de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "Je vends une Dacia Dokker de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "Je vends une Dacia Dokker de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -12407,9 +12476,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "BMW Série 2 2014 en bon état général, disponible pour visite.",
+      "original": "BMW Série 2 2014 en bon état général, disponible pour visite.",
       "ar": "BMW Série 2 2014 en bon état général, disponible pour visite.",
-      "original": "BMW Série 2 2014 en bon état général, disponible pour visite."
+      "en": "BMW Série 2 2014 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -12616,9 +12686,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture tt neuf",
-      "ar": "voiture tt neuf",
-      "original": "voiture tt neuf"
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with air conditioning, touchscreen GPS navigation, and reversing camera and parking sensors. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -12825,9 +12896,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع داسيا دوكر موديل 2018 بحالة جيدة جدا.. - محرك ديزل. - ناقل حركة يدوي.",
+      "original": "أعرض للبيع داسيا دوكر موديل 2018 بحالة جيدة جدا.. - محرك ديزل. - ناقل حركة يدوي.",
       "ar": "أعرض للبيع داسيا دوكر موديل 2018 بحالة جيدة جدا.. - محرك ديزل. - ناقل حركة يدوي.",
-      "original": "أعرض للبيع داسيا دوكر موديل 2018 بحالة جيدة جدا.. - محرك ديزل. - ناقل حركة يدوي."
+      "en": "أعرض للبيع داسيا دوكر موديل 2018 بحالة جيدة جدا.. - محرك ديزل. - ناقل حركة يدوي.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -13013,9 +13085,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Titre : Porsche Cayenne E-Hybrid 2020 – État Exceptionnel & Toit Ouvrant. Description :. À vendre, une superbe Porsche Cayenne E-Hybrid de 2020, alliant performance hybride et luxe absolu.",
+      "original": "Titre : Porsche Cayenne E-Hybrid 2020 – État Exceptionnel & Toit Ouvrant. Description :. À vendre, une superbe Porsche Cayenne E-Hybrid de 2020, alliant performance hybride et luxe absolu.",
       "ar": "Titre : Porsche Cayenne E-Hybrid 2020 – État Exceptionnel & Toit Ouvrant. Description :. À vendre, une superbe Porsche Cayenne E-Hybrid de 2020, alliant performance hybride et luxe absolu.",
-      "original": "Titre : Porsche Cayenne E-Hybrid 2020 – État Exceptionnel & Toit Ouvrant. Description :. À vendre, une superbe Porsche Cayenne E-Hybrid de 2020, alliant performance hybride et luxe absolu."
+      "en": "Titre : Porsche Cayenne E-Hybrid 2020 – État Exceptionnel & Toit Ouvrant. Description :. À vendre, une superbe Porsche Cayenne E-Hybrid de 2020, alliant performance hybride et luxe absolu.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -13147,9 +13220,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture tt neuf",
-      "ar": "voiture tt neuf",
-      "original": "voiture tt neuf"
+      "original": "همزة عائلية ممتازة، ركبة عالية كتعطيك رؤية واضحة وأمان كبير فـ الطريق. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة عائلية ممتازة، ركبة عالية كتعطيك رؤية واضحة وأمان كبير فـ الطريق. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Versatile family crossover featuring a commanding driving position, generous luggage space, and dependable road manner. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -13355,9 +13429,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "honda accord",
-      "ar": "honda accord",
-      "original": "honda accord"
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with stylish alloy wheels, air conditioning, and premium leather upholstery. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -13547,9 +13622,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيارة فولكس فاجن تيغوان بحالة جيدة جدا.. - 4/4. - عجلات ألمنيوم.",
+      "original": "أعرض للبيع سيارة فولكس فاجن تيغوان بحالة جيدة جدا.. - 4/4. - عجلات ألمنيوم.",
       "ar": "أعرض للبيع سيارة فولكس فاجن تيغوان بحالة جيدة جدا.. - 4/4. - عجلات ألمنيوم.",
-      "original": "أعرض للبيع سيارة فولكس فاجن تيغوان بحالة جيدة جدا.. - 4/4. - عجلات ألمنيوم."
+      "en": "أعرض للبيع سيارة فولكس فاجن تيغوان بحالة جيدة جدا.. - 4/4. - عجلات ألمنيوم.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -13758,9 +13834,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture tt neuf mod 2015 ded 2025",
-      "ar": "voiture tt neuf mod 2015 ded 2025",
-      "original": "voiture tt neuf mod 2015 ded 2025"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with touchscreen GPS navigation, reversing camera and parking sensors, and cruise control. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -13966,9 +14043,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Fiat 500 Essence Automatique de 2025 en excellent état.. - Première main. - Origine : WW au Maroc.",
+      "original": "Je vends une Fiat 500 Essence Automatique de 2025 en excellent état.. - Première main. - Origine : WW au Maroc.",
       "ar": "Je vends une Fiat 500 Essence Automatique de 2025 en excellent état.. - Première main. - Origine : WW au Maroc.",
-      "original": "Je vends une Fiat 500 Essence Automatique de 2025 en excellent état.. - Première main. - Origine : WW au Maroc."
+      "en": "Je vends une Fiat 500 Essence Automatique de 2025 en excellent état.. - Première main. - Origine : WW au Maroc.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -14173,9 +14251,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je met en vente Mercedes-Benz Class GLC Diesel tout options Automatique diesel modèl 2017 importée neuve disponible à Fès matricule rabat .mode AMG aSSwat pour plus d’information contact moi",
+      "original": "Je met en vente Mercedes-Benz Class GLC Diesel tout options Automatique diesel modèl 2017 importée neuve disponible à Fès matricule rabat .mode AMG aSSwat pour plus d’information contact moi",
       "ar": "Je met en vente Mercedes-Benz Class GLC Diesel tout options Automatique diesel modèl 2017 importée neuve disponible à Fès matricule rabat .mode AMG aSSwat pour plus d’information contact moi",
-      "original": "Je met en vente Mercedes-Benz Class GLC Diesel tout options Automatique diesel modèl 2017 importée neuve disponible à Fès matricule rabat .mode AMG aSSwat pour plus d’information contact moi"
+      "en": "Je met en vente Mercedes-Benz Class GLC Diesel tout options Automatique diesel modèl 2017 importée neuve disponible à Fès matricule rabat .mode AMG aSSwat pour plus d’information contact moi",
+      "usedDarija": false
     },
     "features": [
       {
@@ -14390,9 +14469,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Bwm 530e 2019",
-      "ar": "Bwm 530e 2019",
-      "original": "Bwm 530e 2019"
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -14531,9 +14611,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "offre négociable, BMW Série 1 114d – Pack Sport – Diesel – 2015. À vendre BMW Série 1 114d, Pack Sport, en très bon état.. * Motorisation : Diesel.",
+      "original": "offre négociable, BMW Série 1 114d – Pack Sport – Diesel – 2015. À vendre BMW Série 1 114d, Pack Sport, en très bon état.. * Motorisation : Diesel.",
       "ar": "offre négociable, BMW Série 1 114d – Pack Sport – Diesel – 2015. À vendre BMW Série 1 114d, Pack Sport, en très bon état.. * Motorisation : Diesel.",
-      "original": "offre négociable, BMW Série 1 114d – Pack Sport – Diesel – 2015. À vendre BMW Série 1 114d, Pack Sport, en très bon état.. * Motorisation : Diesel."
+      "en": "offre négociable, BMW Série 1 114d – Pack Sport – Diesel – 2015. À vendre BMW Série 1 114d, Pack Sport, en très bon état.. * Motorisation : Diesel.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -14725,9 +14806,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Cla 200d amg line\n Model 03.2022\n Dédouanée 2025\nDiesel \nAutomatik \n84 000 km",
-      "ar": "Cla 200d amg line\n Model 03.2022\n Dédouanée 2025\nDiesel \nAutomatik \n84 000 km",
-      "original": "Cla 200d amg line\n Model 03.2022\n Dédouanée 2025\nDiesel \nAutomatik \n84 000 km"
+      "original": "Cla 200d amg line Model 03.2022 Dédouanée 2025 Diesel Automatik 84 000 km",
+      "ar": "Cla 200d amg line Model 03.2022 Dédouanée 2025 Diesel Automatik 84 000 km",
+      "en": "Cla 200d amg line Model 03.2022 Dédouanée 2025 Diesel Automatik 84 000 km",
+      "usedDarija": false
     },
     "features": [
       {
@@ -14942,9 +15024,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mini Cooper Essence année 2007 9ch kilométrage 200k très bonne état jamais accidenté disponible a hay mohmmadi agadir possible reprise.",
+      "original": "Mini Cooper Essence année 2007 9ch kilométrage 200k très bonne état jamais accidenté disponible a hay mohmmadi agadir possible reprise.",
       "ar": "Mini Cooper Essence année 2007 9ch kilométrage 200k très bonne état jamais accidenté disponible a hay mohmmadi agadir possible reprise.",
-      "original": "Mini Cooper Essence année 2007 9ch kilométrage 200k très bonne état jamais accidenté disponible a hay mohmmadi agadir possible reprise."
+      "en": "Mini Cooper Essence année 2007 9ch kilométrage 200k très bonne état jamais accidenté disponible a hay mohmmadi agadir possible reprise.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -15138,9 +15221,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Hyundai Creta de 2020 en excellent état.. - Type de carburant : Diesel. - Origine : WW au Maroc.",
-      "ar": "Je vends une Hyundai Creta de 2020 en excellent état.. - Type de carburant : Diesel. - Origine : WW au Maroc.",
-      "original": "Je vends une Hyundai Creta de 2020 en excellent état.. - Type de carburant : Diesel. - Origine : WW au Maroc."
+      "original": "Je vends une Hyundai Creta de 2020 en excellent état.. - Type de . - Origine : WW au Maroc.",
+      "ar": "Je vends une Hyundai Creta de 2020 en excellent état.. - Type de . - Origine : WW au Maroc.",
+      "en": "Je vends une Hyundai Creta de 2020 en excellent état.. - Type de . - Origine : WW au Maroc.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -15340,9 +15424,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre : Land Rover Range Rover Sport de 2012 en très bon état.. - Jantes aluminium - Airbags - Climatisation - Système de navigation GPS - Sièges en cuir - Radar de recul - Caméra de recul - Vitres électriques - ABS ESP -…",
-      "ar": "À vendre : Land Rover Range Rover Sport de 2012 en très bon état.. - Jantes aluminium - Airbags - Climatisation - Système de navigation GPS - Sièges en cuir - Radar de recul - Caméra de recul - Vitres électriques - ABS ESP -…",
-      "original": "À vendre : Land Rover Range Rover Sport de 2012 en très bon état.. - Jantes aluminium - Airbags - Climatisation - Système de navigation GPS - Sièges en cuir - Radar de recul - Caméra de recul - Vitres électriques - ABS ESP -…"
+      "original": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with touchscreen GPS navigation, reversing camera and parking sensors, and cruise control. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -15557,9 +15642,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Volkswagen Polo de 2013 en excellent état.. - Jantes aluminium. - Airbags.",
+      "original": "Je propose à la vente une Volkswagen Polo de 2013 en excellent état.. - Jantes aluminium. - Airbags.",
       "ar": "Je propose à la vente une Volkswagen Polo de 2013 en excellent état.. - Jantes aluminium. - Airbags.",
-      "original": "Je propose à la vente une Volkswagen Polo de 2013 en excellent état.. - Jantes aluminium. - Airbags."
+      "en": "Je propose à la vente une Volkswagen Polo de 2013 en excellent état.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -15758,9 +15844,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Volkswagen Tiguan de 2009 en très bon état.. - Type de carburant : Diesel. - Origine : WW au Maroc.",
-      "ar": "Je vends une Volkswagen Tiguan de 2009 en très bon état.. - Type de carburant : Diesel. - Origine : WW au Maroc.",
-      "original": "Je vends une Volkswagen Tiguan de 2009 en très bon état.. - Type de carburant : Diesel. - Origine : WW au Maroc."
+      "original": "Je vends une Volkswagen Tiguan de 2009 en très bon état.. - Type de . - Origine : WW au Maroc.",
+      "ar": "Je vends une Volkswagen Tiguan de 2009 en très bon état.. - Type de . - Origine : WW au Maroc.",
+      "en": "Je vends une Volkswagen Tiguan de 2009 en très bon état.. - Type de . - Origine : WW au Maroc.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -15952,9 +16039,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Citroen berlingo mzut medl 2009 diwna 2017 tout options",
+      "original": "Citroen berlingo mzut medl 2009 diwna 2017 tout options",
       "ar": "Citroen berlingo mzut medl 2009 diwna 2017 tout options",
-      "original": "Citroen berlingo mzut medl 2009 diwna 2017 tout options"
+      "en": "Citroen berlingo mzut medl 2009 diwna 2017 tout options",
+      "usedDarija": false
     },
     "features": [
       {
@@ -16144,9 +16232,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Renault kango très bon état kilométrage model **** km , la voiture et bien entretenu",
+      "original": "Renault kango très bon état kilométrage model **** km , la voiture et bien entretenu",
       "ar": "Renault kango très bon état kilométrage model **** km , la voiture et bien entretenu",
-      "original": "Renault kango très bon état kilométrage model **** km , la voiture et bien entretenu"
+      "en": "Renault kango très bon état kilométrage model **** km , la voiture et bien entretenu",
+      "usedDarija": false
     },
     "features": [
       {
@@ -16338,9 +16427,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Dariba 6\ndarba 200km\ntoutes option\nba9a n9iya jamais accidenté\nmodel 2014\nmontage USA \nGPS maroc\nTanger",
-      "ar": "Dariba 6\ndarba 200km\ntoutes option\nba9a n9iya jamais accidenté\nmodel 2014\nmontage USA \nGPS maroc\nTanger",
-      "original": "Dariba 6\ndarba 200km\ntoutes option\nba9a n9iya jamais accidenté\nmodel 2014\nmontage USA \nGPS maroc\nTanger"
+      "original": "Dariba 6 darba 200km toutes option ba9a n9iya jamais accidenté model 2014 montage USA GPS maroc Tanger",
+      "ar": "Dariba 6 darba 200km toutes option ba9a n9iya jamais accidenté model 2014 montage USA GPS maroc Tanger",
+      "en": "Dariba 6 darba 200km toutes option ba9a n9iya jamais accidenté model 2014 montage USA GPS maroc Tanger",
+      "usedDarija": false
     },
     "features": [
       {
@@ -16555,9 +16645,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une Audi A5 diesel automatique",
+      "original": "Je mets en vente une Audi A5 diesel automatique",
       "ar": "Je mets en vente une Audi A5 diesel automatique",
-      "original": "Je mets en vente une Audi A5 diesel automatique"
+      "en": "Je mets en vente une Audi A5 diesel automatique",
+      "usedDarija": false
     },
     "features": [
       {
@@ -16755,9 +16846,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Nissan Note 2004 en bon état général, disponible pour visite.",
+      "original": "Nissan Note 2004 en bon état général, disponible pour visite.",
       "ar": "Nissan Note 2004 en bon état général, disponible pour visite.",
-      "original": "Nissan Note 2004 en bon état général, disponible pour visite."
+      "en": "Nissan Note 2004 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -16956,9 +17048,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Renault Laguna III 2.0 L, modèle 2008, importée neuve de France.. Une berline confortable, élégante et très bien équipée, offrant un excellent compromis entre confort, tenue de route et équipements.. ✨ Équipements :.",
-      "ar": "À vendre Renault Laguna III 2.0 L, modèle 2008, importée neuve de France.. Une berline confortable, élégante et très bien équipée, offrant un excellent compromis entre confort, tenue de route et équipements.. ✨ Équipements :.",
-      "original": "À vendre Renault Laguna III 2.0 L, modèle 2008, importée neuve de France.. Une berline confortable, élégante et très bien équipée, offrant un excellent compromis entre confort, tenue de route et équipements.. ✨ Équipements :."
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with stylish alloy wheels, air conditioning, and reversing camera and parking sensors. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -17153,9 +17246,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "BMW X5 Pack M 45e\nModèle 2022. très bon état.\nEntretien bmw smeia\nFinition pack M : cuir, toit ouvrant, cockpit digital, assistances à la conduite\nVersion 45e PHEV hybride rechargeable, 80km d'autonomie électrique.",
-      "ar": "BMW X5 Pack M 45e\nModèle 2022. très bon état.\nEntretien bmw smeia\nFinition pack M : cuir, toit ouvrant, cockpit digital, assistances à la conduite\nVersion 45e PHEV hybride rechargeable, 80km d'autonomie électrique.",
-      "original": "BMW X5 Pack M 45e\nModèle 2022. très bon état.\nEntretien bmw smeia\nFinition pack M : cuir, toit ouvrant, cockpit digital, assistances à la conduite\nVersion 45e PHEV hybride rechargeable, 80km d'autonomie électrique."
+      "original": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -17364,9 +17458,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je met en vente ma voiture toute option état chowroum entretien vw autre infos contacte moi",
+      "original": "je met en vente ma voiture toute option état chowroum entretien vw autre infos contacte moi",
       "ar": "je met en vente ma voiture toute option état chowroum entretien vw autre infos contacte moi",
-      "original": "je met en vente ma voiture toute option état chowroum entretien vw autre infos contacte moi"
+      "en": "je met en vente ma voiture toute option état chowroum entretien vw autre infos contacte moi",
+      "usedDarija": false
     },
     "features": [
       {
@@ -17580,9 +17675,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une Hyundai i20 Essence Automatique de 2024 en excellent état.. - Jantes aluminium. - Airbags.",
+      "original": "Je mets en vente une Hyundai i20 Essence Automatique de 2024 en excellent état.. - Jantes aluminium. - Airbags.",
       "ar": "Je mets en vente une Hyundai i20 Essence Automatique de 2024 en excellent état.. - Jantes aluminium. - Airbags.",
-      "original": "Je mets en vente une Hyundai i20 Essence Automatique de 2024 en excellent état.. - Jantes aluminium. - Airbags."
+      "en": "Je mets en vente une Hyundai i20 Essence Automatique de 2024 en excellent état.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -17792,9 +17888,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "فيات سيينا موديل 1998 بحالة جيدة للبيع.. - نوافذ كهربائية. - ماركة فيات.",
+      "original": "فيات سيينا موديل 1998 بحالة جيدة للبيع.. - نوافذ كهربائية. - ماركة فيات.",
       "ar": "فيات سيينا موديل 1998 بحالة جيدة للبيع.. - نوافذ كهربائية. - ماركة فيات.",
-      "original": "فيات سيينا موديل 1998 بحالة جيدة للبيع.. - نوافذ كهربائية. - ماركة فيات."
+      "en": "فيات سيينا موديل 1998 بحالة جيدة للبيع.. - نوافذ كهربائية. - ماركة فيات.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -17941,9 +18038,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Opel Corsa Diesel Manuelle en excellent état.. - Origine : WW au Maroc. - Première main.",
+      "original": "Je propose à la vente une Opel Corsa Diesel Manuelle en excellent état.. - Origine : WW au Maroc. - Première main.",
       "ar": "Je propose à la vente une Opel Corsa Diesel Manuelle en excellent état.. - Origine : WW au Maroc. - Première main.",
-      "original": "Je propose à la vente une Opel Corsa Diesel Manuelle en excellent état.. - Origine : WW au Maroc. - Première main."
+      "en": "Je propose à la vente une Opel Corsa Diesel Manuelle en excellent état.. - Origine : WW au Maroc. - Première main.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -18147,9 +18245,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيتروين سي إليزي موديل 2022 بحالة ممتازة.. - الماركة: ستروين. - الموديل: سي إليزي.",
+      "original": "أعرض للبيع سيتروين سي إليزي موديل 2022 بحالة ممتازة.. - الماركة: ستروين. - الموديل: سي إليزي.",
       "ar": "أعرض للبيع سيتروين سي إليزي موديل 2022 بحالة ممتازة.. - الماركة: ستروين. - الموديل: سي إليزي.",
-      "original": "أعرض للبيع سيتروين سي إليزي موديل 2022 بحالة ممتازة.. - الماركة: ستروين. - الموديل: سي إليزي."
+      "en": "أعرض للبيع سيتروين سي إليزي موديل 2022 بحالة ممتازة.. - الماركة: ستروين. - الموديل: سي إليزي.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -18339,9 +18438,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre : Peugeot 206 HDI, modèle 2005, en bon état",
+      "original": "À vendre : Peugeot 206 HDI, modèle 2005, en bon état",
       "ar": "À vendre : Peugeot 206 HDI, modèle 2005, en bon état",
-      "original": "À vendre : Peugeot 206 HDI, modèle 2005, en bon état"
+      "en": "À vendre : Peugeot 206 HDI, modèle 2005, en bon état",
+      "usedDarija": false
     },
     "features": [
       {
@@ -18483,9 +18583,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Honda jazz n9iya 2009 automatique smasriya blach merci",
+      "original": "Honda jazz n9iya 2009 automatique smasriya blach merci",
       "ar": "Honda jazz n9iya 2009 automatique smasriya blach merci",
-      "original": "Honda jazz n9iya 2009 automatique smasriya blach merci"
+      "en": "Honda jazz n9iya 2009 automatique smasriya blach merci",
+      "usedDarija": false
     },
     "features": [
       {
@@ -18653,9 +18754,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Mercedes Classe A220 pack AMG, modèle 2023, dédouanée en 2024 et en excellent état.. Véhicule en excellent état, strictement entretenu, jamais accidenté.. Configuration classe A 220 diesel Pack AMG intérieur et extérieur.",
-      "ar": "À vendre Mercedes Classe A220 pack AMG, modèle 2023, dédouanée en 2024 et en excellent état.. Véhicule en excellent état, strictement entretenu, jamais accidenté.. Configuration classe A 220 diesel Pack AMG intérieur et extérieur.",
-      "original": "À vendre Mercedes Classe A220 pack AMG, modèle 2023, dédouanée en 2024 et en excellent état.. Véhicule en excellent état, strictement entretenu, jamais accidenté.. Configuration classe A 220 diesel Pack AMG intérieur et extérieur."
+      "original": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with air conditioning, premium leather upholstery, and touchscreen GPS navigation. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -18870,9 +18972,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je met en vente ma voiture Ford kuga automatique modèle 2020 en Excellent état, Première main. Cette annonce ne concerne pas les intermédiaires.",
+      "original": "je met en vente ma voiture Ford kuga automatique modèle 2020 en Excellent état, Première main. Cette annonce ne concerne pas les intermédiaires.",
       "ar": "je met en vente ma voiture Ford kuga automatique modèle 2020 en Excellent état, Première main. Cette annonce ne concerne pas les intermédiaires.",
-      "original": "je met en vente ma voiture Ford kuga automatique modèle 2020 en Excellent état, Première main. Cette annonce ne concerne pas les intermédiaires."
+      "en": "je met en vente ma voiture Ford kuga automatique modèle 2020 en Excellent état, Première main. Cette annonce ne concerne pas les intermédiaires.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -19081,9 +19184,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je met en vente ma Mercedes C coupe importé neuf,facelift restylè ,pack AMG plus la full option.voiture propre , km reel certifiè…\ncontacter moi via whatsapp.disponible sur agadir",
-      "ar": "je met en vente ma Mercedes C coupe importé neuf,facelift restylè ,pack AMG plus la full option.voiture propre , km reel certifiè…\ncontacter moi via whatsapp.disponible sur agadir",
-      "original": "je met en vente ma Mercedes C coupe importé neuf,facelift restylè ,pack AMG plus la full option.voiture propre , km reel certifiè…\ncontacter moi via whatsapp.disponible sur agadir"
+      "original": "je met en vente ma Mercedes C coupe importé neuf,facelift restylè ,pack AMG plus la full option.voiture propre , km reel certifiè… contacter moi via whatsapp.disponible sur agadir",
+      "ar": "je met en vente ma Mercedes C coupe importé neuf,facelift restylè ,pack AMG plus la full option.voiture propre , km reel certifiè… contacter moi via whatsapp.disponible sur agadir",
+      "en": "je met en vente ma Mercedes C coupe importé neuf,facelift restylè ,pack AMG plus la full option.voiture propre , km reel certifiè… contacter moi via whatsapp.disponible sur agadir",
+      "usedDarija": false
     },
     "features": [
       {
@@ -19296,9 +19400,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mercedes-Benz 220 2004 en bon état général, disponible pour visite.",
+      "original": "Mercedes-Benz 220 2004 en bon état général, disponible pour visite.",
       "ar": "Mercedes-Benz 220 2004 en bon état général, disponible pour visite.",
-      "original": "Mercedes-Benz 220 2004 en bon état général, disponible pour visite."
+      "en": "Mercedes-Benz 220 2004 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -19427,9 +19532,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre : Mercedes A200d pack AMG, modèle fin 2020, avec un faible kilométrage.",
+      "original": "À vendre : Mercedes A200d pack AMG, modèle fin 2020, avec un faible kilométrage.",
       "ar": "À vendre : Mercedes A200d pack AMG, modèle fin 2020, avec un faible kilométrage.",
-      "original": "À vendre : Mercedes A200d pack AMG, modèle fin 2020, avec un faible kilométrage."
+      "en": "À vendre : Mercedes A200d pack AMG, modèle fin 2020, avec un faible kilométrage.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -19571,9 +19677,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيارة فولكس فاجن غولف 5 بحالة جيدة.. - موديل 2008. - محرك ديزل بقوة 8 خ ح.",
+      "original": "أعرض للبيع سيارة فولكس فاجن غولف 5 بحالة جيدة.. - موديل 2008. - محرك ديزل بقوة 8 خ ح.",
       "ar": "أعرض للبيع سيارة فولكس فاجن غولف 5 بحالة جيدة.. - موديل 2008. - محرك ديزل بقوة 8 خ ح.",
-      "original": "أعرض للبيع سيارة فولكس فاجن غولف 5 بحالة جيدة.. - موديل 2008. - محرك ديزل بقوة 8 خ ح."
+      "en": "أعرض للبيع سيارة فولكس فاجن غولف 5 بحالة جيدة.. - موديل 2008. - محرك ديزل بقوة 8 خ ح.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -19758,9 +19865,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Peugeot Partner Diesel Manuelle de 2018 à Rabat.. - Jantes aluminium. - Climatisation.",
+      "original": "À vendre Peugeot Partner Diesel Manuelle de 2018 à Rabat.. - Jantes aluminium. - Climatisation.",
       "ar": "À vendre Peugeot Partner Diesel Manuelle de 2018 à Rabat.. - Jantes aluminium. - Climatisation.",
-      "original": "À vendre Peugeot Partner Diesel Manuelle de 2018 à Rabat.. - Jantes aluminium. - Climatisation."
+      "en": "À vendre Peugeot Partner Diesel Manuelle de 2018 à Rabat.. - Jantes aluminium. - Climatisation.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -19969,9 +20077,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "صباغة الأولى",
-      "ar": "صباغة الأولى",
-      "original": "صباغة الأولى"
+      "original": "ديال الخدمة والدوام والصبر، موطورها معروف بالمتانة والبياس ديالها متوفر ورخيص. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "ديال الخدمة والدوام والصبر، موطورها معروف بالمتانة والبياس ديالها متوفر ورخيص. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Reliable, cost-effective daily driver built for endurance with widely available parts and low operating costs. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -20149,9 +20258,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "PEUGEOT 2008 Modél 2020 Ww maroc kilométrages 100000",
+      "original": "PEUGEOT 2008 Modél 2020 Ww maroc kilométrages 100000",
       "ar": "PEUGEOT 2008 Modél 2020 Ww maroc kilométrages 100000",
-      "original": "PEUGEOT 2008 Modél 2020 Ww maroc kilométrages 100000"
+      "en": "PEUGEOT 2008 Modél 2020 Ww maroc kilométrages 100000",
+      "usedDarija": false
     },
     "features": [
       {
@@ -20368,9 +20478,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Suzuki sv650 21000 km Model. 12/2023 Tres bon etat",
+      "original": "Suzuki sv650 21000 km Model. 12/2023 Tres bon etat",
       "ar": "Suzuki sv650 21000 km Model. 12/2023 Tres bon etat",
-      "original": "Suzuki sv650 21000 km Model. 12/2023 Tres bon etat"
+      "en": "Suzuki sv650 21000 km Model. 12/2023 Tres bon etat",
+      "usedDarija": false
     },
     "features": [
       {
@@ -20499,9 +20610,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Vespa Sprint 50cc | 2025 | 1.000 KM | Importé Neuf",
+      "original": "Vespa Sprint 50cc | 2025 | 1.000 KM | Importé Neuf",
       "ar": "Vespa Sprint 50cc | 2025 | 1.000 KM | Importé Neuf",
-      "original": "Vespa Sprint 50cc | 2025 | 1.000 KM | Importé Neuf"
+      "en": "Vespa Sprint 50cc | 2025 | 1.000 KM | Importé Neuf",
+      "usedDarija": false
     },
     "features": [
       {
@@ -20611,9 +20723,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "🏁 YAMAHA RAPTOR 700 R – 2024 🏁. 🔥 Une machine exceptionnelle, en excellent état et très peu utilisée !. 📅 Année : 2024.",
+      "original": "🏁 YAMAHA RAPTOR 700 R – 2024 🏁. 🔥 Une machine exceptionnelle, en excellent état et très peu utilisée !. 📅 Année : 2024.",
       "ar": "🏁 YAMAHA RAPTOR 700 R – 2024 🏁. 🔥 Une machine exceptionnelle, en excellent état et très peu utilisée !. 📅 Année : 2024.",
-      "original": "🏁 YAMAHA RAPTOR 700 R – 2024 🏁. 🔥 Une machine exceptionnelle, en excellent état et très peu utilisée !. 📅 Année : 2024."
+      "en": "🏁 YAMAHA RAPTOR 700 R – 2024 🏁. 🔥 Une machine exceptionnelle, en excellent état et très peu utilisée !. 📅 Année : 2024.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -20725,9 +20838,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "2026 New Honda ADV 350 Black Matt\n00 KM \nRabat T - 1 \nPACK PREMIUM NANO CERAMIC Offert\nAvailable Now - Best Price \nSummer Offer \nLivraison partout au Maroc",
-      "ar": "2026 New Honda ADV 350 Black Matt\n00 KM \nRabat T - 1 \nPACK PREMIUM NANO CERAMIC Offert\nAvailable Now - Best Price \nSummer Offer \nLivraison partout au Maroc",
-      "original": "2026 New Honda ADV 350 Black Matt\n00 KM \nRabat T - 1 \nPACK PREMIUM NANO CERAMIC Offert\nAvailable Now - Best Price \nSummer Offer \nLivraison partout au Maroc"
+      "original": "2026 New Honda ADV 350 Black Matt 00 KM Rabat T - 1 PACK PREMIUM NANO CERAMIC Offert Available Now - Best Price Summer Offer Livraison partout au Maroc",
+      "ar": "2026 New Honda ADV 350 Black Matt 00 KM Rabat T - 1 PACK PREMIUM NANO CERAMIC Offert Available Now - Best Price Summer Offer Livraison partout au Maroc",
+      "en": "2026 New Honda ADV 350 Black Matt 00 KM Rabat T - 1 PACK PREMIUM NANO CERAMIC Offert Available Now - Best Price Summer Offer Livraison partout au Maroc",
+      "usedDarija": false
     },
     "features": [
       {
@@ -20845,9 +20959,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "GOTHA MOTORS METS EN VENTE HONDA ADV 160 importé neuf pour plus contactez nous merci",
+      "original": "GOTHA MOTORS METS EN VENTE HONDA ADV 160 importé neuf pour plus contactez nous merci",
       "ar": "GOTHA MOTORS METS EN VENTE HONDA ADV 160 importé neuf pour plus contactez nous merci",
-      "original": "GOTHA MOTORS METS EN VENTE HONDA ADV 160 importé neuf pour plus contactez nous merci"
+      "en": "GOTHA MOTORS METS EN VENTE HONDA ADV 160 importé neuf pour plus contactez nous merci",
+      "usedDarija": false
     },
     "features": [
       {
@@ -20963,9 +21078,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Honda X ADV 750 Special Edition Pearl White Tricolor 2026 Neuf 0 KM.. Version - Special Edition. Cylindrée - 750.",
+      "original": "Honda X ADV 750 Special Edition Pearl White Tricolor 2026 Neuf 0 KM.. Version - Special Edition. Cylindrée - 750.",
       "ar": "Honda X ADV 750 Special Edition Pearl White Tricolor 2026 Neuf 0 KM.. Version - Special Edition. Cylindrée - 750.",
-      "original": "Honda X ADV 750 Special Edition Pearl White Tricolor 2026 Neuf 0 KM.. Version - Special Edition. Cylindrée - 750."
+      "en": "Honda X ADV 750 Special Edition Pearl White Tricolor 2026 Neuf 0 KM.. Version - Special Edition. Cylindrée - 750.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -21081,9 +21197,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "2024 Kawazaki Eliminator 500 Premiere Main \nAnnée - 2024\nVersion - Eliminator\nCylindrée - 500 \nOrigine - W Maroc\nImmatriculation - Tanger",
-      "ar": "2024 Kawazaki Eliminator 500 Premiere Main \nAnnée - 2024\nVersion - Eliminator\nCylindrée - 500 \nOrigine - W Maroc\nImmatriculation - Tanger",
-      "original": "2024 Kawazaki Eliminator 500 Premiere Main \nAnnée - 2024\nVersion - Eliminator\nCylindrée - 500 \nOrigine - W Maroc\nImmatriculation - Tanger"
+      "original": "2024 Kawazaki Eliminator 500 Premiere Main Année - 2024 Version - Eliminator Cylindrée - 500 Origine - W Maroc Immatriculation - Tanger",
+      "ar": "2024 Kawazaki Eliminator 500 Premiere Main Année - 2024 Version - Eliminator Cylindrée - 500 Origine - W Maroc Immatriculation - Tanger",
+      "en": "2024 Kawazaki Eliminator 500 Premiere Main Année - 2024 Version - Eliminator Cylindrée - 500 Origine - W Maroc Immatriculation - Tanger",
+      "usedDarija": false
     },
     "features": [
       {
@@ -21248,9 +21365,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Modele 2024 motos tres neuf Tout option Ww marox",
+      "original": "Modele 2024 motos tres neuf Tout option Ww marox",
       "ar": "Modele 2024 motos tres neuf Tout option Ww marox",
-      "original": "Modele 2024 motos tres neuf Tout option Ww marox"
+      "en": "Modele 2024 motos tres neuf Tout option Ww marox",
+      "usedDarija": false
     },
     "features": [
       {
@@ -21393,9 +21511,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "TRACER 9 GT phase 4 ✅ ✅ Modèle 2025/12 ✅ WW maroc (yamahaMifa) ✅ Première main🤚🏻 ✅ 16k KM réel ✅ Support topcaise yamaha original ✅ Top caise yamaha original ✅ Crash bar yamaha original ✅ Sabot moteur yamaha original ✅ Cash…",
-      "ar": "TRACER 9 GT phase 4 ✅ ✅ Modèle 2025/12 ✅ WW maroc (yamahaMifa) ✅ Première main🤚🏻 ✅ 16k KM réel ✅ Support topcaise yamaha original ✅ Top caise yamaha original ✅ Crash bar yamaha original ✅ Sabot moteur yamaha original ✅ Cash…",
-      "original": "TRACER 9 GT phase 4 ✅ ✅ Modèle 2025/12 ✅ WW maroc (yamahaMifa) ✅ Première main🤚🏻 ✅ 16k KM réel ✅ Support topcaise yamaha original ✅ Top caise yamaha original ✅ Crash bar yamaha original ✅ Sabot moteur yamaha original ✅ Cash…"
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. باقا بحال يلا عاد خارجة من لا ميزون. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. باقا بحال يلا عاد خارجة من لا ميزون. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -21541,9 +21660,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "✅Modèle 2020-12-30 ✅Dédouané 2025-06-12 ✅Motor débridé A3 ✅fiha filtre air BMC sport ✅ les bougies iridium laser ✅ pot black widow la ligne complète ✅Siège confort ✅Décalque bombe réservoir origine ✅Cash radiateur ✅La bulle mt07…",
-      "ar": "✅Modèle 2020-12-30 ✅Dédouané 2025-06-12 ✅Motor débridé A3 ✅fiha filtre air BMC sport ✅ les bougies iridium laser ✅ pot black widow la ligne complète ✅Siège confort ✅Décalque bombe réservoir origine ✅Cash radiateur ✅La bulle mt07…",
-      "original": "✅Modèle 2020-12-30 ✅Dédouané 2025-06-12 ✅Motor débridé A3 ✅fiha filtre air BMC sport ✅ les bougies iridium laser ✅ pot black widow la ligne complète ✅Siège confort ✅Décalque bombe réservoir origine ✅Cash radiateur ✅La bulle mt07…"
+      "original": "مكينة مجهدة وصحيحة، كتجري مزيان فـ لوتوروت وشكل هجومي كيحمق. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "مكينة مجهدة وصحيحة، كتجري مزيان فـ لوتوروت وشكل هجومي كيحمق. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Enthusiast-owned sports bike offering sharp cornering dynamics, raw mechanical soundtrack, and solid running gear. Very low mileage with bodywork and interior in near-showroom condition. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -21684,9 +21804,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "## 🏍️ Yamaha MT-07 2023 – Excellent état – 20 800 km * **Modèle :** Yamaha MT-07 * **Année :** 2023 * **Kilométrage :** 20 800 km * **Couleur :** Bleu * **Prix :** **** * **Propriétaire :** 1er propriétaire * **ABS :** Oui *…",
-      "ar": "## 🏍️ Yamaha MT-07 2023 – Excellent état – 20 800 km * **Modèle :** Yamaha MT-07 * **Année :** 2023 * **Kilométrage :** 20 800 km * **Couleur :** Bleu * **Prix :** **** * **Propriétaire :** 1er propriétaire * **ABS :** Oui *…",
-      "original": "## 🏍️ Yamaha MT-07 2023 – Excellent état – 20 800 km * **Modèle :** Yamaha MT-07 * **Année :** 2023 * **Kilométrage :** 20 800 km * **Couleur :** Bleu * **Prix :** **** * **Propriétaire :** 1er propriétaire * **ABS :** Oui *…"
+      "original": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -21828,9 +21949,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Royal enfield himalayan 450cc dossier 1 crema 58 casabra we have anothe black color himalayan tubless 66",
+      "original": "Royal enfield himalayan 450cc dossier 1 crema 58 casabra we have anothe black color himalayan tubless 66",
       "ar": "Royal enfield himalayan 450cc dossier 1 crema 58 casabra we have anothe black color himalayan tubless 66",
-      "original": "Royal enfield himalayan 450cc dossier 1 crema 58 casabra we have anothe black color himalayan tubless 66"
+      "en": "Royal enfield himalayan 450cc dossier 1 crema 58 casabra we have anothe black color himalayan tubless 66",
+      "usedDarija": false
     },
     "features": [
       {
@@ -21973,9 +22095,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "kawasaki versys 650cc dossier 2 livraison disponible au maroc",
+      "original": "kawasaki versys 650cc dossier 2 livraison disponible au maroc",
       "ar": "kawasaki versys 650cc dossier 2 livraison disponible au maroc",
-      "original": "kawasaki versys 650cc dossier 2 livraison disponible au maroc"
+      "en": "kawasaki versys 650cc dossier 2 livraison disponible au maroc",
+      "usedDarija": false
     },
     "features": [
       {
@@ -22116,9 +22239,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Citroën C3 essence automatique de 2025 en excellent état.. - Jantes aluminium. - Airbags.",
+      "original": "Je vends une Citroën C3 essence automatique de 2025 en excellent état.. - Jantes aluminium. - Airbags.",
       "ar": "Je vends une Citroën C3 essence automatique de 2025 en excellent état.. - Jantes aluminium. - Airbags.",
-      "original": "Je vends une Citroën C3 essence automatique de 2025 en excellent état.. - Jantes aluminium. - Airbags."
+      "en": "Je vends une Citroën C3 essence automatique de 2025 en excellent état.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -22327,9 +22451,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Alfa Romeo GT de 2007 en bon état.. - Origine : WW au Maroc. - Nombre de portes : 3.",
+      "original": "Je propose à la vente une Alfa Romeo GT de 2007 en bon état.. - Origine : WW au Maroc. - Nombre de portes : 3.",
       "ar": "Je propose à la vente une Alfa Romeo GT de 2007 en bon état.. - Origine : WW au Maroc. - Nombre de portes : 3.",
-      "original": "Je propose à la vente une Alfa Romeo GT de 2007 en bon état.. - Origine : WW au Maroc. - Nombre de portes : 3."
+      "en": "Je propose à la vente une Alfa Romeo GT de 2007 en bon état.. - Origine : WW au Maroc. - Nombre de portes : 3.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -22468,9 +22593,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une Hyundai i40 de 2015 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "original": "Je mets en vente une Hyundai i40 de 2015 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium.",
       "ar": "Je mets en vente une Hyundai i40 de 2015 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium.",
-      "original": "Je mets en vente une Hyundai i40 de 2015 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium."
+      "en": "Je mets en vente une Hyundai i40 de 2015 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -22657,9 +22783,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Porsche Panamera Essence Automatique 2012. v6 - 300 chevaux 3litres. nombreuse pièces changer sur le véhicule ,.",
+      "original": "Porsche Panamera Essence Automatique 2012. v6 - 300 chevaux 3litres. nombreuse pièces changer sur le véhicule ,.",
       "ar": "Porsche Panamera Essence Automatique 2012. v6 - 300 chevaux 3litres. nombreuse pièces changer sur le véhicule ,.",
-      "original": "Porsche Panamera Essence Automatique 2012. v6 - 300 chevaux 3litres. nombreuse pièces changer sur le véhicule ,."
+      "en": "Porsche Panamera Essence Automatique 2012. v6 - 300 chevaux 3litres. nombreuse pièces changer sur le véhicule ,.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -22868,9 +22995,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Audi A5 en bon état a vendre.",
-      "ar": "Audi A5 en bon état a vendre.",
-      "original": "Audi A5 en bon état a vendre."
+      "original": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -23079,9 +23207,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Dacia Steepway Diesel Manuelle de 2025, en excellent état.. - Jantes aluminium. - Airbags.",
+      "original": "À vendre Dacia Steepway Diesel Manuelle de 2025, en excellent état.. - Jantes aluminium. - Airbags.",
       "ar": "À vendre Dacia Steepway Diesel Manuelle de 2025, en excellent état.. - Jantes aluminium. - Airbags.",
-      "original": "À vendre Dacia Steepway Diesel Manuelle de 2025, en excellent état.. - Jantes aluminium. - Airbags."
+      "en": "À vendre Dacia Steepway Diesel Manuelle de 2025, en excellent état.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -23290,9 +23419,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Volkswagen Golf 8 GTE hybride, modèle 2023, en excellent état.. - Type de carburant : Hybride. - Origine : Dédouanée.",
-      "ar": "Je vends une Volkswagen Golf 8 GTE hybride, modèle 2023, en excellent état.. - Type de carburant : Hybride. - Origine : Dédouanée.",
-      "original": "Je vends une Volkswagen Golf 8 GTE hybride, modèle 2023, en excellent état.. - Type de carburant : Hybride. - Origine : Dédouanée."
+      "original": "Je vends une Volkswagen Golf 8 GTE hybride, modèle 2023, en excellent état.. - Type de . - Origine : Dédouanée.",
+      "ar": "Je vends une Volkswagen Golf 8 GTE hybride, modèle 2023, en excellent état.. - Type de . - Origine : Dédouanée.",
+      "en": "Je vends une Volkswagen Golf 8 GTE hybride, modèle 2023, en excellent état.. - Type de . - Origine : Dédouanée.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -23432,9 +23562,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "mini Cooper essence 9cv vgt model 12/2008 dd 2012 toi panoramique jamais accidenté et en parfait état",
+      "original": "mini Cooper essence 9cv vgt model 12/2008 dd 2012 toi panoramique jamais accidenté et en parfait état",
       "ar": "mini Cooper essence 9cv vgt model 12/2008 dd 2012 toi panoramique jamais accidenté et en parfait état",
-      "original": "mini Cooper essence 9cv vgt model 12/2008 dd 2012 toi panoramique jamais accidenté et en parfait état"
+      "en": "mini Cooper essence 9cv vgt model 12/2008 dd 2012 toi panoramique jamais accidenté et en parfait état",
+      "usedDarija": false
     },
     "features": [
       {
@@ -23642,9 +23773,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Peugeot Partner 2018 en bon état général, disponible pour visite.",
+      "original": "Peugeot Partner 2018 en bon état général, disponible pour visite.",
       "ar": "Peugeot Partner 2018 en bon état général, disponible pour visite.",
-      "original": "Peugeot Partner 2018 en bon état général, disponible pour visite."
+      "en": "Peugeot Partner 2018 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -23827,9 +23959,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "🚘 VOLKSWAGEN PASSAT CC – MODÈLE 2020 2L TDI 184CV. ✅ Modèle 2020 170k klm. ✅ Boîte automatique.",
+      "original": "🚘 VOLKSWAGEN PASSAT CC – MODÈLE 2020 2L TDI 184CV. ✅ Modèle 2020 170k klm. ✅ Boîte automatique.",
       "ar": "🚘 VOLKSWAGEN PASSAT CC – MODÈLE 2020 2L TDI 184CV. ✅ Modèle 2020 170k klm. ✅ Boîte automatique.",
-      "original": "🚘 VOLKSWAGEN PASSAT CC – MODÈLE 2020 2L TDI 184CV. ✅ Modèle 2020 170k klm. ✅ Boîte automatique."
+      "en": "🚘 VOLKSWAGEN PASSAT CC – MODÈLE 2020 2L TDI 184CV. ✅ Modèle 2020 170k klm. ✅ Boîte automatique.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -24044,9 +24177,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "ba9a ela yed waheda",
-      "ar": "ba9a ela yed waheda",
-      "original": "ba9a ela yed waheda"
+      "original": "طوموبيل اقتصادية بزاف ومحبوبة المغاربة، ساهلة فـ السوگان والكونسوماسيون والو. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل اقتصادية بزاف ومحبوبة المغاربة، ساهلة فـ السوگان والكونسوماسيون والو. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Popular and economical hatchback renowned for outstanding fuel economy, low maintenance, and effortless parking. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Very low mileage with bodywork and interior in near-showroom condition. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -24232,9 +24366,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Jaguar XF 2010 en bon état général, disponible pour visite.",
+      "original": "Jaguar XF 2010 en bon état général, disponible pour visite.",
       "ar": "Jaguar XF 2010 en bon état général, disponible pour visite.",
-      "original": "Jaguar XF 2010 en bon état général, disponible pour visite."
+      "en": "Jaguar XF 2010 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -24449,9 +24584,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Honda CR-V 2016 en très bon état, première main, origine WW Maroc.. - Moteur Diesel, 6 CV fiscaux. - Jantes aluminium.",
+      "original": "Honda CR-V 2016 en très bon état, première main, origine WW Maroc.. - Moteur Diesel, 6 CV fiscaux. - Jantes aluminium.",
       "ar": "Honda CR-V 2016 en très bon état, première main, origine WW Maroc.. - Moteur Diesel, 6 CV fiscaux. - Jantes aluminium.",
-      "original": "Honda CR-V 2016 en très bon état, première main, origine WW Maroc.. - Moteur Diesel, 6 CV fiscaux. - Jantes aluminium."
+      "en": "Honda CR-V 2016 en très bon état, première main, origine WW Maroc.. - Moteur Diesel, 6 CV fiscaux. - Jantes aluminium.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -24656,9 +24792,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Dacia Sandero 2021 en bon état général, disponible pour visite.",
+      "original": "Dacia Sandero 2021 en bon état général, disponible pour visite.",
       "ar": "Dacia Sandero 2021 en bon état général, disponible pour visite.",
-      "original": "Dacia Sandero 2021 en bon état général, disponible pour visite."
+      "en": "Dacia Sandero 2021 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -24865,9 +25002,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Ford Focus Sport de 2017 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "Je vends une Ford Focus Sport de 2017 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "Je vends une Ford Focus Sport de 2017 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "Je vends une Ford Focus Sport de 2017 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "Je vends une Ford Focus Sport de 2017 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -25077,9 +25215,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets a contre Coeur en vente ma Mercedes 450SL cabriolet de 1977 directement importee de Californie (Huntington Beach, CA) avec un peu plus de 109,000 miles originaux au compteur.. Les jantes 16 pouches Maxilite Penta style de…",
-      "ar": "Je mets a contre Coeur en vente ma Mercedes 450SL cabriolet de 1977 directement importee de Californie (Huntington Beach, CA) avec un peu plus de 109,000 miles originaux au compteur.. Les jantes 16 pouches Maxilite Penta style de…",
-      "original": "Je mets a contre Coeur en vente ma Mercedes 450SL cabriolet de 1977 directement importee de Californie (Huntington Beach, CA) avec un peu plus de 109,000 miles originaux au compteur.. Les jantes 16 pouches Maxilite Penta style de…"
+      "original": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with air conditioning, premium leather upholstery, and stylish alloy wheels. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -25234,9 +25373,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je met en vente ma belle voiture Passat B8 DSG la voiture est très propre à l'intérieur et à l'extérieur.",
+      "original": "Je met en vente ma belle voiture Passat B8 DSG la voiture est très propre à l'intérieur et à l'extérieur.",
       "ar": "Je met en vente ma belle voiture Passat B8 DSG la voiture est très propre à l'intérieur et à l'extérieur.",
-      "original": "Je met en vente ma belle voiture Passat B8 DSG la voiture est très propre à l'intérieur et à l'extérieur."
+      "en": "Je met en vente ma belle voiture Passat B8 DSG la voiture est très propre à l'intérieur et à l'extérieur.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -25440,9 +25580,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Volkswagen Tiguan Diesel Manuelle de 2016 en excellent état.. - Jantes aluminium. - Airbags.",
+      "original": "Je vends une Volkswagen Tiguan Diesel Manuelle de 2016 en excellent état.. - Jantes aluminium. - Airbags.",
       "ar": "Je vends une Volkswagen Tiguan Diesel Manuelle de 2016 en excellent état.. - Jantes aluminium. - Airbags.",
-      "original": "Je vends une Volkswagen Tiguan Diesel Manuelle de 2016 en excellent état.. - Jantes aluminium. - Airbags."
+      "en": "Je vends une Volkswagen Tiguan Diesel Manuelle de 2016 en excellent état.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -25639,9 +25780,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je met en vente mon audi A3 en excellent etat",
+      "original": "je met en vente mon audi A3 en excellent etat",
       "ar": "je met en vente mon audi A3 en excellent etat",
-      "original": "je met en vente mon audi A3 en excellent etat"
+      "en": "je met en vente mon audi A3 en excellent etat",
+      "usedDarija": false
     },
     "features": [
       {
@@ -25856,9 +25998,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Dacia Sandero 2021 en bon état général, disponible pour visite.",
+      "original": "Dacia Sandero 2021 en bon état général, disponible pour visite.",
       "ar": "Dacia Sandero 2021 en bon état général, disponible pour visite.",
-      "original": "Dacia Sandero 2021 en bon état général, disponible pour visite."
+      "en": "Dacia Sandero 2021 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -26065,9 +26208,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Bmw X5 Xdrive (option 4 roues motrices) toutes options , vignette 1, excellent état **** km avec les options suivantes:. - coffre automatique. -caméra de recul.",
+      "original": "Bmw X5 Xdrive (option 4 roues motrices) toutes options , vignette 1, excellent état **** km avec les options suivantes:. - coffre automatique. -caméra de recul.",
       "ar": "Bmw X5 Xdrive (option 4 roues motrices) toutes options , vignette 1, excellent état **** km avec les options suivantes:. - coffre automatique. -caméra de recul.",
-      "original": "Bmw X5 Xdrive (option 4 roues motrices) toutes options , vignette 1, excellent état **** km avec les options suivantes:. - coffre automatique. -caméra de recul."
+      "en": "Bmw X5 Xdrive (option 4 roues motrices) toutes options , vignette 1, excellent état **** km avec les options suivantes:. - coffre automatique. -caméra de recul.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -26211,9 +26355,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Peugeot 306 2000 en bon état général, disponible pour visite.",
+      "original": "Peugeot 306 2000 en bon état général, disponible pour visite.",
       "ar": "Peugeot 306 2000 en bon état général, disponible pour visite.",
-      "original": "Peugeot 306 2000 en bon état général, disponible pour visite."
+      "en": "Peugeot 306 2000 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -26383,9 +26528,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Suite à un acheteur fantôme, je remets en vente cette magnifique 523i 1ère main , Vignette à jour , zéro opposition , Km : 64321 KMS réel / fin 2006 / casablanca / poste android / clim fonctionnelle / 4 pneus neufs ( roulés 100…",
-      "ar": "Suite à un acheteur fantôme, je remets en vente cette magnifique 523i 1ère main , Vignette à jour , zéro opposition , Km : 64321 KMS réel / fin 2006 / casablanca / poste android / clim fonctionnelle / 4 pneus neufs ( roulés 100…",
-      "original": "Suite à un acheteur fantôme, je remets en vente cette magnifique 523i 1ère main , Vignette à jour , zéro opposition , Km : 64321 KMS réel / fin 2006 / casablanca / poste android / clim fonctionnelle / 4 pneus neufs ( roulés 100…"
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. موجودة للمعاينة فـ كازا. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. موجودة للمعاينة فـ كازا. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with reversing camera and parking sensors, cruise control, and stylish alloy wheels. Available for viewing in Casablanca. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -26596,9 +26742,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Dacia Sandero stepway modèle 2015 \nDiesel Manuelle ,2eme main\nPuissance fiscale:6\n221123km \nClimat,Vitres électriques ، \n الموديل2015 \n الضريبة السنوية 700 درهم \n مازوط \nتكييف الهواء ، قفل مركزي، نوافذ كهربائية",
-      "ar": "Dacia Sandero stepway modèle 2015 \nDiesel Manuelle ,2eme main\nPuissance fiscale:6\n221123km \nClimat,Vitres électriques ، \n الموديل2015 \n الضريبة السنوية 700 درهم \n مازوط \nتكييف الهواء ، قفل مركزي، نوافذ كهربائية",
-      "original": "Dacia Sandero stepway modèle 2015 \nDiesel Manuelle ,2eme main\nPuissance fiscale:6\n221123km \nClimat,Vitres électriques ، \n الموديل2015 \n الضريبة السنوية 700 درهم \n مازوط \nتكييف الهواء ، قفل مركزي، نوافذ كهربائية"
+      "original": "طوموبيل عملية ومريحة، ما كتاكل والو فـ الطريق ومحافظ عليها مولاها. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل عملية ومريحة، ما كتاكل والو فـ الطريق ومحافظ عليها مولاها. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Reliable, cost-effective daily driver built for endurance with widely available parts and low operating costs. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -26741,9 +26888,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيارة بيجو 206 بحالة جيدة جدا.. - الماركة: بيجو. - الموديل: 206.",
+      "original": "أعرض للبيع سيارة بيجو 206 بحالة جيدة جدا.. - الماركة: بيجو. - الموديل: 206.",
       "ar": "أعرض للبيع سيارة بيجو 206 بحالة جيدة جدا.. - الماركة: بيجو. - الموديل: 206.",
-      "original": "أعرض للبيع سيارة بيجو 206 بحالة جيدة جدا.. - الماركة: بيجو. - الموديل: 206."
+      "en": "أعرض للبيع سيارة بيجو 206 بحالة جيدة جدا.. - الماركة: بيجو. - الموديل: 206.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -26888,9 +27036,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Ssangyong Rexton de 2008 en très bon état, diesel automatique, origine WW Maroc.. - Jantes aluminium. - Airbags.",
+      "original": "Ssangyong Rexton de 2008 en très bon état, diesel automatique, origine WW Maroc.. - Jantes aluminium. - Airbags.",
       "ar": "Ssangyong Rexton de 2008 en très bon état, diesel automatique, origine WW Maroc.. - Jantes aluminium. - Airbags.",
-      "original": "Ssangyong Rexton de 2008 en très bon état, diesel automatique, origine WW Maroc.. - Jantes aluminium. - Airbags."
+      "en": "Ssangyong Rexton de 2008 en très bon état, diesel automatique, origine WW Maroc.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -27096,9 +27245,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Peugeot 208 de 2022 en excellent état, première main et origine WW Maroc.. - Jantes aluminium. - Airbags.",
+      "original": "Je vends une Peugeot 208 de 2022 en excellent état, première main et origine WW Maroc.. - Jantes aluminium. - Airbags.",
       "ar": "Je vends une Peugeot 208 de 2022 en excellent état, première main et origine WW Maroc.. - Jantes aluminium. - Airbags.",
-      "original": "Je vends une Peugeot 208 de 2022 en excellent état, première main et origine WW Maroc.. - Jantes aluminium. - Airbags."
+      "en": "Je vends une Peugeot 208 de 2022 en excellent état, première main et origine WW Maroc.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -27308,9 +27458,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Hyundai i20 de 2018 en très bon état.. - Airbags. - Climatisation.",
+      "original": "Je propose à la vente une Hyundai i20 de 2018 en très bon état.. - Airbags. - Climatisation.",
       "ar": "Je propose à la vente une Hyundai i20 de 2018 en très bon état.. - Airbags. - Climatisation.",
-      "original": "Je propose à la vente une Hyundai i20 de 2018 en très bon état.. - Airbags. - Climatisation."
+      "en": "Je propose à la vente une Hyundai i20 de 2018 en très bon état.. - Airbags. - Climatisation.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -27462,9 +27613,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Renault Clio 2023 en bon état général, disponible pour visite.",
+      "original": "Renault Clio 2023 en bon état général, disponible pour visite.",
       "ar": "Renault Clio 2023 en bon état général, disponible pour visite.",
-      "original": "Renault Clio 2023 en bon état général, disponible pour visite."
+      "en": "Renault Clio 2023 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -27669,9 +27821,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "vidange la mison \ntout option \nblaka rabat 1\n2023/12",
-      "ar": "vidange la mison \ntout option \nblaka rabat 1\n2023/12",
-      "original": "vidange la mison \ntout option \nblaka rabat 1\n2023/12"
+      "original": "vidange la mison tout option blaka rabat 1 2023/12",
+      "ar": "vidange la mison tout option blaka rabat 1 2023/12",
+      "en": "vidange la mison tout option blaka rabat 1 2023/12",
+      "usedDarija": false
     },
     "features": [
       {
@@ -27880,9 +28033,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "ل فيلتر كاملين مبدلين ، لبلاكيط جداد ، بومبا ديال لما و الرادياتور جداد ، الصالون و گارنيتير كوير ، بنوات جداد ، جوانط اليمنيوم 16 دوريجين. ضو فيها ليد ، جاج الكتريك لقدام.... طوموبيل ديالي كاسبها كارت كريز بسميتي ، ضاربه 234 ألف…",
-      "ar": "ل فيلتر كاملين مبدلين ، لبلاكيط جداد ، بومبا ديال لما و الرادياتور جداد ، الصالون و گارنيتير كوير ، بنوات جداد ، جوانط اليمنيوم 16 دوريجين. ضو فيها ليد ، جاج الكتريك لقدام.... طوموبيل ديالي كاسبها كارت كريز بسميتي ، ضاربه 234 ألف…",
-      "original": "ل فيلتر كاملين مبدلين ، لبلاكيط جداد ، بومبا ديال لما و الرادياتور جداد ، الصالون و گارنيتير كوير ، بنوات جداد ، جوانط اليمنيوم 16 دوريجين. ضو فيها ليد ، جاج الكتريك لقدام.... طوموبيل ديالي كاسبها كارت كريز بسميتي ، ضاربه 234 ألف…"
+      "original": "ديال الخدمة والدوام والصبر، موطورها معروف بالمتانة والبياس ديالها متوفر ورخيص. فيها تجهيزات مزيانة بحال جوانط ألمنيوم أنيقة و صالون كوير نقي ومريح. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "ديال الخدمة والدوام والصبر، موطورها معروف بالمتانة والبياس ديالها متوفر ورخيص. فيها تجهيزات مزيانة بحال جوانط ألمنيوم أنيقة و صالون كوير نقي ومريح. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Reliable, cost-effective daily driver built for endurance with widely available parts and low operating costs. Features desirable equipment including stylish alloy wheels and premium leather upholstery. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -28052,9 +28206,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre : Kia Picanto de 2007 en bon état.\n- Marque Kia\n- Modèle Picanto\n- Année 2007\n- 6 CV fiscaux\n- Essence\n- Boîte manuelle\n- Bon état général\nN'hésitez pas à me contacter .",
-      "ar": "À vendre : Kia Picanto de 2007 en bon état.\n- Marque Kia\n- Modèle Picanto\n- Année 2007\n- 6 CV fiscaux\n- Essence\n- Boîte manuelle\n- Bon état général\nN'hésitez pas à me contacter .",
-      "original": "À vendre : Kia Picanto de 2007 en bon état.\n- Marque Kia\n- Modèle Picanto\n- Année 2007\n- 6 CV fiscaux\n- Essence\n- Boîte manuelle\n- Bon état général\nN'hésitez pas à me contacter ."
+      "original": "À vendre : Kia Picanto de 2007 en bon état. - Marque Kia - Modèle Picanto - Année 2007 - 6 CV fiscaux - Essence - Boîte manuelle - Bon état général N'hésitez pas à me contacter .",
+      "ar": "À vendre : Kia Picanto de 2007 en bon état. - Marque Kia - Modèle Picanto - Année 2007 - 6 CV fiscaux - Essence - Boîte manuelle - Bon état général N'hésitez pas à me contacter .",
+      "en": "À vendre : Kia Picanto de 2007 en bon état. - Marque Kia - Modèle Picanto - Année 2007 - 6 CV fiscaux - Essence - Boîte manuelle - Bon état général N'hésitez pas à me contacter .",
+      "usedDarija": false
     },
     "features": [
       {
@@ -28185,9 +28340,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mercedes-Benz SL450 Essence V8 1978 la douane juillet 2026 matriculation T1 Rabat voiture de collection Plus d'informations contacter nous",
+      "original": "Mercedes-Benz SL450 Essence V8 1978 la douane juillet 2026 matriculation T1 Rabat voiture de collection Plus d'informations contacter nous",
       "ar": "Mercedes-Benz SL450 Essence V8 1978 la douane juillet 2026 matriculation T1 Rabat voiture de collection Plus d'informations contacter nous",
-      "original": "Mercedes-Benz SL450 Essence V8 1978 la douane juillet 2026 matriculation T1 Rabat voiture de collection Plus d'informations contacter nous"
+      "en": "Mercedes-Benz SL450 Essence V8 1978 la douane juillet 2026 matriculation T1 Rabat voiture de collection Plus d'informations contacter nous",
+      "usedDarija": false
     },
     "features": [
       {
@@ -28330,9 +28486,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "……………………………",
-      "ar": "……………………………",
-      "original": "……………………………"
+      "original": "سيارة ناضية وصالحة للمدينة والسفر، اقتصادية بزاف فـ المازوت ومصاريفها قليلة. فيها تجهيزات مزيانة بحال جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "سيارة ناضية وصالحة للمدينة والسفر، اقتصادية بزاف فـ المازوت ومصاريفها قليلة. فيها تجهيزات مزيانة بحال جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Popular and economical hatchback renowned for outstanding fuel economy, low maintenance, and effortless parking. Features desirable equipment including stylish alloy wheels. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -28484,9 +28641,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je met en vente une tres Belle MERCEDES classe E CABRIOLET 220d AMG line plus  la full de la gamme  modèle FIN  2018 importeneuf sur commande 1ÈRE MAIN ,  avec 43.000 km certifié MAISON avec facture d entretien complet…",
-      "ar": "Je met en vente une tres Belle MERCEDES classe E CABRIOLET 220d AMG line plus  la full de la gamme  modèle FIN  2018 importeneuf sur commande 1ÈRE MAIN ,  avec 43.000 km certifié MAISON avec facture d entretien complet…",
-      "original": "Je met en vente une tres Belle MERCEDES classe E CABRIOLET 220d AMG line plus  la full de la gamme  modèle FIN  2018 importeneuf sur commande 1ÈRE MAIN ,  avec 43.000 km certifié MAISON avec facture d entretien complet…"
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -28632,9 +28790,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "une belle voiture Audi Q5",
-      "ar": "une belle voiture Audi Q5",
-      "original": "une belle voiture Audi Q5"
+      "original": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، كاميرا ورادار للمارشاريير، جوانط ألمنيوم أنيقة. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، كاميرا ورادار للمارشاريير، جوانط ألمنيوم أنيقة. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with air conditioning, reversing camera and parking sensors, and stylish alloy wheels. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -28805,9 +28964,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je met en vente une tres PROPRE JAGUAR XF  2.0 i4D 180 AT PRESTIGE modele fin 2016 avec **** KM certifié,1 main toujours suivie SMEIA avec historiques disponible.. Vignette 1. Palettes au volant.",
-      "ar": "Je met en vente une tres PROPRE JAGUAR XF  2.0 i4D 180 AT PRESTIGE modele fin 2016 avec **** KM certifié,1 main toujours suivie SMEIA avec historiques disponible.. Vignette 1. Palettes au volant.",
-      "original": "Je met en vente une tres PROPRE JAGUAR XF  2.0 i4D 180 AT PRESTIGE modele fin 2016 avec **** KM certifié,1 main toujours suivie SMEIA avec historiques disponible.. Vignette 1. Palettes au volant."
+      "original": "Je met en vente une tres PROPRE JAGUAR XF 2.0 i4D 180 AT PRESTIGE modele fin 2016 avec **** KM certifié,1 main toujours suivie SMEIA avec historiques disponible.. Vignette 1. Palettes au volant.",
+      "ar": "Je met en vente une tres PROPRE JAGUAR XF 2.0 i4D 180 AT PRESTIGE modele fin 2016 avec **** KM certifié,1 main toujours suivie SMEIA avec historiques disponible.. Vignette 1. Palettes au volant.",
+      "en": "Je met en vente une tres PROPRE JAGUAR XF 2.0 i4D 180 AT PRESTIGE modele fin 2016 avec **** KM certifié,1 main toujours suivie SMEIA avec historiques disponible.. Vignette 1. Palettes au volant.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -28953,9 +29113,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mercedes-Benz 450 SL Cabriolet - 1978\ndédouaner en 2026",
-      "ar": "Mercedes-Benz 450 SL Cabriolet - 1978\ndédouaner en 2026",
-      "original": "Mercedes-Benz 450 SL Cabriolet - 1978\ndédouaner en 2026"
+      "original": "Mercedes-Benz 450 SL Cabriolet - 1978 dédouaner en 2026",
+      "ar": "Mercedes-Benz 450 SL Cabriolet - 1978 dédouaner en 2026",
+      "en": "Mercedes-Benz 450 SL Cabriolet - 1978 dédouaner en 2026",
+      "usedDarija": false
     },
     "features": [
       {
@@ -29097,9 +29258,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma voiture Peugeot 508 Modèle 2019 en très bon état\n, Pour plus d’informations merci de me contacter par téléphone",
-      "ar": "Je mets en vente ma voiture Peugeot 508 Modèle 2019 en très bon état\n, Pour plus d’informations merci de me contacter par téléphone",
-      "original": "Je mets en vente ma voiture Peugeot 508 Modèle 2019 en très bon état\n, Pour plus d’informations merci de me contacter par téléphone"
+      "original": "Je mets en vente ma voiture Peugeot 508 Modèle 2019 en très bon état , Pour plus d’informations merci de me contacter par téléphone",
+      "ar": "Je mets en vente ma voiture Peugeot 508 Modèle 2019 en très bon état , Pour plus d’informations merci de me contacter par téléphone",
+      "en": "Je mets en vente ma voiture Peugeot 508 Modèle 2019 en très bon état , Pour plus d’informations merci de me contacter par téléphone",
+      "usedDarija": false
     },
     "features": [
       {
@@ -29294,9 +29456,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "سيارة في حالة جيدة جدا",
-      "ar": "سيارة في حالة جيدة جدا",
-      "original": "سيارة في حالة جيدة جدا"
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with air conditioning, cruise control, and stylish alloy wheels. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -29486,9 +29649,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente un Peugeot Partner Fourgon de 2022 en très bon état.. - Première main : Oui. - Origine : WW au Maroc.",
+      "original": "Je propose à la vente un Peugeot Partner Fourgon de 2022 en très bon état.. - Première main : Oui. - Origine : WW au Maroc.",
       "ar": "Je propose à la vente un Peugeot Partner Fourgon de 2022 en très bon état.. - Première main : Oui. - Origine : WW au Maroc.",
-      "original": "Je propose à la vente un Peugeot Partner Fourgon de 2022 en très bon état.. - Première main : Oui. - Origine : WW au Maroc."
+      "en": "Je propose à la vente un Peugeot Partner Fourgon de 2022 en très bon état.. - Première main : Oui. - Origine : WW au Maroc.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -29704,9 +29868,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une Ford Kuga Diesel Automatique de 2023 en excellent état.. - Jantes aluminium. - Airbags.",
+      "original": "Je mets en vente une Ford Kuga Diesel Automatique de 2023 en excellent état.. - Jantes aluminium. - Airbags.",
       "ar": "Je mets en vente une Ford Kuga Diesel Automatique de 2023 en excellent état.. - Jantes aluminium. - Airbags.",
-      "original": "Je mets en vente une Ford Kuga Diesel Automatique de 2023 en excellent état.. - Jantes aluminium. - Airbags."
+      "en": "Je mets en vente une Ford Kuga Diesel Automatique de 2023 en excellent état.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -29919,9 +30084,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "PROPRE BMW SERIE 5 diesel 520d 2.0d RESTYLĖ avec190ch , modèle fin 2013.avec 189.000km evolutif ,très bien entretenue.. Vignette 1.. Démarrage start and stop.",
+      "original": "PROPRE BMW SERIE 5 diesel 520d 2.0d RESTYLĖ avec190ch , modèle fin 2013.avec 189.000km evolutif ,très bien entretenue.. Vignette 1.. Démarrage start and stop.",
       "ar": "PROPRE BMW SERIE 5 diesel 520d 2.0d RESTYLĖ avec190ch , modèle fin 2013.avec 189.000km evolutif ,très bien entretenue.. Vignette 1.. Démarrage start and stop.",
-      "original": "PROPRE BMW SERIE 5 diesel 520d 2.0d RESTYLĖ avec190ch , modèle fin 2013.avec 189.000km evolutif ,très bien entretenue.. Vignette 1.. Démarrage start and stop."
+      "en": "PROPRE BMW SERIE 5 diesel 520d 2.0d RESTYLĖ avec190ch , modèle fin 2013.avec 189.000km evolutif ,très bien entretenue.. Vignette 1.. Démarrage start and stop.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -30057,9 +30223,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Mercedes-Benz Classe C 220 Dédouanée de 2007, en très bon état.. - Type de carburant : Diesel. - Nombre de portes : 5.",
-      "ar": "Je vends une Mercedes-Benz Classe C 220 Dédouanée de 2007, en très bon état.. - Type de carburant : Diesel. - Nombre de portes : 5.",
-      "original": "Je vends une Mercedes-Benz Classe C 220 Dédouanée de 2007, en très bon état.. - Type de carburant : Diesel. - Nombre de portes : 5."
+      "original": "Je vends une Mercedes-Benz Classe C 220 Dédouanée de 2007, en très bon état.. - Type de . - Nombre de portes : 5.",
+      "ar": "Je vends une Mercedes-Benz Classe C 220 Dédouanée de 2007, en très bon état.. - Type de . - Nombre de portes : 5.",
+      "en": "Je vends une Mercedes-Benz Classe C 220 Dédouanée de 2007, en très bon état.. - Type de . - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -30198,9 +30365,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع نيسان ماكسيما V6 موديل 1995 بحالة ممتازة.. - عجلات ألمنيوم. - تكييف.",
+      "original": "أعرض للبيع نيسان ماكسيما V6 موديل 1995 بحالة ممتازة.. - عجلات ألمنيوم. - تكييف.",
       "ar": "أعرض للبيع نيسان ماكسيما V6 موديل 1995 بحالة ممتازة.. - عجلات ألمنيوم. - تكييف.",
-      "original": "أعرض للبيع نيسان ماكسيما V6 موديل 1995 بحالة ممتازة.. - عجلات ألمنيوم. - تكييف."
+      "en": "أعرض للبيع نيسان ماكسيما V6 موديل 1995 بحالة ممتازة.. - عجلات ألمنيوم. - تكييف.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -30371,9 +30539,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je met en vente une jolie Audi A6 2 litres diesel model 2014 dédouaner en 2017. finition Sline, kilométrage 240k klm évolutif avec plein d'options avec des jantes 19 pouces affichage tête haute plafond en noir d'origine ....…",
-      "ar": "je met en vente une jolie Audi A6 2 litres diesel model 2014 dédouaner en 2017. finition Sline, kilométrage 240k klm évolutif avec plein d'options avec des jantes 19 pouces affichage tête haute plafond en noir d'origine ....…",
-      "original": "je met en vente une jolie Audi A6 2 litres diesel model 2014 dédouaner en 2017. finition Sline, kilométrage 240k klm évolutif avec plein d'options avec des jantes 19 pouces affichage tête haute plafond en noir d'origine ....…"
+      "original": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -30510,9 +30679,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je met en vente une Mercedes Classe S Version longue modèle  31/12/2013 sur commande  ,  avec **** Km immatriculé a casa  Dernier entretien générale effectué.. Palettes au volant.. Soft close.",
-      "ar": "Je met en vente une Mercedes Classe S Version longue modèle  31/12/2013 sur commande  ,  avec **** Km immatriculé a casa  Dernier entretien générale effectué.. Palettes au volant.. Soft close.",
-      "original": "Je met en vente une Mercedes Classe S Version longue modèle  31/12/2013 sur commande  ,  avec **** Km immatriculé a casa  Dernier entretien générale effectué.. Palettes au volant.. Soft close."
+      "original": "Je met en vente une Mercedes Classe S Version longue modèle 31/12/2013 sur commande , avec **** Km immatriculé a casa Dernier entretien générale effectué.. Palettes au volant.. Soft close.",
+      "ar": "Je met en vente une Mercedes Classe S Version longue modèle 31/12/2013 sur commande , avec **** Km immatriculé a casa Dernier entretien générale effectué.. Palettes au volant.. Soft close.",
+      "en": "Je met en vente une Mercedes Classe S Version longue modèle 31/12/2013 sur commande , avec **** Km immatriculé a casa Dernier entretien générale effectué.. Palettes au volant.. Soft close.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -30658,9 +30828,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Kia Seltos en excellent état, modèle 2021, boîte automatique, première main et origine WW au Maroc 37000km. - Jantes aluminium. - Airbags.",
+      "original": "Je vends une Kia Seltos en excellent état, modèle 2021, boîte automatique, première main et origine WW au Maroc 37000km. - Jantes aluminium. - Airbags.",
       "ar": "Je vends une Kia Seltos en excellent état, modèle 2021, boîte automatique, première main et origine WW au Maroc 37000km. - Jantes aluminium. - Airbags.",
-      "original": "Je vends une Kia Seltos en excellent état, modèle 2021, boîte automatique, première main et origine WW au Maroc 37000km. - Jantes aluminium. - Airbags."
+      "en": "Je vends une Kia Seltos en excellent état, modèle 2021, boîte automatique, première main et origine WW au Maroc 37000km. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -30877,9 +31048,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma megane 4 Modèle: 2024 Kilométrage : 45000 km Boite à vitesse : bva edc 7 rapports état : presque neuf Samsara s’abstenir svp",
+      "original": "Je mets en vente ma megane 4 Modèle: 2024 Kilométrage : 45000 km Boite à vitesse : bva edc 7 rapports état : presque neuf Samsara s’abstenir svp",
       "ar": "Je mets en vente ma megane 4 Modèle: 2024 Kilométrage : 45000 km Boite à vitesse : bva edc 7 rapports état : presque neuf Samsara s’abstenir svp",
-      "original": "Je mets en vente ma megane 4 Modèle: 2024 Kilométrage : 45000 km Boite à vitesse : bva edc 7 rapports état : presque neuf Samsara s’abstenir svp"
+      "en": "Je mets en vente ma megane 4 Modèle: 2024 Kilométrage : 45000 km Boite à vitesse : bva edc 7 rapports état : presque neuf Samsara s’abstenir svp",
+      "usedDarija": false
     },
     "features": [
       {
@@ -31091,9 +31263,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Peugeot 208 style Essence 1.2, pure tech nouvelle generation mise en circulation juillet 2026, neuve garantie constructeur. - consommation moy :5% reel. - Origine : WW Maroc.",
+      "original": "Je propose à la vente une Peugeot 208 style Essence 1.2, pure tech nouvelle generation mise en circulation juillet 2026, neuve garantie constructeur. - consommation moy :5% reel. - Origine : WW Maroc.",
       "ar": "Je propose à la vente une Peugeot 208 style Essence 1.2, pure tech nouvelle generation mise en circulation juillet 2026, neuve garantie constructeur. - consommation moy :5% reel. - Origine : WW Maroc.",
-      "original": "Je propose à la vente une Peugeot 208 style Essence 1.2, pure tech nouvelle generation mise en circulation juillet 2026, neuve garantie constructeur. - consommation moy :5% reel. - Origine : WW Maroc."
+      "en": "Je propose à la vente une Peugeot 208 style Essence 1.2, pure tech nouvelle generation mise en circulation juillet 2026, neuve garantie constructeur. - consommation moy :5% reel. - Origine : WW Maroc.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -31310,9 +31483,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "للبيع مرسيدس 190 للبيع 190 🚗\nموديل : 92 ديونة 2008\n جوانط اليمنيوم ، طموبيل نقية، صالون نقي، موتور مزيان ما كيسخن ما كينقص الزيت\nدريكسون اسيستي، ديال الطريق الطويلة\nال \nالمدينة : تيزنيت",
-      "ar": "للبيع مرسيدس 190 للبيع 190 🚗\nموديل : 92 ديونة 2008\n جوانط اليمنيوم ، طموبيل نقية، صالون نقي، موتور مزيان ما كيسخن ما كينقص الزيت\nدريكسون اسيستي، ديال الطريق الطويلة\nال \nالمدينة : تيزنيت",
-      "original": "للبيع مرسيدس 190 للبيع 190 🚗\nموديل : 92 ديونة 2008\n جوانط اليمنيوم ، طموبيل نقية، صالون نقي، موتور مزيان ما كيسخن ما كينقص الزيت\nدريكسون اسيستي، ديال الطريق الطويلة\nال \nالمدينة : تيزنيت"
+      "original": "للبيع مرسيدس 190 للبيع 190 🚗 موديل : 92 ديونة 2008 جوانط اليمنيوم ، طموبيل نقية، صالون نقي، موتور مزيان ما كيسخن ما كينقص الزيت دريكسون اسيستي، ديال الطريق الطويلة ال المدينة : تيزنيت",
+      "ar": "للبيع مرسيدس 190 للبيع 190 🚗 موديل : 92 ديونة 2008 جوانط اليمنيوم ، طموبيل نقية، صالون نقي، موتور مزيان ما كيسخن ما كينقص الزيت دريكسون اسيستي، ديال الطريق الطويلة ال المدينة : تيزنيت",
+      "en": "للبيع مرسيدس 190 للبيع 190 🚗 موديل : 92 ديونة 2008 جوانط اليمنيوم ، طموبيل نقية، صالون نقي، موتور مزيان ما كيسخن ما كينقص الزيت دريكسون اسيستي، ديال الطريق الطويلة ال المدينة : تيزنيت",
+      "usedDarija": false
     },
     "features": [
       {
@@ -31497,9 +31671,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une BMW X5 ie45 Pack M Hybride de 2022, première main, en excellent état.. - Type de carburant : Hybride. - Origine : WW au Maroc.",
-      "ar": "Je vends une BMW X5 ie45 Pack M Hybride de 2022, première main, en excellent état.. - Type de carburant : Hybride. - Origine : WW au Maroc.",
-      "original": "Je vends une BMW X5 ie45 Pack M Hybride de 2022, première main, en excellent état.. - Type de carburant : Hybride. - Origine : WW au Maroc."
+      "original": "Je vends une BMW X5 ie45 Pack M Hybride de 2022, première main, en excellent état.. - Type de . - Origine : WW au Maroc.",
+      "ar": "Je vends une BMW X5 ie45 Pack M Hybride de 2022, première main, en excellent état.. - Type de . - Origine : WW au Maroc.",
+      "en": "Je vends une BMW X5 ie45 Pack M Hybride de 2022, première main, en excellent état.. - Type de . - Origine : WW au Maroc.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -31713,9 +31888,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Magnifique Mercedes SL 500 V8 de collection, dans un état exceptionnel.. - Climatisation, jantes aluminium, airbags. - Système de navigation GPS, toit ouvrant, sièges cuir.",
+      "original": "Magnifique Mercedes SL 500 V8 de collection, dans un état exceptionnel.. - Climatisation, jantes aluminium, airbags. - Système de navigation GPS, toit ouvrant, sièges cuir.",
       "ar": "Magnifique Mercedes SL 500 V8 de collection, dans un état exceptionnel.. - Climatisation, jantes aluminium, airbags. - Système de navigation GPS, toit ouvrant, sièges cuir.",
-      "original": "Magnifique Mercedes SL 500 V8 de collection, dans un état exceptionnel.. - Climatisation, jantes aluminium, airbags. - Système de navigation GPS, toit ouvrant, sièges cuir."
+      "en": "Magnifique Mercedes SL 500 V8 de collection, dans un état exceptionnel.. - Climatisation, jantes aluminium, airbags. - Système de navigation GPS, toit ouvrant, sièges cuir.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -31912,9 +32088,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une Mercedes Classe S 500 V8 de collection en excellent état.. - Jantes aluminium. - Airbags.",
+      "original": "Je mets en vente une Mercedes Classe S 500 V8 de collection en excellent état.. - Jantes aluminium. - Airbags.",
       "ar": "Je mets en vente une Mercedes Classe S 500 V8 de collection en excellent état.. - Jantes aluminium. - Airbags.",
-      "original": "Je mets en vente une Mercedes Classe S 500 V8 de collection en excellent état.. - Jantes aluminium. - Airbags."
+      "en": "Je mets en vente une Mercedes Classe S 500 V8 de collection en excellent état.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -32126,9 +32303,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Ford Kuga Titanium automatique de 2015 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "À vendre Ford Kuga Titanium automatique de 2015 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "À vendre Ford Kuga Titanium automatique de 2015 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "À vendre Ford Kuga Titanium automatique de 2015 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "À vendre Ford Kuga Titanium automatique de 2015 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -32343,9 +32521,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "bmw x3 1er main bon etat",
-      "ar": "bmw x3 1er main bon etat",
-      "original": "bmw x3 1er main bon etat"
+      "original": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -32479,9 +32658,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture en excellent état, très propre, suivi et entretiens chez la maison BMW, soigneusement utilisée. * Origine WW Maroc. * Matricule RABAT 1 H.",
+      "original": "Voiture en excellent état, très propre, suivi et entretiens chez la maison BMW, soigneusement utilisée. * Origine WW Maroc. * Matricule RABAT 1 H.",
       "ar": "Voiture en excellent état, très propre, suivi et entretiens chez la maison BMW, soigneusement utilisée. * Origine WW Maroc. * Matricule RABAT 1 H.",
-      "original": "Voiture en excellent état, très propre, suivi et entretiens chez la maison BMW, soigneusement utilisée. * Origine WW Maroc. * Matricule RABAT 1 H."
+      "en": "Voiture en excellent état, très propre, suivi et entretiens chez la maison BMW, soigneusement utilisée. * Origine WW Maroc. * Matricule RABAT 1 H.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -32691,9 +32871,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "سيارة نقية",
-      "ar": "سيارة نقية",
-      "original": "سيارة نقية"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. موتورها معروف بالصبر والخدمة وكيدور مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. موتورها معروف بالصبر والخدمة وكيدور مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -32836,9 +33017,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Seat Arona FR 2022 en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "Seat Arona FR 2022 en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "Seat Arona FR 2022 en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "Seat Arona FR 2022 en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "Seat Arona FR 2022 en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -33053,9 +33235,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Suzuki SX-4 2013 en bon état général, disponible pour visite.",
+      "original": "Suzuki SX-4 2013 en bon état général, disponible pour visite.",
       "ar": "Suzuki SX-4 2013 en bon état général, disponible pour visite.",
-      "original": "Suzuki SX-4 2013 en bon état général, disponible pour visite."
+      "en": "Suzuki SX-4 2013 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -33229,9 +33412,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Modèle 09/2021 (Kilométrage : 18000 km).\nEssence, 6cv, clim, vitres électriques av / ar, ...\nExcellent état jamais accidentée.",
-      "ar": "Modèle 09/2021 (Kilométrage : 18000 km).\nEssence, 6cv, clim, vitres électriques av / ar, ...\nExcellent état jamais accidentée.",
-      "original": "Modèle 09/2021 (Kilométrage : 18000 km).\nEssence, 6cv, clim, vitres électriques av / ar, ...\nExcellent état jamais accidentée."
+      "original": "Modèle 09/2021 (Kilométrage : 18000 km). Essence, 6cv, clim, vitres électriques av / ar, ... Excellent état jamais accidentée.",
+      "ar": "Modèle 09/2021 (Kilométrage : 18000 km). Essence, 6cv, clim, vitres électriques av / ar, ... Excellent état jamais accidentée.",
+      "en": "Modèle 09/2021 (Kilométrage : 18000 km). Essence, 6cv, clim, vitres électriques av / ar, ... Excellent état jamais accidentée.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -33374,9 +33558,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Renault Megane 2017 en bon état général, disponible pour visite.",
+      "original": "Renault Megane 2017 en bon état général, disponible pour visite.",
       "ar": "Renault Megane 2017 en bon état général, disponible pour visite.",
-      "original": "Renault Megane 2017 en bon état général, disponible pour visite."
+      "en": "Renault Megane 2017 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -33587,9 +33772,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mais en vente une tiguan mod 08/2013 km 237k toutes options",
+      "original": "Je mais en vente une tiguan mod 08/2013 km 237k toutes options",
       "ar": "Je mais en vente une tiguan mod 08/2013 km 237k toutes options",
-      "original": "Je mais en vente une tiguan mod 08/2013 km 237k toutes options"
+      "en": "Je mais en vente une tiguan mod 08/2013 km 237k toutes options",
+      "usedDarija": false
     },
     "features": [
       {
@@ -33797,9 +33983,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une BYD Seal Excellence AWD 530ch de 2024 en excellent état.. - Première main. - Origine : WW au Maroc.",
+      "original": "Je vends une BYD Seal Excellence AWD 530ch de 2024 en excellent état.. - Première main. - Origine : WW au Maroc.",
       "ar": "Je vends une BYD Seal Excellence AWD 530ch de 2024 en excellent état.. - Première main. - Origine : WW au Maroc.",
-      "original": "Je vends une BYD Seal Excellence AWD 530ch de 2024 en excellent état.. - Première main. - Origine : WW au Maroc."
+      "en": "Je vends une BYD Seal Excellence AWD 530ch de 2024 en excellent état.. - Première main. - Origine : WW au Maroc.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -34014,9 +34201,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Jeep Renegade en excellent état, première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "À vendre Jeep Renegade en excellent état, première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "À vendre Jeep Renegade en excellent état, première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "À vendre Jeep Renegade en excellent état, première main.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "À vendre Jeep Renegade en excellent état, première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -34222,9 +34410,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Sportage IV - Ph2 - 1.6 CRDi Black Edition 4x2 BVM 136ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
+      "original": "Sportage IV - Ph2 - 1.6 CRDi Black Edition 4x2 BVM 136ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
       "ar": "Sportage IV - Ph2 - 1.6 CRDi Black Edition 4x2 BVM 136ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
-      "original": "Sportage IV - Ph2 - 1.6 CRDi Black Edition 4x2 BVM 136ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :."
+      "en": "Sportage IV - Ph2 - 1.6 CRDi Black Edition 4x2 BVM 136ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -34360,9 +34549,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "🚘 À VENDRE — MERCEDES GLC 220d. Mercedes GLC 220d, très bien équipée et en bon état.. 📅 Modèle : fin 2019.",
+      "original": "🚘 À VENDRE — MERCEDES GLC 220d. Mercedes GLC 220d, très bien équipée et en bon état.. 📅 Modèle : fin 2019.",
       "ar": "🚘 À VENDRE — MERCEDES GLC 220d. Mercedes GLC 220d, très bien équipée et en bon état.. 📅 Modèle : fin 2019.",
-      "original": "🚘 À VENDRE — MERCEDES GLC 220d. Mercedes GLC 220d, très bien équipée et en bon état.. 📅 Modèle : fin 2019."
+      "en": "🚘 À VENDRE — MERCEDES GLC 220d. Mercedes GLC 220d, très bien équipée et en bon état.. 📅 Modèle : fin 2019.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -34506,9 +34696,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Possibilité de reprendre une BMW ou MINI.",
+      "original": "Possibilité de reprendre une BMW ou MINI.",
       "ar": "Possibilité de reprendre une BMW ou MINI.",
-      "original": "Possibilité de reprendre une BMW ou MINI."
+      "en": "Possibilité de reprendre une BMW ou MINI.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -34705,9 +34896,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "bonjour, \nje mets en vente ma voiture renault talisman full option sauf toit , tres bon état rien a prévoir, entretien chez maison Renault avec facture",
-      "ar": "bonjour, \nje mets en vente ma voiture renault talisman full option sauf toit , tres bon état rien a prévoir, entretien chez maison Renault avec facture",
-      "original": "bonjour, \nje mets en vente ma voiture renault talisman full option sauf toit , tres bon état rien a prévoir, entretien chez maison Renault avec facture"
+      "original": "bonjour, je mets en vente ma voiture renault talisman full option sauf toit , tres bon état rien a prévoir, entretien chez maison Renault avec facture",
+      "ar": "bonjour, je mets en vente ma voiture renault talisman full option sauf toit , tres bon état rien a prévoir, entretien chez maison Renault avec facture",
+      "en": "bonjour, je mets en vente ma voiture renault talisman full option sauf toit , tres bon état rien a prévoir, entretien chez maison Renault avec facture",
+      "usedDarija": false
     },
     "features": [
       {
@@ -34841,9 +35033,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "kolchi jdid.\n4 pneu good year yallah rakbin jdad\nvidange comple\nplaquete frien jdad\nji wo rkab matakhsar walo \ncart gris",
-      "ar": "kolchi jdid.\n4 pneu good year yallah rakbin jdad\nvidange comple\nplaquete frien jdad\nji wo rkab matakhsar walo \ncart gris",
-      "original": "kolchi jdid.\n4 pneu good year yallah rakbin jdad\nvidange comple\nplaquete frien jdad\nji wo rkab matakhsar walo \ncart gris"
+      "original": "kolchi jdid. 4 pneu good year yallah rakbin jdad vidange comple plaquete frien jdad ji wo rkab matakhsar walo cart gris",
+      "ar": "kolchi jdid. 4 pneu good year yallah rakbin jdad vidange comple plaquete frien jdad ji wo rkab matakhsar walo cart gris",
+      "en": "kolchi jdid. 4 pneu good year yallah rakbin jdad vidange comple plaquete frien jdad ji wo rkab matakhsar walo cart gris",
+      "usedDarija": false
     },
     "features": [
       {
@@ -35013,9 +35206,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "salam dacia logan \n1 main \ntout options\nmadrba walo\nras sou9 \n4 bnwat jadad\nlimohtam mar7ba",
-      "ar": "salam dacia logan \n1 main \ntout options\nmadrba walo\nras sou9 \n4 bnwat jadad\nlimohtam mar7ba",
-      "original": "salam dacia logan \n1 main \ntout options\nmadrba walo\nras sou9 \n4 bnwat jadad\nlimohtam mar7ba"
+      "original": "salam dacia logan 1 main tout options madrba walo ras sou9 4 bnwat jadad limohtam mar7ba",
+      "ar": "salam dacia logan 1 main tout options madrba walo ras sou9 4 bnwat jadad limohtam mar7ba",
+      "en": "salam dacia logan 1 main tout options madrba walo ras sou9 4 bnwat jadad limohtam mar7ba",
+      "usedDarija": false
     },
     "features": [
       {
@@ -35225,9 +35419,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre, une Lincoln Town Car de collection en très bon état.. - Origine : Dédouanée. - Nombre de portes : 5.",
+      "original": "À vendre, une Lincoln Town Car de collection en très bon état.. - Origine : Dédouanée. - Nombre de portes : 5.",
       "ar": "À vendre, une Lincoln Town Car de collection en très bon état.. - Origine : Dédouanée. - Nombre de portes : 5.",
-      "original": "À vendre, une Lincoln Town Car de collection en très bon état.. - Origine : Dédouanée. - Nombre de portes : 5."
+      "en": "À vendre, une Lincoln Town Car de collection en très bon état.. - Origine : Dédouanée. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -35373,9 +35568,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une Jeep Compass de 2023 en très bon état, première main.. - Jantes aluminium. - Climatisation.",
+      "original": "Je mets en vente une Jeep Compass de 2023 en très bon état, première main.. - Jantes aluminium. - Climatisation.",
       "ar": "Je mets en vente une Jeep Compass de 2023 en très bon état, première main.. - Jantes aluminium. - Climatisation.",
-      "original": "Je mets en vente une Jeep Compass de 2023 en très bon état, première main.. - Jantes aluminium. - Climatisation."
+      "en": "Je mets en vente une Jeep Compass de 2023 en très bon état, première main.. - Jantes aluminium. - Climatisation.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -35560,9 +35756,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Dacia Logan 2018 en bon état général, disponible pour visite.",
+      "original": "Dacia Logan 2018 en bon état général, disponible pour visite.",
       "ar": "Dacia Logan 2018 en bon état général, disponible pour visite.",
-      "original": "Dacia Logan 2018 en bon état général, disponible pour visite."
+      "en": "Dacia Logan 2018 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -35763,9 +35960,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Jeep Grand Cherokee de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "Je propose à la vente une Jeep Grand Cherokee de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "Je propose à la vente une Jeep Grand Cherokee de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "Je propose à la vente une Jeep Grand Cherokee de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "Je propose à la vente une Jeep Grand Cherokee de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -35979,9 +36177,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "bonne état sebara dare",
-      "ar": "bonne état sebara dare",
-      "original": "bonne état sebara dare"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with premium leather upholstery, reversing camera and parking sensors, and cruise control. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -36188,9 +36387,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Honda Civic de 2005 en bon état.. - Type de carburant : Essence. - Origine : WW au Maroc.",
-      "ar": "Je vends une Honda Civic de 2005 en bon état.. - Type de carburant : Essence. - Origine : WW au Maroc.",
-      "original": "Je vends une Honda Civic de 2005 en bon état.. - Type de carburant : Essence. - Origine : WW au Maroc."
+      "original": "Je vends une Honda Civic de 2005 en bon état.. - Type de . - Origine : WW au Maroc.",
+      "ar": "Je vends une Honda Civic de 2005 en bon état.. - Type de . - Origine : WW au Maroc.",
+      "en": "Je vends une Honda Civic de 2005 en bon état.. - Type de . - Origine : WW au Maroc.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -36337,9 +36537,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيارة BMW Serie 2 Grand Coupé pack M.. - الكيلومترات: 42000 كلم. - ناقل الحركة: أوتوماتيك.",
+      "original": "أعرض للبيع سيارة BMW Serie 2 Grand Coupé pack M.. - الكيلومترات: 42000 كلم. - ناقل الحركة: أوتوماتيك.",
       "ar": "أعرض للبيع سيارة BMW Serie 2 Grand Coupé pack M.. - الكيلومترات: 42000 كلم. - ناقل الحركة: أوتوماتيك.",
-      "original": "أعرض للبيع سيارة BMW Serie 2 Grand Coupé pack M.. - الكيلومترات: 42000 كلم. - ناقل الحركة: أوتوماتيك."
+      "en": "أعرض للبيع سيارة BMW Serie 2 Grand Coupé pack M.. - الكيلومترات: 42000 كلم. - ناقل الحركة: أوتوماتيك.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -36543,9 +36744,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture Ford Focus Ghia en très bon état a Tanger",
+      "original": "Voiture Ford Focus Ghia en très bon état a Tanger",
       "ar": "Voiture Ford Focus Ghia en très bon état a Tanger",
-      "original": "Voiture Ford Focus Ghia en très bon état a Tanger"
+      "en": "Voiture Ford Focus Ghia en très bon état a Tanger",
+      "usedDarija": false
     },
     "features": [
       {
@@ -36686,9 +36888,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture en excellent état jamais accident peinture presque d’origine ouvert sans clés Bassma démarrage star boîte automatique siège cuir électrique chauffant clim bi zone jantes aluminium rétroviseur électrique rabattre…",
-      "ar": "voiture en excellent état jamais accident peinture presque d’origine ouvert sans clés Bassma démarrage star boîte automatique siège cuir électrique chauffant clim bi zone jantes aluminium rétroviseur électrique rabattre…",
-      "original": "voiture en excellent état jamais accident peinture presque d’origine ouvert sans clés Bassma démarrage star boîte automatique siège cuir électrique chauffant clim bi zone jantes aluminium rétroviseur électrique rabattre…"
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، جوانط ألمنيوم أنيقة. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، جوانط ألمنيوم أنيقة. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with air conditioning, premium leather upholstery, and stylish alloy wheels. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -36880,9 +37083,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Bonjour je met en vente ma M2 PACK TRACK FULL CARBON. 12/2023. 40 000km.",
+      "original": "Bonjour je met en vente ma M2 PACK TRACK FULL CARBON. 12/2023. 40 000km.",
       "ar": "Bonjour je met en vente ma M2 PACK TRACK FULL CARBON. 12/2023. 40 000km.",
-      "original": "Bonjour je met en vente ma M2 PACK TRACK FULL CARBON. 12/2023. 40 000km."
+      "en": "Bonjour je met en vente ma M2 PACK TRACK FULL CARBON. 12/2023. 40 000km.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -37097,9 +37301,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une BMW X3 Pack M toutes options.\nAnnée 2021.\nExcellent état. \n56000 km.\nIntermédiaire s’abstenir merci.",
-      "ar": "Je vends une BMW X3 Pack M toutes options.\nAnnée 2021.\nExcellent état. \n56000 km.\nIntermédiaire s’abstenir merci.",
-      "original": "Je vends une BMW X3 Pack M toutes options.\nAnnée 2021.\nExcellent état. \n56000 km.\nIntermédiaire s’abstenir merci."
+      "original": "Je vends une BMW X3 Pack M toutes options. Année 2021. Excellent état. 56000 km. Intermédiaire s’abstenir merci.",
+      "ar": "Je vends une BMW X3 Pack M toutes options. Année 2021. Excellent état. 56000 km. Intermédiaire s’abstenir merci.",
+      "en": "Je vends une BMW X3 Pack M toutes options. Année 2021. Excellent état. 56000 km. Intermédiaire s’abstenir merci.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -37309,9 +37514,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Citroën C4 2020 en bon état général, disponible pour visite.",
+      "original": "Citroën C4 2020 en bon état général, disponible pour visite.",
       "ar": "Citroën C4 2020 en bon état général, disponible pour visite.",
-      "original": "Citroën C4 2020 en bon état général, disponible pour visite."
+      "en": "Citroën C4 2020 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -37514,9 +37720,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Nissan Magnite Acenta CVT de 2025 en excellent état, première main.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "original": "Je propose à la vente une Nissan Magnite Acenta CVT de 2025 en excellent état, première main.. - Origine : WW au Maroc. - Jantes aluminium.",
       "ar": "Je propose à la vente une Nissan Magnite Acenta CVT de 2025 en excellent état, première main.. - Origine : WW au Maroc. - Jantes aluminium.",
-      "original": "Je propose à la vente une Nissan Magnite Acenta CVT de 2025 en excellent état, première main.. - Origine : WW au Maroc. - Jantes aluminium."
+      "en": "Je propose à la vente une Nissan Magnite Acenta CVT de 2025 en excellent état, première main.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -37723,9 +37930,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose une Dacia Logan Diesel Manuelle de 2006 en très bon état.. - Type de carburant : Diesel. - Nombre de portes : 5.",
-      "ar": "Je propose une Dacia Logan Diesel Manuelle de 2006 en très bon état.. - Type de carburant : Diesel. - Nombre de portes : 5.",
-      "original": "Je propose une Dacia Logan Diesel Manuelle de 2006 en très bon état.. - Type de carburant : Diesel. - Nombre de portes : 5."
+      "original": "Je propose une Dacia Logan Diesel Manuelle de 2006 en très bon état.. - Type de . - Nombre de portes : 5.",
+      "ar": "Je propose une Dacia Logan Diesel Manuelle de 2006 en très bon état.. - Type de . - Nombre de portes : 5.",
+      "en": "Je propose une Dacia Logan Diesel Manuelle de 2006 en très bon état.. - Type de . - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -37864,9 +38072,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "tuxson tt option tres bon eta model 2019 klm 110000",
+      "original": "tuxson tt option tres bon eta model 2019 klm 110000",
       "ar": "tuxson tt option tres bon eta model 2019 klm 110000",
-      "original": "tuxson tt option tres bon eta model 2019 klm 110000"
+      "en": "tuxson tt option tres bon eta model 2019 klm 110000",
+      "usedDarija": false
     },
     "features": [
       {
@@ -38079,9 +38288,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Dacia Duster 2022 en bon état général, disponible pour visite.",
+      "original": "Dacia Duster 2022 en bon état général, disponible pour visite.",
       "ar": "Dacia Duster 2022 en bon état général, disponible pour visite.",
-      "original": "Dacia Duster 2022 en bon état général, disponible pour visite."
+      "en": "Dacia Duster 2022 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -38261,9 +38471,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Hyundai Tucson Automatique. Tout option. Toit Ouvrant Panoramique.",
+      "original": "Hyundai Tucson Automatique. Tout option. Toit Ouvrant Panoramique.",
       "ar": "Hyundai Tucson Automatique. Tout option. Toit Ouvrant Panoramique.",
-      "original": "Hyundai Tucson Automatique. Tout option. Toit Ouvrant Panoramique."
+      "en": "Hyundai Tucson Automatique. Tout option. Toit Ouvrant Panoramique.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -38478,9 +38689,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "​Boîte de vitesses automatique à double embrayage S-tronic à 7 rapports, ​Assistant au volant / Voiture qui se gare seul. ​Esthétique : Pack intérieur S line. ​Jantes S Line 17 pouces.",
+      "original": "​Boîte de vitesses automatique à double embrayage S-tronic à 7 rapports, ​Assistant au volant / Voiture qui se gare seul. ​Esthétique : Pack intérieur S line. ​Jantes S Line 17 pouces.",
       "ar": "​Boîte de vitesses automatique à double embrayage S-tronic à 7 rapports, ​Assistant au volant / Voiture qui se gare seul. ​Esthétique : Pack intérieur S line. ​Jantes S Line 17 pouces.",
-      "original": "​Boîte de vitesses automatique à double embrayage S-tronic à 7 rapports, ​Assistant au volant / Voiture qui se gare seul. ​Esthétique : Pack intérieur S line. ​Jantes S Line 17 pouces."
+      "en": "​Boîte de vitesses automatique à double embrayage S-tronic à 7 rapports, ​Assistant au volant / Voiture qui se gare seul. ​Esthétique : Pack intérieur S line. ​Jantes S Line 17 pouces.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -38695,9 +38907,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "📍 Kilométrage : 179.000 km. ⚙️ Boîte automatique. ⛽ Diesel – 2.2 i-DTEC.",
+      "original": "📍 Kilométrage : 179.000 km. ⚙️ Boîte automatique. ⛽ Diesel – 2.2 i-DTEC.",
       "ar": "📍 Kilométrage : 179.000 km. ⚙️ Boîte automatique. ⛽ Diesel – 2.2 i-DTEC.",
-      "original": "📍 Kilométrage : 179.000 km. ⚙️ Boîte automatique. ⛽ Diesel – 2.2 i-DTEC."
+      "en": "📍 Kilométrage : 179.000 km. ⚙️ Boîte automatique. ⛽ Diesel – 2.2 i-DTEC.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -38896,9 +39109,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voilà ma propre cla 45 amg shooting brake, modèle 2019, voiture très propre, peinture d'origine, les entretiens à la maison Auto nejma.. voiture roule uniquement sur voie express.. je la vend parce que je cherche à changer à un SUV.",
-      "ar": "voilà ma propre cla 45 amg shooting brake, modèle 2019, voiture très propre, peinture d'origine, les entretiens à la maison Auto nejma.. voiture roule uniquement sur voie express.. je la vend parce que je cherche à changer à un SUV.",
-      "original": "voilà ma propre cla 45 amg shooting brake, modèle 2019, voiture très propre, peinture d'origine, les entretiens à la maison Auto nejma.. voiture roule uniquement sur voie express.. je la vend parce que je cherche à changer à un SUV."
+      "original": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with stylish alloy wheels, air conditioning, and premium leather upholstery. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -39108,9 +39322,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Dacia Logan 2006 en bon état général, disponible pour visite.",
+      "original": "Dacia Logan 2006 en bon état général, disponible pour visite.",
       "ar": "Dacia Logan 2006 en bon état général, disponible pour visite.",
-      "original": "Dacia Logan 2006 en bon état général, disponible pour visite."
+      "en": "Dacia Logan 2006 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -39267,9 +39482,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "TOYOTA COROLLA 2016 TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SAMSARA BLAMYTASL",
+      "original": "TOYOTA COROLLA 2016 TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SAMSARA BLAMYTASL",
       "ar": "TOYOTA COROLLA 2016 TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SAMSARA BLAMYTASL",
-      "original": "TOYOTA COROLLA 2016 TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SAMSARA BLAMYTASL"
+      "en": "TOYOTA COROLLA 2016 TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SAMSARA BLAMYTASL",
+      "usedDarija": false
     },
     "features": [
       {
@@ -39413,9 +39629,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Sportage V - Ph1 - 1,6 CRDI Gt ligne DCT 136ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
+      "original": "Sportage V - Ph1 - 1,6 CRDI Gt ligne DCT 136ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
       "ar": "Sportage V - Ph1 - 1,6 CRDI Gt ligne DCT 136ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
-      "original": "Sportage V - Ph1 - 1,6 CRDI Gt ligne DCT 136ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :."
+      "en": "Sportage V - Ph1 - 1,6 CRDI Gt ligne DCT 136ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -39551,9 +39768,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "K5 I - Ph1 - 2.0 l Hybride AT Executive+ Bose BVA 204ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
+      "original": "K5 I - Ph1 - 2.0 l Hybride AT Executive+ Bose BVA 204ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
       "ar": "K5 I - Ph1 - 2.0 l Hybride AT Executive+ Bose BVA 204ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
-      "original": "K5 I - Ph1 - 2.0 l Hybride AT Executive+ Bose BVA 204ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :."
+      "en": "K5 I - Ph1 - 2.0 l Hybride AT Executive+ Bose BVA 204ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -39689,9 +39907,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيارة فولكس فاجن غولف 2 موديل 1986 بحالة جيدة.. - ناقل الحركة: يدوي. - القوة الجبائية: 6 خ.",
+      "original": "أعرض للبيع سيارة فولكس فاجن غولف 2 موديل 1986 بحالة جيدة.. - ناقل الحركة: يدوي. - القوة الجبائية: 6 خ.",
       "ar": "أعرض للبيع سيارة فولكس فاجن غولف 2 موديل 1986 بحالة جيدة.. - ناقل الحركة: يدوي. - القوة الجبائية: 6 خ.",
-      "original": "أعرض للبيع سيارة فولكس فاجن غولف 2 موديل 1986 بحالة جيدة.. - ناقل الحركة: يدوي. - القوة الجبائية: 6 خ."
+      "en": "أعرض للبيع سيارة فولكس فاجن غولف 2 موديل 1986 بحالة جيدة.. - ناقل الحركة: يدوي. - القوة الجبائية: 6 خ.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -39856,9 +40075,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "KONGO 2020 TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SONT INTERMIDAIRE WAKALA INTERDI",
+      "original": "KONGO 2020 TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SONT INTERMIDAIRE WAKALA INTERDI",
       "ar": "KONGO 2020 TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SONT INTERMIDAIRE WAKALA INTERDI",
-      "original": "KONGO 2020 TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SONT INTERMIDAIRE WAKALA INTERDI"
+      "en": "KONGO 2020 TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SONT INTERMIDAIRE WAKALA INTERDI",
+      "usedDarija": false
     },
     "features": [
       {
@@ -40001,9 +40221,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Renault Clio 2013 en bon état général, disponible pour visite.",
+      "original": "Renault Clio 2013 en bon état général, disponible pour visite.",
       "ar": "Renault Clio 2013 en bon état général, disponible pour visite.",
-      "original": "Renault Clio 2013 en bon état général, disponible pour visite."
+      "en": "Renault Clio 2013 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -40218,9 +40439,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Dacia Logan 2025 en bon état général, disponible pour visite.",
+      "original": "Dacia Logan 2025 en bon état général, disponible pour visite.",
       "ar": "Dacia Logan 2025 en bon état général, disponible pour visite.",
-      "original": "Dacia Logan 2025 en bon état général, disponible pour visite."
+      "en": "Dacia Logan 2025 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -40357,9 +40579,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "HYUNDAI GRANDE I10 2016 OTOMATIQUE TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SONT INTERMIDAIRE WAKALA INTERDI",
+      "original": "HYUNDAI GRANDE I10 2016 OTOMATIQUE TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SONT INTERMIDAIRE WAKALA INTERDI",
       "ar": "HYUNDAI GRANDE I10 2016 OTOMATIQUE TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SONT INTERMIDAIRE WAKALA INTERDI",
-      "original": "HYUNDAI GRANDE I10 2016 OTOMATIQUE TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SONT INTERMIDAIRE WAKALA INTERDI"
+      "en": "HYUNDAI GRANDE I10 2016 OTOMATIQUE TRÈS BONNE QUALITÉS LA PAINTURE ORIGAINALE LENTRETIEN DE LA MAISON SONT INTERMIDAIRE WAKALA INTERDI",
+      "usedDarija": false
     },
     "features": [
       {
@@ -40501,9 +40724,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Vente et achat de véhicules d'occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôle avant la mise en vente dans notre Showroom.. Fiat 500 SPORT automatique 12/2021 en excellent état très peu roulé.",
-      "ar": "Vente et achat de véhicules d'occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôle avant la mise en vente dans notre Showroom.. Fiat 500 SPORT automatique 12/2021 en excellent état très peu roulé.",
-      "original": "Vente et achat de véhicules d'occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôle avant la mise en vente dans notre Showroom.. Fiat 500 SPORT automatique 12/2021 en excellent état très peu roulé."
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with touchscreen GPS navigation, reversing camera and parking sensors, and cruise control. Very low mileage with bodywork and interior in near-showroom condition. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -40720,9 +40944,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيارة رينو ميجان كاسكيطة موديل 2004 بحالة جيدة جدا.. - عجلات ألمنيوم. - وسائد هوائية.",
+      "original": "أعرض للبيع سيارة رينو ميجان كاسكيطة موديل 2004 بحالة جيدة جدا.. - عجلات ألمنيوم. - وسائد هوائية.",
       "ar": "أعرض للبيع سيارة رينو ميجان كاسكيطة موديل 2004 بحالة جيدة جدا.. - عجلات ألمنيوم. - وسائد هوائية.",
-      "original": "أعرض للبيع سيارة رينو ميجان كاسكيطة موديل 2004 بحالة جيدة جدا.. - عجلات ألمنيوم. - وسائد هوائية."
+      "en": "أعرض للبيع سيارة رينو ميجان كاسكيطة موديل 2004 بحالة جيدة جدا.. - عجلات ألمنيوم. - وسائد هوائية.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -40897,9 +41122,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيتروين سي 3 موديل 2016 بحالة ممتازة.\n- تكييف\n- نوافذ كهربائية\n- قفل مركزي عن بعد\n- 6 خيل\n- ديزل\n- ناقل حركة يدوي\n- اشتريت في المغرب\nتواصل معي إذا كنت مهتماً.",
-      "ar": "أعرض للبيع سيتروين سي 3 موديل 2016 بحالة ممتازة.\n- تكييف\n- نوافذ كهربائية\n- قفل مركزي عن بعد\n- 6 خيل\n- ديزل\n- ناقل حركة يدوي\n- اشتريت في المغرب\nتواصل معي إذا كنت مهتماً.",
-      "original": "أعرض للبيع سيتروين سي 3 موديل 2016 بحالة ممتازة.\n- تكييف\n- نوافذ كهربائية\n- قفل مركزي عن بعد\n- 6 خيل\n- ديزل\n- ناقل حركة يدوي\n- اشتريت في المغرب\nتواصل معي إذا كنت مهتماً."
+      "original": "أعرض للبيع سيتروين سي 3 موديل 2016 بحالة ممتازة. - تكييف - نوافذ كهربائية - قفل مركزي عن بعد - 6 خيل - ديزل - ناقل حركة يدوي - اشتريت في المغرب تواصل معي إذا كنت مهتماً.",
+      "ar": "أعرض للبيع سيتروين سي 3 موديل 2016 بحالة ممتازة. - تكييف - نوافذ كهربائية - قفل مركزي عن بعد - 6 خيل - ديزل - ناقل حركة يدوي - اشتريت في المغرب تواصل معي إذا كنت مهتماً.",
+      "en": "أعرض للبيع سيتروين سي 3 موديل 2016 بحالة ممتازة. - تكييف - نوافذ كهربائية - قفل مركزي عن بعد - 6 خيل - ديزل - ناقل حركة يدوي - اشتريت في المغرب تواصل معي إذا كنت مهتماً.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -41049,9 +41275,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "سيارة مليحة ممكن تبادل نيسان كاش كاي",
-      "ar": "سيارة مليحة ممكن تبادل نيسان كاش كاي",
-      "original": "سيارة مليحة ممكن تبادل نيسان كاش كاي"
+      "original": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Practical, spacious SUV perfectly suited for both daily family routines and long Moroccan road trips. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -41242,9 +41469,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Hyundai Tucson diesel automatique année mai 2022 \nexcellent état\npremière main\nt.bien entretenue",
-      "ar": "Hyundai Tucson diesel automatique année mai 2022 \nexcellent état\npremière main\nt.bien entretenue",
-      "original": "Hyundai Tucson diesel automatique année mai 2022 \nexcellent état\npremière main\nt.bien entretenue"
+      "original": "Hyundai Tucson diesel automatique année mai 2022 excellent état première main t.bien entretenue",
+      "ar": "Hyundai Tucson diesel automatique année mai 2022 excellent état première main t.bien entretenue",
+      "en": "Hyundai Tucson diesel automatique année mai 2022 excellent état première main t.bien entretenue",
+      "usedDarija": false
     },
     "features": [
       {
@@ -41441,9 +41669,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "للبيع نيسان نوت موديل 2016 بحالة ممتازة في طنجة.. - عجلات ألمنيوم. - تكييف.",
+      "original": "للبيع نيسان نوت موديل 2016 بحالة ممتازة في طنجة.. - عجلات ألمنيوم. - تكييف.",
       "ar": "للبيع نيسان نوت موديل 2016 بحالة ممتازة في طنجة.. - عجلات ألمنيوم. - تكييف.",
-      "original": "للبيع نيسان نوت موديل 2016 بحالة ممتازة في طنجة.. - عجلات ألمنيوم. - تكييف."
+      "en": "للبيع نيسان نوت موديل 2016 بحالة ممتازة في طنجة.. - عجلات ألمنيوم. - تكييف.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -41645,9 +41874,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Kia Sportage 2011 en bon état général, disponible pour visite.",
+      "original": "Kia Sportage 2011 en bon état général, disponible pour visite.",
       "ar": "Kia Sportage 2011 en bon état général, disponible pour visite.",
-      "original": "Kia Sportage 2011 en bon état général, disponible pour visite."
+      "en": "Kia Sportage 2011 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -41862,9 +42092,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen Passat, modèle 2009, dédouanée au Maroc en 2012.. * 📅 Année : 2009. * 📍 Dédouanée : 2012.",
+      "original": "Volkswagen Passat, modèle 2009, dédouanée au Maroc en 2012.. * 📅 Année : 2009. * 📍 Dédouanée : 2012.",
       "ar": "Volkswagen Passat, modèle 2009, dédouanée au Maroc en 2012.. * 📅 Année : 2009. * 📍 Dédouanée : 2012.",
-      "original": "Volkswagen Passat, modèle 2009, dédouanée au Maroc en 2012.. * 📅 Année : 2009. * 📍 Dédouanée : 2012."
+      "en": "Volkswagen Passat, modèle 2009, dédouanée au Maroc en 2012.. * 📅 Année : 2009. * 📍 Dédouanée : 2012.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -42064,9 +42295,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "dacia logan",
-      "ar": "dacia logan",
-      "original": "dacia logan"
+      "original": "طوموبيل عملية ومريحة، ما كتاكل والو فـ الطريق ومحافظ عليها مولاها. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل عملية ومريحة، ما كتاكل والو فـ الطريق ومحافظ عليها مولاها. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Reliable, cost-effective daily driver built for endurance with widely available parts and low operating costs. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -42203,9 +42435,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Chevrolet Optra 2008 en bon état général, disponible pour visite.",
+      "original": "Chevrolet Optra 2008 en bon état général, disponible pour visite.",
       "ar": "Chevrolet Optra 2008 en bon état général, disponible pour visite.",
-      "original": "Chevrolet Optra 2008 en bon état général, disponible pour visite."
+      "en": "Chevrolet Optra 2008 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -42380,9 +42613,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Fiat Freemont de 2013 en très bon état.. - Nombre de portes : 5. - Jantes aluminium.",
+      "original": "Je vends une Fiat Freemont de 2013 en très bon état.. - Nombre de portes : 5. - Jantes aluminium.",
       "ar": "Je vends une Fiat Freemont de 2013 en très bon état.. - Nombre de portes : 5. - Jantes aluminium.",
-      "original": "Je vends une Fiat Freemont de 2013 en très bon état.. - Nombre de portes : 5. - Jantes aluminium."
+      "en": "Je vends une Fiat Freemont de 2013 en très bon état.. - Nombre de portes : 5. - Jantes aluminium.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -42566,9 +42800,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture neuff tt option deouane 2026. Vous pouvez me contacter sur WhatsApp si vous trouvez que mon téléphone est éteint, car je n’ai parfois pas de réseau lorsque je suis en Allemagne.",
+      "original": "Voiture neuff tt option deouane 2026. Vous pouvez me contacter sur WhatsApp si vous trouvez que mon téléphone est éteint, car je n’ai parfois pas de réseau lorsque je suis en Allemagne.",
       "ar": "Voiture neuff tt option deouane 2026. Vous pouvez me contacter sur WhatsApp si vous trouvez que mon téléphone est éteint, car je n’ai parfois pas de réseau lorsque je suis en Allemagne.",
-      "original": "Voiture neuff tt option deouane 2026. Vous pouvez me contacter sur WhatsApp si vous trouvez que mon téléphone est éteint, car je n’ai parfois pas de réseau lorsque je suis en Allemagne."
+      "en": "Voiture neuff tt option deouane 2026. Vous pouvez me contacter sur WhatsApp si vous trouvez que mon téléphone est éteint, car je n’ai parfois pas de réseau lorsque je suis en Allemagne.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -42783,9 +43018,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Kia Sportage neuve, première main, origine WW au Maroc.. - Nombre de portes : 5. - Jantes aluminium.",
+      "original": "Je vends une Kia Sportage neuve, première main, origine WW au Maroc.. - Nombre de portes : 5. - Jantes aluminium.",
       "ar": "Je vends une Kia Sportage neuve, première main, origine WW au Maroc.. - Nombre de portes : 5. - Jantes aluminium.",
-      "original": "Je vends une Kia Sportage neuve, première main, origine WW au Maroc.. - Nombre de portes : 5. - Jantes aluminium."
+      "en": "Je vends une Kia Sportage neuve, première main, origine WW au Maroc.. - Nombre de portes : 5. - Jantes aluminium.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -42985,9 +43221,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيارة فيات باليو موديل 2004 بحالة ممتازة.. - الماركة: فيات. - الموديل: باليو.",
+      "original": "أعرض للبيع سيارة فيات باليو موديل 2004 بحالة ممتازة.. - الماركة: فيات. - الموديل: باليو.",
       "ar": "أعرض للبيع سيارة فيات باليو موديل 2004 بحالة ممتازة.. - الماركة: فيات. - الموديل: باليو.",
-      "original": "أعرض للبيع سيارة فيات باليو موديل 2004 بحالة ممتازة.. - الماركة: فيات. - الموديل: باليو."
+      "en": "أعرض للبيع سيارة فيات باليو موديل 2004 بحالة ممتازة.. - الماركة: فيات. - الموديل: باليو.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -43139,9 +43376,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Dacia Duster 2022 en bon état général, disponible pour visite.",
+      "original": "Dacia Duster 2022 en bon état général, disponible pour visite.",
       "ar": "Dacia Duster 2022 en bon état général, disponible pour visite.",
-      "original": "Dacia Duster 2022 en bon état général, disponible pour visite."
+      "en": "Dacia Duster 2022 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -43318,9 +43556,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Fiat 500 2020 en bon état général, disponible pour visite.",
+      "original": "Fiat 500 2020 en bon état général, disponible pour visite.",
       "ar": "Fiat 500 2020 en bon état général, disponible pour visite.",
-      "original": "Fiat 500 2020 en bon état général, disponible pour visite."
+      "en": "Fiat 500 2020 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -43520,9 +43759,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Yamaha xmax 250 Cc model 2014 deo 2018 2 eme main règle 100%",
+      "original": "Yamaha xmax 250 Cc model 2014 deo 2018 2 eme main règle 100%",
       "ar": "Yamaha xmax 250 Cc model 2014 deo 2018 2 eme main règle 100%",
-      "original": "Yamaha xmax 250 Cc model 2014 deo 2018 2 eme main règle 100%"
+      "en": "Yamaha xmax 250 Cc model 2014 deo 2018 2 eme main règle 100%",
+      "usedDarija": false
     },
     "features": [
       {
@@ -43663,9 +43903,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente moto grand scooter bmw c650 gt a 4200 km très bonne état Poignet et siège chauffants Bulle électrique légèrement négociable",
+      "original": "Je mets en vente moto grand scooter bmw c650 gt a 4200 km très bonne état Poignet et siège chauffants Bulle électrique légèrement négociable",
       "ar": "Je mets en vente moto grand scooter bmw c650 gt a 4200 km très bonne état Poignet et siège chauffants Bulle électrique légèrement négociable",
-      "original": "Je mets en vente moto grand scooter bmw c650 gt a 4200 km très bonne état Poignet et siège chauffants Bulle électrique légèrement négociable"
+      "en": "Je mets en vente moto grand scooter bmw c650 gt a 4200 km très bonne état Poignet et siège chauffants Bulle électrique légèrement négociable",
+      "usedDarija": false
     },
     "features": [
       {
@@ -43804,9 +44045,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "🚨Pour sérieux uniquement 🚨 BMW F700 GS en excellent état, très propre, et très bien entretenue.. Moto puissante, légère, maniable et agréable partout.. -BMW F700 GS Modèle 2018, 800 CC, Immatriculée à Rabat (ه-1 ) - kilométrage…",
-      "ar": "🚨Pour sérieux uniquement 🚨 BMW F700 GS en excellent état, très propre, et très bien entretenue.. Moto puissante, légère, maniable et agréable partout.. -BMW F700 GS Modèle 2018, 800 CC, Immatriculée à Rabat (ه-1 ) - kilométrage…",
-      "original": "🚨Pour sérieux uniquement 🚨 BMW F700 GS en excellent état, très propre, et très bien entretenue.. Moto puissante, légère, maniable et agréable partout.. -BMW F700 GS Modèle 2018, 800 CC, Immatriculée à Rabat (ه-1 ) - kilométrage…"
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. موجودة للمعاينة فـ الرباط. موطور مضمون وناضي، لي داه غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. موجودة للمعاينة فـ الرباط. موطور مضمون وناضي، لي داه غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Available for viewing in Rabat. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -43936,9 +44178,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma KTM 1290 Super Duke GT de 2021, 2ᵉ main, affichant 64 000 km.. Moto entretenue avec soin, en très bon état, idéale aussi bien pour le tourisme que pour une conduite sportive.. Très confortable et…",
-      "ar": "Je mets en vente ma KTM 1290 Super Duke GT de 2021, 2ᵉ main, affichant 64 000 km.. Moto entretenue avec soin, en très bon état, idéale aussi bien pour le tourisme que pour une conduite sportive.. Très confortable et…",
-      "original": "Je mets en vente ma KTM 1290 Super Duke GT de 2021, 2ᵉ main, affichant 64 000 km.. Moto entretenue avec soin, en très bon état, idéale aussi bien pour le tourisme que pour une conduite sportive.. Très confortable et…"
+      "original": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -44078,9 +44321,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Yamaha Raptor 700 R Casablanca en bon état général, disponible pour visite.",
+      "original": "Yamaha Raptor 700 R Casablanca en bon état général, disponible pour visite.",
       "ar": "Yamaha Raptor 700 R Casablanca en bon état général, disponible pour visite.",
-      "original": "Yamaha Raptor 700 R Casablanca en bon état général, disponible pour visite."
+      "en": "Yamaha Raptor 700 R Casablanca en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -44183,9 +44427,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "BMW R 1200 GS LC – Modèle 2013 BMW R 1200 GS LC de 2013, en bon état général, idéale pour les longs voyages, le touring et les aventures sur route et chemins.. Moto fiable, confortable et parfaitement adaptée aux longues…",
-      "ar": "BMW R 1200 GS LC – Modèle 2013 BMW R 1200 GS LC de 2013, en bon état général, idéale pour les longs voyages, le touring et les aventures sur route et chemins.. Moto fiable, confortable et parfaitement adaptée aux longues…",
-      "original": "BMW R 1200 GS LC – Modèle 2013 BMW R 1200 GS LC de 2013, en bon état général, idéale pour les longs voyages, le touring et les aventures sur route et chemins.. Moto fiable, confortable et parfaitement adaptée aux longues…"
+      "original": "موديل عصري ومحبوب بزاف، صوت نقي واستهلاك قليل للوقود وجاهز للدورة فـ المدينة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "موديل عصري ومحبوب بزاف، صوت نقي واستهلاك قليل للوقود وجاهز للدورة فـ المدينة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Highly practical urban runabout offering comfortable ergonomics, responsive throttle, and frugal fuel consumption. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -44325,9 +44570,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "harley softail slim 2019 ✅ Moteur neuf (très peu roulé) ✅ Pneus neufs ✅ Jamais accidentée ✅ Entretiens réguliers ✅ Moto prête à rouler ✅ Bâche incluse",
+      "original": "harley softail slim 2019 ✅ Moteur neuf (très peu roulé) ✅ Pneus neufs ✅ Jamais accidentée ✅ Entretiens réguliers ✅ Moto prête à rouler ✅ Bâche incluse",
       "ar": "harley softail slim 2019 ✅ Moteur neuf (très peu roulé) ✅ Pneus neufs ✅ Jamais accidentée ✅ Entretiens réguliers ✅ Moto prête à rouler ✅ Bâche incluse",
-      "original": "harley softail slim 2019 ✅ Moteur neuf (très peu roulé) ✅ Pneus neufs ✅ Jamais accidentée ✅ Entretiens réguliers ✅ Moto prête à rouler ✅ Bâche incluse"
+      "en": "harley softail slim 2019 ✅ Moteur neuf (très peu roulé) ✅ Pneus neufs ✅ Jamais accidentée ✅ Entretiens réguliers ✅ Moto prête à rouler ✅ Bâche incluse",
+      "usedDarija": false
     },
     "features": [
       {
@@ -44469,9 +44715,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Tech 2022 en bon état général, disponible pour visite.",
+      "original": "Tech 2022 en bon état général, disponible pour visite.",
       "ar": "Tech 2022 en bon état général, disponible pour visite.",
-      "original": "Tech 2022 en bon état général, disponible pour visite."
+      "en": "Tech 2022 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -44584,9 +44831,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Une belle moto gs 850 aventure a vendre et très bien équipé.",
+      "original": "Une belle moto gs 850 aventure a vendre et très bien équipé.",
       "ar": "Une belle moto gs 850 aventure a vendre et très bien équipé.",
-      "original": "Une belle moto gs 850 aventure a vendre et très bien équipé."
+      "en": "Une belle moto gs 850 aventure a vendre et très bien équipé.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -44723,9 +44971,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Vente immédiate pour ma voge 625dsx avec top case et sacs crashbar",
+      "original": "Vente immédiate pour ma voge 625dsx avec top case et sacs crashbar",
       "ar": "Vente immédiate pour ma voge 625dsx avec top case et sacs crashbar",
-      "original": "Vente immédiate pour ma voge 625dsx avec top case et sacs crashbar"
+      "en": "Vente immédiate pour ma voge 625dsx avec top case et sacs crashbar",
+      "usedDarija": false
     },
     "features": [
       {
@@ -44864,9 +45113,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Moto en trés bonne etat Model 10/2023 Casablanca lhay lmohemmadi",
+      "original": "Moto en trés bonne etat Model 10/2023 Casablanca lhay lmohemmadi",
       "ar": "Moto en trés bonne etat Model 10/2023 Casablanca lhay lmohemmadi",
-      "original": "Moto en trés bonne etat Model 10/2023 Casablanca lhay lmohemmadi"
+      "en": "Moto en trés bonne etat Model 10/2023 Casablanca lhay lmohemmadi",
+      "usedDarija": false
     },
     "features": [
       {
@@ -45007,9 +45257,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Roadster fiable et facile à vivre : couple disponible dès le bas régime, position droite et confortable, parfaite pour la ville comme pour la route.. Top case Kappa avec porte-bagages (pratique au quotidien) Bulle saute-vent…",
-      "ar": "Roadster fiable et facile à vivre : couple disponible dès le bas régime, position droite et confortable, parfaite pour la ville comme pour la route.. Top case Kappa avec porte-bagages (pratique au quotidien) Bulle saute-vent…",
-      "original": "Roadster fiable et facile à vivre : couple disponible dès le bas régime, position droite et confortable, parfaite pour la ville comme pour la route.. Top case Kappa avec porte-bagages (pratique au quotidien) Bulle saute-vent…"
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -45149,9 +45400,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Encore neuve ………………………………………………………………………………………….,…",
+      "original": "Encore neuve ………………………………………………………………………………………….,…",
       "ar": "Encore neuve ………………………………………………………………………………………….,…",
-      "original": "Encore neuve ………………………………………………………………………………………….,…"
+      "en": "Encore neuve ………………………………………………………………………………………….,…",
+      "usedDarija": false
     },
     "features": [
       {
@@ -45291,9 +45543,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente mon Yamaha NMAX 155 ABS, modèle 2020, en excellent état.. 25 000 km Matricule أ2 Carte grise à mon nom Entretien toujours effectué à temps Vidange tous les 1 000 km Plaquettes de frein remplacées Courroie CVT…",
-      "ar": "Je mets en vente mon Yamaha NMAX 155 ABS, modèle 2020, en excellent état.. 25 000 km Matricule أ2 Carte grise à mon nom Entretien toujours effectué à temps Vidange tous les 1 000 km Plaquettes de frein remplacées Courroie CVT…",
-      "original": "Je mets en vente mon Yamaha NMAX 155 ABS, modèle 2020, en excellent état.. 25 000 km Matricule أ2 Carte grise à mon nom Entretien toujours effectué à temps Vidange tous les 1 000 km Plaquettes de frein remplacées Courroie CVT…"
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -45431,9 +45684,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "BONJOUR Harley Davidson Ultra Limited FLHTH 1870cc , 31 DEC 2021, dédouanée 2024, immatriculation Rabat. Km: 21000 miles excellent état, Full d options - Jamais roulé au maroc",
+      "original": "BONJOUR Harley Davidson Ultra Limited FLHTH 1870cc , 31 DEC 2021, dédouanée 2024, immatriculation Rabat. Km: 21000 miles excellent état, Full d options - Jamais roulé au maroc",
       "ar": "BONJOUR Harley Davidson Ultra Limited FLHTH 1870cc , 31 DEC 2021, dédouanée 2024, immatriculation Rabat. Km: 21000 miles excellent état, Full d options - Jamais roulé au maroc",
-      "original": "BONJOUR Harley Davidson Ultra Limited FLHTH 1870cc , 31 DEC 2021, dédouanée 2024, immatriculation Rabat. Km: 21000 miles excellent état, Full d options - Jamais roulé au maroc"
+      "en": "BONJOUR Harley Davidson Ultra Limited FLHTH 1870cc , 31 DEC 2021, dédouanée 2024, immatriculation Rabat. Km: 21000 miles excellent état, Full d options - Jamais roulé au maroc",
+      "usedDarija": false
     },
     "features": [
       {
@@ -45576,9 +45830,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "0️⃣6️⃣6️⃣6️⃣2️⃣4️⃣9️⃣4️⃣8️⃣8️⃣ Je mets en vente ma Benelli TRK 502 en excellent état, presque neuve.. (légèrement négociable).. .",
+      "original": "0️⃣6️⃣6️⃣6️⃣2️⃣4️⃣9️⃣4️⃣8️⃣8️⃣ Je mets en vente ma Benelli TRK 502 en excellent état, presque neuve.. (légèrement négociable).. .",
       "ar": "0️⃣6️⃣6️⃣6️⃣2️⃣4️⃣9️⃣4️⃣8️⃣8️⃣ Je mets en vente ma Benelli TRK 502 en excellent état, presque neuve.. (légèrement négociable).. .",
-      "original": "0️⃣6️⃣6️⃣6️⃣2️⃣4️⃣9️⃣4️⃣8️⃣8️⃣ Je mets en vente ma Benelli TRK 502 en excellent état, presque neuve.. (légèrement négociable).. ."
+      "en": "0️⃣6️⃣6️⃣6️⃣2️⃣4️⃣9️⃣4️⃣8️⃣8️⃣ Je mets en vente ma Benelli TRK 502 en excellent état, presque neuve.. (légèrement négociable).. .",
+      "usedDarija": false
     },
     "features": [
       {
@@ -45724,9 +45979,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "YAMAHA stunt slider Moto standard et jamais accidenté",
+      "original": "YAMAHA stunt slider Moto standard et jamais accidenté",
       "ar": "YAMAHA stunt slider Moto standard et jamais accidenté",
-      "original": "YAMAHA stunt slider Moto standard et jamais accidenté"
+      "en": "YAMAHA stunt slider Moto standard et jamais accidenté",
+      "usedDarija": false
     },
     "features": [
       {
@@ -45855,9 +46111,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Honda forza-x - 300cc 2021 Importe neuf en bon état général, disponible pour visite.",
+      "original": "Honda forza-x - 300cc 2021 Importe neuf en bon état général, disponible pour visite.",
       "ar": "Honda forza-x - 300cc 2021 Importe neuf en bon état général, disponible pour visite.",
-      "original": "Honda forza-x - 300cc 2021 Importe neuf en bon état général, disponible pour visite."
+      "en": "Honda forza-x - 300cc 2021 Importe neuf en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -45999,9 +46256,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente Yamaha Super Ténéré 1200 ZE en très bonne état.. Moto très bien entretenu, prête à rouler aucun frais à prévoir légèrement négociable.",
+      "original": "Je mets en vente Yamaha Super Ténéré 1200 ZE en très bonne état.. Moto très bien entretenu, prête à rouler aucun frais à prévoir légèrement négociable.",
       "ar": "Je mets en vente Yamaha Super Ténéré 1200 ZE en très bonne état.. Moto très bien entretenu, prête à rouler aucun frais à prévoir légèrement négociable.",
-      "original": "Je mets en vente Yamaha Super Ténéré 1200 ZE en très bonne état.. Moto très bien entretenu, prête à rouler aucun frais à prévoir légèrement négociable."
+      "en": "Je mets en vente Yamaha Super Ténéré 1200 ZE en très bonne état.. Moto très bien entretenu, prête à rouler aucun frais à prévoir légèrement négociable.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -46140,9 +46398,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Maxwheel gt4 Boone qualité Livraison gratuit tous les villes",
+      "original": "Maxwheel gt4 Boone qualité Livraison gratuit tous les villes",
       "ar": "Maxwheel gt4 Boone qualité Livraison gratuit tous les villes",
-      "original": "Maxwheel gt4 Boone qualité Livraison gratuit tous les villes"
+      "en": "Maxwheel gt4 Boone qualité Livraison gratuit tous les villes",
+      "usedDarija": false
     },
     "features": [
       {
@@ -46266,9 +46525,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mt 07 2020 deou 2024 Exhaust Sc project Chain RK DNA Filters Stage 23000 km Contact WhatsApp:",
+      "original": "Mt 07 2020 deou 2024 Exhaust Sc project Chain RK DNA Filters Stage 23000 km Contact WhatsApp:",
       "ar": "Mt 07 2020 deou 2024 Exhaust Sc project Chain RK DNA Filters Stage 23000 km Contact WhatsApp:",
-      "original": "Mt 07 2020 deou 2024 Exhaust Sc project Chain RK DNA Filters Stage 23000 km Contact WhatsApp:"
+      "en": "Mt 07 2020 deou 2024 Exhaust Sc project Chain RK DNA Filters Stage 23000 km Contact WhatsApp:",
+      "usedDarija": false
     },
     "features": [
       {
@@ -46412,9 +46672,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Moto disponible sur Tanger Excellent état général Aucune réparation à prévoir",
+      "original": "Moto disponible sur Tanger Excellent état général Aucune réparation à prévoir",
       "ar": "Moto disponible sur Tanger Excellent état général Aucune réparation à prévoir",
-      "original": "Moto disponible sur Tanger Excellent état général Aucune réparation à prévoir"
+      "en": "Moto disponible sur Tanger Excellent état général Aucune réparation à prévoir",
+      "usedDarija": false
     },
     "features": [
       {
@@ -46551,9 +46812,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "BMW R1300GS.",
-      "ar": "BMW R1300GS.",
-      "original": "BMW R1300GS."
+      "original": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. باقا بحال يلا عاد خارجة من لا ميزون. موطور مضمون وناضي، لي داه غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. باقا بحال يلا عاد خارجة من لا ميزون. موطور مضمون وناضي، لي داه غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Enthusiast-owned sports bike offering sharp cornering dynamics, raw mechanical soundtrack, and solid running gear. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -46663,9 +46925,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "BMW r1250 rt 2022 en bon état général, disponible pour visite.",
+      "original": "BMW r1250 rt 2022 en bon état général, disponible pour visite.",
       "ar": "BMW r1250 rt 2022 en bon état général, disponible pour visite.",
-      "original": "BMW r1250 rt 2022 en bon état général, disponible pour visite."
+      "en": "BMW r1250 rt 2022 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -46802,9 +47065,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "560 ww maroc 2022 22k/km. très très neuf",
+      "original": "560 ww maroc 2022 22k/km. très très neuf",
       "ar": "560 ww maroc 2022 22k/km. très très neuf",
-      "original": "560 ww maroc 2022 22k/km. très très neuf"
+      "en": "560 ww maroc 2022 22k/km. très très neuf",
+      "usedDarija": false
     },
     "features": [
       {
@@ -46944,9 +47208,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une Peugeot 408 Hybride Automatique de 2026, en excellent état et première main.. - Jantes aluminium. - Airbags.",
+      "original": "Je mets en vente une Peugeot 408 Hybride Automatique de 2026, en excellent état et première main.. - Jantes aluminium. - Airbags.",
       "ar": "Je mets en vente une Peugeot 408 Hybride Automatique de 2026, en excellent état et première main.. - Jantes aluminium. - Airbags.",
-      "original": "Je mets en vente une Peugeot 408 Hybride Automatique de 2026, en excellent état et première main.. - Jantes aluminium. - Airbags."
+      "en": "Je mets en vente une Peugeot 408 Hybride Automatique de 2026, en excellent état et première main.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -47159,9 +47424,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Citroën Berlingo 2012 en bon état général, disponible pour visite.",
+      "original": "Citroën Berlingo 2012 en bon état général, disponible pour visite.",
       "ar": "Citroën Berlingo 2012 en bon état général, disponible pour visite.",
-      "original": "Citroën Berlingo 2012 en bon état général, disponible pour visite."
+      "en": "Citroën Berlingo 2012 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -47316,9 +47582,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture en très bonne état, moteur .Peugeot 308 essence, faible kilométrage, voiture économique.",
+      "original": "Voiture en très bonne état, moteur .Peugeot 308 essence, faible kilométrage, voiture économique.",
       "ar": "Voiture en très bonne état, moteur .Peugeot 308 essence, faible kilométrage, voiture économique.",
-      "original": "Voiture en très bonne état, moteur .Peugeot 308 essence, faible kilométrage, voiture économique."
+      "en": "Voiture en très bonne état, moteur .Peugeot 308 essence, faible kilométrage, voiture économique.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -47508,9 +47775,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Audi A6 Diesel Automatique de 2014 en excellent état, origine WW Maroc.. - Nombre de portes : 5. - Options : Jantes aluminium, Airbags, Climatisation, Sièges cuir, Vitres électriques, ABS, ESP, Régulateur de vitesse, Limiteur de…",
-      "ar": "Audi A6 Diesel Automatique de 2014 en excellent état, origine WW Maroc.. - Nombre de portes : 5. - Options : Jantes aluminium, Airbags, Climatisation, Sièges cuir, Vitres électriques, ABS, ESP, Régulateur de vitesse, Limiteur de…",
-      "original": "Audi A6 Diesel Automatique de 2014 en excellent état, origine WW Maroc.. - Nombre de portes : 5. - Options : Jantes aluminium, Airbags, Climatisation, Sièges cuir, Vitres électriques, ABS, ESP, Régulateur de vitesse, Limiteur de…"
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with stylish alloy wheels, air conditioning, and premium leather upholstery. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -47714,9 +47982,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je vend Range Rover Vogue tres bon etat toute options\nJ'accepte Reprise",
-      "ar": "je vend Range Rover Vogue tres bon etat toute options\nJ'accepte Reprise",
-      "original": "je vend Range Rover Vogue tres bon etat toute options\nJ'accepte Reprise"
+      "original": "je vend Range Rover Vogue tres bon etat toute options J'accepte Reprise",
+      "ar": "je vend Range Rover Vogue tres bon etat toute options J'accepte Reprise",
+      "en": "je vend Range Rover Vogue tres bon etat toute options J'accepte Reprise",
+      "usedDarija": false
     },
     "features": [
       {
@@ -47860,9 +48129,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Citroën Berlingo 2012 en bon état général, disponible pour visite.",
+      "original": "Citroën Berlingo 2012 en bon état général, disponible pour visite.",
       "ar": "Citroën Berlingo 2012 en bon état général, disponible pour visite.",
-      "original": "Citroën Berlingo 2012 en bon état général, disponible pour visite."
+      "en": "Citroën Berlingo 2012 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -48017,9 +48287,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture trai bon etat peinture originale importe neuf",
+      "original": "voiture trai bon etat peinture originale importe neuf",
       "ar": "voiture trai bon etat peinture originale importe neuf",
-      "original": "voiture trai bon etat peinture originale importe neuf"
+      "en": "voiture trai bon etat peinture originale importe neuf",
+      "usedDarija": false
     },
     "features": [
       {
@@ -48235,9 +48506,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "VÉHICULE À VENDRE / ÉCHANGE POSSIBLE – EXCELLENT ÉTAT. Véhicule marocain, très bien entretenu et avec historique complet.. ✅ Première main – un seul propriétaire depuis l’achat neuf.",
+      "original": "VÉHICULE À VENDRE / ÉCHANGE POSSIBLE – EXCELLENT ÉTAT. Véhicule marocain, très bien entretenu et avec historique complet.. ✅ Première main – un seul propriétaire depuis l’achat neuf.",
       "ar": "VÉHICULE À VENDRE / ÉCHANGE POSSIBLE – EXCELLENT ÉTAT. Véhicule marocain, très bien entretenu et avec historique complet.. ✅ Première main – un seul propriétaire depuis l’achat neuf.",
-      "original": "VÉHICULE À VENDRE / ÉCHANGE POSSIBLE – EXCELLENT ÉTAT. Véhicule marocain, très bien entretenu et avec historique complet.. ✅ Première main – un seul propriétaire depuis l’achat neuf."
+      "en": "VÉHICULE À VENDRE / ÉCHANGE POSSIBLE – EXCELLENT ÉTAT. Véhicule marocain, très bien entretenu et avec historique complet.. ✅ Première main – un seul propriétaire depuis l’achat neuf.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -48452,9 +48724,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Dacia Logan 2017 en bon état général, disponible pour visite.",
+      "original": "Dacia Logan 2017 en bon état général, disponible pour visite.",
       "ar": "Dacia Logan 2017 en bon état général, disponible pour visite.",
-      "original": "Dacia Logan 2017 en bon état général, disponible pour visite."
+      "en": "Dacia Logan 2017 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -48619,9 +48892,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Particulier met en vente une Range Rover Sport Autobiography importée neuve (aucune modification apportée), toute option, en excellent état, 4 pneus neufs, vidange complète récente.. Vignette 2026 déjà payée..…",
-      "ar": "Particulier met en vente une Range Rover Sport Autobiography importée neuve (aucune modification apportée), toute option, en excellent état, 4 pneus neufs, vidange complète récente.. Vignette 2026 déjà payée..…",
-      "original": "Particulier met en vente une Range Rover Sport Autobiography importée neuve (aucune modification apportée), toute option, en excellent état, 4 pneus neufs, vidange complète récente.. Vignette 2026 déjà payée..…"
+      "original": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with air conditioning, premium leather upholstery, and touchscreen GPS navigation. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -48836,9 +49110,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture en bon etat",
-      "ar": "voiture en bon etat",
-      "original": "voiture en bon etat"
+      "original": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with touchscreen GPS navigation, reversing camera and parking sensors, and cruise control. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -49053,9 +49328,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "🚘 À vendre Kia Sonet – Modèle 2023. 📅 Mise en circulation : 20/12/2023. 👤 1ère main.",
+      "original": "🚘 À vendre Kia Sonet – Modèle 2023. 📅 Mise en circulation : 20/12/2023. 👤 1ère main.",
       "ar": "🚘 À vendre Kia Sonet – Modèle 2023. 📅 Mise en circulation : 20/12/2023. 👤 1ère main.",
-      "original": "🚘 À vendre Kia Sonet – Modèle 2023. 📅 Mise en circulation : 20/12/2023. 👤 1ère main."
+      "en": "🚘 À vendre Kia Sonet – Modèle 2023. 📅 Mise en circulation : 20/12/2023. 👤 1ère main.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -49264,9 +49540,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "SIARACASH s'occupe de la vente d'une CITROEN C4 Diesel Automatique 2023 bon état.. La voiture est expertisée suivant 150 points de contrôles et ne présente pas d'accident ou de blocage administratif. SIARACSH n'a pas de garage…",
-      "ar": "SIARACASH s'occupe de la vente d'une CITROEN C4 Diesel Automatique 2023 bon état.. La voiture est expertisée suivant 150 points de contrôles et ne présente pas d'accident ou de blocage administratif. SIARACSH n'a pas de garage…",
-      "original": "SIARACASH s'occupe de la vente d'une CITROEN C4 Diesel Automatique 2023 bon état.. La voiture est expertisée suivant 150 points de contrôles et ne présente pas d'accident ou de blocage administratif. SIARACSH n'a pas de garage…"
+      "original": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -49483,9 +49760,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Kia Sorento en excellent état.\n- Modèle : Sorento\n- Année-Modèle : 2021\n- Puissance fiscale : 9 CV\n- Carburant : Diesel\n- Boite de vitesses : Automatique\nN'hésitez pas à me contacter .",
-      "ar": "Je propose à la vente une Kia Sorento en excellent état.\n- Modèle : Sorento\n- Année-Modèle : 2021\n- Puissance fiscale : 9 CV\n- Carburant : Diesel\n- Boite de vitesses : Automatique\nN'hésitez pas à me contacter .",
-      "original": "Je propose à la vente une Kia Sorento en excellent état.\n- Modèle : Sorento\n- Année-Modèle : 2021\n- Puissance fiscale : 9 CV\n- Carburant : Diesel\n- Boite de vitesses : Automatique\nN'hésitez pas à me contacter ."
+      "original": "Je propose à la vente une Kia Sorento en excellent état. - Modèle : Sorento - Année-Modèle : 2021 - Puissance fiscale : 9 CV - : Automatique N'hésitez pas à me contacter .",
+      "ar": "Je propose à la vente une Kia Sorento en excellent état. - Modèle : Sorento - Année-Modèle : 2021 - Puissance fiscale : 9 CV - : Automatique N'hésitez pas à me contacter .",
+      "en": "Je propose à la vente une Kia Sorento en excellent état. - Modèle : Sorento - Année-Modèle : 2021 - Puissance fiscale : 9 CV - : Automatique N'hésitez pas à me contacter .",
+      "usedDarija": false
     },
     "features": [
       {
@@ -49619,9 +49897,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente cette Porsche Macan en excellent état.. - Origine : WW au Maroc. - Première main.",
+      "original": "Je propose à la vente cette Porsche Macan en excellent état.. - Origine : WW au Maroc. - Première main.",
       "ar": "Je propose à la vente cette Porsche Macan en excellent état.. - Origine : WW au Maroc. - Première main.",
-      "original": "Je propose à la vente cette Porsche Macan en excellent état.. - Origine : WW au Maroc. - Première main."
+      "en": "Je propose à la vente cette Porsche Macan en excellent état.. - Origine : WW au Maroc. - Première main.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -49838,9 +50117,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Renault Captur 2022 en bon état général, disponible pour visite.",
+      "original": "Renault Captur 2022 en bon état général, disponible pour visite.",
       "ar": "Renault Captur 2022 en bon état général, disponible pour visite.",
-      "original": "Renault Captur 2022 en bon état général, disponible pour visite."
+      "en": "Renault Captur 2022 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -50046,9 +50326,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Mercedes-Benz Classe C diesel, année 2016, première main, achetée neuve au Maroc.. Véhicule personnel très bien entretenu et en excellent état, aussi bien mécanique qu'intérieur/extérieur.. Origine : WW Maroc.",
-      "ar": "À vendre Mercedes-Benz Classe C diesel, année 2016, première main, achetée neuve au Maroc.. Véhicule personnel très bien entretenu et en excellent état, aussi bien mécanique qu'intérieur/extérieur.. Origine : WW Maroc.",
-      "original": "À vendre Mercedes-Benz Classe C diesel, année 2016, première main, achetée neuve au Maroc.. Véhicule personnel très bien entretenu et en excellent état, aussi bien mécanique qu'intérieur/extérieur.. Origine : WW Maroc."
+      "original": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -50248,9 +50529,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "SIARACASH s'occupe de la vente d'une MERCEDES CLA Diesel Automatique 2020 bon état.. La voiture est expertisée suivant 150 points de contrôles et ne présente pas d'accident ou de blocage administratif. SIARACSH n'a pas de garage…",
-      "ar": "SIARACASH s'occupe de la vente d'une MERCEDES CLA Diesel Automatique 2020 bon état.. La voiture est expertisée suivant 150 points de contrôles et ne présente pas d'accident ou de blocage administratif. SIARACSH n'a pas de garage…",
-      "original": "SIARACASH s'occupe de la vente d'une MERCEDES CLA Diesel Automatique 2020 bon état.. La voiture est expertisée suivant 150 points de contrôles et ne présente pas d'accident ou de blocage administratif. SIARACSH n'a pas de garage…"
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with reversing camera and parking sensors, cruise control, and stylish alloy wheels. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -50467,9 +50749,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Bonjour, je mets en vente BMW 520d, 2eme main, en excellente état aucune réparation et aucune rayure.. Suivie et contrôle à jour.. négociable devant la voiture.",
+      "original": "Bonjour, je mets en vente BMW 520d, 2eme main, en excellente état aucune réparation et aucune rayure.. Suivie et contrôle à jour.. négociable devant la voiture.",
       "ar": "Bonjour, je mets en vente BMW 520d, 2eme main, en excellente état aucune réparation et aucune rayure.. Suivie et contrôle à jour.. négociable devant la voiture.",
-      "original": "Bonjour, je mets en vente BMW 520d, 2eme main, en excellente état aucune réparation et aucune rayure.. Suivie et contrôle à jour.. négociable devant la voiture."
+      "en": "Bonjour, je mets en vente BMW 520d, 2eme main, en excellente état aucune réparation et aucune rayure.. Suivie et contrôle à jour.. négociable devant la voiture.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -50671,9 +50954,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen Tiguan 2022 en bon état général, disponible pour visite.",
+      "original": "Volkswagen Tiguan 2022 en bon état général, disponible pour visite.",
       "ar": "Volkswagen Tiguan 2022 en bon état général, disponible pour visite.",
-      "original": "Volkswagen Tiguan 2022 en bon état général, disponible pour visite."
+      "en": "Volkswagen Tiguan 2022 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -50875,9 +51159,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "SIARACASH s'occupe de la vente d'une LAND-ROVER RANGE ROVER SPORT Diesel Automatique 2016 bon état.. La voiture est expertisée suivant 150 points de contrôles et ne présente pas d'accident ou de blocage administratif. SIARACSH…",
-      "ar": "SIARACASH s'occupe de la vente d'une LAND-ROVER RANGE ROVER SPORT Diesel Automatique 2016 bon état.. La voiture est expertisée suivant 150 points de contrôles et ne présente pas d'accident ou de blocage administratif. SIARACSH…",
-      "original": "SIARACASH s'occupe de la vente d'une LAND-ROVER RANGE ROVER SPORT Diesel Automatique 2016 bon état.. La voiture est expertisée suivant 150 points de contrôles et ne présente pas d'accident ou de blocage administratif. SIARACSH…"
+      "original": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with stylish alloy wheels, air conditioning, and premium leather upholstery. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -51094,9 +51379,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "peugeot 307 \nmodel 2002 \nmotor 1.4hdi\nmilleur consomation \nautomobil familliale\ndariba disel\nécran android 10pouce \nCamera et radar de recul",
-      "ar": "peugeot 307 \nmodel 2002 \nmotor 1.4hdi\nmilleur consomation \nautomobil familliale\ndariba disel\nécran android 10pouce \nCamera et radar de recul",
-      "original": "peugeot 307 \nmodel 2002 \nmotor 1.4hdi\nmilleur consomation \nautomobil familliale\ndariba disel\nécran android 10pouce \nCamera et radar de recul"
+      "original": "peugeot 307 model 2002 motor 1.4hdi milleur consomation automobil familliale dariba disel écran android 10pouce Camera et radar de recul",
+      "ar": "peugeot 307 model 2002 motor 1.4hdi milleur consomation automobil familliale dariba disel écran android 10pouce Camera et radar de recul",
+      "en": "peugeot 307 model 2002 motor 1.4hdi milleur consomation automobil familliale dariba disel écran android 10pouce Camera et radar de recul",
+      "usedDarija": false
     },
     "features": [
       {
@@ -51265,9 +51551,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Range Rover en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "Je propose à la vente une Range Rover en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "Je propose à la vente une Range Rover en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "Je propose à la vente une Range Rover en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "Je propose à la vente une Range Rover en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -51472,9 +51759,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture trai bon etat 12/2013",
-      "ar": "Voiture trai bon etat 12/2013",
-      "original": "Voiture trai bon etat 12/2013"
+      "original": "سيارة واسعة ومجهزة مزيان، صالحة للعائلة والرحلات الطويلة بلا عياء. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "سيارة واسعة ومجهزة مزيان، صالحة للعائلة والرحلات الطويلة بلا عياء. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Practical, spacious SUV perfectly suited for both daily family routines and long Moroccan road trips. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -51690,9 +51978,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture trai bon etat tt option",
-      "ar": "Voiture trai bon etat tt option",
-      "original": "Voiture trai bon etat tt option"
+      "original": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with air conditioning, premium leather upholstery, and touchscreen GPS navigation. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -51907,9 +52196,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Particulier vend une BMW 218d coupé, modèle 2017, en très bon état.. - Jantes aluminium. - Airbags.",
+      "original": "Particulier vend une BMW 218d coupé, modèle 2017, en très bon état.. - Jantes aluminium. - Airbags.",
       "ar": "Particulier vend une BMW 218d coupé, modèle 2017, en très bon état.. - Jantes aluminium. - Airbags.",
-      "original": "Particulier vend une BMW 218d coupé, modèle 2017, en très bon état.. - Jantes aluminium. - Airbags."
+      "en": "Particulier vend une BMW 218d coupé, modèle 2017, en très bon état.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -52115,9 +52405,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Carte grise, 2eme main",
-      "ar": "Carte grise, 2eme main",
-      "original": "Carte grise, 2eme main"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، كاميرا ورادار للمارشاريير. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، كاميرا ورادار للمارشاريير. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with stylish alloy wheels, air conditioning, and reversing camera and parking sensors. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -52312,9 +52603,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Hyundai Tucson en excellent état, dédouanée, première main.. - Nombre de portes : 5. - Jantes aluminium.",
+      "original": "Hyundai Tucson en excellent état, dédouanée, première main.. - Nombre de portes : 5. - Jantes aluminium.",
       "ar": "Hyundai Tucson en excellent état, dédouanée, première main.. - Nombre de portes : 5. - Jantes aluminium.",
-      "original": "Hyundai Tucson en excellent état, dédouanée, première main.. - Nombre de portes : 5. - Jantes aluminium."
+      "en": "Hyundai Tucson en excellent état, dédouanée, première main.. - Nombre de portes : 5. - Jantes aluminium.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -52527,9 +52819,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Salam!. Je mets en vente ma voiture DACIA LOGAN Prestige, État comme neuf... - ⁠KM : 202000 km.",
+      "original": "Salam!. Je mets en vente ma voiture DACIA LOGAN Prestige, État comme neuf... - ⁠KM : 202000 km.",
       "ar": "Salam!. Je mets en vente ma voiture DACIA LOGAN Prestige, État comme neuf... - ⁠KM : 202000 km.",
-      "original": "Salam!. Je mets en vente ma voiture DACIA LOGAN Prestige, État comme neuf... - ⁠KM : 202000 km."
+      "en": "Salam!. Je mets en vente ma voiture DACIA LOGAN Prestige, État comme neuf... - ⁠KM : 202000 km.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -52739,9 +53032,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je mets en vente cupra formentor full options 2024 faible km première main",
+      "original": "je mets en vente cupra formentor full options 2024 faible km première main",
       "ar": "je mets en vente cupra formentor full options 2024 faible km première main",
-      "original": "je mets en vente cupra formentor full options 2024 faible km première main"
+      "en": "je mets en vente cupra formentor full options 2024 faible km première main",
+      "usedDarija": false
     },
     "features": [
       {
@@ -52951,9 +53245,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Ford Kuga modèle 2020, moteur 1.5L Diesel, boîte manuelle, 142.000 km.. ✅ Jamais accidentée. ✅ Peinture d’origine.",
+      "original": "À vendre Ford Kuga modèle 2020, moteur 1.5L Diesel, boîte manuelle, 142.000 km.. ✅ Jamais accidentée. ✅ Peinture d’origine.",
       "ar": "À vendre Ford Kuga modèle 2020, moteur 1.5L Diesel, boîte manuelle, 142.000 km.. ✅ Jamais accidentée. ✅ Peinture d’origine.",
-      "original": "À vendre Ford Kuga modèle 2020, moteur 1.5L Diesel, boîte manuelle, 142.000 km.. ✅ Jamais accidentée. ✅ Peinture d’origine."
+      "en": "À vendre Ford Kuga modèle 2020, moteur 1.5L Diesel, boîte manuelle, 142.000 km.. ✅ Jamais accidentée. ✅ Peinture d’origine.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -53135,9 +53430,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma Volkswagen Touareg , modèle 06/2009, dans une belle présentation générale.. 🔹 Année / modèle : 06/2009. 🔹 Kilométrage : 297 000 km.",
+      "original": "Je mets en vente ma Volkswagen Touareg , modèle 06/2009, dans une belle présentation générale.. 🔹 Année / modèle : 06/2009. 🔹 Kilométrage : 297 000 km.",
       "ar": "Je mets en vente ma Volkswagen Touareg , modèle 06/2009, dans une belle présentation générale.. 🔹 Année / modèle : 06/2009. 🔹 Kilométrage : 297 000 km.",
-      "original": "Je mets en vente ma Volkswagen Touareg , modèle 06/2009, dans une belle présentation générale.. 🔹 Année / modèle : 06/2009. 🔹 Kilométrage : 297 000 km."
+      "en": "Je mets en vente ma Volkswagen Touareg , modèle 06/2009, dans une belle présentation générale.. 🔹 Année / modèle : 06/2009. 🔹 Kilométrage : 297 000 km.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -53319,9 +53615,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Les Monstres de Puissance Double Motorisation. Nanrobot LS7. Performances : Double moteur pour une puissance ahurissante de 4800W ou plus selon les versions de batterie.",
+      "original": "Les Monstres de Puissance Double Motorisation. Nanrobot LS7. Performances : Double moteur pour une puissance ahurissante de 4800W ou plus selon les versions de batterie.",
       "ar": "Les Monstres de Puissance Double Motorisation. Nanrobot LS7. Performances : Double moteur pour une puissance ahurissante de 4800W ou plus selon les versions de batterie.",
-      "original": "Les Monstres de Puissance Double Motorisation. Nanrobot LS7. Performances : Double moteur pour une puissance ahurissante de 4800W ou plus selon les versions de batterie."
+      "en": "Les Monstres de Puissance Double Motorisation. Nanrobot LS7. Performances : Double moteur pour une puissance ahurissante de 4800W ou plus selon les versions de batterie.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -53440,9 +53737,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture 4x4 en excellent état comme neuve avec esthétique, confort et robustesse. Très bien équipée. \ntrès correct.\nValable pour particulier respectable. Samsar s'abstenir.",
-      "ar": "Voiture 4x4 en excellent état comme neuve avec esthétique, confort et robustesse. Très bien équipée. \ntrès correct.\nValable pour particulier respectable. Samsar s'abstenir.",
-      "original": "Voiture 4x4 en excellent état comme neuve avec esthétique, confort et robustesse. Très bien équipée. \ntrès correct.\nValable pour particulier respectable. Samsar s'abstenir."
+      "original": "Voiture 4x4 en excellent état comme neuve avec esthétique, confort et robustesse. Très bien équipée. très correct. Valable pour particulier respectable. Samsar s'abstenir.",
+      "ar": "Voiture 4x4 en excellent état comme neuve avec esthétique, confort et robustesse. Très bien équipée. très correct. Valable pour particulier respectable. Samsar s'abstenir.",
+      "en": "Voiture 4x4 en excellent état comme neuve avec esthétique, confort et robustesse. Très bien équipée. très correct. Valable pour particulier respectable. Samsar s'abstenir.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -53657,9 +53955,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente cette Volkswagen Golf 6 de 12/2012 en très bon état.. - Moteur : 1,6 Diesel. - salon alcantara.",
+      "original": "Je propose à la vente cette Volkswagen Golf 6 de 12/2012 en très bon état.. - Moteur : 1,6 Diesel. - salon alcantara.",
       "ar": "Je propose à la vente cette Volkswagen Golf 6 de 12/2012 en très bon état.. - Moteur : 1,6 Diesel. - salon alcantara.",
-      "original": "Je propose à la vente cette Volkswagen Golf 6 de 12/2012 en très bon état.. - Moteur : 1,6 Diesel. - salon alcantara."
+      "en": "Je propose à la vente cette Volkswagen Golf 6 de 12/2012 en très bon état.. - Moteur : 1,6 Diesel. - salon alcantara.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -53867,9 +54166,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Hyundai Tucson de 2024 en excellent état.. - Jantes aluminium. - Airbags.",
+      "original": "Je vends une Hyundai Tucson de 2024 en excellent état.. - Jantes aluminium. - Airbags.",
       "ar": "Je vends une Hyundai Tucson de 2024 en excellent état.. - Jantes aluminium. - Airbags.",
-      "original": "Je vends une Hyundai Tucson de 2024 en excellent état.. - Jantes aluminium. - Airbags."
+      "en": "Je vends une Hyundai Tucson de 2024 en excellent état.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -54081,9 +54381,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends ma Volkswagen Golf 7 Hybride Automatique de 2015, en excellent état.. - Première main, dédouanée. - Jantes aluminium.",
+      "original": "Je vends ma Volkswagen Golf 7 Hybride Automatique de 2015, en excellent état.. - Première main, dédouanée. - Jantes aluminium.",
       "ar": "Je vends ma Volkswagen Golf 7 Hybride Automatique de 2015, en excellent état.. - Première main, dédouanée. - Jantes aluminium.",
-      "original": "Je vends ma Volkswagen Golf 7 Hybride Automatique de 2015, en excellent état.. - Première main, dédouanée. - Jantes aluminium."
+      "en": "Je vends ma Volkswagen Golf 7 Hybride Automatique de 2015, en excellent état.. - Première main, dédouanée. - Jantes aluminium.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -54293,9 +54594,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Peugout 208 like 2015 chher 3 \nFiha Jwant aluminum \nRadar recul\nZaj l9dam electric \nLa clim \nLimiteur et regelateur \nCart griz \nDarba 254 alf kaina f agadir hay lwifa9",
-      "ar": "Peugout 208 like 2015 chher 3 \nFiha Jwant aluminum \nRadar recul\nZaj l9dam electric \nLa clim \nLimiteur et regelateur \nCart griz \nDarba 254 alf kaina f agadir hay lwifa9",
-      "original": "Peugout 208 like 2015 chher 3 \nFiha Jwant aluminum \nRadar recul\nZaj l9dam electric \nLa clim \nLimiteur et regelateur \nCart griz \nDarba 254 alf kaina f agadir hay lwifa9"
+      "original": "Peugout 208 like 2015 chher 3 Fiha Jwant aluminum Radar recul Zaj l9dam electric La clim Limiteur et regelateur Cart griz Darba 254 alf kaina f agadir hay lwifa9",
+      "ar": "Peugout 208 like 2015 chher 3 Fiha Jwant aluminum Radar recul Zaj l9dam electric La clim Limiteur et regelateur Cart griz Darba 254 alf kaina f agadir hay lwifa9",
+      "en": "Peugout 208 like 2015 chher 3 Fiha Jwant aluminum Radar recul Zaj l9dam electric La clim Limiteur et regelateur Cart griz Darba 254 alf kaina f agadir hay lwifa9",
+      "usedDarija": false
     },
     "features": [
       {
@@ -54480,9 +54782,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "cart gris tsmiyti",
-      "ar": "cart gris tsmiyti",
-      "original": "cart gris tsmiyti"
+      "original": "طوموبيل عملية ومريحة، ما كتاكل والو فـ الطريق ومحافظ عليها مولاها. فيها تجهيزات مزيانة بحال كاميرا ورادار للمارشاريير و شاشة لمس مع نافيگاسيون GPS. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل عملية ومريحة، ما كتاكل والو فـ الطريق ومحافظ عليها مولاها. فيها تجهيزات مزيانة بحال كاميرا ورادار للمارشاريير و شاشة لمس مع نافيگاسيون GPS. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Reliable, cost-effective daily driver built for endurance with widely available parts and low operating costs. Features desirable equipment including reversing camera and parking sensors and touchscreen GPS navigation. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -54650,9 +54953,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "bonjour Pour cause de déménagement je vous propose ma belle jeep grand Cherokee en bonne état entretenu garage jeep . entretien a jour. dariba a jour . premier Venu premier servie.. occasion a ne pas rater",
-      "ar": "bonjour Pour cause de déménagement je vous propose ma belle jeep grand Cherokee en bonne état entretenu garage jeep . entretien a jour. dariba a jour . premier Venu premier servie.. occasion a ne pas rater",
-      "original": "bonjour Pour cause de déménagement je vous propose ma belle jeep grand Cherokee en bonne état entretenu garage jeep . entretien a jour. dariba a jour . premier Venu premier servie.. occasion a ne pas rater"
+      "original": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with air conditioning, premium leather upholstery, and touchscreen GPS navigation. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -54857,9 +55161,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Toyota RAV-4 2012 en bon état général, disponible pour visite.",
+      "original": "Toyota RAV-4 2012 en bon état général, disponible pour visite.",
       "ar": "Toyota RAV-4 2012 en bon état général, disponible pour visite.",
-      "original": "Toyota RAV-4 2012 en bon état général, disponible pour visite."
+      "en": "Toyota RAV-4 2012 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -55054,9 +55359,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Audi RS3 Sportback en excellent état, première main.. - Nombre de portes : 5. - Origine : WW au Maroc.",
+      "original": "Je vends une Audi RS3 Sportback en excellent état, première main.. - Nombre de portes : 5. - Origine : WW au Maroc.",
       "ar": "Je vends une Audi RS3 Sportback en excellent état, première main.. - Nombre de portes : 5. - Origine : WW au Maroc.",
-      "original": "Je vends une Audi RS3 Sportback en excellent état, première main.. - Nombre de portes : 5. - Origine : WW au Maroc."
+      "en": "Je vends une Audi RS3 Sportback en excellent état, première main.. - Nombre de portes : 5. - Origine : WW au Maroc.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -55273,9 +55579,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "للبيع طنجة",
-      "ar": "للبيع طنجة",
-      "original": "للبيع طنجة"
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -55405,9 +55712,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Peugeot 208 2015 en bon état général, disponible pour visite.",
+      "original": "Peugeot 208 2015 en bon état général, disponible pour visite.",
       "ar": "Peugeot 208 2015 en bon état général, disponible pour visite.",
-      "original": "Peugeot 208 2015 en bon état général, disponible pour visite."
+      "en": "Peugeot 208 2015 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -55607,9 +55915,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre, une BMW Série 318 break de 2015 en très bon état.. dédouane 2023. - Origine : Dédouanée.",
+      "original": "À vendre, une BMW Série 318 break de 2015 en très bon état.. dédouane 2023. - Origine : Dédouanée.",
       "ar": "À vendre, une BMW Série 318 break de 2015 en très bon état.. dédouane 2023. - Origine : Dédouanée.",
-      "original": "À vendre, une BMW Série 318 break de 2015 en très bon état.. dédouane 2023. - Origine : Dédouanée."
+      "en": "À vendre, une BMW Série 318 break de 2015 en très bon état.. dédouane 2023. - Origine : Dédouanée.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -55824,9 +56133,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une Peugeot 2008 en excellent état et dédouanée.. - Type de carburant : Diesel. - Jantes aluminium, airbags, climatisation, GPS, radar et caméra de recul.",
-      "ar": "Je mets en vente une Peugeot 2008 en excellent état et dédouanée.. - Type de carburant : Diesel. - Jantes aluminium, airbags, climatisation, GPS, radar et caméra de recul.",
-      "original": "Je mets en vente une Peugeot 2008 en excellent état et dédouanée.. - Type de carburant : Diesel. - Jantes aluminium, airbags, climatisation, GPS, radar et caméra de recul."
+      "original": "Je mets en vente une Peugeot 2008 en excellent état et dédouanée.. - Type de . - Jantes aluminium, airbags, climatisation, GPS, radar et caméra de recul.",
+      "ar": "Je mets en vente une Peugeot 2008 en excellent état et dédouanée.. - Type de . - Jantes aluminium, airbags, climatisation, GPS, radar et caméra de recul.",
+      "en": "Je mets en vente une Peugeot 2008 en excellent état et dédouanée.. - Type de . - Jantes aluminium, airbags, climatisation, GPS, radar et caméra de recul.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -56038,9 +56348,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Vends Skoda Fabia en bon état général.\n- Marque : Skoda\n- Modèle : Fabia\n- Année : 2002\n- Puissance fiscale : 8 CV\n- Carburant : Diesel\n- Boîte de vitesses : Manuelle\n.",
-      "ar": "Vends Skoda Fabia en bon état général.\n- Marque : Skoda\n- Modèle : Fabia\n- Année : 2002\n- Puissance fiscale : 8 CV\n- Carburant : Diesel\n- Boîte de vitesses : Manuelle\n.",
-      "original": "Vends Skoda Fabia en bon état général.\n- Marque : Skoda\n- Modèle : Fabia\n- Année : 2002\n- Puissance fiscale : 8 CV\n- Carburant : Diesel\n- Boîte de vitesses : Manuelle\n."
+      "original": "Vends Skoda Fabia en bon état général. - Marque : Skoda - Modèle : Fabia - Année : 2002 - Puissance fiscale : 8 CV - îte de vitesses : Manuelle .",
+      "ar": "Vends Skoda Fabia en bon état général. - Marque : Skoda - Modèle : Fabia - Année : 2002 - Puissance fiscale : 8 CV - îte de vitesses : Manuelle .",
+      "en": "Vends Skoda Fabia en bon état général. - Marque : Skoda - Modèle : Fabia - Année : 2002 - Puissance fiscale : 8 CV - îte de vitesses : Manuelle .",
+      "usedDarija": false
     },
     "features": [
       {
@@ -56169,9 +56480,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "tonobil n9iya faible consommation",
-      "ar": "tonobil n9iya faible consommation",
-      "original": "tonobil n9iya faible consommation"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -56320,9 +56632,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma BMW X4 Luxe, Sécurité, Sport… Excellent état **** FULL OPTION – pneus ronflât, Conduite : - Xdrive30 : 4x4.. * de vente 230.000, ( légèrement négociable devant la voiture ). Intermédiaire s’abstenir SVP.",
-      "ar": "Je mets en vente ma BMW X4 Luxe, Sécurité, Sport… Excellent état **** FULL OPTION – pneus ronflât, Conduite : - Xdrive30 : 4x4.. * de vente 230.000, ( légèrement négociable devant la voiture ). Intermédiaire s’abstenir SVP.",
-      "original": "Je mets en vente ma BMW X4 Luxe, Sécurité, Sport… Excellent état **** FULL OPTION – pneus ronflât, Conduite : - Xdrive30 : 4x4.. * de vente 230.000, ( légèrement négociable devant la voiture ). Intermédiaire s’abstenir SVP."
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with premium leather upholstery, touchscreen GPS navigation, and reversing camera and parking sensors. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -56536,9 +56849,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen touareg \nV6 TDI\n ****",
-      "ar": "Volkswagen touareg \nV6 TDI\n ****",
-      "original": "Volkswagen touareg \nV6 TDI\n ****"
+      "original": "سيارة واسعة ومجهزة مزيان، صالحة للعائلة والرحلات الطويلة بلا عياء. فيها تجهيزات مزيانة بحال كليما خدامة مزيان و جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "سيارة واسعة ومجهزة مزيان، صالحة للعائلة والرحلات الطويلة بلا عياء. فيها تجهيزات مزيانة بحال كليما خدامة مزيان و جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Practical, spacious SUV perfectly suited for both daily family routines and long Moroccan road trips. Features desirable equipment including air conditioning and stylish alloy wheels. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -56702,9 +57016,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends ma voiture Opel Corsa très très propre comme neuve 2024 en excellent état, première main **** Km.. - Origine WW au Maroc. - Diesel, Manuelle, 6 CV.",
+      "original": "Je vends ma voiture Opel Corsa très très propre comme neuve 2024 en excellent état, première main **** Km.. - Origine WW au Maroc. - Diesel, Manuelle, 6 CV.",
       "ar": "Je vends ma voiture Opel Corsa très très propre comme neuve 2024 en excellent état, première main **** Km.. - Origine WW au Maroc. - Diesel, Manuelle, 6 CV.",
-      "original": "Je vends ma voiture Opel Corsa très très propre comme neuve 2024 en excellent état, première main **** Km.. - Origine WW au Maroc. - Diesel, Manuelle, 6 CV."
+      "en": "Je vends ma voiture Opel Corsa très très propre comme neuve 2024 en excellent état, première main **** Km.. - Origine WW au Maroc. - Diesel, Manuelle, 6 CV.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -56903,9 +57218,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Dokker 1ere main bon état moteur neuf",
-      "ar": "Dokker 1ere main bon état moteur neuf",
-      "original": "Dokker 1ere main bon état moteur neuf"
+      "original": "طوموبيل اقتصادية بزاف ومحبوبة المغاربة، ساهلة فـ السوگان والكونسوماسيون والو. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل اقتصادية بزاف ومحبوبة المغاربة، ساهلة فـ السوگان والكونسوماسيون والو. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Popular and economical hatchback renowned for outstanding fuel economy, low maintenance, and effortless parking. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -57036,9 +57352,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Kia Picanto 2017 en bon état général, disponible pour visite.",
+      "original": "Kia Picanto 2017 en bon état général, disponible pour visite.",
       "ar": "Kia Picanto 2017 en bon état général, disponible pour visite.",
-      "original": "Kia Picanto 2017 en bon état général, disponible pour visite."
+      "en": "Kia Picanto 2017 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -57186,9 +57503,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture robuste avec motorisation puissante de 2,7L pour les fans des circuits tout terrain",
+      "original": "Voiture robuste avec motorisation puissante de 2,7L pour les fans des circuits tout terrain",
       "ar": "Voiture robuste avec motorisation puissante de 2,7L pour les fans des circuits tout terrain",
-      "original": "Voiture robuste avec motorisation puissante de 2,7L pour les fans des circuits tout terrain"
+      "en": "Voiture robuste avec motorisation puissante de 2,7L pour les fans des circuits tout terrain",
+      "usedDarija": false
     },
     "features": [
       {
@@ -57387,9 +57705,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Dacia Sandero 2021 en bon état général, disponible pour visite.",
+      "original": "Dacia Sandero 2021 en bon état général, disponible pour visite.",
       "ar": "Dacia Sandero 2021 en bon état général, disponible pour visite.",
-      "original": "Dacia Sandero 2021 en bon état général, disponible pour visite."
+      "en": "Dacia Sandero 2021 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -57583,9 +57902,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture bon etat",
-      "ar": "voiture bon etat",
-      "original": "voiture bon etat"
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with premium leather upholstery, touchscreen GPS navigation, and reversing camera and parking sensors. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -57802,9 +58122,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voitue très bien entretenue\nToit Panoramique\nImmatriculation à Marrakech\n2 Clés Originaux",
-      "ar": "Voitue très bien entretenue\nToit Panoramique\nImmatriculation à Marrakech\n2 Clés Originaux",
-      "original": "Voitue très bien entretenue\nToit Panoramique\nImmatriculation à Marrakech\n2 Clés Originaux"
+      "original": "Voitue très bien entretenue Toit Panoramique Immatriculation à Marrakech 2 Clés Originaux",
+      "ar": "Voitue très bien entretenue Toit Panoramique Immatriculation à Marrakech 2 Clés Originaux",
+      "en": "Voitue très bien entretenue Toit Panoramique Immatriculation à Marrakech 2 Clés Originaux",
+      "usedDarija": false
     },
     "features": [
       {
@@ -58020,9 +58341,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "الضريبة 1500 درهم بيجو 405 بيجو 405 موديل 97 مازوط 8 دلخيل موتور كايفيمي الثمن التالي مليون و800",
-      "ar": "الضريبة 1500 درهم بيجو 405 بيجو 405 موديل 97 مازوط 8 دلخيل موتور كايفيمي الثمن التالي مليون و800",
-      "original": "الضريبة 1500 درهم بيجو 405 بيجو 405 موديل 97 مازوط 8 دلخيل موتور كايفيمي الثمن التالي مليون و800"
+      "original": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. فيها تجهيزات مزيانة بحال صالون كوير نقي ومريح. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. فيها تجهيزات مزيانة بحال صالون كوير نقي ومريح. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Features desirable equipment including premium leather upholstery. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -58170,9 +58492,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Audi Q5 de 2019 en excellent état, première main, origine WW Maroc.. - Jantes aluminium. - Airbags.",
+      "original": "Je vends une Audi Q5 de 2019 en excellent état, première main, origine WW Maroc.. - Jantes aluminium. - Airbags.",
       "ar": "Je vends une Audi Q5 de 2019 en excellent état, première main, origine WW Maroc.. - Jantes aluminium. - Airbags.",
-      "original": "Je vends une Audi Q5 de 2019 en excellent état, première main, origine WW Maroc.. - Jantes aluminium. - Airbags."
+      "en": "Je vends une Audi Q5 de 2019 en excellent état, première main, origine WW Maroc.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -58377,9 +58700,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "salam kanbi3 had Volkswagen touareg R5 mazout modèle 18/08/2008 emportée neufs tout options kilométrage 359,000 riels sbaght ddar ba9a mli7a bzaf la clim tllaja rwajd jdad carrosserie mli7 jamais accidenté moteur mli7 la boîte…",
-      "ar": "salam kanbi3 had Volkswagen touareg R5 mazout modèle 18/08/2008 emportée neufs tout options kilométrage 359,000 riels sbaght ddar ba9a mli7a bzaf la clim tllaja rwajd jdad carrosserie mli7 jamais accidenté moteur mli7 la boîte…",
-      "original": "salam kanbi3 had Volkswagen touareg R5 mazout modèle 18/08/2008 emportée neufs tout options kilométrage 359,000 riels sbaght ddar ba9a mli7a bzaf la clim tllaja rwajd jdad carrosserie mli7 jamais accidenté moteur mli7 la boîte…"
+      "original": "همزة عائلية ممتازة، ركبة عالية كتعطيك رؤية واضحة وأمان كبير فـ الطريق. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، كاميرا ورادار للمارشاريير، جوانط ألمنيوم أنيقة. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة عائلية ممتازة، ركبة عالية كتعطيك رؤية واضحة وأمان كبير فـ الطريق. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، كاميرا ورادار للمارشاريير، جوانط ألمنيوم أنيقة. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Versatile family crossover featuring a commanding driving position, generous luggage space, and dependable road manner. Richly specified with air conditioning, reversing camera and parking sensors, and stylish alloy wheels. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -58574,9 +58898,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture trai bon etat toute option 2011 diwana 2013",
+      "original": "Voiture trai bon etat toute option 2011 diwana 2013",
       "ar": "Voiture trai bon etat toute option 2011 diwana 2013",
-      "original": "Voiture trai bon etat toute option 2011 diwana 2013"
+      "en": "Voiture trai bon etat toute option 2011 diwana 2013",
+      "usedDarija": false
     },
     "features": [
       {
@@ -58793,9 +59118,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture bon état",
-      "ar": "Voiture bon état",
-      "original": "Voiture bon état"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -59000,9 +59326,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen Golf 7 2016 en bon état général, disponible pour visite.",
+      "original": "Volkswagen Golf 7 2016 en bon état général, disponible pour visite.",
       "ar": "Volkswagen Golf 7 2016 en bon état général, disponible pour visite.",
-      "original": "Volkswagen Golf 7 2016 en bon état général, disponible pour visite."
+      "en": "Volkswagen Golf 7 2016 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -59143,9 +59470,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Kia Picanto 2023 en bon état général, disponible pour visite.",
+      "original": "Kia Picanto 2023 en bon état général, disponible pour visite.",
       "ar": "Kia Picanto 2023 en bon état général, disponible pour visite.",
-      "original": "Kia Picanto 2023 en bon état général, disponible pour visite."
+      "en": "Kia Picanto 2023 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -59340,9 +59668,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "للبيع أوبل كورسا موديل 2024 بحالة جيدة جدا.. - عجلات ألمنيوم. - تكييف.",
+      "original": "للبيع أوبل كورسا موديل 2024 بحالة جيدة جدا.. - عجلات ألمنيوم. - تكييف.",
       "ar": "للبيع أوبل كورسا موديل 2024 بحالة جيدة جدا.. - عجلات ألمنيوم. - تكييف.",
-      "original": "للبيع أوبل كورسا موديل 2024 بحالة جيدة جدا.. - عجلات ألمنيوم. - تكييف."
+      "en": "للبيع أوبل كورسا موديل 2024 بحالة جيدة جدا.. - عجلات ألمنيوم. - تكييف.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -59527,9 +59856,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "سيارة ستروين سي 3 موديل 2016 بحالة جيدة للبيع.\n- تكييف\n- قفل مركزي عن بعد\n- 7 خيول جبائية\n- محرك ديزل\n- ناقل حركة يدوي\n- حي شماعو، سلا\n.",
-      "ar": "سيارة ستروين سي 3 موديل 2016 بحالة جيدة للبيع.\n- تكييف\n- قفل مركزي عن بعد\n- 7 خيول جبائية\n- محرك ديزل\n- ناقل حركة يدوي\n- حي شماعو، سلا\n.",
-      "original": "سيارة ستروين سي 3 موديل 2016 بحالة جيدة للبيع.\n- تكييف\n- قفل مركزي عن بعد\n- 7 خيول جبائية\n- محرك ديزل\n- ناقل حركة يدوي\n- حي شماعو، سلا\n."
+      "original": "سيارة ستروين سي 3 موديل 2016 بحالة جيدة للبيع. - تكييف - قفل مركزي عن بعد - 7 خيول جبائية - محرك ديزل - ناقل حركة يدوي - حي شماعو، سلا .",
+      "ar": "سيارة ستروين سي 3 موديل 2016 بحالة جيدة للبيع. - تكييف - قفل مركزي عن بعد - 7 خيول جبائية - محرك ديزل - ناقل حركة يدوي - حي شماعو، سلا .",
+      "en": "سيارة ستروين سي 3 موديل 2016 بحالة جيدة للبيع. - تكييف - قفل مركزي عن بعد - 7 خيول جبائية - محرك ديزل - ناقل حركة يدوي - حي شماعو، سلا .",
+      "usedDarija": false
     },
     "features": [
       {
@@ -59671,9 +60001,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture familiale, moteur robuste et fiable",
+      "original": "Voiture familiale, moteur robuste et fiable",
       "ar": "Voiture familiale, moteur robuste et fiable",
-      "original": "Voiture familiale, moteur robuste et fiable"
+      "en": "Voiture familiale, moteur robuste et fiable",
+      "usedDarija": false
     },
     "features": [
       {
@@ -59849,9 +60180,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mini cover\n2013\n ****",
-      "ar": "Mini cover\n2013\n ****",
-      "original": "Mini cover\n2013\n ****"
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with stylish alloy wheels, air conditioning, and touchscreen GPS navigation. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -60014,9 +60346,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "l3mara kamla",
-      "ar": "l3mara kamla",
-      "original": "l3mara kamla"
+      "original": "طوموبيل عائلية عالية ومريحة بزاف فـ السفر، كوفر واسع وثبات فـ الفيراجات. فيها تجهيزات مزيانة بحال جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل عائلية عالية ومريحة بزاف فـ السفر، كوفر واسع وثبات فـ الفيراجات. فيها تجهيزات مزيانة بحال جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Versatile family crossover featuring a commanding driving position, generous luggage space, and dependable road manner. Features desirable equipment including stylish alloy wheels. Very low mileage with bodywork and interior in near-showroom condition. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -60162,9 +60495,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Dacia Sandero 2022 en bon état général, disponible pour visite.",
+      "original": "Dacia Sandero 2022 en bon état général, disponible pour visite.",
       "ar": "Dacia Sandero 2022 en bon état général, disponible pour visite.",
-      "original": "Dacia Sandero 2022 en bon état général, disponible pour visite."
+      "en": "Dacia Sandero 2022 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -60355,9 +60689,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "honda accord essence 11 ch automatique",
-      "ar": "honda accord essence 11 ch automatique",
-      "original": "honda accord essence 11 ch automatique"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with air conditioning, touchscreen GPS navigation, and reversing camera and parking sensors. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -60543,9 +60878,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je met en vente voiture tiguan en bon etat , 4x4 4 motion avec pare-choc avant et arriere de RLINE ET toit ouvrant .",
+      "original": "je met en vente voiture tiguan en bon etat , 4x4 4 motion avec pare-choc avant et arriere de RLINE ET toit ouvrant .",
       "ar": "je met en vente voiture tiguan en bon etat , 4x4 4 motion avec pare-choc avant et arriere de RLINE ET toit ouvrant .",
-      "original": "je met en vente voiture tiguan en bon etat , 4x4 4 motion avec pare-choc avant et arriere de RLINE ET toit ouvrant ."
+      "en": "je met en vente voiture tiguan en bon etat , 4x4 4 motion avec pare-choc avant et arriere de RLINE ET toit ouvrant .",
+      "usedDarija": false
     },
     "features": [
       {
@@ -60714,9 +61050,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture en excellent état jamais accident 1 er main ✋️ peinture d’origine essence ⛽️ 8 chv vignette 50.000 klm clim jantes aluminium avec pneus neuves ordinateur de bord radio cd mp3 aux usb 2 clés commande à distance vitrés…",
-      "ar": "voiture en excellent état jamais accident 1 er main ✋️ peinture d’origine essence ⛽️ 8 chv vignette 50.000 klm clim jantes aluminium avec pneus neuves ordinateur de bord radio cd mp3 aux usb 2 clés commande à distance vitrés…",
-      "original": "voiture en excellent état jamais accident 1 er main ✋️ peinture d’origine essence ⛽️ 8 chv vignette 50.000 klm clim jantes aluminium avec pneus neuves ordinateur de bord radio cd mp3 aux usb 2 clés commande à distance vitrés…"
+      "original": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -60923,9 +61260,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "khass dwira ylh msbogha",
-      "ar": "khass dwira ylh msbogha",
-      "original": "khass dwira ylh msbogha"
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. موتورها معروف بالصبر والخدمة وكيدور مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. موتورها معروف بالصبر والخدمة وكيدور مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -61064,9 +61402,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "très confortable pneu a changer , keygo",
-      "ar": "très confortable pneu a changer , keygo",
-      "original": "très confortable pneu a changer , keygo"
+      "original": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -61266,9 +61605,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Opel Astra K Diesel de 2021, 1er main , Moteur GM (Allemagne) 6 rapport en excellent état très économique consommation 4.2L/100 Route mixte , 70% du trajet parcouru en Autoroute, Entretien régulier rien a prévoir ,.…",
-      "ar": "Je vends une Opel Astra K Diesel de 2021, 1er main , Moteur GM (Allemagne) 6 rapport en excellent état très économique consommation 4.2L/100 Route mixte , 70% du trajet parcouru en Autoroute, Entretien régulier rien a prévoir ,.…",
-      "original": "Je vends une Opel Astra K Diesel de 2021, 1er main , Moteur GM (Allemagne) 6 rapport en excellent état très économique consommation 4.2L/100 Route mixte , 70% du trajet parcouru en Autoroute, Entretien régulier rien a prévoir ,.…"
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with air conditioning, touchscreen GPS navigation, and reversing camera and parking sensors. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -61473,9 +61813,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "لاند روفر رانج روفر إيفوك موديل 2013 بحالة جيدة جداً.. - ناقل الحركة: أوتوماتيك. - القوة الجبائية: 8 خ.",
+      "original": "لاند روفر رانج روفر إيفوك موديل 2013 بحالة جيدة جداً.. - ناقل الحركة: أوتوماتيك. - القوة الجبائية: 8 خ.",
       "ar": "لاند روفر رانج روفر إيفوك موديل 2013 بحالة جيدة جداً.. - ناقل الحركة: أوتوماتيك. - القوة الجبائية: 8 خ.",
-      "original": "لاند روفر رانج روفر إيفوك موديل 2013 بحالة جيدة جداً.. - ناقل الحركة: أوتوماتيك. - القوة الجبائية: 8 خ."
+      "en": "لاند روفر رانج روفر إيفوك موديل 2013 بحالة جيدة جداً.. - ناقل الحركة: أوتوماتيك. - القوة الجبائية: 8 خ.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -61690,9 +62031,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture trai bon etat essence jamais accidentée",
+      "original": "voiture trai bon etat essence jamais accidentée",
       "ar": "voiture trai bon etat essence jamais accidentée",
-      "original": "voiture trai bon etat essence jamais accidentée"
+      "en": "voiture trai bon etat essence jamais accidentée",
+      "usedDarija": false
     },
     "features": [
       {
@@ -61909,9 +62251,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Peugeot 308 de 2011 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "Je propose à la vente une Peugeot 308 de 2011 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "Je propose à la vente une Peugeot 308 de 2011 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "Je propose à la vente une Peugeot 308 de 2011 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "Je propose à la vente une Peugeot 308 de 2011 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -62092,9 +62435,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture très bon état",
-      "ar": "Voiture très bon état",
-      "original": "Voiture très bon état"
+      "original": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with air conditioning, touchscreen GPS navigation, and reversing camera and parking sensors. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -62299,9 +62643,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture tres Propre rakba comfort \nMoteur puissant carrosserie jamais accidenté et amortisseur en bonne état stable en toutes route",
-      "ar": "Voiture tres Propre rakba comfort \nMoteur puissant carrosserie jamais accidenté et amortisseur en bonne état stable en toutes route",
-      "original": "Voiture tres Propre rakba comfort \nMoteur puissant carrosserie jamais accidenté et amortisseur en bonne état stable en toutes route"
+      "original": "Voiture tres Propre rakba comfort Moteur puissant carrosserie jamais accidenté et amortisseur en bonne état stable en toutes route",
+      "ar": "Voiture tres Propre rakba comfort Moteur puissant carrosserie jamais accidenté et amortisseur en bonne état stable en toutes route",
+      "en": "Voiture tres Propre rakba comfort Moteur puissant carrosserie jamais accidenté et amortisseur en bonne état stable en toutes route",
+      "usedDarija": false
     },
     "features": [
       {
@@ -62491,9 +62836,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mercedes-Benz Classe C 2008 en bon état général, disponible pour visite.",
+      "original": "Mercedes-Benz Classe C 2008 en bon état général, disponible pour visite.",
       "ar": "Mercedes-Benz Classe C 2008 en bon état général, disponible pour visite.",
-      "original": "Mercedes-Benz Classe C 2008 en bon état général, disponible pour visite."
+      "en": "Mercedes-Benz Classe C 2008 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -62705,9 +63051,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Kia sportage 6 vitesses manuelles premier main",
+      "original": "Kia sportage 6 vitesses manuelles premier main",
       "ar": "Kia sportage 6 vitesses manuelles premier main",
-      "original": "Kia sportage 6 vitesses manuelles premier main"
+      "en": "Kia sportage 6 vitesses manuelles premier main",
+      "usedDarija": false
     },
     "features": [
       {
@@ -62870,9 +63217,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "بياع وشراي لا",
-      "ar": "بياع وشراي لا",
-      "original": "بياع وشراي لا"
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، كاميرا ورادار للمارشاريير، جوانط ألمنيوم أنيقة. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، كاميرا ورادار للمارشاريير، جوانط ألمنيوم أنيقة. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with air conditioning, reversing camera and parking sensors, and stylish alloy wheels. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -63027,9 +63375,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture trai bon etat 2014 diwana 2017",
-      "ar": "Voiture trai bon etat 2014 diwana 2017",
-      "original": "Voiture trai bon etat 2014 diwana 2017"
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with premium leather upholstery, touchscreen GPS navigation, and reversing camera and parking sensors. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -63244,9 +63593,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Peugeot 508 2012 en bon état général, disponible pour visite.",
+      "original": "Peugeot 508 2012 en bon état général, disponible pour visite.",
       "ar": "Peugeot 508 2012 en bon état général, disponible pour visite.",
-      "original": "Peugeot 508 2012 en bon état général, disponible pour visite."
+      "en": "Peugeot 508 2012 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -63453,9 +63803,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture en excellent état jamais accident 8 chv 1 vignette full option boîte automatique toit panoramique siège cuir chauffant clim bi zone jantes aluminium avec pneus neuves rétroviseur électrique régulateur et limiteur de…",
-      "ar": "voiture en excellent état jamais accident 8 chv 1 vignette full option boîte automatique toit panoramique siège cuir chauffant clim bi zone jantes aluminium avec pneus neuves rétroviseur électrique régulateur et limiteur de…",
-      "original": "voiture en excellent état jamais accident 8 chv 1 vignette full option boîte automatique toit panoramique siège cuir chauffant clim bi zone jantes aluminium avec pneus neuves rétroviseur électrique régulateur et limiteur de…"
+      "original": "طوموبيل عائلية عالية ومريحة بزاف فـ السفر، كوفر واسع وثبات فـ الفيراجات. موتورها معروف بالصبر والخدمة وكيدور مزيان. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "طوموبيل عائلية عالية ومريحة بزاف فـ السفر، كوفر واسع وثبات فـ الفيراجات. موتورها معروف بالصبر والخدمة وكيدور مزيان. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Versatile family crossover featuring a commanding driving position, generous luggage space, and dependable road manner. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -63601,9 +63952,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Audi Q5 Quattro plus 4X4 / première main, entretenue chez CAC (Audi) avec un dossier de suivi complet. \nles Intermediares /Non.",
-      "ar": "Audi Q5 Quattro plus 4X4 / première main, entretenue chez CAC (Audi) avec un dossier de suivi complet. \nles Intermediares /Non.",
-      "original": "Audi Q5 Quattro plus 4X4 / première main, entretenue chez CAC (Audi) avec un dossier de suivi complet. \nles Intermediares /Non."
+      "original": "Audi Q5 Quattro plus 4X4 / première main, entretenue chez CAC (Audi) avec un dossier de suivi complet. les Intermediares /Non.",
+      "ar": "Audi Q5 Quattro plus 4X4 / première main, entretenue chez CAC (Audi) avec un dossier de suivi complet. les Intermediares /Non.",
+      "en": "Audi Q5 Quattro plus 4X4 / première main, entretenue chez CAC (Audi) avec un dossier de suivi complet. les Intermediares /Non.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -63816,9 +64168,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Arkana I - Ph1 - 1.6 E-Tech HEV Techno BVA 146ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
+      "original": "Arkana I - Ph1 - 1.6 E-Tech HEV Techno BVA 146ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
       "ar": "Arkana I - Ph1 - 1.6 E-Tech HEV Techno BVA 146ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
-      "original": "Arkana I - Ph1 - 1.6 E-Tech HEV Techno BVA 146ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :."
+      "en": "Arkana I - Ph1 - 1.6 E-Tech HEV Techno BVA 146ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -63954,9 +64307,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Renault Megane de 2019 en excellent état.. - Première main : Oui. - Nombre de portes : 5.",
+      "original": "Je propose à la vente une Renault Megane de 2019 en excellent état.. - Première main : Oui. - Nombre de portes : 5.",
       "ar": "Je propose à la vente une Renault Megane de 2019 en excellent état.. - Première main : Oui. - Nombre de portes : 5.",
-      "original": "Je propose à la vente une Renault Megane de 2019 en excellent état.. - Première main : Oui. - Nombre de portes : 5."
+      "en": "Je propose à la vente une Renault Megane de 2019 en excellent état.. - Première main : Oui. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -64141,9 +64495,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture en excellent état jamais accident peinture d’origine 1 er main ✋️ DD 2022 full option EXCLUSIVE 6 ème vitesse suspension hydraulique siège semi cuir électrique chauffant clim bi zone jantes aluminium rétroviseur…",
-      "ar": "voiture en excellent état jamais accident peinture d’origine 1 er main ✋️ DD 2022 full option EXCLUSIVE 6 ème vitesse suspension hydraulique siège semi cuir électrique chauffant clim bi zone jantes aluminium rétroviseur…",
-      "original": "voiture en excellent état jamais accident peinture d’origine 1 er main ✋️ DD 2022 full option EXCLUSIVE 6 ème vitesse suspension hydraulique siège semi cuir électrique chauffant clim bi zone jantes aluminium rétroviseur…"
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، كاميرا ورادار للمارشاريير. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، كاميرا ورادار للمارشاريير. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with air conditioning, premium leather upholstery, and reversing camera and parking sensors. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -64345,9 +64700,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma voiture Passat B8 \nToute option",
-      "ar": "Je mets en vente ma voiture Passat B8 \nToute option",
-      "original": "Je mets en vente ma voiture Passat B8 \nToute option"
+      "original": "Je mets en vente ma voiture Passat B8 Toute option",
+      "ar": "Je mets en vente ma voiture Passat B8 Toute option",
+      "en": "Je mets en vente ma voiture Passat B8 Toute option",
+      "usedDarija": false
     },
     "features": [
       {
@@ -64558,9 +64914,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Citroën C3 Essence en très bon état.\n- Marque : Citroën\n- Modèle : C3\n- Type de carburant : Essence\n- Puissance fiscale : 6 CV\n- Boite de vitesses : Manuelle\n.",
-      "ar": "Je vends une Citroën C3 Essence en très bon état.\n- Marque : Citroën\n- Modèle : C3\n- Type de carburant : Essence\n- Puissance fiscale : 6 CV\n- Boite de vitesses : Manuelle\n.",
-      "original": "Je vends une Citroën C3 Essence en très bon état.\n- Marque : Citroën\n- Modèle : C3\n- Type de carburant : Essence\n- Puissance fiscale : 6 CV\n- Boite de vitesses : Manuelle\n."
+      "original": "Je vends une Citroën C3 Essence en très bon état. - Marque : Citroën - Modèle : C3 - Type de : 6 CV - Boite de vitesses : Manuelle .",
+      "ar": "Je vends une Citroën C3 Essence en très bon état. - Marque : Citroën - Modèle : C3 - Type de : 6 CV - Boite de vitesses : Manuelle .",
+      "en": "Je vends une Citroën C3 Essence en très bon état. - Marque : Citroën - Modèle : C3 - Type de : 6 CV - Boite de vitesses : Manuelle .",
+      "usedDarija": false
     },
     "features": [
       {
@@ -64746,9 +65103,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je met en vente une tres Belle MERCEDES classe E COUPE 220d FASCINATION modèle 2018  avec 99.000 km certifié EVOLUTIF avec entretien complet. Bleu ROYAL intérieur tabac .. Palettes au volant.",
-      "ar": "Je met en vente une tres Belle MERCEDES classe E COUPE 220d FASCINATION modèle 2018  avec 99.000 km certifié EVOLUTIF avec entretien complet. Bleu ROYAL intérieur tabac .. Palettes au volant.",
-      "original": "Je met en vente une tres Belle MERCEDES classe E COUPE 220d FASCINATION modèle 2018  avec 99.000 km certifié EVOLUTIF avec entretien complet. Bleu ROYAL intérieur tabac .. Palettes au volant."
+      "original": "Je met en vente une tres Belle MERCEDES classe E COUPE 220d FASCINATION modèle 2018 avec 99.000 km certifié EVOLUTIF avec entretien complet. Bleu ROYAL intérieur tabac .. Palettes au volant.",
+      "ar": "Je met en vente une tres Belle MERCEDES classe E COUPE 220d FASCINATION modèle 2018 avec 99.000 km certifié EVOLUTIF avec entretien complet. Bleu ROYAL intérieur tabac .. Palettes au volant.",
+      "en": "Je met en vente une tres Belle MERCEDES classe E COUPE 220d FASCINATION modèle 2018 avec 99.000 km certifié EVOLUTIF avec entretien complet. Bleu ROYAL intérieur tabac .. Palettes au volant.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -64894,9 +65252,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "md 2007 kolchi nadi",
-      "ar": "md 2007 kolchi nadi",
-      "original": "md 2007 kolchi nadi"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. فيها تجهيزات مزيانة بحال شاشة لمس مع نافيگاسيون GPS. موتورها معروف بالصبر والخدمة وكيدور مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. فيها تجهيزات مزيانة بحال شاشة لمس مع نافيگاسيون GPS. موتورها معروف بالصبر والخدمة وكيدور مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Features desirable equipment including touchscreen GPS navigation. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -65055,9 +65414,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Peugeot 2008 gt Line modèle 2022 toit ouvrant double couleur avec blanc nacré et toit ouvrant ,lane assist,lumières d’ambiance,feu de croisement… 121000 kilomètres \n Si vous êtes intéressé,",
-      "ar": "Peugeot 2008 gt Line modèle 2022 toit ouvrant double couleur avec blanc nacré et toit ouvrant ,lane assist,lumières d’ambiance,feu de croisement… 121000 kilomètres \n Si vous êtes intéressé,",
-      "original": "Peugeot 2008 gt Line modèle 2022 toit ouvrant double couleur avec blanc nacré et toit ouvrant ,lane assist,lumières d’ambiance,feu de croisement… 121000 kilomètres \n Si vous êtes intéressé,"
+      "original": "Peugeot 2008 gt Line modèle 2022 toit ouvrant double couleur avec blanc nacré et toit ouvrant ,lane assist,lumières d’ambiance,feu de croisement… 121000 kilomètres Si vous êtes intéressé,",
+      "ar": "Peugeot 2008 gt Line modèle 2022 toit ouvrant double couleur avec blanc nacré et toit ouvrant ,lane assist,lumières d’ambiance,feu de croisement… 121000 kilomètres Si vous êtes intéressé,",
+      "en": "Peugeot 2008 gt Line modèle 2022 toit ouvrant double couleur avec blanc nacré et toit ouvrant ,lane assist,lumières d’ambiance,feu de croisement… 121000 kilomètres Si vous êtes intéressé,",
+      "usedDarija": false
     },
     "features": [
       {
@@ -65272,9 +65632,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Hyundai Elantra de 2019 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "original": "Je vends une Hyundai Elantra de 2019 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
       "ar": "Je vends une Hyundai Elantra de 2019 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
-      "original": "Je vends une Hyundai Elantra de 2019 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium."
+      "en": "Je vends une Hyundai Elantra de 2019 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -65484,9 +65845,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Volvo C70 Coupé de collection en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 3.",
+      "original": "Je propose à la vente une Volvo C70 Coupé de collection en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 3.",
       "ar": "Je propose à la vente une Volvo C70 Coupé de collection en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 3.",
-      "original": "Je propose à la vente une Volvo C70 Coupé de collection en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 3."
+      "en": "Je propose à la vente une Volvo C70 Coupé de collection en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 3.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -65632,9 +65994,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Citroën 2 CV de 1981 en très bon état.. - Origine : Dédouanée. - Nombre de portes : 5.",
+      "original": "Je propose à la vente une Citroën 2 CV de 1981 en très bon état.. - Origine : Dédouanée. - Nombre de portes : 5.",
       "ar": "Je propose à la vente une Citroën 2 CV de 1981 en très bon état.. - Origine : Dédouanée. - Nombre de portes : 5.",
-      "original": "Je propose à la vente une Citroën 2 CV de 1981 en très bon état.. - Origine : Dédouanée. - Nombre de portes : 5."
+      "en": "Je propose à la vente une Citroën 2 CV de 1981 en très bon état.. - Origine : Dédouanée. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -65780,9 +66143,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "skoda en bon etat",
-      "ar": "skoda en bon etat",
-      "original": "skoda en bon etat"
+      "original": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -65992,9 +66356,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je mets a la vente clio 5 mod 2021 1er main trés bon état km 103000",
+      "original": "je mets a la vente clio 5 mod 2021 1er main trés bon état km 103000",
       "ar": "je mets a la vente clio 5 mod 2021 1er main trés bon état km 103000",
-      "original": "je mets a la vente clio 5 mod 2021 1er main trés bon état km 103000"
+      "en": "je mets a la vente clio 5 mod 2021 1er main trés bon état km 103000",
+      "usedDarija": false
     },
     "features": [
       {
@@ -66194,9 +66559,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "للبيع فولكس فاجن تيغوان موديل 2017 ديوانة 2026. بحالة ممتازة.. - عجلات ألمنيوم.",
+      "original": "للبيع فولكس فاجن تيغوان موديل 2017 ديوانة 2026. بحالة ممتازة.. - عجلات ألمنيوم.",
       "ar": "للبيع فولكس فاجن تيغوان موديل 2017 ديوانة 2026. بحالة ممتازة.. - عجلات ألمنيوم.",
-      "original": "للبيع فولكس فاجن تيغوان موديل 2017 ديوانة 2026. بحالة ممتازة.. - عجلات ألمنيوم."
+      "en": "للبيع فولكس فاجن تيغوان موديل 2017 ديوانة 2026. بحالة ممتازة.. - عجلات ألمنيوم.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -66411,9 +66777,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma BMW Série 3 en très bon état.. - Première main. - Dédouanée.",
+      "original": "Je mets en vente ma BMW Série 3 en très bon état.. - Première main. - Dédouanée.",
       "ar": "Je mets en vente ma BMW Série 3 en très bon état.. - Première main. - Dédouanée.",
-      "original": "Je mets en vente ma BMW Série 3 en très bon état.. - Première main. - Dédouanée."
+      "en": "Je mets en vente ma BMW Série 3 en très bon état.. - Première main. - Dédouanée.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -66630,9 +66997,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture en excellent état jamais accident peinture presque d’origine moteur Mercedes 12 chv 6 vignette siège cuir électrique clim bi zone jantes aluminium rétroviseur électrique rabattre régulateur et limiteur de vitesse…",
-      "ar": "voiture en excellent état jamais accident peinture presque d’origine moteur Mercedes 12 chv 6 vignette siège cuir électrique clim bi zone jantes aluminium rétroviseur électrique rabattre régulateur et limiteur de vitesse…",
-      "original": "voiture en excellent état jamais accident peinture presque d’origine moteur Mercedes 12 chv 6 vignette siège cuir électrique clim bi zone jantes aluminium rétroviseur électrique rabattre régulateur et limiteur de vitesse…"
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with premium leather upholstery, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -66824,9 +67192,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "CLS 400d 4MATIC EDITION 1. 340HP AMG line plus la full de la gamme  modèle fin 2018 importeneuf sur commande 1ÈRE MAIN ,  avec 65.000 Km Dernier entretien générale fait chez mercedes avec mis à jouret pneus neufs.. Palettes au volant.",
-      "ar": "CLS 400d 4MATIC EDITION 1. 340HP AMG line plus la full de la gamme  modèle fin 2018 importeneuf sur commande 1ÈRE MAIN ,  avec 65.000 Km Dernier entretien générale fait chez mercedes avec mis à jouret pneus neufs.. Palettes au volant.",
-      "original": "CLS 400d 4MATIC EDITION 1. 340HP AMG line plus la full de la gamme  modèle fin 2018 importeneuf sur commande 1ÈRE MAIN ,  avec 65.000 Km Dernier entretien générale fait chez mercedes avec mis à jouret pneus neufs.. Palettes au volant."
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -66972,9 +67341,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma voiture1er main Audi A6 s Line la tout option de ça gamme version 45tdi S Line 245cv 3L en général la voiture comme neuf plus informations",
+      "original": "Je mets en vente ma voiture1er main Audi A6 s Line la tout option de ça gamme version 45tdi S Line 245cv 3L en général la voiture comme neuf plus informations",
       "ar": "Je mets en vente ma voiture1er main Audi A6 s Line la tout option de ça gamme version 45tdi S Line 245cv 3L en général la voiture comme neuf plus informations",
-      "original": "Je mets en vente ma voiture1er main Audi A6 s Line la tout option de ça gamme version 45tdi S Line 245cv 3L en général la voiture comme neuf plus informations"
+      "en": "Je mets en vente ma voiture1er main Audi A6 s Line la tout option de ça gamme version 45tdi S Line 245cv 3L en général la voiture comme neuf plus informations",
+      "usedDarija": false
     },
     "features": [
       {
@@ -67189,9 +67559,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "🚨 OPPORTUNITÉ À SAISIR 🚨. 🔥 Range Rover Evoque – Luxe & Confort 🔥. ✨ Équipements :.",
+      "original": "🚨 OPPORTUNITÉ À SAISIR 🚨. 🔥 Range Rover Evoque – Luxe & Confort 🔥. ✨ Équipements :.",
       "ar": "🚨 OPPORTUNITÉ À SAISIR 🚨. 🔥 Range Rover Evoque – Luxe & Confort 🔥. ✨ Équipements :.",
-      "original": "🚨 OPPORTUNITÉ À SAISIR 🚨. 🔥 Range Rover Evoque – Luxe & Confort 🔥. ✨ Équipements :."
+      "en": "🚨 OPPORTUNITÉ À SAISIR 🚨. 🔥 Range Rover Evoque – Luxe & Confort 🔥. ✨ Équipements :.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -67408,9 +67779,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen Polo de 2005 en bon état.",
-      "ar": "Volkswagen Polo de 2005 en bon état.",
-      "original": "Volkswagen Polo de 2005 en bon état."
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -67552,9 +67924,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre : Quad Outlander 1000 Xtp neuf, jamais utilisé, importé neuf.\n- Modèle 2026\n- Première main\n- 4 roues\n- Sac de réservoir\n- Antivol\n- Bulle basse\n- ABS CBS\n- CD MP3 Bluetooth\nDisponible à Hay El Qods, Oujda. .",
-      "ar": "À vendre : Quad Outlander 1000 Xtp neuf, jamais utilisé, importé neuf.\n- Modèle 2026\n- Première main\n- 4 roues\n- Sac de réservoir\n- Antivol\n- Bulle basse\n- ABS CBS\n- CD MP3 Bluetooth\nDisponible à Hay El Qods, Oujda. .",
-      "original": "À vendre : Quad Outlander 1000 Xtp neuf, jamais utilisé, importé neuf.\n- Modèle 2026\n- Première main\n- 4 roues\n- Sac de réservoir\n- Antivol\n- Bulle basse\n- ABS CBS\n- CD MP3 Bluetooth\nDisponible à Hay El Qods, Oujda. ."
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. موجودة للمعاينة فـ وجدة. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. موجودة للمعاينة فـ وجدة. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Available for viewing in Oujda. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -67686,9 +68059,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je mets en vente ma zontes 155g, modèle 2023 1er main 17200 km évolutif.. moto très bien entretenue, toujours vidangée à la maison avec carnet de vidange disponible.. vidange récemment fait ( filtre à air+ filtre huile ).",
-      "ar": "je mets en vente ma zontes 155g, modèle 2023 1er main 17200 km évolutif.. moto très bien entretenue, toujours vidangée à la maison avec carnet de vidange disponible.. vidange récemment fait ( filtre à air+ filtre huile ).",
-      "original": "je mets en vente ma zontes 155g, modèle 2023 1er main 17200 km évolutif.. moto très bien entretenue, toujours vidangée à la maison avec carnet de vidange disponible.. vidange récemment fait ( filtre à air+ filtre huile )."
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -67825,9 +68199,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "carte grise fi ismi",
-      "ar": "carte grise fi ismi",
-      "original": "carte grise fi ismi"
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. باقا بحال يلا عاد خارجة من لا ميزون. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. باقا بحال يلا عاد خارجة من لا ميزون. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -67968,9 +68343,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "bmw gs310",
-      "ar": "bmw gs310",
-      "original": "bmw gs310"
+      "original": "مكينة مجهدة وصحيحة، كتجري مزيان فـ لوتوروت وشكل هجومي كيحمق. باقا بحال يلا عاد خارجة من لا ميزون. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "مكينة مجهدة وصحيحة، كتجري مزيان فـ لوتوروت وشكل هجومي كيحمق. باقا بحال يلا عاد خارجة من لا ميزون. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Enthusiast-owned sports bike offering sharp cornering dynamics, raw mechanical soundtrack, and solid running gear. Very low mileage with bodywork and interior in near-showroom condition. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -68102,9 +68478,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "indian challenger. • type : powerplus v-twin 60°, 4 temps, refroidissement liquide. • cylindrée : 1768 cm³ (108 ci).",
+      "original": "indian challenger. • type : powerplus v-twin 60°, 4 temps, refroidissement liquide. • cylindrée : 1768 cm³ (108 ci).",
       "ar": "indian challenger. • type : powerplus v-twin 60°, 4 temps, refroidissement liquide. • cylindrée : 1768 cm³ (108 ci).",
-      "original": "indian challenger. • type : powerplus v-twin 60°, 4 temps, refroidissement liquide. • cylindrée : 1768 cm³ (108 ci)."
+      "en": "indian challenger. • type : powerplus v-twin 60°, 4 temps, refroidissement liquide. • cylindrée : 1768 cm³ (108 ci).",
+      "usedDarija": false
     },
     "features": [
       {
@@ -68250,9 +68627,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je mets en vente ma bmw r1250 rt année 2021, moto très soignée, idéale pour les longs voyages comme pour un usage régulier. confort haut de gamme, technologie et plaisir de conduite réunis.",
+      "original": "je mets en vente ma bmw r1250 rt année 2021, moto très soignée, idéale pour les longs voyages comme pour un usage régulier. confort haut de gamme, technologie et plaisir de conduite réunis.",
       "ar": "je mets en vente ma bmw r1250 rt année 2021, moto très soignée, idéale pour les longs voyages comme pour un usage régulier. confort haut de gamme, technologie et plaisir de conduite réunis.",
-      "original": "je mets en vente ma bmw r1250 rt année 2021, moto très soignée, idéale pour les longs voyages comme pour un usage régulier. confort haut de gamme, technologie et plaisir de conduite réunis."
+      "en": "je mets en vente ma bmw r1250 rt année 2021, moto très soignée, idéale pour les longs voyages comme pour un usage régulier. confort haut de gamme, technologie et plaisir de conduite réunis.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -68395,9 +68773,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "tres bon état bon prix \nط1 matriculation",
-      "ar": "tres bon état bon prix \nط1 matriculation",
-      "original": "tres bon état bon prix \nط1 matriculation"
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -68536,9 +68915,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Moto Sym Orbit II\nModel 2021 Sbagha tae dar premier main \nDarb 15alf km ,Consommation très faible Kolchi khadam \nKayn f dawdiyat hda cinema lmassira Ola chari3 filisstine , \nLibghah merhba",
-      "ar": "Moto Sym Orbit II\nModel 2021 Sbagha tae dar premier main \nDarb 15alf km ,Consommation très faible Kolchi khadam \nKayn f dawdiyat hda cinema lmassira Ola chari3 filisstine , \nLibghah merhba",
-      "original": "Moto Sym Orbit II\nModel 2021 Sbagha tae dar premier main \nDarb 15alf km ,Consommation très faible Kolchi khadam \nKayn f dawdiyat hda cinema lmassira Ola chari3 filisstine , \nLibghah merhba"
+      "original": "Moto Sym Orbit II Model 2021 Sbagha tae dar premier main Darb 15alf km ,Consommation très faible Kolchi khadam Kayn f dawdiyat hda cinema lmassira Ola chari3 filisstine , Libghah merhba",
+      "ar": "Moto Sym Orbit II Model 2021 Sbagha tae dar premier main Darb 15alf km ,Consommation très faible Kolchi khadam Kayn f dawdiyat hda cinema lmassira Ola chari3 filisstine , Libghah merhba",
+      "en": "Moto Sym Orbit II Model 2021 Sbagha tae dar premier main Darb 15alf km ,Consommation très faible Kolchi khadam Kayn f dawdiyat hda cinema lmassira Ola chari3 filisstine , Libghah merhba",
+      "usedDarija": false
     },
     "features": [
       {
@@ -68668,9 +69048,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "assurance 3mois",
-      "ar": "assurance 3mois",
-      "original": "assurance 3mois"
+      "original": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. باقا بحال يلا عاد خارجة من لا ميزون. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. باقا بحال يلا عاد خارجة من لا ميزون. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -68800,9 +69181,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "moto cappuccino s becane ✨\nmodèle 2024 premier main , consommation très faible , darab 8000km moto baqi jdid , \nmarrakech dawdiyat hda cinema l massira ola chari3 filisstine.\nlibghah merhba",
-      "ar": "moto cappuccino s becane ✨\nmodèle 2024 premier main , consommation très faible , darab 8000km moto baqi jdid , \nmarrakech dawdiyat hda cinema l massira ola chari3 filisstine.\nlibghah merhba",
-      "original": "moto cappuccino s becane ✨\nmodèle 2024 premier main , consommation très faible , darab 8000km moto baqi jdid , \nmarrakech dawdiyat hda cinema l massira ola chari3 filisstine.\nlibghah merhba"
+      "original": "moto cappuccino s becane ✨ modèle 2024 premier main , consommation très faible , darab 8000km moto baqi jdid , marrakech dawdiyat hda cinema l massira ola chari3 filisstine. libghah merhba",
+      "ar": "moto cappuccino s becane ✨ modèle 2024 premier main , consommation très faible , darab 8000km moto baqi jdid , marrakech dawdiyat hda cinema l massira ola chari3 filisstine. libghah merhba",
+      "en": "moto cappuccino s becane ✨ modèle 2024 premier main , consommation très faible , darab 8000km moto baqi jdid , marrakech dawdiyat hda cinema l massira ola chari3 filisstine. libghah merhba",
+      "usedDarija": false
     },
     "features": [
       {
@@ -68933,9 +69315,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "دراجة جديدة",
-      "ar": "دراجة جديدة",
-      "original": "دراجة جديدة"
+      "original": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. باقا بحال يلا عاد خارجة من لا ميزون. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. باقا بحال يلا عاد خارجة من لا ميزون. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -69076,9 +69459,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Noes Yamaha ✨",
-      "ar": "Noes Yamaha ✨",
-      "original": "Noes Yamaha ✨"
+      "original": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -69209,9 +69593,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "yamaha drag star 650cc a vendre",
-      "ar": "yamaha drag star 650cc a vendre",
-      "original": "yamaha drag star 650cc a vendre"
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -69350,9 +69735,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "BMW R1250 GS LC Full Black – Première main",
+      "original": "BMW R1250 GS LC Full Black – Première main",
       "ar": "BMW R1250 GS LC Full Black – Première main",
-      "original": "BMW R1250 GS LC Full Black – Première main"
+      "en": "BMW R1250 GS LC Full Black – Première main",
+      "usedDarija": false
     },
     "features": [
       {
@@ -69495,9 +69881,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Moto sym C49 ba9i jdid",
-      "ar": "Moto sym C49 ba9i jdid",
-      "original": "Moto sym C49 ba9i jdid"
+      "original": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. باقا بحال يلا عاد خارجة من لا ميزون. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. باقا بحال يلا عاد خارجة من لا ميزون. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -69641,9 +70028,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma moto achete fin 2024, en tres bon etat, moyo bien entretenue.",
+      "original": "Je mets en vente ma moto achete fin 2024, en tres bon etat, moyo bien entretenue.",
       "ar": "Je mets en vente ma moto achete fin 2024, en tres bon etat, moyo bien entretenue.",
-      "original": "Je mets en vente ma moto achete fin 2024, en tres bon etat, moyo bien entretenue."
+      "en": "Je mets en vente ma moto achete fin 2024, en tres bon etat, moyo bien entretenue.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -69783,9 +70171,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "kawasaki ninja zx6r \nconsommable neuf \npot akrapovic\npneu récemment changé \nbulle puig \n(bulle x2 - bulle x 3j\nentretient à jour",
-      "ar": "kawasaki ninja zx6r \nconsommable neuf \npot akrapovic\npneu récemment changé \nbulle puig \n(bulle x2 - bulle x 3j\nentretient à jour",
-      "original": "kawasaki ninja zx6r \nconsommable neuf \npot akrapovic\npneu récemment changé \nbulle puig \n(bulle x2 - bulle x 3j\nentretient à jour"
+      "original": "kawasaki ninja zx6r consommable neuf pot akrapovic pneu récemment changé bulle puig (bulle x2 - bulle x 3j entretient à jour",
+      "ar": "kawasaki ninja zx6r consommable neuf pot akrapovic pneu récemment changé bulle puig (bulle x2 - bulle x 3j entretient à jour",
+      "en": "kawasaki ninja zx6r consommable neuf pot akrapovic pneu récemment changé bulle puig (bulle x2 - bulle x 3j entretient à jour",
+      "usedDarija": false
     },
     "features": [
       {
@@ -69926,9 +70315,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "bonjour,\nje mets en vente yamaha xsr900, une très belle et performante moto, elle est disponible à casablanca oualfa.",
-      "ar": "bonjour,\nje mets en vente yamaha xsr900, une très belle et performante moto, elle est disponible à casablanca oualfa.",
-      "original": "bonjour,\nje mets en vente yamaha xsr900, une très belle et performante moto, elle est disponible à casablanca oualfa."
+      "original": "bonjour, je mets en vente yamaha xsr900, une très belle et performante moto, elle est disponible à casablanca oualfa.",
+      "ar": "bonjour, je mets en vente yamaha xsr900, une très belle et performante moto, elle est disponible à casablanca oualfa.",
+      "en": "bonjour, je mets en vente yamaha xsr900, une très belle et performante moto, elle est disponible à casablanca oualfa.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -70069,9 +70459,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Honda sh 125i - vetro 2024 en bon état général, disponible pour visite.",
+      "original": "Honda sh 125i - vetro 2024 en bon état général, disponible pour visite.",
       "ar": "Honda sh 125i - vetro 2024 en bon état général, disponible pour visite.",
-      "original": "Honda sh 125i - vetro 2024 en bon état général, disponible pour visite."
+      "en": "Honda sh 125i - vetro 2024 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -70211,9 +70602,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "trk 702x en roudage",
-      "ar": "trk 702x en roudage",
-      "original": "trk 702x en roudage"
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. باقا بحال يلا عاد خارجة من لا ميزون. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. باقا بحال يلا عاد خارجة من لا ميزون. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -70357,9 +70749,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "yamaha XT125 2014 dédouanée 2019 15000km",
+      "original": "yamaha XT125 2014 dédouanée 2019 15000km",
       "ar": "yamaha XT125 2014 dédouanée 2019 15000km",
-      "original": "yamaha XT125 2014 dédouanée 2019 15000km"
+      "en": "yamaha XT125 2014 dédouanée 2019 15000km",
+      "usedDarija": false
     },
     "features": [
       {
@@ -70483,9 +70876,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Harley davidson softaile",
-      "ar": "Harley davidson softaile",
-      "original": "Harley davidson softaile"
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -70624,9 +71018,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "yamaha mt09 modele maroc 2020 en excellent etat. tres propre jamais bricolee aucun frais a prevoir. equipements et upgrades.",
+      "original": "yamaha mt09 modele maroc 2020 en excellent etat. tres propre jamais bricolee aucun frais a prevoir. equipements et upgrades.",
       "ar": "yamaha mt09 modele maroc 2020 en excellent etat. tres propre jamais bricolee aucun frais a prevoir. equipements et upgrades.",
-      "original": "yamaha mt09 modele maroc 2020 en excellent etat. tres propre jamais bricolee aucun frais a prevoir. equipements et upgrades."
+      "en": "yamaha mt09 modele maroc 2020 en excellent etat. tres propre jamais bricolee aucun frais a prevoir. equipements et upgrades.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -70777,9 +71172,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "moto très peu utilisée.",
-      "ar": "moto très peu utilisée.",
-      "original": "moto très peu utilisée."
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -70922,9 +71318,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Yamaha fzs 600 n - s2 2009 en bon état général, disponible pour visite.",
+      "original": "Yamaha fzs 600 n - s2 2009 en bon état général, disponible pour visite.",
       "ar": "Yamaha fzs 600 n - s2 2009 en bon état général, disponible pour visite.",
-      "original": "Yamaha fzs 600 n - s2 2009 en bon état général, disponible pour visite."
+      "en": "Yamaha fzs 600 n - s2 2009 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -71065,9 +71462,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "fiat punto 2009 à vendre",
-      "ar": "fiat punto 2009 à vendre",
-      "original": "fiat punto 2009 à vendre"
+      "original": "طوموبيل اقتصادية بزاف ومحبوبة المغاربة، ساهلة فـ السوگان والكونسوماسيون والو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل اقتصادية بزاف ومحبوبة المغاربة، ساهلة فـ السوگان والكونسوماسيون والو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Popular and economical hatchback renowned for outstanding fuel economy, low maintenance, and effortless parking. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -71198,9 +71596,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma voiture Ford focus 1er main .. automatique pack sport plus tout option de ça gamme en très bonne état.. Et faible kilométrage pour plus d’informations veuillez contacter moi.",
+      "original": "Je mets en vente ma voiture Ford focus 1er main .. automatique pack sport plus tout option de ça gamme en très bonne état.. Et faible kilométrage pour plus d’informations veuillez contacter moi.",
       "ar": "Je mets en vente ma voiture Ford focus 1er main .. automatique pack sport plus tout option de ça gamme en très bonne état.. Et faible kilométrage pour plus d’informations veuillez contacter moi.",
-      "original": "Je mets en vente ma voiture Ford focus 1er main .. automatique pack sport plus tout option de ça gamme en très bonne état.. Et faible kilométrage pour plus d’informations veuillez contacter moi."
+      "en": "Je mets en vente ma voiture Ford focus 1er main .. automatique pack sport plus tout option de ça gamme en très bonne état.. Et faible kilométrage pour plus d’informations veuillez contacter moi.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -71415,9 +71814,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Vente d'une Mercedes 190 modèle 1988 dédouanée en 2001.. - Première main : Non. - Lieu : Boukhalef, Tanger.",
+      "original": "Vente d'une Mercedes 190 modèle 1988 dédouanée en 2001.. - Première main : Non. - Lieu : Boukhalef, Tanger.",
       "ar": "Vente d'une Mercedes 190 modèle 1988 dédouanée en 2001.. - Première main : Non. - Lieu : Boukhalef, Tanger.",
-      "original": "Vente d'une Mercedes 190 modèle 1988 dédouanée en 2001.. - Première main : Non. - Lieu : Boukhalef, Tanger."
+      "en": "Vente d'une Mercedes 190 modèle 1988 dédouanée en 2001.. - Première main : Non. - Lieu : Boukhalef, Tanger.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -71546,9 +71946,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voiture En exéllent état\nEntretien à Jour\n4 Pneus Neufs\nVidange complet récemment fait\nImmatriculation à Casa\nDemarrage Star\nPalette Au volont\netc...",
-      "ar": "Voiture En exéllent état\nEntretien à Jour\n4 Pneus Neufs\nVidange complet récemment fait\nImmatriculation à Casa\nDemarrage Star\nPalette Au volont\netc...",
-      "original": "Voiture En exéllent état\nEntretien à Jour\n4 Pneus Neufs\nVidange complet récemment fait\nImmatriculation à Casa\nDemarrage Star\nPalette Au volont\netc..."
+      "original": "Voiture En exéllent état Entretien à Jour 4 Pneus Neufs Vidange complet récemment fait Immatriculation à Casa Demarrage Star Palette Au volont etc...",
+      "ar": "Voiture En exéllent état Entretien à Jour 4 Pneus Neufs Vidange complet récemment fait Immatriculation à Casa Demarrage Star Palette Au volont etc...",
+      "en": "Voiture En exéllent état Entretien à Jour 4 Pneus Neufs Vidange complet récemment fait Immatriculation à Casa Demarrage Star Palette Au volont etc...",
+      "usedDarija": false
     },
     "features": [
       {
@@ -71758,9 +72159,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Peugeot 508 Diesel Manuelle de 2011 en très bon état.. - Jantes aluminium. - Climatisation.",
+      "original": "Je vends une Peugeot 508 Diesel Manuelle de 2011 en très bon état.. - Jantes aluminium. - Climatisation.",
       "ar": "Je vends une Peugeot 508 Diesel Manuelle de 2011 en très bon état.. - Jantes aluminium. - Climatisation.",
-      "original": "Je vends une Peugeot 508 Diesel Manuelle de 2011 en très bon état.. - Jantes aluminium. - Climatisation."
+      "en": "Je vends une Peugeot 508 Diesel Manuelle de 2011 en très bon état.. - Jantes aluminium. - Climatisation.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -71965,9 +72367,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends ma Peugeot 508 de 2013 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "original": "Je vends ma Peugeot 508 de 2013 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
       "ar": "Je vends ma Peugeot 508 de 2013 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
-      "original": "Je vends ma Peugeot 508 de 2013 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium."
+      "en": "Je vends ma Peugeot 508 de 2013 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -72151,9 +72554,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen Tiguan full options très bon état. Mise en circulation 08 2018. Dédouanée ****.",
+      "original": "Volkswagen Tiguan full options très bon état. Mise en circulation 08 2018. Dédouanée ****.",
       "ar": "Volkswagen Tiguan full options très bon état. Mise en circulation 08 2018. Dédouanée ****.",
-      "original": "Volkswagen Tiguan full options très bon état. Mise en circulation 08 2018. Dédouanée ****."
+      "en": "Volkswagen Tiguan full options très bon état. Mise en circulation 08 2018. Dédouanée ****.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -72368,9 +72772,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "CITYRAY I - Ph1 - 1.5 TD 174 AT Sport+ BVA 174ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
+      "original": "CITYRAY I - Ph1 - 1.5 TD 174 AT Sport+ BVA 174ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
       "ar": "CITYRAY I - Ph1 - 1.5 TD 174 AT Sport+ BVA 174ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
-      "original": "CITYRAY I - Ph1 - 1.5 TD 174 AT Sport+ BVA 174ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :."
+      "en": "CITYRAY I - Ph1 - 1.5 TD 174 AT Sport+ BVA 174ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -72506,9 +72911,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "للبيع فولكس فاجن كادي ديزل أوتوماتيك موديل 2024 بحالة ممتازة.. - الكيلومتراج: 104000 كم. - الماركة: فولكس فاجن.",
+      "original": "للبيع فولكس فاجن كادي ديزل أوتوماتيك موديل 2024 بحالة ممتازة.. - الكيلومتراج: 104000 كم. - الماركة: فولكس فاجن.",
       "ar": "للبيع فولكس فاجن كادي ديزل أوتوماتيك موديل 2024 بحالة ممتازة.. - الكيلومتراج: 104000 كم. - الماركة: فولكس فاجن.",
-      "original": "للبيع فولكس فاجن كادي ديزل أوتوماتيك موديل 2024 بحالة ممتازة.. - الكيلومتراج: 104000 كم. - الماركة: فولكس فاجن."
+      "en": "للبيع فولكس فاجن كادي ديزل أوتوماتيك موديل 2024 بحالة ممتازة.. - الكيلومتراج: 104000 كم. - الماركة: فولكس فاجن.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -72639,9 +73045,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Renault Express de 2021 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "original": "Je vends une Renault Express de 2021 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
       "ar": "Je vends une Renault Express de 2021 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
-      "original": "Je vends une Renault Express de 2021 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium."
+      "en": "Je vends une Renault Express de 2021 en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -72836,9 +73243,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Hyundai Tucson automatique de 2019 en excellent état.. - Pneus neufs. - Batterie neuve.",
+      "original": "Je vends une Hyundai Tucson automatique de 2019 en excellent état.. - Pneus neufs. - Batterie neuve.",
       "ar": "Je vends une Hyundai Tucson automatique de 2019 en excellent état.. - Pneus neufs. - Batterie neuve.",
-      "original": "Je vends une Hyundai Tucson automatique de 2019 en excellent état.. - Pneus neufs. - Batterie neuve."
+      "en": "Je vends une Hyundai Tucson automatique de 2019 en excellent état.. - Pneus neufs. - Batterie neuve.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -73048,9 +73456,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Nissan Juke de 2021 en excellent état, origine WW Maroc.. - Moteur essence, 6 CV fiscaux. - Jantes aluminium, toit ouvrant, sièges en cuir.",
+      "original": "Je vends une Nissan Juke de 2021 en excellent état, origine WW Maroc.. - Moteur essence, 6 CV fiscaux. - Jantes aluminium, toit ouvrant, sièges en cuir.",
       "ar": "Je vends une Nissan Juke de 2021 en excellent état, origine WW Maroc.. - Moteur essence, 6 CV fiscaux. - Jantes aluminium, toit ouvrant, sièges en cuir.",
-      "original": "Je vends une Nissan Juke de 2021 en excellent état, origine WW Maroc.. - Moteur essence, 6 CV fiscaux. - Jantes aluminium, toit ouvrant, sièges en cuir."
+      "en": "Je vends une Nissan Juke de 2021 en excellent état, origine WW Maroc.. - Moteur essence, 6 CV fiscaux. - Jantes aluminium, toit ouvrant, sièges en cuir.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -73262,9 +73671,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيارة رينو آر 19 ديزل موديل 1994 بحالة جيدة.. - عجلات ألمنيوم. - القوة الجبائية: 7 خ.",
+      "original": "أعرض للبيع سيارة رينو آر 19 ديزل موديل 1994 بحالة جيدة.. - عجلات ألمنيوم. - القوة الجبائية: 7 خ.",
       "ar": "أعرض للبيع سيارة رينو آر 19 ديزل موديل 1994 بحالة جيدة.. - عجلات ألمنيوم. - القوة الجبائية: 7 خ.",
-      "original": "أعرض للبيع سيارة رينو آر 19 ديزل موديل 1994 بحالة جيدة.. - عجلات ألمنيوم. - القوة الجبائية: 7 خ."
+      "en": "أعرض للبيع سيارة رينو آر 19 ديزل موديل 1994 بحالة جيدة.. - عجلات ألمنيوم. - القوة الجبائية: 7 خ.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -73410,9 +73820,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "A vendre Jaguar E-Pace première main, en éxcellent état avec Toit panoramique. Pas de semsar, vente de particulier à particulier.",
+      "original": "A vendre Jaguar E-Pace première main, en éxcellent état avec Toit panoramique. Pas de semsar, vente de particulier à particulier.",
       "ar": "A vendre Jaguar E-Pace première main, en éxcellent état avec Toit panoramique. Pas de semsar, vente de particulier à particulier.",
-      "original": "A vendre Jaguar E-Pace première main, en éxcellent état avec Toit panoramique. Pas de semsar, vente de particulier à particulier."
+      "en": "A vendre Jaguar E-Pace première main, en éxcellent état avec Toit panoramique. Pas de semsar, vente de particulier à particulier.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -73623,9 +74034,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Clio4 modèle 2019",
-      "ar": "Clio4 modèle 2019",
-      "original": "Clio4 modèle 2019"
+      "original": "ديال الخدمة والدوام والصبر، موطورها معروف بالمتانة والبياس ديالها متوفر ورخيص. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "ديال الخدمة والدوام والصبر، موطورها معروف بالمتانة والبياس ديالها متوفر ورخيص. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Reliable, cost-effective daily driver built for endurance with widely available parts and low operating costs. Richly specified with stylish alloy wheels, air conditioning, and touchscreen GPS navigation. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -73835,9 +74247,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "🚗 Citroën C-Elysée 2023 à vendre. 📅 09/2023. ⚙️ 1.6 Diesel.",
+      "original": "🚗 Citroën C-Elysée 2023 à vendre. 📅 09/2023. ⚙️ 1.6 Diesel.",
       "ar": "🚗 Citroën C-Elysée 2023 à vendre. 📅 09/2023. ⚙️ 1.6 Diesel.",
-      "original": "🚗 Citroën C-Elysée 2023 à vendre. 📅 09/2023. ⚙️ 1.6 Diesel."
+      "en": "🚗 Citroën C-Elysée 2023 à vendre. 📅 09/2023. ⚙️ 1.6 Diesel.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -74022,9 +74435,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "classe c220, model 2022, 71 000 km, dédouanée",
+      "original": "classe c220, model 2022, 71 000 km, dédouanée",
       "ar": "classe c220, model 2022, 71 000 km, dédouanée",
-      "original": "classe c220, model 2022, 71 000 km, dédouanée"
+      "en": "classe c220, model 2022, 71 000 km, dédouanée",
+      "usedDarija": false
     },
     "features": [
       {
@@ -74166,9 +74580,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "A vendre voiture de Particulier.. Excellente FIAT 500X à Bourgogne, Casablanca.. Couleur bleu marine, toutes options avec toit ouvrant.",
+      "original": "A vendre voiture de Particulier.. Excellente FIAT 500X à Bourgogne, Casablanca.. Couleur bleu marine, toutes options avec toit ouvrant.",
       "ar": "A vendre voiture de Particulier.. Excellente FIAT 500X à Bourgogne, Casablanca.. Couleur bleu marine, toutes options avec toit ouvrant.",
-      "original": "A vendre voiture de Particulier.. Excellente FIAT 500X à Bourgogne, Casablanca.. Couleur bleu marine, toutes options avec toit ouvrant."
+      "en": "A vendre voiture de Particulier.. Excellente FIAT 500X à Bourgogne, Casablanca.. Couleur bleu marine, toutes options avec toit ouvrant.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -74377,9 +74792,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "BMW Série 1 116d – Diesel – 2023 – Excellent état. À vendre BMW Série 1 116d Diesel, mise en circulation en avril 2023.. • Motorisation : Diesel – 3 cylindres.",
+      "original": "BMW Série 1 116d – Diesel – 2023 – Excellent état. À vendre BMW Série 1 116d Diesel, mise en circulation en avril 2023.. • Motorisation : Diesel – 3 cylindres.",
       "ar": "BMW Série 1 116d – Diesel – 2023 – Excellent état. À vendre BMW Série 1 116d Diesel, mise en circulation en avril 2023.. • Motorisation : Diesel – 3 cylindres.",
-      "original": "BMW Série 1 116d – Diesel – 2023 – Excellent état. À vendre BMW Série 1 116d Diesel, mise en circulation en avril 2023.. • Motorisation : Diesel – 3 cylindres."
+      "en": "BMW Série 1 116d – Diesel – 2023 – Excellent état. À vendre BMW Série 1 116d Diesel, mise en circulation en avril 2023.. • Motorisation : Diesel – 3 cylindres.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -74584,9 +75000,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente opel corsa 2024/04 1ere main , gs ligne , ttes options , parcouru 59000km , peinture d’origine \nDisponible à casablanca",
-      "ar": "Je mets en vente opel corsa 2024/04 1ere main , gs ligne , ttes options , parcouru 59000km , peinture d’origine \nDisponible à casablanca",
-      "original": "Je mets en vente opel corsa 2024/04 1ere main , gs ligne , ttes options , parcouru 59000km , peinture d’origine \nDisponible à casablanca"
+      "original": "Je mets en vente opel corsa 2024/04 1ere main , gs ligne , ttes options , parcouru 59000km , peinture d’origine Disponible à casablanca",
+      "ar": "Je mets en vente opel corsa 2024/04 1ere main , gs ligne , ttes options , parcouru 59000km , peinture d’origine Disponible à casablanca",
+      "en": "Je mets en vente opel corsa 2024/04 1ere main , gs ligne , ttes options , parcouru 59000km , peinture d’origine Disponible à casablanca",
+      "usedDarija": false
     },
     "features": [
       {
@@ -74801,9 +75218,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "SUPER BELLE PEUGEOT 3008 GT-LINE MOTEUR 2.0 HDI DIESEL 8CV BOITE AUTOMATIQUE EAT8, MODÈLE 2020 EN TRÈS BON ÉTAT.. TOUTES OPTIONS.. 2xTOIT OUVRANT PANORAMIQUE, COULEUR BITON BLANC PERLÉ AVEC TOIT ''BLACK DIAMOND'', PEUGEOT…",
-      "ar": "SUPER BELLE PEUGEOT 3008 GT-LINE MOTEUR 2.0 HDI DIESEL 8CV BOITE AUTOMATIQUE EAT8, MODÈLE 2020 EN TRÈS BON ÉTAT.. TOUTES OPTIONS.. 2xTOIT OUVRANT PANORAMIQUE, COULEUR BITON BLANC PERLÉ AVEC TOIT ''BLACK DIAMOND'', PEUGEOT…",
-      "original": "SUPER BELLE PEUGEOT 3008 GT-LINE MOTEUR 2.0 HDI DIESEL 8CV BOITE AUTOMATIQUE EAT8, MODÈLE 2020 EN TRÈS BON ÉTAT.. TOUTES OPTIONS.. 2xTOIT OUVRANT PANORAMIQUE, COULEUR BITON BLANC PERLÉ AVEC TOIT ''BLACK DIAMOND'', PEUGEOT…"
+      "original": "طوموبيل رياضية نقية وشكل جذاب، أداء ممتاز وصوت واعر. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل رياضية نقية وشكل جذاب، أداء ممتاز وصوت واعر. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Driver-focused sports coupe offering thrilling acceleration, sports-tuned chassis, and head-turning presence. Richly specified with air conditioning, premium leather upholstery, and touchscreen GPS navigation. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -75020,9 +75438,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vente ma voiture. Renault koleos modèle fin 2018. Peinture d’origine.",
+      "original": "Je vente ma voiture. Renault koleos modèle fin 2018. Peinture d’origine.",
       "ar": "Je vente ma voiture. Renault koleos modèle fin 2018. Peinture d’origine.",
-      "original": "Je vente ma voiture. Renault koleos modèle fin 2018. Peinture d’origine."
+      "en": "Je vente ma voiture. Renault koleos modèle fin 2018. Peinture d’origine.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -75237,9 +75656,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen T-Roc 2019 en bon état général, disponible pour visite.",
+      "original": "Volkswagen T-Roc 2019 en bon état général, disponible pour visite.",
       "ar": "Volkswagen T-Roc 2019 en bon état général, disponible pour visite.",
-      "original": "Volkswagen T-Roc 2019 en bon état général, disponible pour visite."
+      "en": "Volkswagen T-Roc 2019 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -75454,9 +75874,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "fiat punto",
-      "ar": "fiat punto",
-      "original": "fiat punto"
+      "original": "طوموبيل عملية ومريحة، ما كتاكل والو فـ الطريق ومحافظ عليها مولاها. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "طوموبيل عملية ومريحة، ما كتاكل والو فـ الطريق ومحافظ عليها مولاها. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Reliable, cost-effective daily driver built for endurance with widely available parts and low operating costs. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -75599,9 +76020,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Kia Picanto 2007 en bon état général, disponible pour visite.",
+      "original": "Kia Picanto 2007 en bon état général, disponible pour visite.",
       "ar": "Kia Picanto 2007 en bon état général, disponible pour visite.",
-      "original": "Kia Picanto 2007 en bon état général, disponible pour visite."
+      "en": "Kia Picanto 2007 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -75800,9 +76222,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente voiture Kodiaq, Diesel , boîte à vitesse Automatique.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "Je mets en vente voiture Kodiaq, Diesel , boîte à vitesse Automatique.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "Je mets en vente voiture Kodiaq, Diesel , boîte à vitesse Automatique.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "Je mets en vente voiture Kodiaq, Diesel , boîte à vitesse Automatique.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "Je mets en vente voiture Kodiaq, Diesel , boîte à vitesse Automatique.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -75996,9 +76419,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Peugeot 2008 2017 en bon état général, disponible pour visite.",
+      "original": "Peugeot 2008 2017 en bon état général, disponible pour visite.",
       "ar": "Peugeot 2008 2017 en bon état général, disponible pour visite.",
-      "original": "Peugeot 2008 2017 en bon état général, disponible pour visite."
+      "en": "Peugeot 2008 2017 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -76132,9 +76556,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Land Rover, Defender, 3 portes , 90 diesel, 250 ch toit panoramique état neuf kilométrage très faible,\n 4 ans de garanties",
-      "ar": "À vendre Land Rover, Defender, 3 portes , 90 diesel, 250 ch toit panoramique état neuf kilométrage très faible,\n 4 ans de garanties",
-      "original": "À vendre Land Rover, Defender, 3 portes , 90 diesel, 250 ch toit panoramique état neuf kilométrage très faible,\n 4 ans de garanties"
+      "original": "À vendre Land Rover, Defender, 3 portes , 90 diesel, 250 ch toit panoramique état neuf kilométrage très faible, 4 ans de garanties",
+      "ar": "À vendre Land Rover, Defender, 3 portes , 90 diesel, 250 ch toit panoramique état neuf kilométrage très faible, 4 ans de garanties",
+      "en": "À vendre Land Rover, Defender, 3 portes , 90 diesel, 250 ch toit panoramique état neuf kilométrage très faible, 4 ans de garanties",
+      "usedDarija": false
     },
     "features": [
       {
@@ -76346,9 +76771,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une magnifique Jeep Renegade e- Hybride automatique, très économique en carburant et sans vignette.. Véhicule en excellent état avec seulement 74 500 km, peinture 100 % d’origine, jamais accidentée.. Voiture…",
-      "ar": "Je mets en vente une magnifique Jeep Renegade e- Hybride automatique, très économique en carburant et sans vignette.. Véhicule en excellent état avec seulement 74 500 km, peinture 100 % d’origine, jamais accidentée.. Voiture…",
-      "original": "Je mets en vente une magnifique Jeep Renegade e- Hybride automatique, très économique en carburant et sans vignette.. Véhicule en excellent état avec seulement 74 500 km, peinture 100 % d’origine, jamais accidentée.. Voiture…"
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -76558,9 +76984,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Renault Talisman 2.0L Intens en excellent état.. - Origine : WW au Maroc. - Entretien régulier et à jour chez Renault.",
+      "original": "Je vends une Renault Talisman 2.0L Intens en excellent état.. - Origine : WW au Maroc. - Entretien régulier et à jour chez Renault.",
       "ar": "Je vends une Renault Talisman 2.0L Intens en excellent état.. - Origine : WW au Maroc. - Entretien régulier et à jour chez Renault.",
-      "original": "Je vends une Renault Talisman 2.0L Intens en excellent état.. - Origine : WW au Maroc. - Entretien régulier et à jour chez Renault."
+      "en": "Je vends une Renault Talisman 2.0L Intens en excellent état.. - Origine : WW au Maroc. - Entretien régulier et à jour chez Renault.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -76765,9 +77192,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture fiable",
-      "ar": "voiture fiable",
-      "original": "voiture fiable"
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -76907,9 +77335,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Lancia Ypsilon en excellent état.\n- Année-Modèle : 2012\n- Puissance fiscale : 7 CV\n- Carburant : Essence\n- Boîte de vitesses : Manuelle\n- Origine : WW au Maroc\n- Nombre de portes : 5\n.",
-      "ar": "À vendre Lancia Ypsilon en excellent état.\n- Année-Modèle : 2012\n- Puissance fiscale : 7 CV\n- Carburant : Essence\n- Boîte de vitesses : Manuelle\n- Origine : WW au Maroc\n- Nombre de portes : 5\n.",
-      "original": "À vendre Lancia Ypsilon en excellent état.\n- Année-Modèle : 2012\n- Puissance fiscale : 7 CV\n- Carburant : Essence\n- Boîte de vitesses : Manuelle\n- Origine : WW au Maroc\n- Nombre de portes : 5\n."
+      "original": "À vendre Lancia Ypsilon en excellent état. - Année-Modèle : 2012 - Puissance fiscale : 7 CV - îte de vitesses : Manuelle - Origine : WW au Maroc - Nombre de portes : 5 .",
+      "ar": "À vendre Lancia Ypsilon en excellent état. - Année-Modèle : 2012 - Puissance fiscale : 7 CV - îte de vitesses : Manuelle - Origine : WW au Maroc - Nombre de portes : 5 .",
+      "en": "À vendre Lancia Ypsilon en excellent état. - Année-Modèle : 2012 - Puissance fiscale : 7 CV - îte de vitesses : Manuelle - Origine : WW au Maroc - Nombre de portes : 5 .",
+      "usedDarija": false
     },
     "features": [
       {
@@ -77053,9 +77482,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Jaguar XF pack R sport de 2012 en très bon état.. - Origine : WW au Maroc. - Première main.",
+      "original": "Je vends une Jaguar XF pack R sport de 2012 en très bon état.. - Origine : WW au Maroc. - Première main.",
       "ar": "Je vends une Jaguar XF pack R sport de 2012 en très bon état.. - Origine : WW au Maroc. - Première main.",
-      "original": "Je vends une Jaguar XF pack R sport de 2012 en très bon état.. - Origine : WW au Maroc. - Première main."
+      "en": "Je vends une Jaguar XF pack R sport de 2012 en très bon état.. - Origine : WW au Maroc. - Première main.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -77239,9 +77669,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre BMW Série 5 de 2023, en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "À vendre BMW Série 5 de 2023, en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "À vendre BMW Série 5 de 2023, en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "À vendre BMW Série 5 de 2023, en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "À vendre BMW Série 5 de 2023, en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -77456,9 +77887,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mercedes-Benz Classe C 2007 en bon état général, disponible pour visite.",
+      "original": "Mercedes-Benz Classe C 2007 en bon état général, disponible pour visite.",
       "ar": "Mercedes-Benz Classe C 2007 en bon état général, disponible pour visite.",
-      "original": "Mercedes-Benz Classe C 2007 en bon état général, disponible pour visite."
+      "en": "Mercedes-Benz Classe C 2007 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -77648,9 +78080,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Audi Q5 S line – 2012 – Diesel – 170 ch – 8 CV. À vendre Audi Q5 S line, année 2012, motorisation Diesel 170 ch, 8 CV fiscaux.. 🖤 Couleur : Noir.",
+      "original": "Audi Q5 S line – 2012 – Diesel – 170 ch – 8 CV. À vendre Audi Q5 S line, année 2012, motorisation Diesel 170 ch, 8 CV fiscaux.. 🖤 Couleur : Noir.",
       "ar": "Audi Q5 S line – 2012 – Diesel – 170 ch – 8 CV. À vendre Audi Q5 S line, année 2012, motorisation Diesel 170 ch, 8 CV fiscaux.. 🖤 Couleur : Noir.",
-      "original": "Audi Q5 S line – 2012 – Diesel – 170 ch – 8 CV. À vendre Audi Q5 S line, année 2012, motorisation Diesel 170 ch, 8 CV fiscaux.. 🖤 Couleur : Noir."
+      "en": "Audi Q5 S line – 2012 – Diesel – 170 ch – 8 CV. À vendre Audi Q5 S line, année 2012, motorisation Diesel 170 ch, 8 CV fiscaux.. 🖤 Couleur : Noir.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -77864,9 +78297,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Fiat Ducato en tres bonne etat, sans intermédiaire , disponible sur casa\nFix",
-      "ar": "Fiat Ducato en tres bonne etat, sans intermédiaire , disponible sur casa\nFix",
-      "original": "Fiat Ducato en tres bonne etat, sans intermédiaire , disponible sur casa\nFix"
+      "original": "Fiat Ducato en tres bonne etat, sans intermédiaire , disponible sur casa Fix",
+      "ar": "Fiat Ducato en tres bonne etat, sans intermédiaire , disponible sur casa Fix",
+      "en": "Fiat Ducato en tres bonne etat, sans intermédiaire , disponible sur casa Fix",
+      "usedDarija": false
     },
     "features": [
       {
@@ -77999,9 +78433,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Renault Clio 4 de 2015 en excellent état, jamais accidentée.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "À vendre Renault Clio 4 de 2015 en excellent état, jamais accidentée.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "À vendre Renault Clio 4 de 2015 en excellent état, jamais accidentée.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "À vendre Renault Clio 4 de 2015 en excellent état, jamais accidentée.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "À vendre Renault Clio 4 de 2015 en excellent état, jamais accidentée.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -78181,9 +78616,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "W maroc mise en circulation juillet 2020 mitsubishi l 200 double cabine 4×4 crapotage 4 vitres electric centraliser airbags assister climatiser + ecran android avec camera de recul et carplay tres peux rouler a peine 40 000km…",
-      "ar": "W maroc mise en circulation juillet 2020 mitsubishi l 200 double cabine 4×4 crapotage 4 vitres electric centraliser airbags assister climatiser + ecran android avec camera de recul et carplay tres peux rouler a peine 40 000km…",
-      "original": "W maroc mise en circulation juillet 2020 mitsubishi l 200 double cabine 4×4 crapotage 4 vitres electric centraliser airbags assister climatiser + ecran android avec camera de recul et carplay tres peux rouler a peine 40 000km…"
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with reversing camera and parking sensors, air conditioning, and touchscreen GPS navigation. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -78368,9 +78804,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Ford Focus de 2012 en excellent état, première main, origine WW au Maroc.. - Jantes aluminium. - Airbags.",
+      "original": "À vendre Ford Focus de 2012 en excellent état, première main, origine WW au Maroc.. - Jantes aluminium. - Airbags.",
       "ar": "À vendre Ford Focus de 2012 en excellent état, première main, origine WW au Maroc.. - Jantes aluminium. - Airbags.",
-      "original": "À vendre Ford Focus de 2012 en excellent état, première main, origine WW au Maroc.. - Jantes aluminium. - Airbags."
+      "en": "À vendre Ford Focus de 2012 en excellent état, première main, origine WW au Maroc.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -78580,9 +79017,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "w maroc mise en circulation mai 2021 ds7 diesel automatique finition rivoli toutes options en excellente etat.. toit ouvrant panoramique. cookpit digital.",
+      "original": "w maroc mise en circulation mai 2021 ds7 diesel automatique finition rivoli toutes options en excellente etat.. toit ouvrant panoramique. cookpit digital.",
       "ar": "w maroc mise en circulation mai 2021 ds7 diesel automatique finition rivoli toutes options en excellente etat.. toit ouvrant panoramique. cookpit digital.",
-      "original": "w maroc mise en circulation mai 2021 ds7 diesel automatique finition rivoli toutes options en excellente etat.. toit ouvrant panoramique. cookpit digital."
+      "en": "w maroc mise en circulation mai 2021 ds7 diesel automatique finition rivoli toutes options en excellente etat.. toit ouvrant panoramique. cookpit digital.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -78797,9 +79235,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Plus économique",
-      "ar": "Plus économique",
-      "original": "Plus économique"
+      "original": "طوموبيل عملية ومريحة، ما كتاكل والو فـ الطريق ومحافظ عليها مولاها. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل عملية ومريحة، ما كتاكل والو فـ الطريق ومحافظ عليها مولاها. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Reliable, cost-effective daily driver built for endurance with widely available parts and low operating costs. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -78938,9 +79377,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Peugeot 301 2014 en bon état général, disponible pour visite.",
+      "original": "Peugeot 301 2014 en bon état général, disponible pour visite.",
       "ar": "Peugeot 301 2014 en bon état général, disponible pour visite.",
-      "original": "Peugeot 301 2014 en bon état général, disponible pour visite."
+      "en": "Peugeot 301 2014 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -79101,9 +79541,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Vente et achat de véhicules occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôles avant la mise en vente dans notre Showroom.. Lexus NX350H business.",
+      "original": "Vente et achat de véhicules occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôles avant la mise en vente dans notre Showroom.. Lexus NX350H business.",
       "ar": "Vente et achat de véhicules occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôles avant la mise en vente dans notre Showroom.. Lexus NX350H business.",
-      "original": "Vente et achat de véhicules occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôles avant la mise en vente dans notre Showroom.. Lexus NX350H business."
+      "en": "Vente et achat de véhicules occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôles avant la mise en vente dans notre Showroom.. Lexus NX350H business.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -79320,9 +79761,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Jaguar E Pace de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "Je propose à la vente une Jaguar E Pace de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "Je propose à la vente une Jaguar E Pace de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "Je propose à la vente une Jaguar E Pace de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "Je propose à la vente une Jaguar E Pace de 2019 en excellent état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -79537,9 +79979,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma voiture Opel combo 2022 à casablanca\nPeinture original \nPremière main",
-      "ar": "Je mets en vente ma voiture Opel combo 2022 à casablanca\nPeinture original \nPremière main",
-      "original": "Je mets en vente ma voiture Opel combo 2022 à casablanca\nPeinture original \nPremière main"
+      "original": "Je mets en vente ma voiture Opel combo 2022 à casablanca Peinture original Première main",
+      "ar": "Je mets en vente ma voiture Opel combo 2022 à casablanca Peinture original Première main",
+      "en": "Je mets en vente ma voiture Opel combo 2022 à casablanca Peinture original Première main",
+      "usedDarija": false
     },
     "features": [
       {
@@ -79753,9 +80196,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente Volkswagen Touran 7 places toute options dédouaner toit ouvrant panoramique siège réglable stationnement automatique peinture originale jamais accidenté.",
+      "original": "Je mets en vente Volkswagen Touran 7 places toute options dédouaner toit ouvrant panoramique siège réglable stationnement automatique peinture originale jamais accidenté.",
       "ar": "Je mets en vente Volkswagen Touran 7 places toute options dédouaner toit ouvrant panoramique siège réglable stationnement automatique peinture originale jamais accidenté.",
-      "original": "Je mets en vente Volkswagen Touran 7 places toute options dédouaner toit ouvrant panoramique siège réglable stationnement automatique peinture originale jamais accidenté."
+      "en": "Je mets en vente Volkswagen Touran 7 places toute options dédouaner toit ouvrant panoramique siège réglable stationnement automatique peinture originale jamais accidenté.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -79970,9 +80414,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Très beau cayenne coupé hybride de 2024 dans un état quasi neuf.. c'est une platinium édition, importée neuve avec HUD, soft close, volant et inserts en carbone, jantes en 22 etc.. Faiblement kilometrée et entretenue chez Porsche…",
-      "ar": "Très beau cayenne coupé hybride de 2024 dans un état quasi neuf.. c'est une platinium édition, importée neuve avec HUD, soft close, volant et inserts en carbone, jantes en 22 etc.. Faiblement kilometrée et entretenue chez Porsche…",
-      "original": "Très beau cayenne coupé hybride de 2024 dans un état quasi neuf.. c'est une platinium édition, importée neuve avec HUD, soft close, volant et inserts en carbone, jantes en 22 etc.. Faiblement kilometrée et entretenue chez Porsche…"
+      "original": "همزة د المولوعين بالسرعة والقوة، محرك نشيط وثبات فـ الفيراجات. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة د المولوعين بالسرعة والقوة، محرك نشيط وثبات فـ الفيراجات. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Dynamic performance sports car engineered for spirited driving, exceptional steering precision, and highway agility. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -80115,9 +80560,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Hyundai Tucson 2015 en bon état général, disponible pour visite.",
+      "original": "Hyundai Tucson 2015 en bon état général, disponible pour visite.",
       "ar": "Hyundai Tucson 2015 en bon état général, disponible pour visite.",
-      "original": "Hyundai Tucson 2015 en bon état général, disponible pour visite."
+      "en": "Hyundai Tucson 2015 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -80329,9 +80775,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "🔴 Ne laissez pas passer cette opportunité🚗✨. Véhicule en parfait état 2022, 80 000 km, première main. Sièges cuir électriques, chauffants, ventilés et à mémoire.",
+      "original": "🔴 Ne laissez pas passer cette opportunité🚗✨. Véhicule en parfait état 2022, 80 000 km, première main. Sièges cuir électriques, chauffants, ventilés et à mémoire.",
       "ar": "🔴 Ne laissez pas passer cette opportunité🚗✨. Véhicule en parfait état 2022, 80 000 km, première main. Sièges cuir électriques, chauffants, ventilés et à mémoire.",
-      "original": "🔴 Ne laissez pas passer cette opportunité🚗✨. Véhicule en parfait état 2022, 80 000 km, première main. Sièges cuir électriques, chauffants, ventilés et à mémoire."
+      "en": "🔴 Ne laissez pas passer cette opportunité🚗✨. Véhicule en parfait état 2022, 80 000 km, première main. Sièges cuir électriques, chauffants, ventilés et à mémoire.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -80547,9 +80994,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen Passat 2012 en bon état général, disponible pour visite.",
+      "original": "Volkswagen Passat 2012 en bon état général, disponible pour visite.",
       "ar": "Volkswagen Passat 2012 en bon état général, disponible pour visite.",
-      "original": "Volkswagen Passat 2012 en bon état général, disponible pour visite."
+      "en": "Volkswagen Passat 2012 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -80683,9 +81131,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets ma voiture en vente \n1.6L",
-      "ar": "Je mets ma voiture en vente \n1.6L",
-      "original": "Je mets ma voiture en vente \n1.6L"
+      "original": "همزة عائلية ممتازة، ركبة عالية كتعطيك رؤية واضحة وأمان كبير فـ الطريق. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، ريگيلاتور دو فيتيس للمسافات. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة عائلية ممتازة، ركبة عالية كتعطيك رؤية واضحة وأمان كبير فـ الطريق. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، ريگيلاتور دو فيتيس للمسافات. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Versatile family crossover featuring a commanding driving position, generous luggage space, and dependable road manner. Richly specified with stylish alloy wheels, air conditioning, and cruise control. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -80880,9 +81329,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen golf 5 model 2008 dwena 2012 kulchi khedam li bgha yksbha marhba",
+      "original": "Volkswagen golf 5 model 2008 dwena 2012 kulchi khedam li bgha yksbha marhba",
       "ar": "Volkswagen golf 5 model 2008 dwena 2012 kulchi khedam li bgha yksbha marhba",
-      "original": "Volkswagen golf 5 model 2008 dwena 2012 kulchi khedam li bgha yksbha marhba"
+      "en": "Volkswagen golf 5 model 2008 dwena 2012 kulchi khedam li bgha yksbha marhba",
+      "usedDarija": false
     },
     "features": [
       {
@@ -81062,9 +81512,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "- 2.0 TDI Diesel (2L 8Cv). - Intérieur tissu isofix. - 4 pneus neufs ( 2 mois ), Jantes 17 pouces avec plaquette de frein d’origine TRW.",
+      "original": "- 2.0 TDI Diesel (2L 8Cv). - Intérieur tissu isofix. - 4 pneus neufs ( 2 mois ), Jantes 17 pouces avec plaquette de frein d’origine TRW.",
       "ar": "- 2.0 TDI Diesel (2L 8Cv). - Intérieur tissu isofix. - 4 pneus neufs ( 2 mois ), Jantes 17 pouces avec plaquette de frein d’origine TRW.",
-      "original": "- 2.0 TDI Diesel (2L 8Cv). - Intérieur tissu isofix. - 4 pneus neufs ( 2 mois ), Jantes 17 pouces avec plaquette de frein d’origine TRW."
+      "en": "- 2.0 TDI Diesel (2L 8Cv). - Intérieur tissu isofix. - 4 pneus neufs ( 2 mois ), Jantes 17 pouces avec plaquette de frein d’origine TRW.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -81257,9 +81708,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "للبيع فولكس فاجن كادي موديل 2011.. - الماركة: فولكس فاجن. - الموديل: كادي.",
+      "original": "للبيع فولكس فاجن كادي موديل 2011.. - الماركة: فولكس فاجن. - الموديل: كادي.",
       "ar": "للبيع فولكس فاجن كادي موديل 2011.. - الماركة: فولكس فاجن. - الموديل: كادي.",
-      "original": "للبيع فولكس فاجن كادي موديل 2011.. - الماركة: فولكس فاجن. - الموديل: كادي."
+      "en": "للبيع فولكس فاجن كادي موديل 2011.. - الماركة: فولكس فاجن. - الموديل: كادي.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -81403,9 +81855,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture en excellent état jamais accident peinture presque d’origine boite automatique siège semi cuir clim bi zone jantes aluminium avec pneus neuves rétroviseur électrique régulateur et limiteur de vitesse détecteur pluie…",
-      "ar": "voiture en excellent état jamais accident peinture presque d’origine boite automatique siège semi cuir clim bi zone jantes aluminium avec pneus neuves rétroviseur électrique régulateur et limiteur de vitesse détecteur pluie…",
-      "original": "voiture en excellent état jamais accident peinture presque d’origine boite automatique siège semi cuir clim bi zone jantes aluminium avec pneus neuves rétroviseur électrique régulateur et limiteur de vitesse détecteur pluie…"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with premium leather upholstery, touchscreen GPS navigation, and reversing camera and parking sensors. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -81622,9 +82075,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Peugeot 308 2013 en bon état général, disponible pour visite.",
+      "original": "Peugeot 308 2013 en bon état général, disponible pour visite.",
       "ar": "Peugeot 308 2013 en bon état général, disponible pour visite.",
-      "original": "Peugeot 308 2013 en bon état général, disponible pour visite."
+      "en": "Peugeot 308 2013 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -81822,9 +82276,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "fiat **** très bon etat",
-      "ar": "fiat **** très bon etat",
-      "original": "fiat **** très bon etat"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، ريگيلاتور دو فيتيس للمسافات. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، ريگيلاتور دو فيتيس للمسافات. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with stylish alloy wheels, air conditioning, and cruise control. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -81998,9 +82453,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen tiguin\nModel 2014\nDewana 2019\nMotor 2L\nKm **** \nSbagha dadar l3amra siyara n9iya bzaf libghaha marhba",
-      "ar": "Volkswagen tiguin\nModel 2014\nDewana 2019\nMotor 2L\nKm **** \nSbagha dadar l3amra siyara n9iya bzaf libghaha marhba",
-      "original": "Volkswagen tiguin\nModel 2014\nDewana 2019\nMotor 2L\nKm **** \nSbagha dadar l3amra siyara n9iya bzaf libghaha marhba"
+      "original": "Volkswagen tiguin Model 2014 Dewana 2019 Motor 2L Km **** Sbagha dadar l3amra siyara n9iya bzaf libghaha marhba",
+      "ar": "Volkswagen tiguin Model 2014 Dewana 2019 Motor 2L Km **** Sbagha dadar l3amra siyara n9iya bzaf libghaha marhba",
+      "en": "Volkswagen tiguin Model 2014 Dewana 2019 Motor 2L Km **** Sbagha dadar l3amra siyara n9iya bzaf libghaha marhba",
+      "usedDarija": false
     },
     "features": [
       {
@@ -82216,9 +82672,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volvo S 90 diesel automatique tt option\n2 main\nMod 21",
-      "ar": "Volvo S 90 diesel automatique tt option\n2 main\nMod 21",
-      "original": "Volvo S 90 diesel automatique tt option\n2 main\nMod 21"
+      "original": "Volvo S 90 diesel automatique tt option 2 main Mod 21",
+      "ar": "Volvo S 90 diesel automatique tt option 2 main Mod 21",
+      "en": "Volvo S 90 diesel automatique tt option 2 main Mod 21",
+      "usedDarija": false
     },
     "features": [
       {
@@ -82372,9 +82829,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture en excellent état jamais accident 7 chv vignette 7 places ouvert sans clés Bassma démarrage star boîte automatique siège électrique clim bi zone jantes aluminium avec pneus neuves rétroviseur électrique rabattre…",
-      "ar": "voiture en excellent état jamais accident 7 chv vignette 7 places ouvert sans clés Bassma démarrage star boîte automatique siège électrique clim bi zone jantes aluminium avec pneus neuves rétroviseur électrique rabattre…",
-      "original": "voiture en excellent état jamais accident 7 chv vignette 7 places ouvert sans clés Bassma démarrage star boîte automatique siège électrique clim bi zone jantes aluminium avec pneus neuves rétroviseur électrique rabattre…"
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -82586,9 +83044,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Toyota Corolla de 2004 à vendre, en bon état.. - Jantes aluminium. - Vitres électriques.",
+      "original": "Toyota Corolla de 2004 à vendre, en bon état.. - Jantes aluminium. - Vitres électriques.",
       "ar": "Toyota Corolla de 2004 à vendre, en bon état.. - Jantes aluminium. - Vitres électriques.",
-      "original": "Toyota Corolla de 2004 à vendre, en bon état.. - Jantes aluminium. - Vitres électriques."
+      "en": "Toyota Corolla de 2004 à vendre, en bon état.. - Jantes aluminium. - Vitres électriques.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -82745,9 +83204,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Smsara no",
-      "ar": "Smsara no",
-      "original": "Smsara no"
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -82962,9 +83422,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "🇩🇪 MERCEDES GLE 350 DE AMG LINE+. 🇩🇪9/ 2022 douane 8/2026. 💶.",
+      "original": "🇩🇪 MERCEDES GLE 350 DE AMG LINE+. 🇩🇪9/ 2022 douane 8/2026. 💶.",
       "ar": "🇩🇪 MERCEDES GLE 350 DE AMG LINE+. 🇩🇪9/ 2022 douane 8/2026. 💶.",
-      "original": "🇩🇪 MERCEDES GLE 350 DE AMG LINE+. 🇩🇪9/ 2022 douane 8/2026. 💶."
+      "en": "🇩🇪 MERCEDES GLE 350 DE AMG LINE+. 🇩🇪9/ 2022 douane 8/2026. 💶.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -83179,9 +83640,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "للمعاينه طنجة حي أهلا سيارة كوبرا أتيكا موديل 2025 بحالة ممتازة.. - محرك ديزل. - ناقل حركة أوتوماتيك.",
+      "original": "للمعاينه طنجة حي أهلا سيارة كوبرا أتيكا موديل 2025 بحالة ممتازة.. - محرك ديزل. - ناقل حركة أوتوماتيك.",
       "ar": "للمعاينه طنجة حي أهلا سيارة كوبرا أتيكا موديل 2025 بحالة ممتازة.. - محرك ديزل. - ناقل حركة أوتوماتيك.",
-      "original": "للمعاينه طنجة حي أهلا سيارة كوبرا أتيكا موديل 2025 بحالة ممتازة.. - محرك ديزل. - ناقل حركة أوتوماتيك."
+      "en": "للمعاينه طنجة حي أهلا سيارة كوبرا أتيكا موديل 2025 بحالة ممتازة.. - محرك ديزل. - ناقل حركة أوتوماتيك.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -83396,9 +83858,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Vente cause maladie",
-      "ar": "Vente cause maladie",
-      "original": "Vente cause maladie"
+      "original": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Enthusiast-owned sports bike offering sharp cornering dynamics, raw mechanical soundtrack, and solid running gear. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -83546,9 +84009,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "la moto n as jamais circule au maroc en etat presque neuf pour plus d infos veuillez me contacter sur mon num",
+      "original": "la moto n as jamais circule au maroc en etat presque neuf pour plus d infos veuillez me contacter sur mon num",
       "ar": "la moto n as jamais circule au maroc en etat presque neuf pour plus d infos veuillez me contacter sur mon num",
-      "original": "la moto n as jamais circule au maroc en etat presque neuf pour plus d infos veuillez me contacter sur mon num"
+      "en": "la moto n as jamais circule au maroc en etat presque neuf pour plus d infos veuillez me contacter sur mon num",
+      "usedDarija": false
     },
     "features": [
       {
@@ -83689,9 +84153,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "vespa sprint 2t makina 7ara",
-      "ar": "vespa sprint 2t makina 7ara",
-      "original": "vespa sprint 2t makina 7ara"
+      "original": "سكوتر نقي ديال المولوعين، خفة ورشاقة فـ الطريق وشكل أنيق كيجلب العين. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "سكوتر نقي ديال المولوعين، خفة ورشاقة فـ الطريق وشكل أنيق كيجلب العين. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Agile, stylish modern scooter designed for effortless city commuting and low running costs. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -83834,9 +84299,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "moto mziana bon model 2024 papier tout en reles",
+      "original": "moto mziana bon model 2024 papier tout en reles",
       "ar": "moto mziana bon model 2024 papier tout en reles",
-      "original": "moto mziana bon model 2024 papier tout en reles"
+      "en": "moto mziana bon model 2024 papier tout en reles",
+      "usedDarija": false
     },
     "features": [
       {
@@ -83977,9 +84443,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je met en Vente ma Honda sh 300 smart \nEn bonne etat saut quelque retouche",
-      "ar": "Je met en Vente ma Honda sh 300 smart \nEn bonne etat saut quelque retouche",
-      "original": "Je met en Vente ma Honda sh 300 smart \nEn bonne etat saut quelque retouche"
+      "original": "Je met en Vente ma Honda sh 300 smart En bonne etat saut quelque retouche",
+      "ar": "Je met en Vente ma Honda sh 300 smart En bonne etat saut quelque retouche",
+      "en": "Je met en Vente ma Honda sh 300 smart En bonne etat saut quelque retouche",
+      "usedDarija": false
     },
     "features": [
       {
@@ -84124,9 +84591,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "motor mzala jdid 0",
-      "ar": "motor mzala jdid 0",
-      "original": "motor mzala jdid 0"
+      "original": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Enthusiast-owned sports bike offering sharp cornering dynamics, raw mechanical soundtrack, and solid running gear. Very low mileage with bodywork and interior in near-showroom condition. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -84267,9 +84735,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "sym symphony st 2024/09 \n50cc \ndarba 10000km \n1er main \nvidange chaque 1500km",
-      "ar": "sym symphony st 2024/09 \n50cc \ndarba 10000km \n1er main \nvidange chaque 1500km",
-      "original": "sym symphony st 2024/09 \n50cc \ndarba 10000km \n1er main \nvidange chaque 1500km"
+      "original": "sym symphony st 2024/09 50cc darba 10000km 1er main vidange chaque 1500km",
+      "ar": "sym symphony st 2024/09 50cc darba 10000km 1er main vidange chaque 1500km",
+      "en": "sym symphony st 2024/09 50cc darba 10000km 1er main vidange chaque 1500km",
+      "usedDarija": false
     },
     "features": [
       {
@@ -84408,9 +84877,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "✅️yamaha mt 07 black édition. ✅️ model : 2019. ✅️ diwana : 2023 / 11.",
+      "original": "✅️yamaha mt 07 black édition. ✅️ model : 2019. ✅️ diwana : 2023 / 11.",
       "ar": "✅️yamaha mt 07 black édition. ✅️ model : 2019. ✅️ diwana : 2023 / 11.",
-      "original": "✅️yamaha mt 07 black édition. ✅️ model : 2019. ✅️ diwana : 2023 / 11."
+      "en": "✅️yamaha mt 07 black édition. ✅️ model : 2019. ✅️ diwana : 2023 / 11.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -84551,9 +85021,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une Cimatti Bobber 49cc au style classique et confortable.. Caractéristiques :. • Consommation entre 2 et 2.5 pour cent.",
+      "original": "Je mets en vente une Cimatti Bobber 49cc au style classique et confortable.. Caractéristiques :. • Consommation entre 2 et 2.5 pour cent.",
       "ar": "Je mets en vente une Cimatti Bobber 49cc au style classique et confortable.. Caractéristiques :. • Consommation entre 2 et 2.5 pour cent.",
-      "original": "Je mets en vente une Cimatti Bobber 49cc au style classique et confortable.. Caractéristiques :. • Consommation entre 2 et 2.5 pour cent."
+      "en": "Je mets en vente une Cimatti Bobber 49cc au style classique et confortable.. Caractéristiques :. • Consommation entre 2 et 2.5 pour cent.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -84695,9 +85166,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Becane super cup",
-      "ar": "Becane super cup",
-      "original": "Becane super cup"
+      "original": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. موطور مضمون وناضي، لي داه غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. موطور مضمون وناضي، لي داه غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Enthusiast-owned sports bike offering sharp cornering dynamics, raw mechanical soundtrack, and solid running gear. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -84838,9 +85310,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "yamaha tdm 900 – excellent état – bien équipée. description :. À vendre yamaha tdm 900 en très bon état.",
+      "original": "yamaha tdm 900 – excellent état – bien équipée. description :. À vendre yamaha tdm 900 en très bon état.",
       "ar": "yamaha tdm 900 – excellent état – bien équipée. description :. À vendre yamaha tdm 900 en très bon état.",
-      "original": "yamaha tdm 900 – excellent état – bien équipée. description :. À vendre yamaha tdm 900 en très bon état."
+      "en": "yamaha tdm 900 – excellent état – bien équipée. description :. À vendre yamaha tdm 900 en très bon état.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -84977,9 +85450,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "faible km 2500\nsiège confort\npoignée chauffant\npot avec ligne\njamais circuler au maroc",
-      "ar": "faible km 2500\nsiège confort\npoignée chauffant\npot avec ligne\njamais circuler au maroc",
-      "original": "faible km 2500\nsiège confort\npoignée chauffant\npot avec ligne\njamais circuler au maroc"
+      "original": "faible km 2500 siège confort poignée chauffant pot avec ligne jamais circuler au maroc",
+      "ar": "faible km 2500 siège confort poignée chauffant pot avec ligne jamais circuler au maroc",
+      "en": "faible km 2500 siège confort poignée chauffant pot avec ligne jamais circuler au maroc",
+      "usedDarija": false
     },
     "features": [
       {
@@ -85120,9 +85594,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Selling my CF Moto 700MT-SPORT in excellent condition.. The bike has only 4,000 km, well-maintained, and used mainly for light touring.. Powerful 693cc engine, comfortable riding position, and perfect for both city and long trips.",
-      "ar": "Selling my CF Moto 700MT-SPORT in excellent condition.. The bike has only 4,000 km, well-maintained, and used mainly for light touring.. Powerful 693cc engine, comfortable riding position, and perfect for both city and long trips.",
-      "original": "Selling my CF Moto 700MT-SPORT in excellent condition.. The bike has only 4,000 km, well-maintained, and used mainly for light touring.. Powerful 693cc engine, comfortable riding position, and perfect for both city and long trips."
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. باقا بحال يلا عاد خارجة من لا ميزون. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. باقا بحال يلا عاد خارجة من لا ميزون. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -85264,9 +85739,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "moto en très bon état,utilisé rarement ww maroc immatriculé 6",
+      "original": "moto en très bon état,utilisé rarement ww maroc immatriculé 6",
       "ar": "moto en très bon état,utilisé rarement ww maroc immatriculé 6",
-      "original": "moto en très bon état,utilisé rarement ww maroc immatriculé 6"
+      "en": "moto en très bon état,utilisé rarement ww maroc immatriculé 6",
+      "usedDarija": false
     },
     "features": [
       {
@@ -85398,9 +85874,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je vends ma kawasaki z650 de 2019, 13 000 km, très bon état. moto propre, bien entretenue, rien à prévoir. idéale pour rouler en ville ou en balade. pour plus d’infos ou photos, me contacter.",
+      "original": "je vends ma kawasaki z650 de 2019, 13 000 km, très bon état. moto propre, bien entretenue, rien à prévoir. idéale pour rouler en ville ou en balade. pour plus d’infos ou photos, me contacter.",
       "ar": "je vends ma kawasaki z650 de 2019, 13 000 km, très bon état. moto propre, bien entretenue, rien à prévoir. idéale pour rouler en ville ou en balade. pour plus d’infos ou photos, me contacter.",
-      "original": "je vends ma kawasaki z650 de 2019, 13 000 km, très bon état. moto propre, bien entretenue, rien à prévoir. idéale pour rouler en ville ou en balade. pour plus d’infos ou photos, me contacter."
+      "en": "je vends ma kawasaki z650 de 2019, 13 000 km, très bon état. moto propre, bien entretenue, rien à prévoir. idéale pour rouler en ville ou en balade. pour plus d’infos ou photos, me contacter.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -85542,9 +86019,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vend ma moto SYM NHT 200 model 10/2024 bien équipé faible km",
+      "original": "Je vend ma moto SYM NHT 200 model 10/2024 bien équipé faible km",
       "ar": "Je vend ma moto SYM NHT 200 model 10/2024 bien équipé faible km",
-      "original": "Je vend ma moto SYM NHT 200 model 10/2024 bien équipé faible km"
+      "en": "Je vend ma moto SYM NHT 200 model 10/2024 bien équipé faible km",
+      "usedDarija": false
     },
     "features": [
       {
@@ -85679,9 +86157,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Honda X adv Model 2018 dédouané en 2022 immatriculation 6/ ط Anfa Casablanca",
+      "original": "Honda X adv Model 2018 dédouané en 2022 immatriculation 6/ ط Anfa Casablanca",
       "ar": "Honda X adv Model 2018 dédouané en 2022 immatriculation 6/ ط Anfa Casablanca",
-      "original": "Honda X adv Model 2018 dédouané en 2022 immatriculation 6/ ط Anfa Casablanca"
+      "en": "Honda X adv Model 2018 dédouané en 2022 immatriculation 6/ ط Anfa Casablanca",
+      "usedDarija": false
     },
     "features": [
       {
@@ -85823,9 +86302,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Honda X adv model 2018 dédouané en 2022",
-      "ar": "Honda X adv model 2018 dédouané en 2022",
-      "original": "Honda X adv model 2018 dédouané en 2022"
+      "original": "مكينة مجهدة وصحيحة، كتجري مزيان فـ لوتوروت وشكل هجومي كيحمق. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "مكينة مجهدة وصحيحة، كتجري مزيان فـ لوتوروت وشكل هجومي كيحمق. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Enthusiast-owned sports bike offering sharp cornering dynamics, raw mechanical soundtrack, and solid running gear. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -85956,9 +86436,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Scram 411 hymalayan bonne état toujours sous garantie, rien n'a signaler.",
+      "original": "Scram 411 hymalayan bonne état toujours sous garantie, rien n'a signaler.",
       "ar": "Scram 411 hymalayan bonne état toujours sous garantie, rien n'a signaler.",
-      "original": "Scram 411 hymalayan bonne état toujours sous garantie, rien n'a signaler."
+      "en": "Scram 411 hymalayan bonne état toujours sous garantie, rien n'a signaler.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -86085,9 +86566,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "moto zontes t1 darb 20000 km .model 2019\ncontacte par wattssap",
-      "ar": "moto zontes t1 darb 20000 km .model 2019\ncontacte par wattssap",
-      "original": "moto zontes t1 darb 20000 km .model 2019\ncontacte par wattssap"
+      "original": "moto zontes t1 darb 20000 km .model 2019 contacte par wattssap",
+      "ar": "moto zontes t1 darb 20000 km .model 2019 contacte par wattssap",
+      "en": "moto zontes t1 darb 20000 km .model 2019 contacte par wattssap",
+      "usedDarija": false
     },
     "features": [
       {
@@ -86216,9 +86698,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "royal enfield himalayan 452 2024 État comme neuf. je vends ma royal enfield himalayan 452, ww maroc , dans un état comme neuf.. moto très propre, entretenue avec soin chez la maison avec facture,.",
+      "original": "royal enfield himalayan 452 2024 État comme neuf. je vends ma royal enfield himalayan 452, ww maroc , dans un état comme neuf.. moto très propre, entretenue avec soin chez la maison avec facture,.",
       "ar": "royal enfield himalayan 452 2024 État comme neuf. je vends ma royal enfield himalayan 452, ww maroc , dans un état comme neuf.. moto très propre, entretenue avec soin chez la maison avec facture,.",
-      "original": "royal enfield himalayan 452 2024 État comme neuf. je vends ma royal enfield himalayan 452, ww maroc , dans un état comme neuf.. moto très propre, entretenue avec soin chez la maison avec facture,."
+      "en": "royal enfield himalayan 452 2024 État comme neuf. je vends ma royal enfield himalayan 452, ww maroc , dans un état comme neuf.. moto très propre, entretenue avec soin chez la maison avec facture,.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -86364,9 +86847,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "moto sym presque neuf modèle 4/25",
-      "ar": "moto sym presque neuf modèle 4/25",
-      "original": "moto sym presque neuf modèle 4/25"
+      "original": "سكوتر كلاس وخفيف فـ الزحام، تبارك الله كينقز فـ الدورة وراحة فـ السوگان اليومي. باقا بحال يلا عاد خارجة من لا ميزون. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "سكوتر كلاس وخفيف فـ الزحام، تبارك الله كينقز فـ الدورة وراحة فـ السوگان اليومي. باقا بحال يلا عاد خارجة من لا ميزون. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Agile, stylish modern scooter designed for effortless city commuting and low running costs. Very low mileage with bodywork and interior in near-showroom condition. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -86505,9 +86989,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "modele 2021 dd 2025/06\n✅11,700km\n✅full techpack\n✅quickshifter up/down\n✅poignée chauffantes oxford\n✅2 clés \n✅historique service de 0km jusqu’à maintenant \ntres bon etat\nnum de contact whatsapp: +447384019973",
-      "ar": "modele 2021 dd 2025/06\n✅11,700km\n✅full techpack\n✅quickshifter up/down\n✅poignée chauffantes oxford\n✅2 clés \n✅historique service de 0km jusqu’à maintenant \ntres bon etat\nnum de contact whatsapp: +447384019973",
-      "original": "modele 2021 dd 2025/06\n✅11,700km\n✅full techpack\n✅quickshifter up/down\n✅poignée chauffantes oxford\n✅2 clés \n✅historique service de 0km jusqu’à maintenant \ntres bon etat\nnum de contact whatsapp: +447384019973"
+      "original": "موديل عصري ومحبوب بزاف، صوت نقي واستهلاك قليل للوقود وجاهز للدورة فـ المدينة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "موديل عصري ومحبوب بزاف، صوت نقي واستهلاك قليل للوقود وجاهز للدورة فـ المدينة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Highly practical urban runabout offering comfortable ergonomics, responsive throttle, and frugal fuel consumption. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -86653,9 +87138,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Forza 125 cc comme neuf modéle 9/2023 dédo 12/2024 avec un faible kilométrage de 4000 km peinture d’origine",
+      "original": "Forza 125 cc comme neuf modéle 9/2023 dédo 12/2024 avec un faible kilométrage de 4000 km peinture d’origine",
       "ar": "Forza 125 cc comme neuf modéle 9/2023 dédo 12/2024 avec un faible kilométrage de 4000 km peinture d’origine",
-      "original": "Forza 125 cc comme neuf modéle 9/2023 dédo 12/2024 avec un faible kilométrage de 4000 km peinture d’origine"
+      "en": "Forza 125 cc comme neuf modéle 9/2023 dédo 12/2024 avec un faible kilométrage de 4000 km peinture d’origine",
+      "usedDarija": false
     },
     "features": [
       {
@@ -86787,9 +87273,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "KTM duke 390 model 2021 en tres bonne état bien entretenu yalah dert lih vidange de huile et antigel avec maintenance totale. tar9im sabi9 ww maroc. matricule 26d.",
+      "original": "KTM duke 390 model 2021 en tres bonne état bien entretenu yalah dert lih vidange de huile et antigel avec maintenance totale. tar9im sabi9 ww maroc. matricule 26d.",
       "ar": "KTM duke 390 model 2021 en tres bonne état bien entretenu yalah dert lih vidange de huile et antigel avec maintenance totale. tar9im sabi9 ww maroc. matricule 26d.",
-      "original": "KTM duke 390 model 2021 en tres bonne état bien entretenu yalah dert lih vidange de huile et antigel avec maintenance totale. tar9im sabi9 ww maroc. matricule 26d."
+      "en": "KTM duke 390 model 2021 en tres bonne état bien entretenu yalah dert lih vidange de huile et antigel avec maintenance totale. tar9im sabi9 ww maroc. matricule 26d.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -86931,9 +87418,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Moto Peugeot Django 125cc on très bon état avec deux clés original",
+      "original": "Moto Peugeot Django 125cc on très bon état avec deux clés original",
       "ar": "Moto Peugeot Django 125cc on très bon état avec deux clés original",
-      "original": "Moto Peugeot Django 125cc on très bon état avec deux clés original"
+      "en": "Moto Peugeot Django 125cc on très bon état avec deux clés original",
+      "usedDarija": false
     },
     "features": [
       {
@@ -87074,9 +87562,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "sh 150i model 2024. importer neuf. 2 cle contact.",
+      "original": "sh 150i model 2024. importer neuf. 2 cle contact.",
       "ar": "sh 150i model 2024. importer neuf. 2 cle contact.",
-      "original": "sh 150i model 2024. importer neuf. 2 cle contact."
+      "en": "sh 150i model 2024. importer neuf. 2 cle contact.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -87218,9 +87707,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "description :. je mets en vente ma srt 800, modèle février 2024, en parfait état avec seulement 2800 km évolutif. ✅ moteur : bicylindre 754cc, puissant et souple.",
+      "original": "description :. je mets en vente ma srt 800, modèle février 2024, en parfait état avec seulement 2800 km évolutif. ✅ moteur : bicylindre 754cc, puissant et souple.",
       "ar": "description :. je mets en vente ma srt 800, modèle février 2024, en parfait état avec seulement 2800 km évolutif. ✅ moteur : bicylindre 754cc, puissant et souple.",
-      "original": "description :. je mets en vente ma srt 800, modèle février 2024, en parfait état avec seulement 2800 km évolutif. ✅ moteur : bicylindre 754cc, puissant et souple."
+      "en": "description :. je mets en vente ma srt 800, modèle février 2024, en parfait état avec seulement 2800 km évolutif. ✅ moteur : bicylindre 754cc, puissant et souple.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -87358,9 +87848,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "kymco xtoun 300i modèle fin 2021 injection,abs en cours f garanti tout les services a jour a la maison , système alarm numérique sans contact car paly avec 2 cam avant et arrière moto top www maroc égale 1000/",
-      "ar": "kymco xtoun 300i modèle fin 2021 injection,abs en cours f garanti tout les services a jour a la maison , système alarm numérique sans contact car paly avec 2 cam avant et arrière moto top www maroc égale 1000/",
-      "original": "kymco xtoun 300i modèle fin 2021 injection,abs en cours f garanti tout les services a jour a la maison , système alarm numérique sans contact car paly avec 2 cam avant et arrière moto top www maroc égale 1000/"
+      "original": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -87504,9 +87995,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Yamaha x-max 250 - hd 2013 en bon état général, disponible pour visite.",
+      "original": "Yamaha x-max 250 - hd 2013 en bon état général, disponible pour visite.",
       "ar": "Yamaha x-max 250 - hd 2013 en bon état général, disponible pour visite.",
-      "original": "Yamaha x-max 250 - hd 2013 en bon état général, disponible pour visite."
+      "en": "Yamaha x-max 250 - hd 2013 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -87645,9 +88137,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je met une voiture jeep a vendre très propre si vous êtes intéressé contacter moi par watssap merci",
+      "original": "je met une voiture jeep a vendre très propre si vous êtes intéressé contacter moi par watssap merci",
       "ar": "je met une voiture jeep a vendre très propre si vous êtes intéressé contacter moi par watssap merci",
-      "original": "je met une voiture jeep a vendre très propre si vous êtes intéressé contacter moi par watssap merci"
+      "en": "je met une voiture jeep a vendre très propre si vous êtes intéressé contacter moi par watssap merci",
+      "usedDarija": false
     },
     "features": [
       {
@@ -87861,9 +88354,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma voiture Peugeot 3008 nouveau modèle.1er main particulier carte grise la boîte automatique couleur blanc nacré en général état neuf .. Pour plus d’informations veuillez contacter moi miss circulation fin 2021/10.",
-      "ar": "Je mets en vente ma voiture Peugeot 3008 nouveau modèle.1er main particulier carte grise la boîte automatique couleur blanc nacré en général état neuf .. Pour plus d’informations veuillez contacter moi miss circulation fin 2021/10.",
-      "original": "Je mets en vente ma voiture Peugeot 3008 nouveau modèle.1er main particulier carte grise la boîte automatique couleur blanc nacré en général état neuf .. Pour plus d’informations veuillez contacter moi miss circulation fin 2021/10."
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with reversing camera and parking sensors, cruise control, and stylish alloy wheels. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -88078,9 +88572,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une BMW X1 de 2018 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "original": "Je vends une BMW X1 de 2018 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium.",
       "ar": "Je vends une BMW X1 de 2018 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium.",
-      "original": "Je vends une BMW X1 de 2018 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium."
+      "en": "Je vends une BMW X1 de 2018 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -88297,9 +88792,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Très belle Mercedes Classe C, modèle fin 2010, à vendre à Meknès.. Voiture élégante, confortable et surtout agréable à conduire, avec une motorisation puissante et une boîte automatique.. Version bien équipée avec finition…",
-      "ar": "Très belle Mercedes Classe C, modèle fin 2010, à vendre à Meknès.. Voiture élégante, confortable et surtout agréable à conduire, avec une motorisation puissante et une boîte automatique.. Version bien équipée avec finition…",
-      "original": "Très belle Mercedes Classe C, modèle fin 2010, à vendre à Meknès.. Voiture élégante, confortable et surtout agréable à conduire, avec une motorisation puissante et une boîte automatique.. Version bien équipée avec finition…"
+      "original": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. موجودة للمعاينة فـ مكناس. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. موجودة للمعاينة فـ مكناس. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with air conditioning, touchscreen GPS navigation, and reversing camera and parking sensors. Available for viewing in Meknès. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -88504,9 +89000,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "رينو إكسبريس موديل 2021 بحالة ممتازة للبيع بالصخيرات.. - عجلات ألمنيوم. - وسائد هوائية.",
+      "original": "رينو إكسبريس موديل 2021 بحالة ممتازة للبيع بالصخيرات.. - عجلات ألمنيوم. - وسائد هوائية.",
       "ar": "رينو إكسبريس موديل 2021 بحالة ممتازة للبيع بالصخيرات.. - عجلات ألمنيوم. - وسائد هوائية.",
-      "original": "رينو إكسبريس موديل 2021 بحالة ممتازة للبيع بالصخيرات.. - عجلات ألمنيوم. - وسائد هوائية."
+      "en": "رينو إكسبريس موديل 2021 بحالة ممتازة للبيع بالصخيرات.. - عجلات ألمنيوم. - وسائد هوائية.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -88699,9 +89196,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Peugeot 208 essence 93km bien entretenu climatisation écran tactile Bluetooth commandées au volant régulateur vitesse limiteur cam de recul légèrement négociable",
+      "original": "Peugeot 208 essence 93km bien entretenu climatisation écran tactile Bluetooth commandées au volant régulateur vitesse limiteur cam de recul légèrement négociable",
       "ar": "Peugeot 208 essence 93km bien entretenu climatisation écran tactile Bluetooth commandées au volant régulateur vitesse limiteur cam de recul légèrement négociable",
-      "original": "Peugeot 208 essence 93km bien entretenu climatisation écran tactile Bluetooth commandées au volant régulateur vitesse limiteur cam de recul légèrement négociable"
+      "en": "Peugeot 208 essence 93km bien entretenu climatisation écran tactile Bluetooth commandées au volant régulateur vitesse limiteur cam de recul légèrement négociable",
+      "usedDarija": false
     },
     "features": [
       {
@@ -88886,9 +89384,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيارة أودي A4 موديل 2020 بحالة جيدة جدا.. - ماركة أودي, موديل أي4, سنة 2020. - محرك ديزل, ناقل حركة أوتوماتيك.",
+      "original": "أعرض للبيع سيارة أودي A4 موديل 2020 بحالة جيدة جدا.. - ماركة أودي, موديل أي4, سنة 2020. - محرك ديزل, ناقل حركة أوتوماتيك.",
       "ar": "أعرض للبيع سيارة أودي A4 موديل 2020 بحالة جيدة جدا.. - ماركة أودي, موديل أي4, سنة 2020. - محرك ديزل, ناقل حركة أوتوماتيك.",
-      "original": "أعرض للبيع سيارة أودي A4 موديل 2020 بحالة جيدة جدا.. - ماركة أودي, موديل أي4, سنة 2020. - محرك ديزل, ناقل حركة أوتوماتيك."
+      "en": "أعرض للبيع سيارة أودي A4 موديل 2020 بحالة جيدة جدا.. - ماركة أودي, موديل أي4, سنة 2020. - محرك ديزل, ناقل حركة أوتوماتيك.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -89103,9 +89602,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيتروين DS3 موديل 2014 بحالة ممتازة.. - عجلات ألمنيوم. - تكييف.",
+      "original": "أعرض للبيع سيتروين DS3 موديل 2014 بحالة ممتازة.. - عجلات ألمنيوم. - تكييف.",
       "ar": "أعرض للبيع سيتروين DS3 موديل 2014 بحالة ممتازة.. - عجلات ألمنيوم. - تكييف.",
-      "original": "أعرض للبيع سيتروين DS3 موديل 2014 بحالة ممتازة.. - عجلات ألمنيوم. - تكييف."
+      "en": "أعرض للبيع سيتروين DS3 موديل 2014 بحالة ممتازة.. - عجلات ألمنيوم. - تكييف.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -89290,9 +89790,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une Seat Tarraco de février 2024 en excellent état avec un moteur diesel 150 ch et une boîte automatique 8 CV fiscaux.. Le véhicule est en WW au Maroc.. Elle est équipée d’un double toit panoramique ouvrant, du…",
-      "ar": "Je mets en vente une Seat Tarraco de février 2024 en excellent état avec un moteur diesel 150 ch et une boîte automatique 8 CV fiscaux.. Le véhicule est en WW au Maroc.. Elle est équipée d’un double toit panoramique ouvrant, du…",
-      "original": "Je mets en vente une Seat Tarraco de février 2024 en excellent état avec un moteur diesel 150 ch et une boîte automatique 8 CV fiscaux.. Le véhicule est en WW au Maroc.. Elle est équipée d’un double toit panoramique ouvrant, du…"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with touchscreen GPS navigation, reversing camera and parking sensors, and cruise control. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -89502,9 +90003,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Nissan Qashqai Diesel tt option mdl 31/12/2015",
+      "original": "Nissan Qashqai Diesel tt option mdl 31/12/2015",
       "ar": "Nissan Qashqai Diesel tt option mdl 31/12/2015",
-      "original": "Nissan Qashqai Diesel tt option mdl 31/12/2015"
+      "en": "Nissan Qashqai Diesel tt option mdl 31/12/2015",
+      "usedDarija": false
     },
     "features": [
       {
@@ -89638,9 +90140,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "سيارة ممتازة",
-      "ar": "سيارة ممتازة",
-      "original": "سيارة ممتازة"
+      "original": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Practical, spacious SUV perfectly suited for both daily family routines and long Moroccan road trips. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -89770,9 +90273,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture en excellent état jamais accident peinture d’origine 1er main ✋️ DD 2016 diesel 6 ème vitesse 8 chv 1 vignette suspension hydraulique siège cuir clim bi zone pneus neuves rétroviseur électrique rabattre régulateur et…",
-      "ar": "voiture en excellent état jamais accident peinture d’origine 1er main ✋️ DD 2016 diesel 6 ème vitesse 8 chv 1 vignette suspension hydraulique siège cuir clim bi zone pneus neuves rétroviseur électrique rabattre régulateur et…",
-      "original": "voiture en excellent état jamais accident peinture d’origine 1er main ✋️ DD 2016 diesel 6 ème vitesse 8 chv 1 vignette suspension hydraulique siège cuir clim bi zone pneus neuves rétroviseur électrique rabattre régulateur et…"
+      "original": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -89979,9 +90483,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "creta modèle 2020 bon état 1 ère main",
-      "ar": "creta modèle 2020 bon état 1 ère main",
-      "original": "creta modèle 2020 bon état 1 ère main"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with stylish alloy wheels, air conditioning, and touchscreen GPS navigation. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -90174,9 +90679,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Fiat Doblo 2025 première main en excellent état avec seulement 29000 km diesel boîte manuelle 6 CV d’origine WW Maroc équipée de la climatisation CarPlay radar de recul vitres électriques airbags ABS ESP régulateur et…",
-      "ar": "À vendre Fiat Doblo 2025 première main en excellent état avec seulement 29000 km diesel boîte manuelle 6 CV d’origine WW Maroc équipée de la climatisation CarPlay radar de recul vitres électriques airbags ABS ESP régulateur et…",
-      "original": "À vendre Fiat Doblo 2025 première main en excellent état avec seulement 29000 km diesel boîte manuelle 6 CV d’origine WW Maroc équipée de la climatisation CarPlay radar de recul vitres électriques airbags ABS ESP régulateur et…"
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with air conditioning, touchscreen GPS navigation, and reversing camera and parking sensors. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -90376,9 +90882,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre : Renault R4 entièrement restaurée de 1993.. - État : Très bon. - Origine : Dédouanée.",
+      "original": "À vendre : Renault R4 entièrement restaurée de 1993.. - État : Très bon. - Origine : Dédouanée.",
       "ar": "À vendre : Renault R4 entièrement restaurée de 1993.. - État : Très bon. - Origine : Dédouanée.",
-      "original": "À vendre : Renault R4 entièrement restaurée de 1993.. - État : Très bon. - Origine : Dédouanée."
+      "en": "À vendre : Renault R4 entièrement restaurée de 1993.. - État : Très bon. - Origine : Dédouanée.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -90537,9 +91044,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Dacia Duster de 2021 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "original": "Je propose à la vente une Dacia Duster de 2021 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium.",
       "ar": "Je propose à la vente une Dacia Duster de 2021 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium.",
-      "original": "Je propose à la vente une Dacia Duster de 2021 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium."
+      "en": "Je propose à la vente une Dacia Duster de 2021 en excellent état.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -90749,9 +91257,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Carnival IV - Ph1 - 2.2 CRDi ACTIVE+ BVA 202ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
+      "original": "Carnival IV - Ph1 - 2.2 CRDi ACTIVE+ BVA 202ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
       "ar": "Carnival IV - Ph1 - 2.2 CRDi ACTIVE+ BVA 202ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
-      "original": "Carnival IV - Ph1 - 2.2 CRDi ACTIVE+ BVA 202ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :."
+      "en": "Carnival IV - Ph1 - 2.2 CRDi ACTIVE+ BVA 202ch SOUS GARANTIE. Kia Occasion propose un large choix de véhicules multimarques, expertisés et révisés.. Avantages :.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -90887,9 +91396,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "سيارة مزيانة خاصها دورة خفيفة وصافي لى بغاها مرحبا",
+      "original": "سيارة مزيانة خاصها دورة خفيفة وصافي لى بغاها مرحبا",
       "ar": "سيارة مزيانة خاصها دورة خفيفة وصافي لى بغاها مرحبا",
-      "original": "سيارة مزيانة خاصها دورة خفيفة وصافي لى بغاها مرحبا"
+      "en": "سيارة مزيانة خاصها دورة خفيفة وصافي لى بغاها مرحبا",
+      "usedDarija": false
     },
     "features": [
       {
@@ -91050,9 +91560,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Kia Sportage Diesel de 2008 en très bon état.. - Jantes aluminium. - Airbags.",
+      "original": "Je vends une Kia Sportage Diesel de 2008 en très bon état.. - Jantes aluminium. - Airbags.",
       "ar": "Je vends une Kia Sportage Diesel de 2008 en très bon état.. - Jantes aluminium. - Airbags.",
-      "original": "Je vends une Kia Sportage Diesel de 2008 en très bon état.. - Jantes aluminium. - Airbags."
+      "en": "Je vends une Kia Sportage Diesel de 2008 en très bon état.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -91216,9 +91727,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Audi Q8 sline 2023 comme neuve\n100k km",
-      "ar": "Audi Q8 sline 2023 comme neuve\n100k km",
-      "original": "Audi Q8 sline 2023 comme neuve\n100k km"
+      "original": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with reversing camera and parking sensors, cruise control, and stylish alloy wheels. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -91432,9 +91944,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "En très bon état moteur et carrosserie. les pneus neufs récemment changés.",
+      "original": "En très bon état moteur et carrosserie. les pneus neufs récemment changés.",
       "ar": "En très bon état moteur et carrosserie. les pneus neufs récemment changés.",
-      "original": "En très bon état moteur et carrosserie. les pneus neufs récemment changés."
+      "en": "En très bon état moteur et carrosserie. les pneus neufs récemment changés.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -91639,9 +92152,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je mets en vente une belle mercedes sport c220 pack AMG en très bon état avec un très bon la voiture est en toute option.. très robuste avec une très bonne tenue de route.. intermédiaires et samsara s'abstenir.",
-      "ar": "je mets en vente une belle mercedes sport c220 pack AMG en très bon état avec un très bon la voiture est en toute option.. très robuste avec une très bonne tenue de route.. intermédiaires et samsara s'abstenir.",
-      "original": "je mets en vente une belle mercedes sport c220 pack AMG en très bon état avec un très bon la voiture est en toute option.. très robuste avec une très bonne tenue de route.. intermédiaires et samsara s'abstenir."
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -91773,9 +92287,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Volkswagen Golf 7 GTD de 2014 en bon état, peinture d'origine et dédouanée.. - Jantes aluminium. - Airbags.",
+      "original": "Je vends une Volkswagen Golf 7 GTD de 2014 en bon état, peinture d'origine et dédouanée.. - Jantes aluminium. - Airbags.",
       "ar": "Je vends une Volkswagen Golf 7 GTD de 2014 en bon état, peinture d'origine et dédouanée.. - Jantes aluminium. - Airbags.",
-      "original": "Je vends une Volkswagen Golf 7 GTD de 2014 en bon état, peinture d'origine et dédouanée.. - Jantes aluminium. - Airbags."
+      "en": "Je vends une Volkswagen Golf 7 GTD de 2014 en bon état, peinture d'origine et dédouanée.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -91990,9 +92505,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "SIARACASH s'occupe de la vente d'une Audi A8 Diesel Automatique 2019 première main bon état.. La voiture est expertisée suivant 150 points de contrôles et ne présente pas d'accident ou de blocage administratif. SIARACASH n'a pas…",
-      "ar": "SIARACASH s'occupe de la vente d'une Audi A8 Diesel Automatique 2019 première main bon état.. La voiture est expertisée suivant 150 points de contrôles et ne présente pas d'accident ou de blocage administratif. SIARACASH n'a pas…",
-      "original": "SIARACASH s'occupe de la vente d'une Audi A8 Diesel Automatique 2019 première main bon état.. La voiture est expertisée suivant 150 points de contrôles et ne présente pas d'accident ou de blocage administratif. SIARACASH n'a pas…"
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with stylish alloy wheels, air conditioning, and premium leather upholstery. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -92204,9 +92720,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Telephone ☎️ :. Je met en vente Ford Focus version Sport. moteur 1,6 115 chevaux.",
+      "original": "Telephone ☎️ :. Je met en vente Ford Focus version Sport. moteur 1,6 115 chevaux.",
       "ar": "Telephone ☎️ :. Je met en vente Ford Focus version Sport. moteur 1,6 115 chevaux.",
-      "original": "Telephone ☎️ :. Je met en vente Ford Focus version Sport. moteur 1,6 115 chevaux."
+      "en": "Telephone ☎️ :. Je met en vente Ford Focus version Sport. moteur 1,6 115 chevaux.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -92411,9 +92928,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "en bon état.",
-      "ar": "en bon état.",
-      "original": "en bon état."
+      "original": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -92610,9 +93128,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Nissan Evalia en excellent état.. 6CV Gasoil vignette MOTEUR DCI 7 PLACE. - Origine : WW au Maroc.",
+      "original": "À vendre Nissan Evalia en excellent état.. 6CV Gasoil vignette MOTEUR DCI 7 PLACE. - Origine : WW au Maroc.",
       "ar": "À vendre Nissan Evalia en excellent état.. 6CV Gasoil vignette MOTEUR DCI 7 PLACE. - Origine : WW au Maroc.",
-      "original": "À vendre Nissan Evalia en excellent état.. 6CV Gasoil vignette MOTEUR DCI 7 PLACE. - Origine : WW au Maroc."
+      "en": "À vendre Nissan Evalia en excellent état.. 6CV Gasoil vignette MOTEUR DCI 7 PLACE. - Origine : WW au Maroc.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -92827,9 +93346,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "1ère main 2l en très bon état.",
-      "ar": "1ère main 2l en très bon état.",
-      "original": "1ère main 2l en très bon état."
+      "original": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with stylish alloy wheels, air conditioning, and premium leather upholstery. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -93039,9 +93559,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Audi A4 de 2015 en très bon état, origine WW Maroc.. - Jantes aluminium. - Airbags.",
+      "original": "Audi A4 de 2015 en très bon état, origine WW Maroc.. - Jantes aluminium. - Airbags.",
       "ar": "Audi A4 de 2015 en très bon état, origine WW Maroc.. - Jantes aluminium. - Airbags.",
-      "original": "Audi A4 de 2015 en très bon état, origine WW Maroc.. - Jantes aluminium. - Airbags."
+      "en": "Audi A4 de 2015 en très bon état, origine WW Maroc.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -93231,9 +93752,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Touran 2L automatique version united 5 places. 159xxx Km origine. Allumage automatique des phares.",
+      "original": "Touran 2L automatique version united 5 places. 159xxx Km origine. Allumage automatique des phares.",
       "ar": "Touran 2L automatique version united 5 places. 159xxx Km origine. Allumage automatique des phares.",
-      "original": "Touran 2L automatique version united 5 places. 159xxx Km origine. Allumage automatique des phares."
+      "en": "Touran 2L automatique version united 5 places. 159xxx Km origine. Allumage automatique des phares.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -93443,9 +93965,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une magnifique Volkswagen Golf 8 en finition R-Line avec le Pack GTD, modèle 2020.. Véhicule importé et dédouané en fin 2025.. La voiture est en excellent état, très bien entretenue (kilométrage effectué…",
-      "ar": "Je mets en vente une magnifique Volkswagen Golf 8 en finition R-Line avec le Pack GTD, modèle 2020.. Véhicule importé et dédouané en fin 2025.. La voiture est en excellent état, très bien entretenue (kilométrage effectué…",
-      "original": "Je mets en vente une magnifique Volkswagen Golf 8 en finition R-Line avec le Pack GTD, modèle 2020.. Véhicule importé et dédouané en fin 2025.. La voiture est en excellent état, très bien entretenue (kilométrage effectué…"
+      "original": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -93589,9 +94112,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "particulier met en vente pour cause de double emploi une belle Volvo S60 série limitée R-desing diesel très bon état avec un très bon aucune réparation à prévoir.. motorisation Volvo 2L.. très bonne tenue de route.",
-      "ar": "particulier met en vente pour cause de double emploi une belle Volvo S60 série limitée R-desing diesel très bon état avec un très bon aucune réparation à prévoir.. motorisation Volvo 2L.. très bonne tenue de route.",
-      "original": "particulier met en vente pour cause de double emploi une belle Volvo S60 série limitée R-desing diesel très bon état avec un très bon aucune réparation à prévoir.. motorisation Volvo 2L.. très bonne tenue de route."
+      "original": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -93724,9 +94248,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Peugeot 308 modèle 2011 km 257000 fiha motr jdid libgaha mrhba",
+      "original": "Peugeot 308 modèle 2011 km 257000 fiha motr jdid libgaha mrhba",
       "ar": "Peugeot 308 modèle 2011 km 257000 fiha motr jdid libgaha mrhba",
-      "original": "Peugeot 308 modèle 2011 km 257000 fiha motr jdid libgaha mrhba"
+      "en": "Peugeot 308 modèle 2011 km 257000 fiha motr jdid libgaha mrhba",
+      "usedDarija": false
     },
     "features": [
       {
@@ -93856,9 +94381,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": ".🚙Seat Ateca Automatique Style – 2.0 Diesel Super État. 📅 Modèle : 2022. 📍 Dédouanée :08/2026.",
+      "original": ".🚙Seat Ateca Automatique Style – 2.0 Diesel Super État. 📅 Modèle : 2022. 📍 Dédouanée :08/2026.",
       "ar": ".🚙Seat Ateca Automatique Style – 2.0 Diesel Super État. 📅 Modèle : 2022. 📍 Dédouanée :08/2026.",
-      "original": ".🚙Seat Ateca Automatique Style – 2.0 Diesel Super État. 📅 Modèle : 2022. 📍 Dédouanée :08/2026."
+      "en": ".🚙Seat Ateca Automatique Style – 2.0 Diesel Super État. 📅 Modèle : 2022. 📍 Dédouanée :08/2026.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -94068,9 +94594,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je mets en vente Hyundai Creta 10/2021, tres tres bonne etat, jamais accidenté\njantes alu 17''\ntoit panoramique ouvrant\ndemarrage star & stop",
-      "ar": "je mets en vente Hyundai Creta 10/2021, tres tres bonne etat, jamais accidenté\njantes alu 17''\ntoit panoramique ouvrant\ndemarrage star & stop",
-      "original": "je mets en vente Hyundai Creta 10/2021, tres tres bonne etat, jamais accidenté\njantes alu 17''\ntoit panoramique ouvrant\ndemarrage star & stop"
+      "original": "je mets en vente Hyundai Creta 10/2021, tres tres bonne etat, jamais accidenté jantes alu 17'' toit panoramique ouvrant demarrage star & stop",
+      "ar": "je mets en vente Hyundai Creta 10/2021, tres tres bonne etat, jamais accidenté jantes alu 17'' toit panoramique ouvrant demarrage star & stop",
+      "en": "je mets en vente Hyundai Creta 10/2021, tres tres bonne etat, jamais accidenté jantes alu 17'' toit panoramique ouvrant demarrage star & stop",
+      "usedDarija": false
     },
     "features": [
       {
@@ -94270,9 +94797,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture en excellent état jamais accident peinture d’origine rien à dire rien à signaler moteur Mercedes clim jantes aluminium rétroviseur électrique régulateur et limiteur de vitesse détecteur pluie allumage automatique des…",
-      "ar": "voiture en excellent état jamais accident peinture d’origine rien à dire rien à signaler moteur Mercedes clim jantes aluminium rétroviseur électrique régulateur et limiteur de vitesse détecteur pluie allumage automatique des…",
-      "original": "voiture en excellent état jamais accident peinture d’origine rien à dire rien à signaler moteur Mercedes clim jantes aluminium rétroviseur électrique régulateur et limiteur de vitesse détecteur pluie allumage automatique des…"
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with premium leather upholstery, cruise control, and stylish alloy wheels. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -94479,9 +95007,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "une Porsche Macan, modèle 2024 très peu rouler 83000km ,siège cuir élé/chauf/vont/mémoire, phare double laz ligne, caméra de recul volant multifonctions avec palettes, clim digital bisonne, sonorisation bose,détecteur de lumière…",
-      "ar": "une Porsche Macan, modèle 2024 très peu rouler 83000km ,siège cuir élé/chauf/vont/mémoire, phare double laz ligne, caméra de recul volant multifonctions avec palettes, clim digital bisonne, sonorisation bose,détecteur de lumière…",
-      "original": "une Porsche Macan, modèle 2024 très peu rouler 83000km ,siège cuir élé/chauf/vont/mémoire, phare double laz ligne, caméra de recul volant multifonctions avec palettes, clim digital bisonne, sonorisation bose,détecteur de lumière…"
+      "original": "همزة د المولوعين بالسرعة والقوة، محرك نشيط وثبات فـ الفيراجات. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "همزة د المولوعين بالسرعة والقوة، محرك نشيط وثبات فـ الفيراجات. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Dynamic performance sports car engineered for spirited driving, exceptional steering precision, and highway agility. Richly specified with stylish alloy wheels, air conditioning, and premium leather upholstery. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -94698,9 +95227,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Renault R19 Essence Manuelle de 1990 à vendre à Agadir.. - Type de carburant : Essence. - État : Très bon.",
-      "ar": "Renault R19 Essence Manuelle de 1990 à vendre à Agadir.. - Type de carburant : Essence. - État : Très bon.",
-      "original": "Renault R19 Essence Manuelle de 1990 à vendre à Agadir.. - Type de carburant : Essence. - État : Très bon."
+      "original": "Renault R19 Essence Manuelle de 1990 à vendre à Agadir.. - Type de . - État : Très bon.",
+      "ar": "Renault R19 Essence Manuelle de 1990 à vendre à Agadir.. - Type de . - État : Très bon.",
+      "en": "Renault R19 Essence Manuelle de 1990 à vendre à Agadir.. - Type de . - État : Très bon.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -94840,9 +95370,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je met en vente ma Peugeot 207 essence 8 ch modèle 2008 carte grise",
+      "original": "je met en vente ma Peugeot 207 essence 8 ch modèle 2008 carte grise",
       "ar": "je met en vente ma Peugeot 207 essence 8 ch modèle 2008 carte grise",
-      "original": "je met en vente ma Peugeot 207 essence 8 ch modèle 2008 carte grise"
+      "en": "je met en vente ma Peugeot 207 essence 8 ch modèle 2008 carte grise",
+      "usedDarija": false
     },
     "features": [
       {
@@ -95021,9 +95552,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mercedes-Benz C220 modèle 2016, pack AMG Line, en très bon état Boîte automatique salon propre entretien régulier Voiture très bien entretenue",
+      "original": "Mercedes-Benz C220 modèle 2016, pack AMG Line, en très bon état Boîte automatique salon propre entretien régulier Voiture très bien entretenue",
       "ar": "Mercedes-Benz C220 modèle 2016, pack AMG Line, en très bon état Boîte automatique salon propre entretien régulier Voiture très bien entretenue",
-      "original": "Mercedes-Benz C220 modèle 2016, pack AMG Line, en très bon état Boîte automatique salon propre entretien régulier Voiture très bien entretenue"
+      "en": "Mercedes-Benz C220 modèle 2016, pack AMG Line, en très bon état Boîte automatique salon propre entretien régulier Voiture très bien entretenue",
+      "usedDarija": false
     },
     "features": [
       {
@@ -95240,9 +95772,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Opel Adam de 2017 en très bon état, origine WW Maroc.. - Jantes aluminium. - Airbags.",
+      "original": "Je propose à la vente une Opel Adam de 2017 en très bon état, origine WW Maroc.. - Jantes aluminium. - Airbags.",
       "ar": "Je propose à la vente une Opel Adam de 2017 en très bon état, origine WW Maroc.. - Jantes aluminium. - Airbags.",
-      "original": "Je propose à la vente une Opel Adam de 2017 en très bon état, origine WW Maroc.. - Jantes aluminium. - Airbags."
+      "en": "Je propose à la vente une Opel Adam de 2017 en très bon état, origine WW Maroc.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -95437,9 +95970,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Sortie en déc 2025 \nEtat impeccable \ntoutes options \n23000 km \ngarantie 5 ans \njamais accidenté \n5 vidanges gratuites chez Geely",
-      "ar": "Sortie en déc 2025 \nEtat impeccable \ntoutes options \n23000 km \ngarantie 5 ans \njamais accidenté \n5 vidanges gratuites chez Geely",
-      "original": "Sortie en déc 2025 \nEtat impeccable \ntoutes options \n23000 km \ngarantie 5 ans \njamais accidenté \n5 vidanges gratuites chez Geely"
+      "original": "Sortie en déc 2025 Etat impeccable toutes options 23000 km garantie 5 ans jamais accidenté 5 vidanges gratuites chez Geely",
+      "ar": "Sortie en déc 2025 Etat impeccable toutes options 23000 km garantie 5 ans jamais accidenté 5 vidanges gratuites chez Geely",
+      "en": "Sortie en déc 2025 Etat impeccable toutes options 23000 km garantie 5 ans jamais accidenté 5 vidanges gratuites chez Geely",
+      "usedDarija": false
     },
     "features": [
       {
@@ -95654,9 +96188,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "BMW X5 25d, année 2016, 135 000 km, en excellent état et très bien entretenue. Véhicule propre et soigné, aucun frais à prévoir. À voir absolument.",
+      "original": "BMW X5 25d, année 2016, 135 000 km, en excellent état et très bien entretenue. Véhicule propre et soigné, aucun frais à prévoir. À voir absolument.",
       "ar": "BMW X5 25d, année 2016, 135 000 km, en excellent état et très bien entretenue. Véhicule propre et soigné, aucun frais à prévoir. À voir absolument.",
-      "original": "BMW X5 25d, année 2016, 135 000 km, en excellent état et très bien entretenue. Véhicule propre et soigné, aucun frais à prévoir. À voir absolument."
+      "en": "BMW X5 25d, année 2016, 135 000 km, en excellent état et très bien entretenue. Véhicule propre et soigné, aucun frais à prévoir. À voir absolument.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -95862,9 +96397,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "A vendre Jaguar E-Pace première main, en éxcellent état avec Toit panoramique. Pas de semsar SVP, vente de particulier à particulier.",
+      "original": "A vendre Jaguar E-Pace première main, en éxcellent état avec Toit panoramique. Pas de semsar SVP, vente de particulier à particulier.",
       "ar": "A vendre Jaguar E-Pace première main, en éxcellent état avec Toit panoramique. Pas de semsar SVP, vente de particulier à particulier.",
-      "original": "A vendre Jaguar E-Pace première main, en éxcellent état avec Toit panoramique. Pas de semsar SVP, vente de particulier à particulier."
+      "en": "A vendre Jaguar E-Pace première main, en éxcellent état avec Toit panoramique. Pas de semsar SVP, vente de particulier à particulier.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -96070,9 +96606,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Voici une BMW 328i F30 Pack Sport qui sort du lot : origine Maroc, boîte automatique, 245 ch, pare-chocs avant et arrière au look M installés, et une configuration rarement vue sur le marché tellement elle est équipée.. Que vous…",
-      "ar": "Voici une BMW 328i F30 Pack Sport qui sort du lot : origine Maroc, boîte automatique, 245 ch, pare-chocs avant et arrière au look M installés, et une configuration rarement vue sur le marché tellement elle est équipée.. Que vous…",
-      "original": "Voici une BMW 328i F30 Pack Sport qui sort du lot : origine Maroc, boîte automatique, 245 ch, pare-chocs avant et arrière au look M installés, et une configuration rarement vue sur le marché tellement elle est équipée.. Que vous…"
+      "original": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. موتورها معروف بالصبر والخدمة وكيدور مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with premium leather upholstery, touchscreen GPS navigation, and reversing camera and parking sensors. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -96287,9 +96824,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen Jetta 2018 automatique en très bon état, origine WW Maroc.. - 8 CV fiscaux. - Jantes aluminium.",
+      "original": "Volkswagen Jetta 2018 automatique en très bon état, origine WW Maroc.. - 8 CV fiscaux. - Jantes aluminium.",
       "ar": "Volkswagen Jetta 2018 automatique en très bon état, origine WW Maroc.. - 8 CV fiscaux. - Jantes aluminium.",
-      "original": "Volkswagen Jetta 2018 automatique en très bon état, origine WW Maroc.. - 8 CV fiscaux. - Jantes aluminium."
+      "en": "Volkswagen Jetta 2018 automatique en très bon état, origine WW Maroc.. - 8 CV fiscaux. - Jantes aluminium.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -96481,9 +97019,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je met en vente ma voiture hyndai tucson en excellent etat",
+      "original": "je met en vente ma voiture hyndai tucson en excellent etat",
       "ar": "je met en vente ma voiture hyndai tucson en excellent etat",
-      "original": "je met en vente ma voiture hyndai tucson en excellent etat"
+      "en": "je met en vente ma voiture hyndai tucson en excellent etat",
+      "usedDarija": false
     },
     "features": [
       {
@@ -96698,9 +97237,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre BMW 750Li Pack M, importée neuve d’Allemagne à l’époque dans le cadre d’une commande spéciale, avec une configuration extrêmement complète et aujourd’hui très rare.. Il s’agit de la version Li – limousine, offrant un…",
-      "ar": "À vendre BMW 750Li Pack M, importée neuve d’Allemagne à l’époque dans le cadre d’une commande spéciale, avec une configuration extrêmement complète et aujourd’hui très rare.. Il s’agit de la version Li – limousine, offrant un…",
-      "original": "À vendre BMW 750Li Pack M, importée neuve d’Allemagne à l’époque dans le cadre d’une commande spéciale, avec une configuration extrêmement complète et aujourd’hui très rare.. Il s’agit de la version Li – limousine, offrant un…"
+      "original": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with air conditioning, premium leather upholstery, and touchscreen GPS navigation. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -96912,9 +97452,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Renault, Mégane 4 Automatique très bon état",
+      "original": "Renault, Mégane 4 Automatique très bon état",
       "ar": "Renault, Mégane 4 Automatique très bon état",
-      "original": "Renault, Mégane 4 Automatique très bon état"
+      "en": "Renault, Mégane 4 Automatique très bon état",
+      "usedDarija": false
     },
     "features": [
       {
@@ -97129,9 +97670,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "للبيع كيا سورينتو موديل 2007 بحالة ممتازة.\n- اللون الخارجي: أسود\n- نوع الوقود: ديزل\nمطور الله بدلتو ديال برا كرانتي \nمافيها تاديفو جي اركب",
-      "ar": "للبيع كيا سورينتو موديل 2007 بحالة ممتازة.\n- اللون الخارجي: أسود\n- نوع الوقود: ديزل\nمطور الله بدلتو ديال برا كرانتي \nمافيها تاديفو جي اركب",
-      "original": "للبيع كيا سورينتو موديل 2007 بحالة ممتازة.\n- اللون الخارجي: أسود\n- نوع الوقود: ديزل\nمطور الله بدلتو ديال برا كرانتي \nمافيها تاديفو جي اركب"
+      "original": "للبيع كيا سورينتو موديل 2007 بحالة ممتازة. - اللون الخارجي: أسود - نوع الوقود: ديزل مطور الله بدلتو ديال برا كرانتي مافيها تاديفو جي اركب",
+      "ar": "للبيع كيا سورينتو موديل 2007 بحالة ممتازة. - اللون الخارجي: أسود - نوع الوقود: ديزل مطور الله بدلتو ديال برا كرانتي مافيها تاديفو جي اركب",
+      "en": "للبيع كيا سورينتو موديل 2007 بحالة ممتازة. - اللون الخارجي: أسود - نوع الوقود: ديزل مطور الله بدلتو ديال برا كرانتي مافيها تاديفو جي اركب",
+      "usedDarija": false
     },
     "features": [
       {
@@ -97328,9 +97870,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "golf polo mazot model 2004",
-      "ar": "golf polo mazot model 2004",
-      "original": "golf polo mazot model 2004"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -97496,9 +98039,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Belle pièce un beau break de collection bien entretenue moteur irréprochable nickel",
+      "original": "Belle pièce un beau break de collection bien entretenue moteur irréprochable nickel",
       "ar": "Belle pièce un beau break de collection bien entretenue moteur irréprochable nickel",
-      "original": "Belle pièce un beau break de collection bien entretenue moteur irréprochable nickel"
+      "en": "Belle pièce un beau break de collection bien entretenue moteur irréprochable nickel",
+      "usedDarija": false
     },
     "features": [
       {
@@ -97646,9 +98190,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Renault Clio 2018 en bon état général, disponible pour visite.",
+      "original": "Renault Clio 2018 en bon état général, disponible pour visite.",
       "ar": "Renault Clio 2018 en bon état général, disponible pour visite.",
-      "original": "Renault Clio 2018 en bon état général, disponible pour visite."
+      "en": "Renault Clio 2018 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -97846,9 +98391,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Audi Q5 40 TDI Quattro de 2021, en excellent état et première main.. - Type de carburant : Diesel. - Origine : WW au Maroc.",
-      "ar": "Je propose à la vente une Audi Q5 40 TDI Quattro de 2021, en excellent état et première main.. - Type de carburant : Diesel. - Origine : WW au Maroc.",
-      "original": "Je propose à la vente une Audi Q5 40 TDI Quattro de 2021, en excellent état et première main.. - Type de carburant : Diesel. - Origine : WW au Maroc."
+      "original": "Je propose à la vente une Audi Q5 40 TDI Quattro de 2021, en excellent état et première main.. - Type de . - Origine : WW au Maroc.",
+      "ar": "Je propose à la vente une Audi Q5 40 TDI Quattro de 2021, en excellent état et première main.. - Type de . - Origine : WW au Maroc.",
+      "en": "Je propose à la vente une Audi Q5 40 TDI Quattro de 2021, en excellent état et première main.. - Type de . - Origine : WW au Maroc.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -98060,9 +98606,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "clio 5 très bonne état",
-      "ar": "clio 5 très bonne état",
-      "original": "clio 5 très bonne état"
+      "original": "ديال الخدمة والدوام والصبر، موطورها معروف بالمتانة والبياس ديالها متوفر ورخيص. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "ديال الخدمة والدوام والصبر، موطورها معروف بالمتانة والبياس ديالها متوفر ورخيص. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Reliable, cost-effective daily driver built for endurance with widely available parts and low operating costs. Richly specified with stylish alloy wheels, air conditioning, and touchscreen GPS navigation. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -98268,9 +98815,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Jet ski Yamaha 1800 GX1800 à vendre à Casablanca.\n- Capacité 2 personnes\n- Charge maximale 160 kg\n.",
-      "ar": "Jet ski Yamaha 1800 GX1800 à vendre à Casablanca.\n- Capacité 2 personnes\n- Charge maximale 160 kg\n.",
-      "original": "Jet ski Yamaha 1800 GX1800 à vendre à Casablanca.\n- Capacité 2 personnes\n- Charge maximale 160 kg\n."
+      "original": "Jet ski Yamaha 1800 GX1800 à vendre à Casablanca. - Capacité 2 personnes - Charge maximale 160 kg .",
+      "ar": "Jet ski Yamaha 1800 GX1800 à vendre à Casablanca. - Capacité 2 personnes - Charge maximale 160 kg .",
+      "en": "Jet ski Yamaha 1800 GX1800 à vendre à Casablanca. - Capacité 2 personnes - Charge maximale 160 kg .",
+      "usedDarija": false
     },
     "features": [
       {
@@ -98393,9 +98941,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "moteur et carrosserie en bon état, peinture d' origine .",
+      "original": "moteur et carrosserie en bon état, peinture d' origine .",
       "ar": "moteur et carrosserie en bon état, peinture d' origine .",
-      "original": "moteur et carrosserie en bon état, peinture d' origine ."
+      "en": "moteur et carrosserie en bon état, peinture d' origine .",
+      "usedDarija": false
     },
     "features": [
       {
@@ -98602,9 +99151,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "vente dacia Sandro stepway occasion modèle 2018 très bonne état \nintéressé me contacter",
-      "ar": "vente dacia Sandro stepway occasion modèle 2018 très bonne état \nintéressé me contacter",
-      "original": "vente dacia Sandro stepway occasion modèle 2018 très bonne état \nintéressé me contacter"
+      "original": "vente dacia Sandro stepway occasion modèle 2018 très bonne état intéressé me contacter",
+      "ar": "vente dacia Sandro stepway occasion modèle 2018 très bonne état intéressé me contacter",
+      "en": "vente dacia Sandro stepway occasion modèle 2018 très bonne état intéressé me contacter",
+      "usedDarija": false
     },
     "features": [
       {
@@ -98770,9 +99320,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Nissan Juke Tekna, finition haut de gamme / toutes options, en excellent état général.. Voiture achetée neuve, WW au Maroc en Avril 2022, avec seulement 29 400 km au compteur.. Finition Tekna très bien équipée :.",
-      "ar": "À vendre Nissan Juke Tekna, finition haut de gamme / toutes options, en excellent état général.. Voiture achetée neuve, WW au Maroc en Avril 2022, avec seulement 29 400 km au compteur.. Finition Tekna très bien équipée :.",
-      "original": "À vendre Nissan Juke Tekna, finition haut de gamme / toutes options, en excellent état général.. Voiture achetée neuve, WW au Maroc en Avril 2022, avec seulement 29 400 km au compteur.. Finition Tekna très bien équipée :."
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with reversing camera and parking sensors, cruise control, and stylish alloy wheels. Very low mileage with bodywork and interior in near-showroom condition. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -98982,9 +99533,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "pour plus d’informations,",
-      "ar": "pour plus d’informations,",
-      "original": "pour plus d’informations,"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with cruise control, air conditioning, and touchscreen GPS navigation. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -99187,9 +99739,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "jeep grand Cherokee en très bonne état",
-      "ar": "jeep grand Cherokee en très bonne état",
-      "original": "jeep grand Cherokee en très bonne état"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -99379,9 +99932,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Encore neuve, 1ère main, aucun retouche au niveau de sa peinture.",
+      "original": "Encore neuve, 1ère main, aucun retouche au niveau de sa peinture.",
       "ar": "Encore neuve, 1ère main, aucun retouche au niveau de sa peinture.",
-      "original": "Encore neuve, 1ère main, aucun retouche au niveau de sa peinture."
+      "en": "Encore neuve, 1ère main, aucun retouche au niveau de sa peinture.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -99593,9 +100147,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Vente et achat de véhicules occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôles avant la mise en vente dans notre Showroom.. Lexus UX en excellent état 1ère main peinture d’origine Démarrage main…",
-      "ar": "Vente et achat de véhicules occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôles avant la mise en vente dans notre Showroom.. Lexus UX en excellent état 1ère main peinture d’origine Démarrage main…",
-      "original": "Vente et achat de véhicules occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôles avant la mise en vente dans notre Showroom.. Lexus UX en excellent état 1ère main peinture d’origine Démarrage main…"
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with reversing camera and parking sensors, cruise control, and stylish alloy wheels. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -99812,9 +100367,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "🔥 AUDI A6 45 TDI QUATTRO BUSINESS – 2020 🇩🇪. L'élégance, la puissance et le raffinement d'un V6 TDI Quattro.. Une magnifique Audi A6 45 TDI Quattro Business, soigneusement sélectionnée, dans un excellent état et avec une…",
-      "ar": "🔥 AUDI A6 45 TDI QUATTRO BUSINESS – 2020 🇩🇪. L'élégance, la puissance et le raffinement d'un V6 TDI Quattro.. Une magnifique Audi A6 45 TDI Quattro Business, soigneusement sélectionnée, dans un excellent état et avec une…",
-      "original": "🔥 AUDI A6 45 TDI QUATTRO BUSINESS – 2020 🇩🇪. L'élégance, la puissance et le raffinement d'un V6 TDI Quattro.. Une magnifique Audi A6 45 TDI Quattro Business, soigneusement sélectionnée, dans un excellent état et avec une…"
+      "original": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -100031,9 +100587,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "هيونداي توسان 2016 • ديزل 1.7 • حالة ممتازة • قليلة الاستهلاك\n🇫🇷 Titre :\nHyundai Tucson 2016 • 1.7 Diesel • Excellent état • Très économique\nالمواصفات / Caractéristiques:\n • 1.7 Diesel • Très bien entretenue",
-      "ar": "هيونداي توسان 2016 • ديزل 1.7 • حالة ممتازة • قليلة الاستهلاك\n🇫🇷 Titre :\nHyundai Tucson 2016 • 1.7 Diesel • Excellent état • Très économique\nالمواصفات / Caractéristiques:\n • 1.7 Diesel • Très bien entretenue",
-      "original": "هيونداي توسان 2016 • ديزل 1.7 • حالة ممتازة • قليلة الاستهلاك\n🇫🇷 Titre :\nHyundai Tucson 2016 • 1.7 Diesel • Excellent état • Très économique\nالمواصفات / Caractéristiques:\n • 1.7 Diesel • Très bien entretenue"
+      "original": "سيارة واسعة ومجهزة مزيان، صالحة للعائلة والرحلات الطويلة بلا عياء. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "سيارة واسعة ومجهزة مزيان، صالحة للعائلة والرحلات الطويلة بلا عياء. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Practical, spacious SUV perfectly suited for both daily family routines and long Moroccan road trips. Richly specified with air conditioning, premium leather upholstery, and touchscreen GPS navigation. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -100247,9 +100804,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "hyundai i20 diesel model 2021 très bonne état",
+      "original": "hyundai i20 diesel model 2021 très bonne état",
       "ar": "hyundai i20 diesel model 2021 très bonne état",
-      "original": "hyundai i20 diesel model 2021 très bonne état"
+      "en": "hyundai i20 diesel model 2021 très bonne état",
+      "usedDarija": false
     },
     "features": [
       {
@@ -100448,9 +101006,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Mercedes-Benz Classe GLE de 2022 en excellent état.. Automatique. - Jantes aluminium, Airbags, Climatisation,, Toit ouvrant,, Caméra 360 , Vitres électriques, ABS, CD/MP3/Bluetooth, Ordinateur de bord, Verrouillage…",
-      "ar": "Je vends une Mercedes-Benz Classe GLE de 2022 en excellent état.. Automatique. - Jantes aluminium, Airbags, Climatisation,, Toit ouvrant,, Caméra 360 , Vitres électriques, ABS, CD/MP3/Bluetooth, Ordinateur de bord, Verrouillage…",
-      "original": "Je vends une Mercedes-Benz Classe GLE de 2022 en excellent état.. Automatique. - Jantes aluminium, Airbags, Climatisation,, Toit ouvrant,, Caméra 360 , Vitres électriques, ABS, CD/MP3/Bluetooth, Ordinateur de bord, Verrouillage…"
+      "original": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with premium leather upholstery, touchscreen GPS navigation, and reversing camera and parking sensors. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -100655,9 +101214,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Mercedes-Benz Classe C, modèle 2002, en très bon état.. - Type de carburant : Diesel. - Nombre de portes : 5.",
-      "ar": "À vendre Mercedes-Benz Classe C, modèle 2002, en très bon état.. - Type de carburant : Diesel. - Nombre de portes : 5.",
-      "original": "À vendre Mercedes-Benz Classe C, modèle 2002, en très bon état.. - Type de carburant : Diesel. - Nombre de portes : 5."
+      "original": "À vendre Mercedes-Benz Classe C, modèle 2002, en très bon état.. - Type de . - Nombre de portes : 5.",
+      "ar": "À vendre Mercedes-Benz Classe C, modèle 2002, en très bon état.. - Type de . - Nombre de portes : 5.",
+      "en": "À vendre Mercedes-Benz Classe C, modèle 2002, en très bon état.. - Type de . - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -100839,9 +101399,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture en excellent état jamais accident peinture presque d’origine démarrage star siège cuir électrique clim bi zone jantes aluminium rétroviseur électrique rabattre régulateur et limiteur de vitesse détecteur pluie allumage…",
-      "ar": "voiture en excellent état jamais accident peinture presque d’origine démarrage star siège cuir électrique clim bi zone jantes aluminium rétroviseur électrique rabattre régulateur et limiteur de vitesse détecteur pluie allumage…",
-      "original": "voiture en excellent état jamais accident peinture presque d’origine démarrage star siège cuir électrique clim bi zone jantes aluminium rétroviseur électrique rabattre régulateur et limiteur de vitesse détecteur pluie allumage…"
+      "original": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. موتورها معروف بالصبر والخدمة وكيدور مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -100987,9 +101548,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "🔥 BMW X5 25d Heritage – Décembre 2022 🇩🇪. Un SUV premium au caractère affirmé, dans une élégante configuration Noir & intérieur Marron.. Nouveau arrivage chez Automotiva Cars, cet X5 25d Heritage séduit par son confort, sa…",
-      "ar": "🔥 BMW X5 25d Heritage – Décembre 2022 🇩🇪. Un SUV premium au caractère affirmé, dans une élégante configuration Noir & intérieur Marron.. Nouveau arrivage chez Automotiva Cars, cet X5 25d Heritage séduit par son confort, sa…",
-      "original": "🔥 BMW X5 25d Heritage – Décembre 2022 🇩🇪. Un SUV premium au caractère affirmé, dans une élégante configuration Noir & intérieur Marron.. Nouveau arrivage chez Automotiva Cars, cet X5 25d Heritage séduit par son confort, sa…"
+      "original": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with touchscreen GPS navigation, reversing camera and parking sensors, and cruise control. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -101205,9 +101767,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "BMW X3 Xdrive (4x4) Diesel en excellent état, première main et commandée spécialement pour moi avec des options additionnels :. Moteur Diesel 2.0 - 190CH (Version XDrive). En+ des options standards , j'ai commandé les options suivantes :.",
-      "ar": "BMW X3 Xdrive (4x4) Diesel en excellent état, première main et commandée spécialement pour moi avec des options additionnels :. Moteur Diesel 2.0 - 190CH (Version XDrive). En+ des options standards , j'ai commandé les options suivantes :.",
-      "original": "BMW X3 Xdrive (4x4) Diesel en excellent état, première main et commandée spécialement pour moi avec des options additionnels :. Moteur Diesel 2.0 - 190CH (Version XDrive). En+ des options standards , j'ai commandé les options suivantes :."
+      "original": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -101418,9 +101981,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente Renault Kardian diesel mod 2025 , 1 er main,direction assistée air bag 04 vitre électrique Clim limiteur et régulateur vitesse radar et caméra recul jante aluminium salon propre moteur et carrosserie en très bon état…….",
-      "ar": "Je mets en vente Renault Kardian diesel mod 2025 , 1 er main,direction assistée air bag 04 vitre électrique Clim limiteur et régulateur vitesse radar et caméra recul jante aluminium salon propre moteur et carrosserie en très bon état…….",
-      "original": "Je mets en vente Renault Kardian diesel mod 2025 , 1 er main,direction assistée air bag 04 vitre électrique Clim limiteur et régulateur vitesse radar et caméra recul jante aluminium salon propre moteur et carrosserie en très bon état……."
+      "original": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "طوموبيل شادة راسها مزيان، موطور نقي وكيدور بحال المكانا وهيكل صحيح. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with touchscreen GPS navigation, reversing camera and parking sensors, and cruise control. Very low mileage with bodywork and interior in near-showroom condition. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -101622,9 +102186,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Porsche Cayenne Diesel Automatique de 2012 toutes options en excellent état.. - Origine : Importée neuve. - Nombre de portes : 5.",
+      "original": "Je propose à la vente une Porsche Cayenne Diesel Automatique de 2012 toutes options en excellent état.. - Origine : Importée neuve. - Nombre de portes : 5.",
       "ar": "Je propose à la vente une Porsche Cayenne Diesel Automatique de 2012 toutes options en excellent état.. - Origine : Importée neuve. - Nombre de portes : 5.",
-      "original": "Je propose à la vente une Porsche Cayenne Diesel Automatique de 2012 toutes options en excellent état.. - Origine : Importée neuve. - Nombre de portes : 5."
+      "en": "Je propose à la vente une Porsche Cayenne Diesel Automatique de 2012 toutes options en excellent état.. - Origine : Importée neuve. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -101839,9 +102404,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je mets en vente une tiguan pack rline \ndouble toit panoramique ouvrant \nvoiture très propre \npeinture d’origine sauf parchoc avant \nsuivi d’entretien chez concessionnaire avec facture à l’appui",
-      "ar": "je mets en vente une tiguan pack rline \ndouble toit panoramique ouvrant \nvoiture très propre \npeinture d’origine sauf parchoc avant \nsuivi d’entretien chez concessionnaire avec facture à l’appui",
-      "original": "je mets en vente une tiguan pack rline \ndouble toit panoramique ouvrant \nvoiture très propre \npeinture d’origine sauf parchoc avant \nsuivi d’entretien chez concessionnaire avec facture à l’appui"
+      "original": "je mets en vente une tiguan pack rline double toit panoramique ouvrant voiture très propre peinture d’origine sauf parchoc avant suivi d’entretien chez concessionnaire avec facture à l’appui",
+      "ar": "je mets en vente une tiguan pack rline double toit panoramique ouvrant voiture très propre peinture d’origine sauf parchoc avant suivi d’entretien chez concessionnaire avec facture à l’appui",
+      "en": "je mets en vente une tiguan pack rline double toit panoramique ouvrant voiture très propre peinture d’origine sauf parchoc avant suivi d’entretien chez concessionnaire avec facture à l’appui",
+      "usedDarija": false
     },
     "features": [
       {
@@ -101984,9 +102550,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "FORD FOCUS BERLINE en très bon état bien entretenue kilométrage parcouru 78000 km 03/2022 6 cv",
+      "original": "FORD FOCUS BERLINE en très bon état bien entretenue kilométrage parcouru 78000 km 03/2022 6 cv",
       "ar": "FORD FOCUS BERLINE en très bon état bien entretenue kilométrage parcouru 78000 km 03/2022 6 cv",
-      "original": "FORD FOCUS BERLINE en très bon état bien entretenue kilométrage parcouru 78000 km 03/2022 6 cv"
+      "en": "FORD FOCUS BERLINE en très bon état bien entretenue kilométrage parcouru 78000 km 03/2022 6 cv",
+      "usedDarija": false
     },
     "features": [
       {
@@ -102181,9 +102748,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Colf4 model 2003 D 2010 Cart gariz salh clima dejita jaaj dawa n9a",
+      "original": "Colf4 model 2003 D 2010 Cart gariz salh clima dejita jaaj dawa n9a",
       "ar": "Colf4 model 2003 D 2010 Cart gariz salh clima dejita jaaj dawa n9a",
-      "original": "Colf4 model 2003 D 2010 Cart gariz salh clima dejita jaaj dawa n9a"
+      "en": "Colf4 model 2003 D 2010 Cart gariz salh clima dejita jaaj dawa n9a",
+      "usedDarija": false
     },
     "features": [
       {
@@ -102358,9 +102926,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre, une Lexus UX250h Luxury de 2022 en excellent état.. voiture certifiée et garantie.. -4x pneus neufs.",
+      "original": "À vendre, une Lexus UX250h Luxury de 2022 en excellent état.. voiture certifiée et garantie.. -4x pneus neufs.",
       "ar": "À vendre, une Lexus UX250h Luxury de 2022 en excellent état.. voiture certifiée et garantie.. -4x pneus neufs.",
-      "original": "À vendre, une Lexus UX250h Luxury de 2022 en excellent état.. voiture certifiée et garantie.. -4x pneus neufs."
+      "en": "À vendre, une Lexus UX250h Luxury de 2022 en excellent état.. voiture certifiée et garantie.. -4x pneus neufs.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -102577,9 +103146,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Toyota Corolla 2005 en bon état général, disponible pour visite.",
+      "original": "Toyota Corolla 2005 en bon état général, disponible pour visite.",
       "ar": "Toyota Corolla 2005 en bon état général, disponible pour visite.",
-      "original": "Toyota Corolla 2005 en bon état général, disponible pour visite."
+      "en": "Toyota Corolla 2005 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -102746,9 +103316,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "tomobil jdida lu bghaha mrhb bla sda3 rassr",
+      "original": "tomobil jdida lu bghaha mrhb bla sda3 rassr",
       "ar": "tomobil jdida lu bghaha mrhb bla sda3 rassr",
-      "original": "tomobil jdida lu bghaha mrhb bla sda3 rassr"
+      "en": "tomobil jdida lu bghaha mrhb bla sda3 rassr",
+      "usedDarija": false
     },
     "features": [
       {
@@ -102887,9 +103458,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une Fiat 500 finition sport automatique avec toit panoramique en excellent état faible kilométrage. légèrement négociable.",
+      "original": "Je mets en vente une Fiat 500 finition sport automatique avec toit panoramique en excellent état faible kilométrage. légèrement négociable.",
       "ar": "Je mets en vente une Fiat 500 finition sport automatique avec toit panoramique en excellent état faible kilométrage. légèrement négociable.",
-      "original": "Je mets en vente une Fiat 500 finition sport automatique avec toit panoramique en excellent état faible kilométrage. légèrement négociable."
+      "en": "Je mets en vente une Fiat 500 finition sport automatique avec toit panoramique en excellent état faible kilométrage. légèrement négociable.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -103023,9 +103595,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Très belle Mercedes-Benz CLA-Class CLA 200 d de seconde main, mise en circulation en août 2018.. Elle affiche seulement ~90,000 km, principalement parcourus en ville.. Le véhicule est en excellent état, parfaitement entretenu…",
-      "ar": "Très belle Mercedes-Benz CLA-Class CLA 200 d de seconde main, mise en circulation en août 2018.. Elle affiche seulement ~90,000 km, principalement parcourus en ville.. Le véhicule est en excellent état, parfaitement entretenu…",
-      "original": "Très belle Mercedes-Benz CLA-Class CLA 200 d de seconde main, mise en circulation en août 2018.. Elle affiche seulement ~90,000 km, principalement parcourus en ville.. Le véhicule est en excellent état, parfaitement entretenu…"
+      "original": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -103240,9 +103813,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Une voiture fiable, économique et très pratique en ville, facile à conduire et à stationner.. Idéale comme première voiture ou pour une utilisation quotidienne.. Caractéristiques :.",
+      "original": "Une voiture fiable, économique et très pratique en ville, facile à conduire et à stationner.. Idéale comme première voiture ou pour une utilisation quotidienne.. Caractéristiques :.",
       "ar": "Une voiture fiable, économique et très pratique en ville, facile à conduire et à stationner.. Idéale comme première voiture ou pour une utilisation quotidienne.. Caractéristiques :.",
-      "original": "Une voiture fiable, économique et très pratique en ville, facile à conduire et à stationner.. Idéale comme première voiture ou pour une utilisation quotidienne.. Caractéristiques :."
+      "en": "Une voiture fiable, économique et très pratique en ville, facile à conduire et à stationner.. Idéale comme première voiture ou pour une utilisation quotidienne.. Caractéristiques :.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -103427,9 +104001,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Bonjour je mets en vente une belle touareg V6 vignette 6 année 2026 payée modèle 2007 faible kilométrage certifié en très très bon état intérieur et extérieur très propre toutes les maintenances à la maison Volkswagen avec…",
-      "ar": "Bonjour je mets en vente une belle touareg V6 vignette 6 année 2026 payée modèle 2007 faible kilométrage certifié en très très bon état intérieur et extérieur très propre toutes les maintenances à la maison Volkswagen avec…",
-      "original": "Bonjour je mets en vente une belle touareg V6 vignette 6 année 2026 payée modèle 2007 faible kilométrage certifié en très très bon état intérieur et extérieur très propre toutes les maintenances à la maison Volkswagen avec…"
+      "original": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Practical, spacious SUV perfectly suited for both daily family routines and long Moroccan road trips. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -103638,9 +104213,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "particulier mets en vente une CLE quasi neuve full options en vente",
+      "original": "particulier mets en vente une CLE quasi neuve full options en vente",
       "ar": "particulier mets en vente une CLE quasi neuve full options en vente",
-      "original": "particulier mets en vente une CLE quasi neuve full options en vente"
+      "en": "particulier mets en vente une CLE quasi neuve full options en vente",
+      "usedDarija": false
     },
     "features": [
       {
@@ -103848,9 +104424,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "سيارة من نوع رونو مغيان كلاسيك موضيل 98 ضريبة 700 مازوط كاينة فطنجة",
-      "ar": "سيارة من نوع رونو مغيان كلاسيك موضيل 98 ضريبة 700 مازوط كاينة فطنجة",
-      "original": "سيارة من نوع رونو مغيان كلاسيك موضيل 98 ضريبة 700 مازوط كاينة فطنجة"
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. موتورها معروف بالصبر والخدمة وكيدور مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. موتورها معروف بالصبر والخدمة وكيدور مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -104005,9 +104582,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Vente et achat de véhicules occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôles avant la mise en vente dans notre Showroom.. Lexus NX F SPORT EXÉCUTIVE 4x4 on parfait état peu roulé.",
-      "ar": "Vente et achat de véhicules occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôles avant la mise en vente dans notre Showroom.. Lexus NX F SPORT EXÉCUTIVE 4x4 on parfait état peu roulé.",
-      "original": "Vente et achat de véhicules occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôles avant la mise en vente dans notre Showroom.. Lexus NX F SPORT EXÉCUTIVE 4x4 on parfait état peu roulé."
+      "original": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "فخامة وأناقة وثبات خيالي فـ لوطوروت، ومتهلي فيها مولاها مزيان. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with stylish alloy wheels, air conditioning, and premium leather upholstery. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -104224,9 +104802,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente Kia Picanto essence mod 2025 boîte automatique direction assistée air bag 04 vitre électrique Clim salon propre moteur et carrosserie en très bon état faible kilométrage 16 mille…..",
+      "original": "Je mets en vente Kia Picanto essence mod 2025 boîte automatique direction assistée air bag 04 vitre électrique Clim salon propre moteur et carrosserie en très bon état faible kilométrage 16 mille…..",
       "ar": "Je mets en vente Kia Picanto essence mod 2025 boîte automatique direction assistée air bag 04 vitre électrique Clim salon propre moteur et carrosserie en très bon état faible kilométrage 16 mille…..",
-      "original": "Je mets en vente Kia Picanto essence mod 2025 boîte automatique direction assistée air bag 04 vitre électrique Clim salon propre moteur et carrosserie en très bon état faible kilométrage 16 mille….."
+      "en": "Je mets en vente Kia Picanto essence mod 2025 boîte automatique direction assistée air bag 04 vitre électrique Clim salon propre moteur et carrosserie en très bon état faible kilométrage 16 mille…..",
+      "usedDarija": false
     },
     "features": [
       {
@@ -104409,9 +104988,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mercedes GLA Pack AMG , modèle 2018 , double toit panoramique, voiture très bien entretenu . 4 pneus neuf",
+      "original": "Mercedes GLA Pack AMG , modèle 2018 , double toit panoramique, voiture très bien entretenu . 4 pneus neuf",
       "ar": "Mercedes GLA Pack AMG , modèle 2018 , double toit panoramique, voiture très bien entretenu . 4 pneus neuf",
-      "original": "Mercedes GLA Pack AMG , modèle 2018 , double toit panoramique, voiture très bien entretenu . 4 pneus neuf"
+      "en": "Mercedes GLA Pack AMG , modèle 2018 , double toit panoramique, voiture très bien entretenu . 4 pneus neuf",
+      "usedDarija": false
     },
     "features": [
       {
@@ -104543,9 +105123,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "L'ATTRACTIVE SEAT IBIZA FR AVEC MOTEUR 1.6 TDI 115 DIESEL 6CV, MODÈLE 06/2021 ET TOUTES OPTIONS.. TOIT OUVRANT PANORAMIQUE, SALON EN SEMI-CUIR, SIÈGES SPORT, ACCOUDOIR CENTRAL, CIEL DE PAVILLON NOIR, SEAT DRIVE PROFILE, MODE DE…",
-      "ar": "L'ATTRACTIVE SEAT IBIZA FR AVEC MOTEUR 1.6 TDI 115 DIESEL 6CV, MODÈLE 06/2021 ET TOUTES OPTIONS.. TOIT OUVRANT PANORAMIQUE, SALON EN SEMI-CUIR, SIÈGES SPORT, ACCOUDOIR CENTRAL, CIEL DE PAVILLON NOIR, SEAT DRIVE PROFILE, MODE DE…",
-      "original": "L'ATTRACTIVE SEAT IBIZA FR AVEC MOTEUR 1.6 TDI 115 DIESEL 6CV, MODÈLE 06/2021 ET TOUTES OPTIONS.. TOIT OUVRANT PANORAMIQUE, SALON EN SEMI-CUIR, SIÈGES SPORT, ACCOUDOIR CENTRAL, CIEL DE PAVILLON NOIR, SEAT DRIVE PROFILE, MODE DE…"
+      "original": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "همزة زوينة وما تعوضش، تجمع بين الراحة فـ السياقة والاقتصاد فـ المصاريف. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with premium leather upholstery, touchscreen GPS navigation, and reversing camera and parking sensors. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -104762,9 +105343,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Dacia Duster 2012 en bon état général, disponible pour visite.",
+      "original": "Dacia Duster 2012 en bon état général, disponible pour visite.",
       "ar": "Dacia Duster 2012 en bon état général, disponible pour visite.",
-      "original": "Dacia Duster 2012 en bon état général, disponible pour visite."
+      "en": "Dacia Duster 2012 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -104950,9 +105532,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je mets en vente une Chevrolet cruze diesel 8cv modèle 2015 en très très bon état jamais accidentée toutes options vitesse Manuel 6 rapports kilométrage 185000km intérieur en cuir.. moteur Opel 2.0L excellent état belle occasion à saisir.",
-      "ar": "je mets en vente une Chevrolet cruze diesel 8cv modèle 2015 en très très bon état jamais accidentée toutes options vitesse Manuel 6 rapports kilométrage 185000km intérieur en cuir.. moteur Opel 2.0L excellent état belle occasion à saisir.",
-      "original": "je mets en vente une Chevrolet cruze diesel 8cv modèle 2015 en très très bon état jamais accidentée toutes options vitesse Manuel 6 rapports kilométrage 185000km intérieur en cuir.. moteur Opel 2.0L excellent état belle occasion à saisir."
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with reversing camera and parking sensors, cruise control, and stylish alloy wheels. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -105162,9 +105745,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mercedes vito 12/2018",
-      "ar": "Mercedes vito 12/2018",
-      "original": "Mercedes vito 12/2018"
+      "original": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -105304,9 +105888,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Renault Megane 4 de 2018 en très bon état.. - Origine WW au Maroc. - Motorisation Diesel, 6 CV fiscaux.",
+      "original": "Je vends une Renault Megane 4 de 2018 en très bon état.. - Origine WW au Maroc. - Motorisation Diesel, 6 CV fiscaux.",
       "ar": "Je vends une Renault Megane 4 de 2018 en très bon état.. - Origine WW au Maroc. - Motorisation Diesel, 6 CV fiscaux.",
-      "original": "Je vends une Renault Megane 4 de 2018 en très bon état.. - Origine WW au Maroc. - Motorisation Diesel, 6 CV fiscaux."
+      "en": "Je vends une Renault Megane 4 de 2018 en très bon état.. - Origine WW au Maroc. - Motorisation Diesel, 6 CV fiscaux.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -105498,9 +106083,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une superbe Audi A3 Berline S line, première mise en circulation novembre 2024, dans un état exceptionnel, proche du neuf.. Caractéristiques :. * immatriculation: H-6 casablanca.",
+      "original": "Je mets en vente une superbe Audi A3 Berline S line, première mise en circulation novembre 2024, dans un état exceptionnel, proche du neuf.. Caractéristiques :. * immatriculation: H-6 casablanca.",
       "ar": "Je mets en vente une superbe Audi A3 Berline S line, première mise en circulation novembre 2024, dans un état exceptionnel, proche du neuf.. Caractéristiques :. * immatriculation: H-6 casablanca.",
-      "original": "Je mets en vente une superbe Audi A3 Berline S line, première mise en circulation novembre 2024, dans un état exceptionnel, proche du neuf.. Caractéristiques :. * immatriculation: H-6 casablanca."
+      "en": "Je mets en vente une superbe Audi A3 Berline S line, première mise en circulation novembre 2024, dans un état exceptionnel, proche du neuf.. Caractéristiques :. * immatriculation: H-6 casablanca.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -105714,9 +106300,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Becane 150 cc - 2023 2024 en bon état général, disponible pour visite.",
+      "original": "Becane 150 cc - 2023 2024 en bon état général, disponible pour visite.",
       "ar": "Becane 150 cc - 2023 2024 en bon état général, disponible pour visite.",
-      "original": "Becane 150 cc - 2023 2024 en bon état général, disponible pour visite."
+      "en": "Becane 150 cc - 2023 2024 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -105858,9 +106445,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "détails et équipements :. décalques noir et rouge. pot d’échappement changé (modèle dominator, son amélioré).",
+      "original": "détails et équipements :. décalques noir et rouge. pot d’échappement changé (modèle dominator, son amélioré).",
       "ar": "détails et équipements :. décalques noir et rouge. pot d’échappement changé (modèle dominator, son amélioré).",
-      "original": "détails et équipements :. décalques noir et rouge. pot d’échappement changé (modèle dominator, son amélioré)."
+      "en": "détails et équipements :. décalques noir et rouge. pot d’échappement changé (modèle dominator, son amélioré).",
+      "usedDarija": false
     },
     "features": [
       {
@@ -106001,9 +106589,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "himalayan 450 ,options,bulle haute , crash barres, protège mains, carplay , top case shad 2 casques, valises shad extensibles",
+      "original": "himalayan 450 ,options,bulle haute , crash barres, protège mains, carplay , top case shad 2 casques, valises shad extensibles",
       "ar": "himalayan 450 ,options,bulle haute , crash barres, protège mains, carplay , top case shad 2 casques, valises shad extensibles",
-      "original": "himalayan 450 ,options,bulle haute , crash barres, protège mains, carplay , top case shad 2 casques, valises shad extensibles"
+      "en": "himalayan 450 ,options,bulle haute , crash barres, protège mains, carplay , top case shad 2 casques, valises shad extensibles",
+      "usedDarija": false
     },
     "features": [
       {
@@ -106140,9 +106729,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je mets en vente ma moto yamaha x max 250 model 09/2013 bon état",
+      "original": "je mets en vente ma moto yamaha x max 250 model 09/2013 bon état",
       "ar": "je mets en vente ma moto yamaha x max 250 model 09/2013 bon état",
-      "original": "je mets en vente ma moto yamaha x max 250 model 09/2013 bon état"
+      "en": "je mets en vente ma moto yamaha x max 250 model 09/2013 bon état",
+      "usedDarija": false
     },
     "features": [
       {
@@ -106274,9 +106864,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "quadro 350 moto a conduire sans permis moto disponible dans le showroom",
+      "original": "quadro 350 moto a conduire sans permis moto disponible dans le showroom",
       "ar": "quadro 350 moto a conduire sans permis moto disponible dans le showroom",
-      "original": "quadro 350 moto a conduire sans permis moto disponible dans le showroom"
+      "en": "quadro 350 moto a conduire sans permis moto disponible dans le showroom",
+      "usedDarija": false
     },
     "features": [
       {
@@ -106395,9 +106986,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Zontes 350gk - scrambler 155g1 2023 en bon état général, disponible pour visite.",
+      "original": "Zontes 350gk - scrambler 155g1 2023 en bon état général, disponible pour visite.",
       "ar": "Zontes 350gk - scrambler 155g1 2023 en bon état général, disponible pour visite.",
-      "original": "Zontes 350gk - scrambler 155g1 2023 en bon état général, disponible pour visite."
+      "en": "Zontes 350gk - scrambler 155g1 2023 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -106538,9 +107130,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "moto mt 07 model 2020/ dw 2025\nmini crash bar \nlevier a main mt 07\ncach radiateur \nla bulle",
-      "ar": "moto mt 07 model 2020/ dw 2025\nmini crash bar \nlevier a main mt 07\ncach radiateur \nla bulle",
-      "original": "moto mt 07 model 2020/ dw 2025\nmini crash bar \nlevier a main mt 07\ncach radiateur \nla bulle"
+      "original": "moto mt 07 model 2020/ dw 2025 mini crash bar levier a main mt 07 cach radiateur la bulle",
+      "ar": "moto mt 07 model 2020/ dw 2025 mini crash bar levier a main mt 07 cach radiateur la bulle",
+      "en": "moto mt 07 model 2020/ dw 2025 mini crash bar levier a main mt 07 cach radiateur la bulle",
+      "usedDarija": false
     },
     "features": [
       {
@@ -106682,9 +107275,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Moto puissante très bien entretenue pneu change ya 5 mois vidange à temps sur Casablanca,moto très utile en ville aussi interville en sortie week-end pour les intéressés moto à voir après 1800 hrs contact whatsup merci",
-      "ar": "Moto puissante très bien entretenue pneu change ya 5 mois vidange à temps sur Casablanca,moto très utile en ville aussi interville en sortie week-end pour les intéressés moto à voir après 1800 hrs contact whatsup merci",
-      "original": "Moto puissante très bien entretenue pneu change ya 5 mois vidange à temps sur Casablanca,moto très utile en ville aussi interville en sortie week-end pour les intéressés moto à voir après 1800 hrs contact whatsup merci"
+      "original": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. معروضة للبيع فـ كازا. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. معروضة للبيع فـ كازا. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Enthusiast-owned sports bike offering sharp cornering dynamics, raw mechanical soundtrack, and solid running gear. Available for viewing in Casablanca. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -106823,9 +107417,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Classic 500 finition chrome, acheté neuve en été 2020, 4200 km au compteur, état neuf.",
+      "original": "Classic 500 finition chrome, acheté neuve en été 2020, 4200 km au compteur, état neuf.",
       "ar": "Classic 500 finition chrome, acheté neuve en été 2020, 4200 km au compteur, état neuf.",
-      "original": "Classic 500 finition chrome, acheté neuve en été 2020, 4200 km au compteur, état neuf."
+      "en": "Classic 500 finition chrome, acheté neuve en été 2020, 4200 km au compteur, état neuf.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -106966,9 +107561,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Becane 150 cc - 2024 en bon état général, disponible pour visite.",
+      "original": "Becane 150 cc - 2024 en bon état général, disponible pour visite.",
       "ar": "Becane 150 cc - 2024 en bon état général, disponible pour visite.",
-      "original": "Becane 150 cc - 2024 en bon état général, disponible pour visite."
+      "en": "Becane 150 cc - 2024 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -107108,9 +107704,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "BMW GS1250 Adventure",
-      "ar": "BMW GS1250 Adventure",
-      "original": "BMW GS1250 Adventure"
+      "original": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Enthusiast-owned sports bike offering sharp cornering dynamics, raw mechanical soundtrack, and solid running gear. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -107253,9 +107850,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Aprilia rs 50 2012 en bon état général, disponible pour visite.",
+      "original": "Aprilia rs 50 2012 en bon état général, disponible pour visite.",
       "ar": "Aprilia rs 50 2012 en bon état général, disponible pour visite.",
-      "original": "Aprilia rs 50 2012 en bon état général, disponible pour visite."
+      "en": "Aprilia rs 50 2012 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -107373,9 +107971,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "moto come nuova. visionabile residence kalahat al mansouria, toubkal 3. madam soumia.",
+      "original": "moto come nuova. visionabile residence kalahat al mansouria, toubkal 3. madam soumia.",
       "ar": "moto come nuova. visionabile residence kalahat al mansouria, toubkal 3. madam soumia.",
-      "original": "moto come nuova. visionabile residence kalahat al mansouria, toubkal 3. madam soumia."
+      "en": "moto come nuova. visionabile residence kalahat al mansouria, toubkal 3. madam soumia.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -107513,9 +108112,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Becane 150 cc - rvx 2024 en bon état général, disponible pour visite.",
+      "original": "Becane 150 cc - rvx 2024 en bon état général, disponible pour visite.",
       "ar": "Becane 150 cc - rvx 2024 en bon état général, disponible pour visite.",
-      "original": "Becane 150 cc - rvx 2024 en bon état général, disponible pour visite."
+      "en": "Becane 150 cc - rvx 2024 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -107653,9 +108253,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "rare opportunité, je mets en vente mon keeway k2340r de 2019, affichant seulement 10 332 km.. véritable bijou, utilisé très rarement et toujours entretien suivi avec soin.. caractéristiques et atouts :.",
-      "ar": "rare opportunité, je mets en vente mon keeway k2340r de 2019, affichant seulement 10 332 km.. véritable bijou, utilisé très rarement et toujours entretien suivi avec soin.. caractéristiques et atouts :.",
-      "original": "rare opportunité, je mets en vente mon keeway k2340r de 2019, affichant seulement 10 332 km.. véritable bijou, utilisé très rarement et toujours entretien suivi avec soin.. caractéristiques et atouts :."
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -107800,9 +108401,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "motor c50 frein disque ba9i jdid makina mamriparyach",
+      "original": "motor c50 frein disque ba9i jdid makina mamriparyach",
       "ar": "motor c50 frein disque ba9i jdid makina mamriparyach",
-      "original": "motor c50 frein disque ba9i jdid makina mamriparyach"
+      "en": "motor c50 frein disque ba9i jdid makina mamriparyach",
+      "usedDarija": false
     },
     "features": [
       {
@@ -107943,9 +108545,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends mon beau Scrambler cause double emploi. Parfait état, entretien régulier, 1ʳᵉ main.",
+      "original": "Je vends mon beau Scrambler cause double emploi. Parfait état, entretien régulier, 1ʳᵉ main.",
       "ar": "Je vends mon beau Scrambler cause double emploi. Parfait état, entretien régulier, 1ʳᵉ main.",
-      "original": "Je vends mon beau Scrambler cause double emploi. Parfait état, entretien régulier, 1ʳᵉ main."
+      "en": "Je vends mon beau Scrambler cause double emploi. Parfait état, entretien régulier, 1ʳᵉ main.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -108086,9 +108689,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Ventre moto Gsx S 1000 \nTout option moto comme neuf matricule tanger\nTarkim sabik de vente",
-      "ar": "Ventre moto Gsx S 1000 \nTout option moto comme neuf matricule tanger\nTarkim sabik de vente",
-      "original": "Ventre moto Gsx S 1000 \nTout option moto comme neuf matricule tanger\nTarkim sabik de vente"
+      "original": "Ventre moto Gsx S 1000 Tout option moto comme neuf matricule tanger Tarkim sabik de vente",
+      "ar": "Ventre moto Gsx S 1000 Tout option moto comme neuf matricule tanger Tarkim sabik de vente",
+      "en": "Ventre moto Gsx S 1000 Tout option moto comme neuf matricule tanger Tarkim sabik de vente",
+      "usedDarija": false
     },
     "features": [
       {
@@ -108232,9 +108836,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "vente gsx s 1000 \nmatricule tanger\nkm 65000 \ntarkim sabik\nmoto comme neuf \nsans défaut \ntout option",
-      "ar": "vente gsx s 1000 \nmatricule tanger\nkm 65000 \ntarkim sabik\nmoto comme neuf \nsans défaut \ntout option",
-      "original": "vente gsx s 1000 \nmatricule tanger\nkm 65000 \ntarkim sabik\nmoto comme neuf \nsans défaut \ntout option"
+      "original": "vente gsx s 1000 matricule tanger km 65000 tarkim sabik moto comme neuf sans défaut tout option",
+      "ar": "vente gsx s 1000 matricule tanger km 65000 tarkim sabik moto comme neuf sans défaut tout option",
+      "en": "vente gsx s 1000 matricule tanger km 65000 tarkim sabik moto comme neuf sans défaut tout option",
+      "usedDarija": false
     },
     "features": [
       {
@@ -108376,9 +108981,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Moto Hanway RAW 50 – Fin 2021 – 10 000 KM. Je mets en vente ma Hanway RAW 50, mise en circulation fin 2021, affichant seulement 10 000 km réels.. Moto jamais accidentée, toujours bien entretenue et en excellent état général.",
-      "ar": "Moto Hanway RAW 50 – Fin 2021 – 10 000 KM. Je mets en vente ma Hanway RAW 50, mise en circulation fin 2021, affichant seulement 10 000 km réels.. Moto jamais accidentée, toujours bien entretenue et en excellent état général.",
-      "original": "Moto Hanway RAW 50 – Fin 2021 – 10 000 KM. Je mets en vente ma Hanway RAW 50, mise en circulation fin 2021, affichant seulement 10 000 km réels.. Moto jamais accidentée, toujours bien entretenue et en excellent état général."
+      "original": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Enthusiast-owned sports bike offering sharp cornering dynamics, raw mechanical soundtrack, and solid running gear. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -108522,9 +109128,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "moto, super tenere 1200\nkm 50000 les 3 valise original yamaha\nles phares antibrouillard\npot akrapovitch + pot origine silencieuse",
-      "ar": "moto, super tenere 1200\nkm 50000 les 3 valise original yamaha\nles phares antibrouillard\npot akrapovitch + pot origine silencieuse",
-      "original": "moto, super tenere 1200\nkm 50000 les 3 valise original yamaha\nles phares antibrouillard\npot akrapovitch + pot origine silencieuse"
+      "original": "moto, super tenere 1200 km 50000 les 3 valise original yamaha les phares antibrouillard pot akrapovitch + pot origine silencieuse",
+      "ar": "moto, super tenere 1200 km 50000 les 3 valise original yamaha les phares antibrouillard pot akrapovitch + pot origine silencieuse",
+      "en": "moto, super tenere 1200 km 50000 les 3 valise original yamaha les phares antibrouillard pot akrapovitch + pot origine silencieuse",
+      "usedDarija": false
     },
     "features": [
       {
@@ -108668,9 +109275,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Motard cr50 très bonne état avec installation gps et support Téléphone",
+      "original": "Motard cr50 très bonne état avec installation gps et support Téléphone",
       "ar": "Motard cr50 très bonne état avec installation gps et support Téléphone",
-      "original": "Motard cr50 très bonne état avec installation gps et support Téléphone"
+      "en": "Motard cr50 très bonne état avec installation gps et support Téléphone",
+      "usedDarija": false
     },
     "features": [
       {
@@ -108811,9 +109419,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Moto neuf peinture d’origine 100% en règles avec plein d’accessoires négociable devant la moto",
+      "original": "Moto neuf peinture d’origine 100% en règles avec plein d’accessoires négociable devant la moto",
       "ar": "Moto neuf peinture d’origine 100% en règles avec plein d’accessoires négociable devant la moto",
-      "original": "Moto neuf peinture d’origine 100% en règles avec plein d’accessoires négociable devant la moto"
+      "en": "Moto neuf peinture d’origine 100% en règles avec plein d’accessoires négociable devant la moto",
+      "usedDarija": false
     },
     "features": [
       {
@@ -108954,9 +109563,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "becane neymar 2024 \nnouveau vidange \n5800km",
-      "ar": "becane neymar 2024 \nnouveau vidange \n5800km",
-      "original": "becane neymar 2024 \nnouveau vidange \n5800km"
+      "original": "becane neymar 2024 nouveau vidange 5800km",
+      "ar": "becane neymar 2024 nouveau vidange 5800km",
+      "en": "becane neymar 2024 nouveau vidange 5800km",
+      "usedDarija": false
     },
     "features": [
       {
@@ -109096,9 +109706,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "z900 en très bonne état aucune réparation à prévoir \ncrash bar \nfiltre air dna\npot akra + pot standard \ndébrider \npneu presque neuf",
-      "ar": "z900 en très bonne état aucune réparation à prévoir \ncrash bar \nfiltre air dna\npot akra + pot standard \ndébrider \npneu presque neuf",
-      "original": "z900 en très bonne état aucune réparation à prévoir \ncrash bar \nfiltre air dna\npot akra + pot standard \ndébrider \npneu presque neuf"
+      "original": "z900 en très bonne état aucune réparation à prévoir crash bar filtre air dna pot akra + pot standard débrider pneu presque neuf",
+      "ar": "z900 en très bonne état aucune réparation à prévoir crash bar filtre air dna pot akra + pot standard débrider pneu presque neuf",
+      "en": "z900 en très bonne état aucune réparation à prévoir crash bar filtre air dna pot akra + pot standard débrider pneu presque neuf",
+      "usedDarija": false
     },
     "features": [
       {
@@ -109240,9 +109851,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "royal enfield himalayan 411 model 2023 \nww maroc \n1er main \na vendre ou reprise b une hinda shadow 750",
-      "ar": "royal enfield himalayan 411 model 2023 \nww maroc \n1er main \na vendre ou reprise b une hinda shadow 750",
-      "original": "royal enfield himalayan 411 model 2023 \nww maroc \n1er main \na vendre ou reprise b une hinda shadow 750"
+      "original": "royal enfield himalayan 411 model 2023 ww maroc 1er main a vendre ou reprise b une hinda shadow 750",
+      "ar": "royal enfield himalayan 411 model 2023 ww maroc 1er main a vendre ou reprise b une hinda shadow 750",
+      "en": "royal enfield himalayan 411 model 2023 ww maroc 1er main a vendre ou reprise b une hinda shadow 750",
+      "usedDarija": false
     },
     "features": [
       {
@@ -109382,9 +109994,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Highland c50 2023 en bon état général, disponible pour visite.",
+      "original": "Highland c50 2023 en bon état général, disponible pour visite.",
       "ar": "Highland c50 2023 en bon état général, disponible pour visite.",
-      "original": "Highland c50 2023 en bon état général, disponible pour visite."
+      "en": "Highland c50 2023 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -109522,9 +110135,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "motor nadi ma fih la machakil la wali ka ntherko bih ghi wast tamnsourt 3la 9bel sekhra w fih kolchi mzzn",
+      "original": "motor nadi ma fih la machakil la wali ka ntherko bih ghi wast tamnsourt 3la 9bel sekhra w fih kolchi mzzn",
       "ar": "motor nadi ma fih la machakil la wali ka ntherko bih ghi wast tamnsourt 3la 9bel sekhra w fih kolchi mzzn",
-      "original": "motor nadi ma fih la machakil la wali ka ntherko bih ghi wast tamnsourt 3la 9bel sekhra w fih kolchi mzzn"
+      "en": "motor nadi ma fih la machakil la wali ka ntherko bih ghi wast tamnsourt 3la 9bel sekhra w fih kolchi mzzn",
+      "usedDarija": false
     },
     "features": [
       {
@@ -109662,9 +110276,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "En bon état, \nVidange fait récemment\nFiltre changé\nPneux changés\nKit chainé changé",
-      "ar": "En bon état, \nVidange fait récemment\nFiltre changé\nPneux changés\nKit chainé changé",
-      "original": "En bon état, \nVidange fait récemment\nFiltre changé\nPneux changés\nKit chainé changé"
+      "original": "En bon état, Vidange fait récemment Filtre changé Pneux changés Kit chainé changé",
+      "ar": "En bon état, Vidange fait récemment Filtre changé Pneux changés Kit chainé changé",
+      "en": "En bon état, Vidange fait récemment Filtre changé Pneux changés Kit chainé changé",
+      "usedDarija": false
     },
     "features": [
       {
@@ -109807,9 +110422,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "moto en très bon état\naucune réparation à prévoir",
-      "ar": "moto en très bon état\naucune réparation à prévoir",
-      "original": "moto en très bon état\naucune réparation à prévoir"
+      "original": "moto en très bon état aucune réparation à prévoir",
+      "ar": "moto en très bon état aucune réparation à prévoir",
+      "en": "moto en très bon état aucune réparation à prévoir",
+      "usedDarija": false
     },
     "features": [
       {
@@ -109948,9 +110564,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Audi RS Q3 de 2020 en excellent état.. - Origine : Importée neuve. - Première main.",
+      "original": "Je vends une Audi RS Q3 de 2020 en excellent état.. - Origine : Importée neuve. - Première main.",
       "ar": "Je vends une Audi RS Q3 de 2020 en excellent état.. - Origine : Importée neuve. - Première main.",
-      "original": "Je vends une Audi RS Q3 de 2020 en excellent état.. - Origine : Importée neuve. - Première main."
+      "en": "Je vends une Audi RS Q3 de 2020 en excellent état.. - Origine : Importée neuve. - Première main.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -110165,9 +110782,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Ford Ranger Raptor modèle fin 2022 diesel boîte automatique **** km.. Véhicule en excellent état très bien entretenu aucun frais à prévoir.Rien à dire à part que c’est un vrai monstre.. Pour plus d’informationmerci de me contacter.",
-      "ar": "À vendre Ford Ranger Raptor modèle fin 2022 diesel boîte automatique **** km.. Véhicule en excellent état très bien entretenu aucun frais à prévoir.Rien à dire à part que c’est un vrai monstre.. Pour plus d’informationmerci de me contacter.",
-      "original": "À vendre Ford Ranger Raptor modèle fin 2022 diesel boîte automatique **** km.. Véhicule en excellent état très bien entretenu aucun frais à prévoir.Rien à dire à part que c’est un vrai monstre.. Pour plus d’informationmerci de me contacter."
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -110301,9 +110919,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Exlon tomobile",
-      "ar": "Exlon tomobile",
-      "original": "Exlon tomobile"
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. فيها تجهيزات مزيانة بحال جوانط ألمنيوم أنيقة و كليما خدامة مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. فيها تجهيزات مزيانة بحال جوانط ألمنيوم أنيقة و كليما خدامة مزيان. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Features desirable equipment including stylish alloy wheels and air conditioning. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -110475,9 +111094,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "هيونداي توسون موديل 2019 بحالة ممتازة.. - أول استعمال. - محرك ديزل.",
+      "original": "هيونداي توسون موديل 2019 بحالة ممتازة.. - أول استعمال. - محرك ديزل.",
       "ar": "هيونداي توسون موديل 2019 بحالة ممتازة.. - أول استعمال. - محرك ديزل.",
-      "original": "هيونداي توسون موديل 2019 بحالة ممتازة.. - أول استعمال. - محرك ديزل."
+      "en": "هيونداي توسون موديل 2019 بحالة ممتازة.. - أول استعمال. - محرك ديزل.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -110641,9 +111261,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Soueast S 05 modèle 2026 en excellent état à Marrakech.. - Première main, origine WW au Maroc. - Jantes aluminium, toit ouvrant.",
+      "original": "À vendre Soueast S 05 modèle 2026 en excellent état à Marrakech.. - Première main, origine WW au Maroc. - Jantes aluminium, toit ouvrant.",
       "ar": "À vendre Soueast S 05 modèle 2026 en excellent état à Marrakech.. - Première main, origine WW au Maroc. - Jantes aluminium, toit ouvrant.",
-      "original": "À vendre Soueast S 05 modèle 2026 en excellent état à Marrakech.. - Première main, origine WW au Maroc. - Jantes aluminium, toit ouvrant."
+      "en": "À vendre Soueast S 05 modèle 2026 en excellent état à Marrakech.. - Première main, origine WW au Maroc. - Jantes aluminium, toit ouvrant.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -110854,9 +111475,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Audi Q7 S Line diesel 50tdi\nPremière main \nWw Maroc \n5 places\nachetée ww a 1.020\nSuivi a jour à la maison\nSous garantie CAC jusqu'à avril 2029 \nFull options suspension pneumatique",
-      "ar": "Audi Q7 S Line diesel 50tdi\nPremière main \nWw Maroc \n5 places\nachetée ww a 1.020\nSuivi a jour à la maison\nSous garantie CAC jusqu'à avril 2029 \nFull options suspension pneumatique",
-      "original": "Audi Q7 S Line diesel 50tdi\nPremière main \nWw Maroc \n5 places\nachetée ww a 1.020\nSuivi a jour à la maison\nSous garantie CAC jusqu'à avril 2029 \nFull options suspension pneumatique"
+      "original": "Audi Q7 S Line diesel 50tdi Première main Ww Maroc 5 places achetée ww a 1.020 Suivi a jour à la maison Sous garantie CAC jusqu'à avril 2029 Full options suspension pneumatique",
+      "ar": "Audi Q7 S Line diesel 50tdi Première main Ww Maroc 5 places achetée ww a 1.020 Suivi a jour à la maison Sous garantie CAC jusqu'à avril 2029 Full options suspension pneumatique",
+      "en": "Audi Q7 S Line diesel 50tdi Première main Ww Maroc 5 places achetée ww a 1.020 Suivi a jour à la maison Sous garantie CAC jusqu'à avril 2029 Full options suspension pneumatique",
+      "usedDarija": false
     },
     "features": [
       {
@@ -110999,9 +111621,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "hggfuytrez",
-      "ar": "hggfuytrez",
-      "original": "hggfuytrez"
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with reversing camera and parking sensors, cruise control, and stylish alloy wheels. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -111182,9 +111805,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "BMW Série 5 2017 en bon état général, disponible pour visite.",
+      "original": "BMW Série 5 2017 en bon état général, disponible pour visite.",
       "ar": "BMW Série 5 2017 en bon état général, disponible pour visite.",
-      "original": "BMW Série 5 2017 en bon état général, disponible pour visite."
+      "en": "BMW Série 5 2017 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -111395,9 +112019,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Dacia Jogger en excellent état, première main.. - Options : Climatisation, GPS, Radar et caméra de recul, Ordinateur de bord, Airbags. - Origine : WW au Maroc.",
+      "original": "À vendre Dacia Jogger en excellent état, première main.. - Options : Climatisation, GPS, Radar et caméra de recul, Ordinateur de bord, Airbags. - Origine : WW au Maroc.",
       "ar": "À vendre Dacia Jogger en excellent état, première main.. - Options : Climatisation, GPS, Radar et caméra de recul, Ordinateur de bord, Airbags. - Origine : WW au Maroc.",
-      "original": "À vendre Dacia Jogger en excellent état, première main.. - Options : Climatisation, GPS, Radar et caméra de recul, Ordinateur de bord, Airbags. - Origine : WW au Maroc."
+      "en": "À vendre Dacia Jogger en excellent état, première main.. - Options : Climatisation, GPS, Radar et caméra de recul, Ordinateur de bord, Airbags. - Origine : WW au Maroc.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -111567,9 +112192,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Skoda kodiaq 7 place 2023/02 km 165000 peinture d'origine tt option",
+      "original": "Skoda kodiaq 7 place 2023/02 km 165000 peinture d'origine tt option",
       "ar": "Skoda kodiaq 7 place 2023/02 km 165000 peinture d'origine tt option",
-      "original": "Skoda kodiaq 7 place 2023/02 km 165000 peinture d'origine tt option"
+      "en": "Skoda kodiaq 7 place 2023/02 km 165000 peinture d'origine tt option",
+      "usedDarija": false
     },
     "features": [
       {
@@ -111784,9 +112410,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Alfa Romeo Giulia Veloce Q4 – 2.2 Diesel 210 CV. Moteur : 2.2 Diesel – 210 CV. Transmission : Q4 – 4x4.",
+      "original": "Alfa Romeo Giulia Veloce Q4 – 2.2 Diesel 210 CV. Moteur : 2.2 Diesel – 210 CV. Transmission : Q4 – 4x4.",
       "ar": "Alfa Romeo Giulia Veloce Q4 – 2.2 Diesel 210 CV. Moteur : 2.2 Diesel – 210 CV. Transmission : Q4 – 4x4.",
-      "original": "Alfa Romeo Giulia Veloce Q4 – 2.2 Diesel 210 CV. Moteur : 2.2 Diesel – 210 CV. Transmission : Q4 – 4x4."
+      "en": "Alfa Romeo Giulia Veloce Q4 – 2.2 Diesel 210 CV. Moteur : 2.2 Diesel – 210 CV. Transmission : Q4 – 4x4.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -111999,9 +112626,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Peugeot 3008 2020 en bon état général, disponible pour visite.",
+      "original": "Peugeot 3008 2020 en bon état général, disponible pour visite.",
       "ar": "Peugeot 3008 2020 en bon état général, disponible pour visite.",
-      "original": "Peugeot 3008 2020 en bon état général, disponible pour visite."
+      "en": "Peugeot 3008 2020 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -112206,9 +112834,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je mets en vente ma voiture en bon état, c’est une 2018 dynamique plus, Tout options, veuillez m’appeler pour plus d’informations",
+      "original": "je mets en vente ma voiture en bon état, c’est une 2018 dynamique plus, Tout options, veuillez m’appeler pour plus d’informations",
       "ar": "je mets en vente ma voiture en bon état, c’est une 2018 dynamique plus, Tout options, veuillez m’appeler pour plus d’informations",
-      "original": "je mets en vente ma voiture en bon état, c’est une 2018 dynamique plus, Tout options, veuillez m’appeler pour plus d’informations"
+      "en": "je mets en vente ma voiture en bon état, c’est une 2018 dynamique plus, Tout options, veuillez m’appeler pour plus d’informations",
+      "usedDarija": false
     },
     "features": [
       {
@@ -112418,9 +113047,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Vente et achat de véhicules d'occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôle avant la mise en vente dans notre Showroom.. Magnifique Land Rover Defender TD5 full modifier et restaurée à neuf…",
-      "ar": "Vente et achat de véhicules d'occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôle avant la mise en vente dans notre Showroom.. Magnifique Land Rover Defender TD5 full modifier et restaurée à neuf…",
-      "original": "Vente et achat de véhicules d'occasion avec 15 ans d'expérience.. Nous effectuons plus de 50 points de contrôle avant la mise en vente dans notre Showroom.. Magnifique Land Rover Defender TD5 full modifier et restaurée à neuf…"
+      "original": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، جوانط ألمنيوم أنيقة. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "همزة د العشاق، ركبة واعرة وهمة فـ الطريق وراحة تامة فـ السفر الطويل. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، جوانط ألمنيوم أنيقة. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Prestige luxury vehicle pairing effortless highway cruising with top-tier cabin insulation and refined engineering. Richly specified with premium leather upholstery, touchscreen GPS navigation, and stylish alloy wheels. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -112597,9 +113227,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "سيارة نقيا بزااف ديوانة 2012 مطور 1,9 فيها مليح كنقبل روبريز كنقبلر مرحبا",
+      "original": "سيارة نقيا بزااف ديوانة 2012 مطور 1,9 فيها مليح كنقبل روبريز كنقبلر مرحبا",
       "ar": "سيارة نقيا بزااف ديوانة 2012 مطور 1,9 فيها مليح كنقبل روبريز كنقبلر مرحبا",
-      "original": "سيارة نقيا بزااف ديوانة 2012 مطور 1,9 فيها مليح كنقبل روبريز كنقبلر مرحبا"
+      "en": "سيارة نقيا بزااف ديوانة 2012 مطور 1,9 فيها مليح كنقبل روبريز كنقبلر مرحبا",
+      "usedDarija": false
     },
     "features": [
       {
@@ -112813,9 +113444,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "A vender Renault clio 5 Diesel model 2021. Bon etat general,160,000 km couleur grise , climatisation fonctionnelle, mecanique en bon etat. demande. .",
+      "original": "A vender Renault clio 5 Diesel model 2021. Bon etat general,160,000 km couleur grise , climatisation fonctionnelle, mecanique en bon etat. demande. .",
       "ar": "A vender Renault clio 5 Diesel model 2021. Bon etat general,160,000 km couleur grise , climatisation fonctionnelle, mecanique en bon etat. demande. .",
-      "original": "A vender Renault clio 5 Diesel model 2021. Bon etat general,160,000 km couleur grise , climatisation fonctionnelle, mecanique en bon etat. demande. ."
+      "en": "A vender Renault clio 5 Diesel model 2021. Bon etat general,160,000 km couleur grise , climatisation fonctionnelle, mecanique en bon etat. demande. .",
+      "usedDarija": false
     },
     "features": [
       {
@@ -112999,9 +113631,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "للبيع بيجو 208 موديل 2019، ديزل، 143.000 كلم.. السيارة في حالة جيدة جداً، نظيفة ومعتنى بها، مع صيانة منتظمة. À vendre Peugeot 208 modèle 2019, en très bon état général, propre et bien entretenue.",
+      "original": "للبيع بيجو 208 موديل 2019، ديزل، 143.000 كلم.. السيارة في حالة جيدة جداً، نظيفة ومعتنى بها، مع صيانة منتظمة. À vendre Peugeot 208 modèle 2019, en très bon état général, propre et bien entretenue.",
       "ar": "للبيع بيجو 208 موديل 2019، ديزل، 143.000 كلم.. السيارة في حالة جيدة جداً، نظيفة ومعتنى بها، مع صيانة منتظمة. À vendre Peugeot 208 modèle 2019, en très bon état général, propre et bien entretenue.",
-      "original": "للبيع بيجو 208 موديل 2019، ديزل، 143.000 كلم.. السيارة في حالة جيدة جداً، نظيفة ومعتنى بها، مع صيانة منتظمة. À vendre Peugeot 208 modèle 2019, en très bon état général, propre et bien entretenue."
+      "en": "للبيع بيجو 208 موديل 2019، ديزل، 143.000 كلم.. السيارة في حالة جيدة جداً، نظيفة ومعتنى بها، مع صيانة منتظمة. À vendre Peugeot 208 modèle 2019, en très bon état général, propre et bien entretenue.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -113193,9 +113826,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيارة داسيا لوجان موديل 2013 بحالة ممتازة.. - القوة الجبائية: 6 خ. - نوافذ كهربائية.",
+      "original": "أعرض للبيع سيارة داسيا لوجان موديل 2013 بحالة ممتازة.. - القوة الجبائية: 6 خ. - نوافذ كهربائية.",
       "ar": "أعرض للبيع سيارة داسيا لوجان موديل 2013 بحالة ممتازة.. - القوة الجبائية: 6 خ. - نوافذ كهربائية.",
-      "original": "أعرض للبيع سيارة داسيا لوجان موديل 2013 بحالة ممتازة.. - القوة الجبائية: 6 خ. - نوافذ كهربائية."
+      "en": "أعرض للبيع سيارة داسيا لوجان موديل 2013 بحالة ممتازة.. - القوة الجبائية: 6 خ. - نوافذ كهربائية.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -113351,9 +113985,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente une Mercedes-Benz 220 en excellent état.\n- Année modèle : 2014\n- Puissance fiscale : 8 CV\n- Carburant : Diesel\n- Boîte de vitesses : Manuelle\n- Origine : Importée neuve\n- Nombre de portes : 5",
-      "ar": "Je propose à la vente une Mercedes-Benz 220 en excellent état.\n- Année modèle : 2014\n- Puissance fiscale : 8 CV\n- Carburant : Diesel\n- Boîte de vitesses : Manuelle\n- Origine : Importée neuve\n- Nombre de portes : 5",
-      "original": "Je propose à la vente une Mercedes-Benz 220 en excellent état.\n- Année modèle : 2014\n- Puissance fiscale : 8 CV\n- Carburant : Diesel\n- Boîte de vitesses : Manuelle\n- Origine : Importée neuve\n- Nombre de portes : 5"
+      "original": "Je propose à la vente une Mercedes-Benz 220 en excellent état. - Année modèle : 2014 - Puissance fiscale : 8 CV - îte de vitesses : Manuelle - Origine : Importée neuve - Nombre de portes : 5",
+      "ar": "Je propose à la vente une Mercedes-Benz 220 en excellent état. - Année modèle : 2014 - Puissance fiscale : 8 CV - îte de vitesses : Manuelle - Origine : Importée neuve - Nombre de portes : 5",
+      "en": "Je propose à la vente une Mercedes-Benz 220 en excellent état. - Année modèle : 2014 - Puissance fiscale : 8 CV - îte de vitesses : Manuelle - Origine : Importée neuve - Nombre de portes : 5",
+      "usedDarija": false
     },
     "features": [
       {
@@ -113561,9 +114196,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Hyundai Accent 2022 en bon état général, disponible pour visite.",
+      "original": "Hyundai Accent 2022 en bon état général, disponible pour visite.",
       "ar": "Hyundai Accent 2022 en bon état général, disponible pour visite.",
-      "original": "Hyundai Accent 2022 en bon état général, disponible pour visite."
+      "en": "Hyundai Accent 2022 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -113771,9 +114407,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "hyundai Tucson tt option diesel 6cv automatique cuir caméra recule radar avant et arrière demarage Star clim auto toit ouvrant",
+      "original": "hyundai Tucson tt option diesel 6cv automatique cuir caméra recule radar avant et arrière demarage Star clim auto toit ouvrant",
       "ar": "hyundai Tucson tt option diesel 6cv automatique cuir caméra recule radar avant et arrière demarage Star clim auto toit ouvrant",
-      "original": "hyundai Tucson tt option diesel 6cv automatique cuir caméra recule radar avant et arrière demarage Star clim auto toit ouvrant"
+      "en": "hyundai Tucson tt option diesel 6cv automatique cuir caméra recule radar avant et arrière demarage Star clim auto toit ouvrant",
+      "usedDarija": false
     },
     "features": [
       {
@@ -113987,9 +114624,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Hyundai Santa Fee Premium 4 ème génération Phase 2 automatique diesel full options dernière gamme 7 place Peinture d'origine avec double toit panoramique siège cuir électrique KEYLESS GO démarrage à distance et bouton start feu…",
-      "ar": "Hyundai Santa Fee Premium 4 ème génération Phase 2 automatique diesel full options dernière gamme 7 place Peinture d'origine avec double toit panoramique siège cuir électrique KEYLESS GO démarrage à distance et bouton start feu…",
-      "original": "Hyundai Santa Fee Premium 4 ème génération Phase 2 automatique diesel full options dernière gamme 7 place Peinture d'origine avec double toit panoramique siège cuir électrique KEYLESS GO démarrage à distance et bouton start feu…"
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -114204,9 +114842,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une BMW X3 en excellent état.. - Origine : WW au Maroc. - Première main : Oui.",
+      "original": "Je vends une BMW X3 en excellent état.. - Origine : WW au Maroc. - Première main : Oui.",
       "ar": "Je vends une BMW X3 en excellent état.. - Origine : WW au Maroc. - Première main : Oui.",
-      "original": "Je vends une BMW X3 en excellent état.. - Origine : WW au Maroc. - Première main : Oui."
+      "en": "Je vends une BMW X3 en excellent état.. - Origine : WW au Maroc. - Première main : Oui.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -114423,9 +115062,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une BMW X3 Diesel Automatique de fin2018, en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "Je vends une BMW X3 Diesel Automatique de fin2018, en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "Je vends une BMW X3 Diesel Automatique de fin2018, en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "Je vends une BMW X3 Diesel Automatique de fin2018, en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "Je vends une BMW X3 Diesel Automatique de fin2018, en excellent état et première main.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -114632,9 +115272,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "BMW Série 1\n2014\nManuelle\n98 000 km\nTrès bon état \n6 cv",
-      "ar": "BMW Série 1\n2014\nManuelle\n98 000 km\nTrès bon état \n6 cv",
-      "original": "BMW Série 1\n2014\nManuelle\n98 000 km\nTrès bon état \n6 cv"
+      "original": "BMW Série 1 2014 Manuelle 98 000 km Très bon état 6 cv",
+      "ar": "BMW Série 1 2014 Manuelle 98 000 km Très bon état 6 cv",
+      "en": "BMW Série 1 2014 Manuelle 98 000 km Très bon état 6 cv",
+      "usedDarija": false
     },
     "features": [
       {
@@ -114775,9 +115416,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Audi Q5, modèle 04/2023, en très très bon état, aussi bien à l’intérieur qu’à l’extérieur.. Véhicule fraîchement dédouané en 08/2026, disponible et visible à Ain Chock. Équipements :.",
+      "original": "À vendre Audi Q5, modèle 04/2023, en très très bon état, aussi bien à l’intérieur qu’à l’extérieur.. Véhicule fraîchement dédouané en 08/2026, disponible et visible à Ain Chock. Équipements :.",
       "ar": "À vendre Audi Q5, modèle 04/2023, en très très bon état, aussi bien à l’intérieur qu’à l’extérieur.. Véhicule fraîchement dédouané en 08/2026, disponible et visible à Ain Chock. Équipements :.",
-      "original": "À vendre Audi Q5, modèle 04/2023, en très très bon état, aussi bien à l’intérieur qu’à l’extérieur.. Véhicule fraîchement dédouané en 08/2026, disponible et visible à Ain Chock. Équipements :."
+      "en": "À vendre Audi Q5, modèle 04/2023, en très très bon état, aussi bien à l’intérieur qu’à l’extérieur.. Véhicule fraîchement dédouané en 08/2026, disponible et visible à Ain Chock. Équipements :.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -114992,9 +115634,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "plus d'informations",
-      "ar": "plus d'informations",
-      "original": "plus d'informations"
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with premium leather upholstery, touchscreen GPS navigation, and reversing camera and parking sensors. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -115207,9 +115850,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen Touareg 2019 🇺🇸 | 3.0 V6 TDI | Full Option. 🔥 Touareg 2019 – Version américaine 🇺🇸. 🛢️ 3.0 V6 TDI Diesel.",
+      "original": "Volkswagen Touareg 2019 🇺🇸 | 3.0 V6 TDI | Full Option. 🔥 Touareg 2019 – Version américaine 🇺🇸. 🛢️ 3.0 V6 TDI Diesel.",
       "ar": "Volkswagen Touareg 2019 🇺🇸 | 3.0 V6 TDI | Full Option. 🔥 Touareg 2019 – Version américaine 🇺🇸. 🛢️ 3.0 V6 TDI Diesel.",
-      "original": "Volkswagen Touareg 2019 🇺🇸 | 3.0 V6 TDI | Full Option. 🔥 Touareg 2019 – Version américaine 🇺🇸. 🛢️ 3.0 V6 TDI Diesel."
+      "en": "Volkswagen Touareg 2019 🇺🇸 | 3.0 V6 TDI | Full Option. 🔥 Touareg 2019 – Version américaine 🇺🇸. 🛢️ 3.0 V6 TDI Diesel.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -115420,9 +116064,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une très belle voiture toute neuf peinture d’origine jamais accidenté aucune réparation à prévoir possibilité de faire reprise",
+      "original": "Je mets en vente une très belle voiture toute neuf peinture d’origine jamais accidenté aucune réparation à prévoir possibilité de faire reprise",
       "ar": "Je mets en vente une très belle voiture toute neuf peinture d’origine jamais accidenté aucune réparation à prévoir possibilité de faire reprise",
-      "original": "Je mets en vente une très belle voiture toute neuf peinture d’origine jamais accidenté aucune réparation à prévoir possibilité de faire reprise"
+      "en": "Je mets en vente une très belle voiture toute neuf peinture d’origine jamais accidenté aucune réparation à prévoir possibilité de faire reprise",
+      "usedDarija": false
     },
     "features": [
       {
@@ -115632,9 +116277,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma voiture en très bon état peinture originale entretien a jours model 2017 ded 2020 218k km toutes options. Régulateur adaptatif. Line assiste.",
+      "original": "Je mets en vente ma voiture en très bon état peinture originale entretien a jours model 2017 ded 2020 218k km toutes options. Régulateur adaptatif. Line assiste.",
       "ar": "Je mets en vente ma voiture en très bon état peinture originale entretien a jours model 2017 ded 2020 218k km toutes options. Régulateur adaptatif. Line assiste.",
-      "original": "Je mets en vente ma voiture en très bon état peinture originale entretien a jours model 2017 ded 2020 218k km toutes options. Régulateur adaptatif. Line assiste."
+      "en": "Je mets en vente ma voiture en très bon état peinture originale entretien a jours model 2017 ded 2020 218k km toutes options. Régulateur adaptatif. Line assiste.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -115849,9 +116495,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "سيارة كيا بيكانتو موديل 2006 بحالة جيدة جدا للبيع.. - الماركة: كيا. - الموديل: بيكانتو.",
+      "original": "سيارة كيا بيكانتو موديل 2006 بحالة جيدة جدا للبيع.. - الماركة: كيا. - الموديل: بيكانتو.",
       "ar": "سيارة كيا بيكانتو موديل 2006 بحالة جيدة جدا للبيع.. - الماركة: كيا. - الموديل: بيكانتو.",
-      "original": "سيارة كيا بيكانتو موديل 2006 بحالة جيدة جدا للبيع.. - الماركة: كيا. - الموديل: بيكانتو."
+      "en": "سيارة كيا بيكانتو موديل 2006 بحالة جيدة جدا للبيع.. - الماركة: كيا. - الموديل: بيكانتو.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -116026,9 +116673,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Hyundai Tucson 2022 en bon état général, disponible pour visite.",
+      "original": "Hyundai Tucson 2022 en bon état général, disponible pour visite.",
       "ar": "Hyundai Tucson 2022 en bon état général, disponible pour visite.",
-      "original": "Hyundai Tucson 2022 en bon état général, disponible pour visite."
+      "en": "Hyundai Tucson 2022 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -116236,9 +116884,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je mets a la vente a la vente peugoet 208 GT line tout option jamis accidenté peinture d origine 117390 km réal toit panoramic",
+      "original": "je mets a la vente a la vente peugoet 208 GT line tout option jamis accidenté peinture d origine 117390 km réal toit panoramic",
       "ar": "je mets a la vente a la vente peugoet 208 GT line tout option jamis accidenté peinture d origine 117390 km réal toit panoramic",
-      "original": "je mets a la vente a la vente peugoet 208 GT line tout option jamis accidenté peinture d origine 117390 km réal toit panoramic"
+      "en": "je mets a la vente a la vente peugoet 208 GT line tout option jamis accidenté peinture d origine 117390 km réal toit panoramic",
+      "usedDarija": false
     },
     "features": [
       {
@@ -116448,9 +117097,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente mon véhicule personnel en excellent état intérieur comme extérieur. • Moteur Diesel 2.0 L puissant et économique. • Consommation moyenne : 5,5 L.",
+      "original": "Je mets en vente mon véhicule personnel en excellent état intérieur comme extérieur. • Moteur Diesel 2.0 L puissant et économique. • Consommation moyenne : 5,5 L.",
       "ar": "Je mets en vente mon véhicule personnel en excellent état intérieur comme extérieur. • Moteur Diesel 2.0 L puissant et économique. • Consommation moyenne : 5,5 L.",
-      "original": "Je mets en vente mon véhicule personnel en excellent état intérieur comme extérieur. • Moteur Diesel 2.0 L puissant et économique. • Consommation moyenne : 5,5 L."
+      "en": "Je mets en vente mon véhicule personnel en excellent état intérieur comme extérieur. • Moteur Diesel 2.0 L puissant et économique. • Consommation moyenne : 5,5 L.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -116660,9 +117310,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une BMW Série 5 F10 520d, mise en circulation en 02/2016, en très bon état général.. Le véhicule est équipé du moteur B47 2.0L Diesel 190 ch, réputé pour son agrément de conduite et sa fiabilité.. C’est une belle…",
-      "ar": "Je mets en vente une BMW Série 5 F10 520d, mise en circulation en 02/2016, en très bon état général.. Le véhicule est équipé du moteur B47 2.0L Diesel 190 ch, réputé pour son agrément de conduite et sa fiabilité.. C’est une belle…",
-      "original": "Je mets en vente une BMW Série 5 F10 520d, mise en circulation en 02/2016, en très bon état général.. Le véhicule est équipé du moteur B47 2.0L Diesel 190 ch, réputé pour son agrément de conduite et sa fiabilité.. C’est une belle…"
+      "original": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "طوموبيل فـ المستوى العالي، ديال الناس لي كيفهمو فـ هاد الحديد والبريستيج. عامرة بـ ليزوبسيون، مجهزة بـ شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with touchscreen GPS navigation, reversing camera and parking sensors, and cruise control. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -116877,9 +117528,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une très belle voiture familiale toute neuf boite automatique jamais accidenté peinture d’origine aucun réparation à prévoir possibilité de faire reprise",
+      "original": "Je mets en vente une très belle voiture familiale toute neuf boite automatique jamais accidenté peinture d’origine aucun réparation à prévoir possibilité de faire reprise",
       "ar": "Je mets en vente une très belle voiture familiale toute neuf boite automatique jamais accidenté peinture d’origine aucun réparation à prévoir possibilité de faire reprise",
-      "original": "Je mets en vente une très belle voiture familiale toute neuf boite automatique jamais accidenté peinture d’origine aucun réparation à prévoir possibilité de faire reprise"
+      "en": "Je mets en vente une très belle voiture familiale toute neuf boite automatique jamais accidenté peinture d’origine aucun réparation à prévoir possibilité de faire reprise",
+      "usedDarija": false
     },
     "features": [
       {
@@ -117095,9 +117747,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Bonjour,. Je mets en vente une superbe Opel Adam Glam, modèle 2016, la toutes options de sa gamme, essence 1.4l 87ch, en excellent état et avec seulement 63000 km au compteur.. Options :.",
+      "original": "Bonjour,. Je mets en vente une superbe Opel Adam Glam, modèle 2016, la toutes options de sa gamme, essence 1.4l 87ch, en excellent état et avec seulement 63000 km au compteur.. Options :.",
       "ar": "Bonjour,. Je mets en vente une superbe Opel Adam Glam, modèle 2016, la toutes options de sa gamme, essence 1.4l 87ch, en excellent état et avec seulement 63000 km au compteur.. Options :.",
-      "original": "Bonjour,. Je mets en vente une superbe Opel Adam Glam, modèle 2016, la toutes options de sa gamme, essence 1.4l 87ch, en excellent état et avec seulement 63000 km au compteur.. Options :."
+      "en": "Bonjour,. Je mets en vente une superbe Opel Adam Glam, modèle 2016, la toutes options de sa gamme, essence 1.4l 87ch, en excellent état et avec seulement 63000 km au compteur.. Options :.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -117312,9 +117965,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "سيارة نقية للبيع كاسبها",
-      "ar": "سيارة نقية للبيع كاسبها",
-      "original": "سيارة نقية للبيع كاسبها"
+      "original": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، ريگيلاتور دو فيتيس للمسافات. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، ريگيلاتور دو فيتيس للمسافات. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with air conditioning, premium leather upholstery, and cruise control. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -117516,9 +118170,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Année 2024/ WW Maroc\n35 000 km / 8 cv \nVignette\nBoite automatique\nRévisions chez ford\nÉtat comme neuve\nOptions :\n■Elargisseur de voie \n■Kit de rehausse \n■Arceau de benne avec éclairage coffre \nEtc...",
-      "ar": "Année 2024/ WW Maroc\n35 000 km / 8 cv \nVignette\nBoite automatique\nRévisions chez ford\nÉtat comme neuve\nOptions :\n■Elargisseur de voie \n■Kit de rehausse \n■Arceau de benne avec éclairage coffre \nEtc...",
-      "original": "Année 2024/ WW Maroc\n35 000 km / 8 cv \nVignette\nBoite automatique\nRévisions chez ford\nÉtat comme neuve\nOptions :\n■Elargisseur de voie \n■Kit de rehausse \n■Arceau de benne avec éclairage coffre \nEtc..."
+      "original": "Année 2024/ WW Maroc 35 000 km / 8 cv Vignette Boite automatique Révisions chez ford État comme neuve Options : ■Elargisseur de voie ■Kit de rehausse ■Arceau de benne avec éclairage coffre Etc...",
+      "ar": "Année 2024/ WW Maroc 35 000 km / 8 cv Vignette Boite automatique Révisions chez ford État comme neuve Options : ■Elargisseur de voie ■Kit de rehausse ■Arceau de benne avec éclairage coffre Etc...",
+      "en": "Année 2024/ WW Maroc 35 000 km / 8 cv Vignette Boite automatique Révisions chez ford État comme neuve Options : ■Elargisseur de voie ■Kit de rehausse ■Arceau de benne avec éclairage coffre Etc...",
+      "usedDarija": false
     },
     "features": [
       {
@@ -117703,9 +118358,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Hyundai Santa Fe 2010 en bon état général, disponible pour visite.",
+      "original": "Hyundai Santa Fe 2010 en bon état général, disponible pour visite.",
       "ar": "Hyundai Santa Fe 2010 en bon état général, disponible pour visite.",
-      "original": "Hyundai Santa Fe 2010 en bon état général, disponible pour visite."
+      "en": "Hyundai Santa Fe 2010 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -117918,9 +118574,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Peugeot 5008 en excellent état, modèle 2017.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "À vendre Peugeot 5008 en excellent état, modèle 2017.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "À vendre Peugeot 5008 en excellent état, modèle 2017.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "À vendre Peugeot 5008 en excellent état, modèle 2017.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "À vendre Peugeot 5008 en excellent état, modèle 2017.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -118130,9 +118787,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen Polo Diesel 6cv 2009\nba9a n9ya motor mli7 bzaf , makaynach Accident , consommation mkhyra \nli bghaha mrhba nreglo chwya f Taman",
-      "ar": "Volkswagen Polo Diesel 6cv 2009\nba9a n9ya motor mli7 bzaf , makaynach Accident , consommation mkhyra \nli bghaha mrhba nreglo chwya f Taman",
-      "original": "Volkswagen Polo Diesel 6cv 2009\nba9a n9ya motor mli7 bzaf , makaynach Accident , consommation mkhyra \nli bghaha mrhba nreglo chwya f Taman"
+      "original": "Volkswagen Polo Diesel 6cv 2009 ba9a n9ya motor mli7 bzaf , makaynach Accident , consommation mkhyra li bghaha mrhba nreglo chwya f Taman",
+      "ar": "Volkswagen Polo Diesel 6cv 2009 ba9a n9ya motor mli7 bzaf , makaynach Accident , consommation mkhyra li bghaha mrhba nreglo chwya f Taman",
+      "en": "Volkswagen Polo Diesel 6cv 2009 ba9a n9ya motor mli7 bzaf , makaynach Accident , consommation mkhyra li bghaha mrhba nreglo chwya f Taman",
+      "usedDarija": false
     },
     "features": [
       {
@@ -118311,9 +118969,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma Seat Ibiza Diesel de 2016, en excellent état.. - Jantes aluminium, airbags, climatisation, GPS, sièges cuir, radar et caméra de recul. - Vitres électriques, ABS, ESP, régulateur et limiteur de vitesse.",
-      "ar": "Je mets en vente ma Seat Ibiza Diesel de 2016, en excellent état.. - Jantes aluminium, airbags, climatisation, GPS, sièges cuir, radar et caméra de recul. - Vitres électriques, ABS, ESP, régulateur et limiteur de vitesse.",
-      "original": "Je mets en vente ma Seat Ibiza Diesel de 2016, en excellent état.. - Jantes aluminium, airbags, climatisation, GPS, sièges cuir, radar et caméra de recul. - Vitres électriques, ABS, ESP, régulateur et limiteur de vitesse."
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. موتورها معروف بالصبر والخدمة وكيدور مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ جوانط ألمنيوم أنيقة، كليما خدامة مزيان، صالون كوير نقي ومريح. موتورها معروف بالصبر والخدمة وكيدور مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with stylish alloy wheels, air conditioning, and premium leather upholstery. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -118530,9 +119189,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une très très belle voiture familiale toute neuf et toute option peinture d’origine jamais accidenté aucune réparation à prévoir modèle 11/2016\nPossibilité de faire reprise",
-      "ar": "Je mets en vente une très très belle voiture familiale toute neuf et toute option peinture d’origine jamais accidenté aucune réparation à prévoir modèle 11/2016\nPossibilité de faire reprise",
-      "original": "Je mets en vente une très très belle voiture familiale toute neuf et toute option peinture d’origine jamais accidenté aucune réparation à prévoir modèle 11/2016\nPossibilité de faire reprise"
+      "original": "Je mets en vente une très très belle voiture familiale toute neuf et toute option peinture d’origine jamais accidenté aucune réparation à prévoir modèle 11/2016 Possibilité de faire reprise",
+      "ar": "Je mets en vente une très très belle voiture familiale toute neuf et toute option peinture d’origine jamais accidenté aucune réparation à prévoir modèle 11/2016 Possibilité de faire reprise",
+      "en": "Je mets en vente une très très belle voiture familiale toute neuf et toute option peinture d’origine jamais accidenté aucune réparation à prévoir modèle 11/2016 Possibilité de faire reprise",
+      "usedDarija": false
     },
     "features": [
       {
@@ -118748,9 +119408,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "2017 dédouanée 2024, 2.0 TDI 115 CV\nLine assist\nACC\nFeux/Phare optique LED \nPoste grand Écran\nÉtat irréprochable\nKilométrage réel, peinture d'origine, pas d'accident. Vignette.\nlégèrement négociable. \nPropriétaire direct",
-      "ar": "2017 dédouanée 2024, 2.0 TDI 115 CV\nLine assist\nACC\nFeux/Phare optique LED \nPoste grand Écran\nÉtat irréprochable\nKilométrage réel, peinture d'origine, pas d'accident. Vignette.\nlégèrement négociable. \nPropriétaire direct",
-      "original": "2017 dédouanée 2024, 2.0 TDI 115 CV\nLine assist\nACC\nFeux/Phare optique LED \nPoste grand Écran\nÉtat irréprochable\nKilométrage réel, peinture d'origine, pas d'accident. Vignette.\nlégèrement négociable. \nPropriétaire direct"
+      "original": "طوموبيل عائلية عالية ومريحة بزاف فـ السفر، كوفر واسع وثبات فـ الفيراجات. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل عائلية عالية ومريحة بزاف فـ السفر، كوفر واسع وثبات فـ الفيراجات. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Versatile family crossover featuring a commanding driving position, generous luggage space, and dependable road manner. Richly specified with reversing camera and parking sensors, cruise control, and stylish alloy wheels. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -118960,9 +119621,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Audi A3 S line Sportback Diesel Automatique de 2015 en excellent état.. - Jantes aluminium. - Airbags.",
+      "original": "Je vends une Audi A3 S line Sportback Diesel Automatique de 2015 en excellent état.. - Jantes aluminium. - Airbags.",
       "ar": "Je vends une Audi A3 S line Sportback Diesel Automatique de 2015 en excellent état.. - Jantes aluminium. - Airbags.",
-      "original": "Je vends une Audi A3 S line Sportback Diesel Automatique de 2015 en excellent état.. - Jantes aluminium. - Airbags."
+      "en": "Je vends une Audi A3 S line Sportback Diesel Automatique de 2015 en excellent état.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -119179,9 +119841,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Kia Picanto 2024 en bon état général, disponible pour visite.",
+      "original": "Kia Picanto 2024 en bon état général, disponible pour visite.",
       "ar": "Kia Picanto 2024 en bon état général, disponible pour visite.",
-      "original": "Kia Picanto 2024 en bon état général, disponible pour visite."
+      "en": "Kia Picanto 2024 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -119382,9 +120045,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Fiat 500 X modèle 2022 en excellent état.. - Origine WW au Maroc. - Nombre de portes 5.",
+      "original": "À vendre Fiat 500 X modèle 2022 en excellent état.. - Origine WW au Maroc. - Nombre de portes 5.",
       "ar": "À vendre Fiat 500 X modèle 2022 en excellent état.. - Origine WW au Maroc. - Nombre de portes 5.",
-      "original": "À vendre Fiat 500 X modèle 2022 en excellent état.. - Origine WW au Maroc. - Nombre de portes 5."
+      "en": "À vendre Fiat 500 X modèle 2022 en excellent état.. - Origine WW au Maroc. - Nombre de portes 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -119599,9 +120263,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre ou en reprise, une Dacia Logan Diesel de 2006 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "À vendre ou en reprise, une Dacia Logan Diesel de 2006 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "À vendre ou en reprise, une Dacia Logan Diesel de 2006 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "À vendre ou en reprise, une Dacia Logan Diesel de 2006 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "À vendre ou en reprise, une Dacia Logan Diesel de 2006 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -119771,9 +120436,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre une Peugeot 3008 GT Line, authomatique, toit panoramique ouvrant, toutes options. Première main, très bon état. Jamais accidentée.",
+      "original": "À vendre une Peugeot 3008 GT Line, authomatique, toit panoramique ouvrant, toutes options. Première main, très bon état. Jamais accidentée.",
       "ar": "À vendre une Peugeot 3008 GT Line, authomatique, toit panoramique ouvrant, toutes options. Première main, très bon état. Jamais accidentée.",
-      "original": "À vendre une Peugeot 3008 GT Line, authomatique, toit panoramique ouvrant, toutes options. Première main, très bon état. Jamais accidentée."
+      "en": "À vendre une Peugeot 3008 GT Line, authomatique, toit panoramique ouvrant, toutes options. Première main, très bon état. Jamais accidentée.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -119980,9 +120646,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Nissan Qashqai Diesel de 2013, première main, en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "original": "Je vends une Nissan Qashqai Diesel de 2013, première main, en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
       "ar": "Je vends une Nissan Qashqai Diesel de 2013, première main, en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
-      "original": "Je vends une Nissan Qashqai Diesel de 2013, première main, en très bon état.. - Origine : WW au Maroc. - Jantes aluminium."
+      "en": "Je vends une Nissan Qashqai Diesel de 2013, première main, en très bon état.. - Origine : WW au Maroc. - Jantes aluminium.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -120172,9 +120839,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture trai bon etat peinture originale 2011 diwana 2013",
+      "original": "voiture trai bon etat peinture originale 2011 diwana 2013",
       "ar": "voiture trai bon etat peinture originale 2011 diwana 2013",
-      "original": "voiture trai bon etat peinture originale 2011 diwana 2013"
+      "en": "voiture trai bon etat peinture originale 2011 diwana 2013",
+      "usedDarija": false
     },
     "features": [
       {
@@ -120391,9 +121059,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Bonjour je mets en vente une volkswagen coccinelle diesel 8cv automatique beetle signature sur commande. Model fin 2017. Avec LED du jour.",
+      "original": "Bonjour je mets en vente une volkswagen coccinelle diesel 8cv automatique beetle signature sur commande. Model fin 2017. Avec LED du jour.",
       "ar": "Bonjour je mets en vente une volkswagen coccinelle diesel 8cv automatique beetle signature sur commande. Model fin 2017. Avec LED du jour.",
-      "original": "Bonjour je mets en vente une volkswagen coccinelle diesel 8cv automatique beetle signature sur commande. Model fin 2017. Avec LED du jour."
+      "en": "Bonjour je mets en vente une volkswagen coccinelle diesel 8cv automatique beetle signature sur commande. Model fin 2017. Avec LED du jour.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -120607,9 +121276,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente une BMW 520d diesel automatique pack Luxury de 2010 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "original": "Je mets en vente une BMW 520d diesel automatique pack Luxury de 2010 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
       "ar": "Je mets en vente une BMW 520d diesel automatique pack Luxury de 2010 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
-      "original": "Je mets en vente une BMW 520d diesel automatique pack Luxury de 2010 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5."
+      "en": "Je mets en vente une BMW 520d diesel automatique pack Luxury de 2010 en très bon état.. - Origine : WW au Maroc. - Nombre de portes : 5.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -120809,9 +121479,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre – Mercedes-Benz C 220 d Coupé. Mercedes C 220 d Coupé 3 portes, importée neuve au Maroc, mise en circulation en 2020.. 90 000 km, toutes options sauf toit ouvrant.",
+      "original": "À vendre – Mercedes-Benz C 220 d Coupé. Mercedes C 220 d Coupé 3 portes, importée neuve au Maroc, mise en circulation en 2020.. 90 000 km, toutes options sauf toit ouvrant.",
       "ar": "À vendre – Mercedes-Benz C 220 d Coupé. Mercedes C 220 d Coupé 3 portes, importée neuve au Maroc, mise en circulation en 2020.. 90 000 km, toutes options sauf toit ouvrant.",
-      "original": "À vendre – Mercedes-Benz C 220 d Coupé. Mercedes C 220 d Coupé 3 portes, importée neuve au Maroc, mise en circulation en 2020.. 90 000 km, toutes options sauf toit ouvrant."
+      "en": "À vendre – Mercedes-Benz C 220 d Coupé. Mercedes C 220 d Coupé 3 portes, importée neuve au Maroc, mise en circulation en 2020.. 90 000 km, toutes options sauf toit ouvrant.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -121025,9 +121696,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "UNE INCROYABLE AUDI Q5 2.0 TDI QUATTRO S-LINE PACK BLACK SQ5 CARBONE EN BOITE AUTOMATIQUE S-TRONIC, MODÈLE 03/2021 ET DÉDOUANÉE EN 06/2022.. AVEC 80.000 KM SEULEMENT ET TOUTES OPTIONS.. 2xTOIT OUVRANT PANORAMIQUE, COUPE-VENT…",
-      "ar": "UNE INCROYABLE AUDI Q5 2.0 TDI QUATTRO S-LINE PACK BLACK SQ5 CARBONE EN BOITE AUTOMATIQUE S-TRONIC, MODÈLE 03/2021 ET DÉDOUANÉE EN 06/2022.. AVEC 80.000 KM SEULEMENT ET TOUTES OPTIONS.. 2xTOIT OUVRANT PANORAMIQUE, COUPE-VENT…",
-      "original": "UNE INCROYABLE AUDI Q5 2.0 TDI QUATTRO S-LINE PACK BLACK SQ5 CARBONE EN BOITE AUTOMATIQUE S-TRONIC, MODÈLE 03/2021 ET DÉDOUANÉE EN 06/2022.. AVEC 80.000 KM SEULEMENT ET TOUTES OPTIONS.. 2xTOIT OUVRANT PANORAMIQUE, COUPE-VENT…"
+      "original": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -121244,9 +121916,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Citroen C4 diesel model fin 2024 version Shine plus toute option (1er main) (KLM 39000) suivi à la maison, j’accepte reprise disponible à sala el jadida",
+      "original": "Citroen C4 diesel model fin 2024 version Shine plus toute option (1er main) (KLM 39000) suivi à la maison, j’accepte reprise disponible à sala el jadida",
       "ar": "Citroen C4 diesel model fin 2024 version Shine plus toute option (1er main) (KLM 39000) suivi à la maison, j’accepte reprise disponible à sala el jadida",
-      "original": "Citroen C4 diesel model fin 2024 version Shine plus toute option (1er main) (KLM 39000) suivi à la maison, j’accepte reprise disponible à sala el jadida"
+      "en": "Citroen C4 diesel model fin 2024 version Shine plus toute option (1er main) (KLM 39000) suivi à la maison, j’accepte reprise disponible à sala el jadida",
+      "usedDarija": false
     },
     "features": [
       {
@@ -121463,9 +122136,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre Mercedes Benz C 220 Dédouanée, première main en excellent état.. - Toit ouvrant. - Sièges en cuir.",
+      "original": "À vendre Mercedes Benz C 220 Dédouanée, première main en excellent état.. - Toit ouvrant. - Sièges en cuir.",
       "ar": "À vendre Mercedes Benz C 220 Dédouanée, première main en excellent état.. - Toit ouvrant. - Sièges en cuir.",
-      "original": "À vendre Mercedes Benz C 220 Dédouanée, première main en excellent état.. - Toit ouvrant. - Sièges en cuir."
+      "en": "À vendre Mercedes Benz C 220 Dédouanée, première main en excellent état.. - Toit ouvrant. - Sièges en cuir.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -121680,9 +122354,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture trai bon etat",
-      "ar": "voiture trai bon etat",
-      "original": "voiture trai bon etat"
+      "original": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "نسخة راقية ومطلوبة فـ السوق، ركبة أميرية وعزل صوتي ممتاز كيحسسك بالراحة. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، صالون كوير نقي ومريح، شاشة لمس مع نافيگاسيون GPS. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Executive-class vehicle offering commanding road presence, smooth power delivery, and exemplary ride comfort. Richly specified with air conditioning, premium leather upholstery, and touchscreen GPS navigation. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -121895,9 +122570,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "À vendre : Seat Ibiza Diesel Manuelle, première main, en très bon état.. - Jantes aluminium. - Airbags.",
+      "original": "À vendre : Seat Ibiza Diesel Manuelle, première main, en très bon état.. - Jantes aluminium. - Airbags.",
       "ar": "À vendre : Seat Ibiza Diesel Manuelle, première main, en très bon état.. - Jantes aluminium. - Airbags.",
-      "original": "À vendre : Seat Ibiza Diesel Manuelle, première main, en très bon état.. - Jantes aluminium. - Airbags."
+      "en": "À vendre : Seat Ibiza Diesel Manuelle, première main, en très bon état.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -122059,9 +122735,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je propose à la vente cette Porsche Macan de 2024 en excellent état.. - Origine : WW au Maroc. - Première main.",
+      "original": "Je propose à la vente cette Porsche Macan de 2024 en excellent état.. - Origine : WW au Maroc. - Première main.",
       "ar": "Je propose à la vente cette Porsche Macan de 2024 en excellent état.. - Origine : WW au Maroc. - Première main.",
-      "original": "Je propose à la vente cette Porsche Macan de 2024 en excellent état.. - Origine : WW au Maroc. - Première main."
+      "en": "Je propose à la vente cette Porsche Macan de 2024 en excellent état.. - Origine : WW au Maroc. - Première main.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -122278,9 +122955,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "hyundai santafe 2016 darba 360k km tres bon etat moteur neuf / toute options toit ouvrant panoramique / memoire sieges / siege chaffaunt / 4x4 / pneu bon etat / crapotage khadam / ecran carplay neuf /",
+      "original": "hyundai santafe 2016 darba 360k km tres bon etat moteur neuf / toute options toit ouvrant panoramique / memoire sieges / siege chaffaunt / 4x4 / pneu bon etat / crapotage khadam / ecran carplay neuf /",
       "ar": "hyundai santafe 2016 darba 360k km tres bon etat moteur neuf / toute options toit ouvrant panoramique / memoire sieges / siege chaffaunt / 4x4 / pneu bon etat / crapotage khadam / ecran carplay neuf /",
-      "original": "hyundai santafe 2016 darba 360k km tres bon etat moteur neuf / toute options toit ouvrant panoramique / memoire sieges / siege chaffaunt / 4x4 / pneu bon etat / crapotage khadam / ecran carplay neuf /"
+      "en": "hyundai santafe 2016 darba 360k km tres bon etat moteur neuf / toute options toit ouvrant panoramique / memoire sieges / siege chaffaunt / 4x4 / pneu bon etat / crapotage khadam / ecran carplay neuf /",
+      "usedDarija": false
     },
     "features": [
       {
@@ -122495,9 +123173,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Fiat 500 2025 en bon état général, disponible pour visite.",
+      "original": "Fiat 500 2025 en bon état général, disponible pour visite.",
       "ar": "Fiat 500 2025 en bon état général, disponible pour visite.",
-      "original": "Fiat 500 2025 en bon état général, disponible pour visite."
+      "en": "Fiat 500 2025 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -122639,9 +123318,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "voiture bon etat",
-      "ar": "voiture bon etat",
-      "original": "voiture bon etat"
+      "original": "طوموبيل اقتصادية بزاف ومحبوبة المغاربة، ساهلة فـ السوگان والكونسوماسيون والو. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "طوموبيل اقتصادية بزاف ومحبوبة المغاربة، ساهلة فـ السوگان والكونسوماسيون والو. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Popular and economical hatchback renowned for outstanding fuel economy, low maintenance, and effortless parking. Richly specified with reversing camera and parking sensors, cruise control, and stylish alloy wheels. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -122856,9 +123536,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "---. autocash propose à la vente une voiture Mercedes - CLA Coupé, avec la finition 220 d Progressive,à partir de/mois. Cette voiture appartient à un particulier mais est gérée par autocash.",
+      "original": "---. autocash propose à la vente une voiture Mercedes - CLA Coupé, avec la finition 220 d Progressive,à partir de/mois. Cette voiture appartient à un particulier mais est gérée par autocash.",
       "ar": "---. autocash propose à la vente une voiture Mercedes - CLA Coupé, avec la finition 220 d Progressive,à partir de/mois. Cette voiture appartient à un particulier mais est gérée par autocash.",
-      "original": "---. autocash propose à la vente une voiture Mercedes - CLA Coupé, avec la finition 220 d Progressive,à partir de/mois. Cette voiture appartient à un particulier mais est gérée par autocash."
+      "en": "---. autocash propose à la vente une voiture Mercedes - CLA Coupé, avec la finition 220 d Progressive,à partir de/mois. Cette voiture appartient à un particulier mais est gérée par autocash.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -122992,9 +123673,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen Coccinelle 2002 en bon état général, disponible pour visite.",
+      "original": "Volkswagen Coccinelle 2002 en bon état général, disponible pour visite.",
       "ar": "Volkswagen Coccinelle 2002 en bon état général, disponible pour visite.",
-      "original": "Volkswagen Coccinelle 2002 en bon état général, disponible pour visite."
+      "en": "Volkswagen Coccinelle 2002 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -123209,9 +123891,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Fiat Panda 1.3 Diesel première main dédouaner personnel première peinture jamais accident origine",
+      "original": "Fiat Panda 1.3 Diesel première main dédouaner personnel première peinture jamais accident origine",
       "ar": "Fiat Panda 1.3 Diesel première main dédouaner personnel première peinture jamais accident origine",
-      "original": "Fiat Panda 1.3 Diesel première main dédouaner personnel première peinture jamais accident origine"
+      "en": "Fiat Panda 1.3 Diesel première main dédouaner personnel première peinture jamais accident origine",
+      "usedDarija": false
     },
     "features": [
       {
@@ -123355,9 +124038,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma voiture Peugeot 208 GT-LINE diesel année 2020 en très bon état de fonctionnement.",
+      "original": "Je mets en vente ma voiture Peugeot 208 GT-LINE diesel année 2020 en très bon état de fonctionnement.",
       "ar": "Je mets en vente ma voiture Peugeot 208 GT-LINE diesel année 2020 en très bon état de fonctionnement.",
-      "original": "Je mets en vente ma voiture Peugeot 208 GT-LINE diesel année 2020 en très bon état de fonctionnement."
+      "en": "Je mets en vente ma voiture Peugeot 208 GT-LINE diesel année 2020 en très bon état de fonctionnement.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -123558,9 +124242,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيارة فورد كا موديل 2000 بحالة جيدة جدا.. - الماركة: فورد. - الموديل: كا.",
+      "original": "أعرض للبيع سيارة فورد كا موديل 2000 بحالة جيدة جدا.. - الماركة: فورد. - الموديل: كا.",
       "ar": "أعرض للبيع سيارة فورد كا موديل 2000 بحالة جيدة جدا.. - الماركة: فورد. - الموديل: كا.",
-      "original": "أعرض للبيع سيارة فورد كا موديل 2000 بحالة جيدة جدا.. - الماركة: فورد. - الموديل: كا."
+      "en": "أعرض للبيع سيارة فورد كا موديل 2000 بحالة جيدة جدا.. - الماركة: فورد. - الموديل: كا.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -123748,9 +124433,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mini cooper 2013 automatique",
-      "ar": "Mini cooper 2013 automatique",
-      "original": "Mini cooper 2013 automatique"
+      "original": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. فيها تجهيزات مزيانة بحال جوانط ألمنيوم أنيقة. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "طوموبيل نقية وموثوقة، صالحة للدوام والمسافات وما فيها حتى عيب. فيها تجهيزات مزيانة بحال جوانط ألمنيوم أنيقة. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Well-cared-for car offering balanced road manners, dependable mechanicals, and a comfortable cabin. Features desirable equipment including stylish alloy wheels. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -123896,9 +124582,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Tiguan modèle 2016 sortie de la concession en 2018 de chez Volkswagen Oujda bien entretenu habitacle cuire très propre, kilométrage excellent, pneu neuve Bridgestone.. siège avant électriques.. le est légèrement négociable.",
-      "ar": "Tiguan modèle 2016 sortie de la concession en 2018 de chez Volkswagen Oujda bien entretenu habitacle cuire très propre, kilométrage excellent, pneu neuve Bridgestone.. siège avant électriques.. le est légèrement négociable.",
-      "original": "Tiguan modèle 2016 sortie de la concession en 2018 de chez Volkswagen Oujda bien entretenu habitacle cuire très propre, kilométrage excellent, pneu neuve Bridgestone.. siège avant électriques.. le est légèrement négociable."
+      "original": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. معروضة للبيع فـ وجدة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. معروضة للبيع فـ وجدة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Practical, spacious SUV perfectly suited for both daily family routines and long Moroccan road trips. Richly specified with reversing camera and parking sensors, stylish alloy wheels, and air conditioning. Available for viewing in Oujda. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -124098,9 +124785,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيارة رينو كانغو موديل 2012 بحالة جيدة جدا.\n- عجلات ألمنيوم\n- تكييف\n- نوافذ كهربائية\n- محدد السرعة\n- قفل مركزي عن بعد\n- محرك ديزل بقوة 6 خيول جبائية\n- مستوردة جديدة\n- 5 أبواب\nتواصل معي إذا كنت مهتماً.",
-      "ar": "أعرض للبيع سيارة رينو كانغو موديل 2012 بحالة جيدة جدا.\n- عجلات ألمنيوم\n- تكييف\n- نوافذ كهربائية\n- محدد السرعة\n- قفل مركزي عن بعد\n- محرك ديزل بقوة 6 خيول جبائية\n- مستوردة جديدة\n- 5 أبواب\nتواصل معي إذا كنت مهتماً.",
-      "original": "أعرض للبيع سيارة رينو كانغو موديل 2012 بحالة جيدة جدا.\n- عجلات ألمنيوم\n- تكييف\n- نوافذ كهربائية\n- محدد السرعة\n- قفل مركزي عن بعد\n- محرك ديزل بقوة 6 خيول جبائية\n- مستوردة جديدة\n- 5 أبواب\nتواصل معي إذا كنت مهتماً."
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. فيها تجهيزات مزيانة بحال جوانط ألمنيوم أنيقة و كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. فيها تجهيزات مزيانة بحال جوانط ألمنيوم أنيقة و كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Features desirable equipment including stylish alloy wheels and air conditioning. Very low mileage with bodywork and interior in near-showroom condition. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -124268,9 +124956,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Duster Dacia \nAutomatique tout option \nModèle 2019\nKM 169000\nTrès bon état",
-      "ar": "Duster Dacia \nAutomatique tout option \nModèle 2019\nKM 169000\nTrès bon état",
-      "original": "Duster Dacia \nAutomatique tout option \nModèle 2019\nKM 169000\nTrès bon état"
+      "original": "Duster Dacia Automatique tout option Modèle 2019 KM 169000 Très bon état",
+      "ar": "Duster Dacia Automatique tout option Modèle 2019 KM 169000 Très bon état",
+      "en": "Duster Dacia Automatique tout option Modèle 2019 KM 169000 Très bon état",
+      "usedDarija": false
     },
     "features": [
       {
@@ -124484,9 +125173,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Volkswagen Touareg Automatique Toutes options Km 210 000",
+      "original": "Volkswagen Touareg Automatique Toutes options Km 210 000",
       "ar": "Volkswagen Touareg Automatique Toutes options Km 210 000",
-      "original": "Volkswagen Touareg Automatique Toutes options Km 210 000"
+      "en": "Volkswagen Touareg Automatique Toutes options Km 210 000",
+      "usedDarija": false
     },
     "features": [
       {
@@ -124689,9 +125379,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "otoclic, meilleure adresse d’achat et vente des voitures et des véhicules d’occasion vous propose une voiture de première main en excellent état, mise en circulation en 2023, bien entretenue, affiche un faible kilométrage réel et…",
-      "ar": "otoclic, meilleure adresse d’achat et vente des voitures et des véhicules d’occasion vous propose une voiture de première main en excellent état, mise en circulation en 2023, bien entretenue, affiche un faible kilométrage réel et…",
-      "original": "otoclic, meilleure adresse d’achat et vente des voitures et des véhicules d’occasion vous propose une voiture de première main en excellent état, mise en circulation en 2023, bien entretenue, affiche un faible kilométrage réel et…"
+      "original": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل نقية ومولوعة، متهلي فيها مولاها وحالتها تبارك الله كتعجب. عامرة بـ ليزوبسيون، مجهزة بـ كليما خدامة مزيان، شاشة لمس مع نافيگاسيون GPS، كاميرا ورادار للمارشاريير. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Solid, dependable vehicle kept in clean condition with careful ownership and honest maintenance history. Richly specified with air conditioning, touchscreen GPS navigation, and reversing camera and parking sensors. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -124888,9 +125579,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je mets en vente ma voiture personnelle en excellente état, légèrement négociable devant la voiture merci",
+      "original": "je mets en vente ma voiture personnelle en excellente état, légèrement négociable devant la voiture merci",
       "ar": "je mets en vente ma voiture personnelle en excellente état, légèrement négociable devant la voiture merci",
-      "original": "je mets en vente ma voiture personnelle en excellente état, légèrement négociable devant la voiture merci"
+      "en": "je mets en vente ma voiture personnelle en excellente état, légèrement négociable devant la voiture merci",
+      "usedDarija": false
     },
     "features": [
       {
@@ -125101,9 +125793,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends une Opel Insignia de 2015 en excellent état.. - Jantes aluminium. - Airbags.",
+      "original": "Je vends une Opel Insignia de 2015 en excellent état.. - Jantes aluminium. - Airbags.",
       "ar": "Je vends une Opel Insignia de 2015 en excellent état.. - Jantes aluminium. - Airbags.",
-      "original": "Je vends une Opel Insignia de 2015 en excellent état.. - Jantes aluminium. - Airbags."
+      "en": "Je vends une Opel Insignia de 2015 en excellent état.. - Jantes aluminium. - Airbags.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -125320,9 +126013,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "jeep wrangler sahara 99000kms",
-      "ar": "jeep wrangler sahara 99000kms",
-      "original": "jeep wrangler sahara 99000kms"
+      "original": "طوموبيل عائلية عالية ومريحة بزاف فـ السفر، كوفر واسع وثبات فـ الفيراجات. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "طوموبيل عائلية عالية ومريحة بزاف فـ السفر، كوفر واسع وثبات فـ الفيراجات. عامرة بـ ليزوبسيون، مجهزة بـ صالون كوير نقي ومريح، ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Versatile family crossover featuring a commanding driving position, generous luggage space, and dependable road manner. Richly specified with premium leather upholstery, cruise control, and stylish alloy wheels. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -125516,9 +126210,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je mets en vente ma Ford Fiesta année 2017, une voiture fiable, économique et agréable à conduire, idéale aussi bien pour la ville que pour les trajets plus longs.",
+      "original": "Je mets en vente ma Ford Fiesta année 2017, une voiture fiable, économique et agréable à conduire, idéale aussi bien pour la ville que pour les trajets plus longs.",
       "ar": "Je mets en vente ma Ford Fiesta année 2017, une voiture fiable, économique et agréable à conduire, idéale aussi bien pour la ville que pour les trajets plus longs.",
-      "original": "Je mets en vente ma Ford Fiesta année 2017, une voiture fiable, économique et agréable à conduire, idéale aussi bien pour la ville que pour les trajets plus longs."
+      "en": "Je mets en vente ma Ford Fiesta année 2017, une voiture fiable, économique et agréable à conduire, idéale aussi bien pour la ville que pour les trajets plus longs.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -125698,9 +126393,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Une chery tiggo 4 pro essence 9cv Automatique. Vignette Peinture d'origine. Model fin 2023 / 12.",
+      "original": "Une chery tiggo 4 pro essence 9cv Automatique. Vignette Peinture d'origine. Model fin 2023 / 12.",
       "ar": "Une chery tiggo 4 pro essence 9cv Automatique. Vignette Peinture d'origine. Model fin 2023 / 12.",
-      "original": "Une chery tiggo 4 pro essence 9cv Automatique. Vignette Peinture d'origine. Model fin 2023 / 12."
+      "en": "Une chery tiggo 4 pro essence 9cv Automatique. Vignette Peinture d'origine. Model fin 2023 / 12.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -125915,9 +126611,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "أعرض للبيع سيارتي جيب رينيجيد، بحالة عامة جيدة جداً، تمت صيانتها بشكل جيد وممتعة في القيادة.",
+      "original": "أعرض للبيع سيارتي جيب رينيجيد، بحالة عامة جيدة جداً، تمت صيانتها بشكل جيد وممتعة في القيادة.",
       "ar": "أعرض للبيع سيارتي جيب رينيجيد، بحالة عامة جيدة جداً، تمت صيانتها بشكل جيد وممتعة في القيادة.",
-      "original": "أعرض للبيع سيارتي جيب رينيجيد، بحالة عامة جيدة جداً، تمت صيانتها بشكل جيد وممتعة في القيادة."
+      "en": "أعرض للبيع سيارتي جيب رينيجيد، بحالة عامة جيدة جداً، تمت صيانتها بشكل جيد وممتعة في القيادة.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -126061,9 +126758,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "aerox malossi",
-      "ar": "aerox malossi",
-      "original": "aerox malossi"
+      "original": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Enthusiast-owned sports bike offering sharp cornering dynamics, raw mechanical soundtrack, and solid running gear. Very low mileage with bodywork and interior in near-showroom condition. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -126201,9 +126899,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Bonjour,\nJe mets en vente \nMOTO HARLEY DAVIDSON ANNÉE 2024\n22000 KM COMPLÈTEMENT RESTAURER",
-      "ar": "Bonjour,\nJe mets en vente \nMOTO HARLEY DAVIDSON ANNÉE 2024\n22000 KM COMPLÈTEMENT RESTAURER",
-      "original": "Bonjour,\nJe mets en vente \nMOTO HARLEY DAVIDSON ANNÉE 2024\n22000 KM COMPLÈTEMENT RESTAURER"
+      "original": "Bonjour, Je mets en vente MOTO HARLEY DAVIDSON ANNÉE 2024 22000 KM COMPLÈTEMENT RESTAURER",
+      "ar": "Bonjour, Je mets en vente MOTO HARLEY DAVIDSON ANNÉE 2024 22000 KM COMPLÈTEMENT RESTAURER",
+      "en": "Bonjour, Je mets en vente MOTO HARLEY DAVIDSON ANNÉE 2024 22000 KM COMPLÈTEMENT RESTAURER",
+      "usedDarija": false
     },
     "features": [
       {
@@ -126346,9 +127045,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "tableau khaser khaso it9ad li bghah ntfaham m3ah",
+      "original": "tableau khaser khaso it9ad li bghah ntfaham m3ah",
       "ar": "tableau khaser khaso it9ad li bghah ntfaham m3ah",
-      "original": "tableau khaser khaso it9ad li bghah ntfaham m3ah"
+      "en": "tableau khaser khaso it9ad li bghah ntfaham m3ah",
+      "usedDarija": false
     },
     "features": [
       {
@@ -126476,9 +127176,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je met en vente mon moto z800 les bneus neufs,pot leovince,filtre l’air kit, bougie kit\n merci de contacter en mohammed",
-      "ar": "je met en vente mon moto z800 les bneus neufs,pot leovince,filtre l’air kit, bougie kit\n merci de contacter en mohammed",
-      "original": "je met en vente mon moto z800 les bneus neufs,pot leovince,filtre l’air kit, bougie kit\n merci de contacter en mohammed"
+      "original": "je met en vente mon moto z800 les bneus neufs,pot leovince,filtre l’air kit, bougie kit merci de contacter en mohammed",
+      "ar": "je met en vente mon moto z800 les bneus neufs,pot leovince,filtre l’air kit, bougie kit merci de contacter en mohammed",
+      "en": "je met en vente mon moto z800 les bneus neufs,pot leovince,filtre l’air kit, bougie kit merci de contacter en mohammed",
+      "usedDarija": false
     },
     "features": [
       {
@@ -126609,9 +127310,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "xmax 125cc\nmise en circulation le 20/12/2013\nww maroc\ntrès bien entretenu \neclairage full led",
-      "ar": "xmax 125cc\nmise en circulation le 20/12/2013\nww maroc\ntrès bien entretenu \neclairage full led",
-      "original": "xmax 125cc\nmise en circulation le 20/12/2013\nww maroc\ntrès bien entretenu \neclairage full led"
+      "original": "xmax 125cc mise en circulation le 20/12/2013 ww maroc très bien entretenu eclairage full led",
+      "ar": "xmax 125cc mise en circulation le 20/12/2013 ww maroc très bien entretenu eclairage full led",
+      "en": "xmax 125cc mise en circulation le 20/12/2013 ww maroc très bien entretenu eclairage full led",
+      "usedDarija": false
     },
     "features": [
       {
@@ -126754,9 +127456,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Tenere 1200 état neuf valises latérales top case crash bar feux additionnels sabot moteur",
+      "original": "Tenere 1200 état neuf valises latérales top case crash bar feux additionnels sabot moteur",
       "ar": "Tenere 1200 état neuf valises latérales top case crash bar feux additionnels sabot moteur",
-      "original": "Tenere 1200 état neuf valises latérales top case crash bar feux additionnels sabot moteur"
+      "en": "Tenere 1200 état neuf valises latérales top case crash bar feux additionnels sabot moteur",
+      "usedDarija": false
     },
     "features": [
       {
@@ -126892,9 +127595,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "bon occasion motor sania",
-      "ar": "bon occasion motor sania",
-      "original": "bon occasion motor sania"
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -127021,9 +127725,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je met mon moteur de bonne qualité et l’état neuf jamais accidenté c interessant marhba",
+      "original": "Je met mon moteur de bonne qualité et l’état neuf jamais accidenté c interessant marhba",
       "ar": "Je met mon moteur de bonne qualité et l’état neuf jamais accidenté c interessant marhba",
-      "original": "Je met mon moteur de bonne qualité et l’état neuf jamais accidenté c interessant marhba"
+      "en": "Je met mon moteur de bonne qualité et l’état neuf jamais accidenté c interessant marhba",
+      "usedDarija": false
     },
     "features": [
       {
@@ -127169,9 +127874,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "دراجة نارية للبيع نوع honda adv 350 ، 1100 km",
+      "original": "دراجة نارية للبيع نوع honda adv 350 ، 1100 km",
       "ar": "دراجة نارية للبيع نوع honda adv 350 ، 1100 km",
-      "original": "دراجة نارية للبيع نوع honda adv 350 ، 1100 km"
+      "en": "دراجة نارية للبيع نوع honda adv 350 ، 1100 km",
+      "usedDarija": false
     },
     "features": [
       {
@@ -127314,9 +128020,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je vend une bmw gs boxer tbe 1200, année 2012 avec valises.",
+      "original": "je vend une bmw gs boxer tbe 1200, année 2012 avec valises.",
       "ar": "je vend une bmw gs boxer tbe 1200, année 2012 avec valises.",
-      "original": "je vend une bmw gs boxer tbe 1200, année 2012 avec valises."
+      "en": "je vend une bmw gs boxer tbe 1200, année 2012 avec valises.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -127453,9 +128160,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Yamaha tmax 2015 en bon état général, disponible pour visite.",
+      "original": "Yamaha tmax 2015 en bon état général, disponible pour visite.",
       "ar": "Yamaha tmax 2015 en bon état général, disponible pour visite.",
-      "original": "Yamaha tmax 2015 en bon état général, disponible pour visite."
+      "en": "Yamaha tmax 2015 en bon état général, disponible pour visite.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -127585,9 +128293,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "un moto vespa à vendre model 2015 dédouané en 2020 couleur noir en bon état",
+      "original": "un moto vespa à vendre model 2015 dédouané en 2020 couleur noir en bon état",
       "ar": "un moto vespa à vendre model 2015 dédouané en 2020 couleur noir en bon état",
-      "original": "un moto vespa à vendre model 2015 dédouané en 2020 couleur noir en bon état"
+      "en": "un moto vespa à vendre model 2015 dédouané en 2020 couleur noir en bon état",
+      "usedDarija": false
     },
     "features": [
       {
@@ -127717,9 +128426,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Suzuki vstrom dl 1000 modèle 2011 en très bon état avec top case et 2 valises latérales Crash bar avec sacoches, pinion plateau et chaîne changés avec 2 pneus Michelin 80%",
+      "original": "Suzuki vstrom dl 1000 modèle 2011 en très bon état avec top case et 2 valises latérales Crash bar avec sacoches, pinion plateau et chaîne changés avec 2 pneus Michelin 80%",
       "ar": "Suzuki vstrom dl 1000 modèle 2011 en très bon état avec top case et 2 valises latérales Crash bar avec sacoches, pinion plateau et chaîne changés avec 2 pneus Michelin 80%",
-      "original": "Suzuki vstrom dl 1000 modèle 2011 en très bon état avec top case et 2 valises latérales Crash bar avec sacoches, pinion plateau et chaîne changés avec 2 pneus Michelin 80%"
+      "en": "Suzuki vstrom dl 1000 modèle 2011 en très bon état avec top case et 2 valises latérales Crash bar avec sacoches, pinion plateau et chaîne changés avec 2 pneus Michelin 80%",
+      "usedDarija": false
     },
     "features": [
       {
@@ -127856,9 +128566,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Motor forza sport 2025 yalah chrito hadi chhryan mn lamizon bghit nbi3o b lkask o 3am d lasorans o sando9a taman mlyon o 200",
+      "original": "Motor forza sport 2025 yalah chrito hadi chhryan mn lamizon bghit nbi3o b lkask o 3am d lasorans o sando9a taman mlyon o 200",
       "ar": "Motor forza sport 2025 yalah chrito hadi chhryan mn lamizon bghit nbi3o b lkask o 3am d lasorans o sando9a taman mlyon o 200",
-      "original": "Motor forza sport 2025 yalah chrito hadi chhryan mn lamizon bghit nbi3o b lkask o 3am d lasorans o sando9a taman mlyon o 200"
+      "en": "Motor forza sport 2025 yalah chrito hadi chhryan mn lamizon bghit nbi3o b lkask o 3am d lasorans o sando9a taman mlyon o 200",
+      "usedDarija": false
     },
     "features": [
       {
@@ -127997,9 +128708,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "https://www.groupechopard.com/honda-moto/vehicules-neufs/motos-honda/honda-gold-wing/",
+      "original": "https://www.groupechopard.com/honda-moto/vehicules-neufs/motos-honda/honda-gold-wing/",
       "ar": "https://www.groupechopard.com/honda-moto/vehicules-neufs/motos-honda/honda-gold-wing/",
-      "original": "https://www.groupechopard.com/honda-moto/vehicules-neufs/motos-honda/honda-gold-wing/"
+      "en": "https://www.groupechopard.com/honda-moto/vehicules-neufs/motos-honda/honda-gold-wing/",
+      "usedDarija": false
     },
     "features": [
       {
@@ -128150,9 +128862,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "tu veux rouler avec classe, élégance et une touche dolce vita ?. cette vespa primavera 50 est pour toi. pourquoi je la vends ?.",
+      "original": "tu veux rouler avec classe, élégance et une touche dolce vita ?. cette vespa primavera 50 est pour toi. pourquoi je la vends ?.",
       "ar": "tu veux rouler avec classe, élégance et une touche dolce vita ?. cette vespa primavera 50 est pour toi. pourquoi je la vends ?.",
-      "original": "tu veux rouler avec classe, élégance et une touche dolce vita ?. cette vespa primavera 50 est pour toi. pourquoi je la vends ?."
+      "en": "tu veux rouler avec classe, élégance et une touche dolce vita ?. cette vespa primavera 50 est pour toi. pourquoi je la vends ?.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -128292,9 +129005,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Cimatti monster \nModèle 2024\n70cc avec (125cc et 49cc séparé)\nMoto en très bonne état comme neuf.\nnégociable devant la moto.",
-      "ar": "Cimatti monster \nModèle 2024\n70cc avec (125cc et 49cc séparé)\nMoto en très bonne état comme neuf.\nnégociable devant la moto.",
-      "original": "Cimatti monster \nModèle 2024\n70cc avec (125cc et 49cc séparé)\nMoto en très bonne état comme neuf.\nnégociable devant la moto."
+      "original": "Cimatti monster Modèle 2024 70cc avec (125cc et 49cc séparé) Moto en très bonne état comme neuf. négociable devant la moto.",
+      "ar": "Cimatti monster Modèle 2024 70cc avec (125cc et 49cc séparé) Moto en très bonne état comme neuf. négociable devant la moto.",
+      "en": "Cimatti monster Modèle 2024 70cc avec (125cc et 49cc séparé) Moto en très bonne état comme neuf. négociable devant la moto.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -128439,9 +129153,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Harley Davidson Panamerica Special 1250cc\nImmatriculation RABAT \nComme neuve",
-      "ar": "Harley Davidson Panamerica Special 1250cc\nImmatriculation RABAT \nComme neuve",
-      "original": "Harley Davidson Panamerica Special 1250cc\nImmatriculation RABAT \nComme neuve"
+      "original": "Harley Davidson Panamerica Special 1250cc Immatriculation RABAT Comme neuve",
+      "ar": "Harley Davidson Panamerica Special 1250cc Immatriculation RABAT Comme neuve",
+      "en": "Harley Davidson Panamerica Special 1250cc Immatriculation RABAT Comme neuve",
+      "usedDarija": false
     },
     "features": [
       {
@@ -128585,9 +129300,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Harley Panamerica comme neuve \n1250cc",
-      "ar": "Harley Panamerica comme neuve \n1250cc",
-      "original": "Harley Panamerica comme neuve \n1250cc"
+      "original": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Enthusiast-owned sports bike offering sharp cornering dynamics, raw mechanical soundtrack, and solid running gear. Very low mileage with bodywork and interior in near-showroom condition. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -128730,9 +129446,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Mark : harley-davidson",
-      "ar": "Mark : harley-davidson",
-      "original": "Mark : harley-davidson"
+      "original": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "موطور ناضي وقوي بزاف، متعة وسياقة رياضية وصوت يطربك فـ الطريق. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Very low mileage with bodywork and interior in near-showroom condition. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -128869,9 +129586,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "mt07 phase 3 2021 dédouanement 2023 jamais accidenté full accesoires moto 1of1*. je viens de faire un vidange complet :. + oil moteur.",
+      "original": "mt07 phase 3 2021 dédouanement 2023 jamais accidenté full accesoires moto 1of1*. je viens de faire un vidange complet :. + oil moteur.",
       "ar": "mt07 phase 3 2021 dédouanement 2023 jamais accidenté full accesoires moto 1of1*. je viens de faire un vidange complet :. + oil moteur.",
-      "original": "mt07 phase 3 2021 dédouanement 2023 jamais accidenté full accesoires moto 1of1*. je viens de faire un vidange complet :. + oil moteur."
+      "en": "mt07 phase 3 2021 dédouanement 2023 jamais accidenté full accesoires moto 1of1*. je viens de faire un vidange complet :. + oil moteur.",
+      "usedDarija": false
     },
     "features": [
       {
@@ -129014,9 +129732,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "moteur n9i kolxi ba9i fih jdid",
-      "ar": "moteur n9i kolxi ba9i fih jdid",
-      "original": "moteur n9i kolxi ba9i fih jdid"
+      "original": "سكوتر نقي ديال المولوعين، خفة ورشاقة فـ الطريق وشكل أنيق كيجلب العين. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "سكوتر نقي ديال المولوعين، خفة ورشاقة فـ الطريق وشكل أنيق كيجلب العين. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Agile, stylish modern scooter designed for effortless city commuting and low running costs. Very low mileage with bodywork and interior in near-showroom condition. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -129163,9 +129882,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Je vends ma COOPER S LINE 2023 en excellent état, parfaitement entretenue et prête à rouler !",
+      "original": "Je vends ma COOPER S LINE 2023 en excellent état, parfaitement entretenue et prête à rouler !",
       "ar": "Je vends ma COOPER S LINE 2023 en excellent état, parfaitement entretenue et prête à rouler !",
-      "original": "Je vends ma COOPER S LINE 2023 en excellent état, parfaitement entretenue et prête à rouler !"
+      "en": "Je vends ma COOPER S LINE 2023 en excellent état, parfaitement entretenue et prête à rouler !",
+      "usedDarija": false
     },
     "features": [
       {
@@ -129293,9 +130013,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "Bonjour, \nJe mets en vente ce scooter YAMAHA Aerox 2011 pour les passionnés des petits scooters sportifs à refroidissement liquide. \nVendu avec casque noir",
-      "ar": "Bonjour, \nJe mets en vente ce scooter YAMAHA Aerox 2011 pour les passionnés des petits scooters sportifs à refroidissement liquide. \nVendu avec casque noir",
-      "original": "Bonjour, \nJe mets en vente ce scooter YAMAHA Aerox 2011 pour les passionnés des petits scooters sportifs à refroidissement liquide. \nVendu avec casque noir"
+      "original": "Bonjour, Je mets en vente ce scooter YAMAHA Aerox 2011 pour les passionnés des petits scooters sportifs à refroidissement liquide. Vendu avec casque noir",
+      "ar": "Bonjour, Je mets en vente ce scooter YAMAHA Aerox 2011 pour les passionnés des petits scooters sportifs à refroidissement liquide. Vendu avec casque noir",
+      "en": "Bonjour, Je mets en vente ce scooter YAMAHA Aerox 2011 pour les passionnés des petits scooters sportifs à refroidissement liquide. Vendu avec casque noir",
+      "usedDarija": false
     },
     "features": [
       {
@@ -129434,9 +130155,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "EDITION LIMITEE CROSS BONES. Une VRAIE moto, dans ce sens qu'elle offre ce qu'on attend d'une moto dans sa plus simple expression, avec des lignes U.S.. typées certes, mais avec du couple , de la tenue de route, un vrai caractère…",
-      "ar": "EDITION LIMITEE CROSS BONES. Une VRAIE moto, dans ce sens qu'elle offre ce qu'on attend d'une moto dans sa plus simple expression, avec des lignes U.S.. typées certes, mais avec du couple , de la tenue de route, un vrai caractère…",
-      "original": "EDITION LIMITEE CROSS BONES. Une VRAIE moto, dans ce sens qu'elle offre ce qu'on attend d'une moto dans sa plus simple expression, avec des lignes U.S.. typées certes, mais avec du couple , de la tenue de route, un vrai caractère…"
+      "original": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "همزة مليحة وما تفوتش، ثبات فـ الطريق العريضة ولمولوعي السرعة والمتعة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "en": "Exciting performance motorcycle delivering thrilling acceleration, throaty exhaust note, and confident highway composure. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -129568,9 +130290,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "très bn état moteur comme neuf",
-      "ar": "très bn état moteur comme neuf",
-      "original": "très bn état moteur comme neuf"
+      "original": "سكوتر ناضي واقتصادي، عملي بزاف للخدمة وقضاء الأغراض وساهل فـ السوگان وسط الزحام. باقا بحال يلا عاد خارجة من لا ميزون. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "سكوتر ناضي واقتصادي، عملي بزاف للخدمة وقضاء الأغراض وساهل فـ السوگان وسط الزحام. باقا بحال يلا عاد خارجة من لا ميزون. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Highly practical urban runabout offering comfortable ergonomics, responsive throttle, and frugal fuel consumption. Very low mileage with bodywork and interior in near-showroom condition. Sound running order with up-to-date maintenance, ready to drive anywhere immediately.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -129714,9 +130437,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je met en vente ma moto très bon etat importé de l'italie Vespa GTV 300 Spécial Edition",
+      "original": "je met en vente ma moto très bon etat importé de l'italie Vespa GTV 300 Spécial Edition",
       "ar": "je met en vente ma moto très bon etat importé de l'italie Vespa GTV 300 Spécial Edition",
-      "original": "je met en vente ma moto très bon etat importé de l'italie Vespa GTV 300 Spécial Edition"
+      "en": "je met en vente ma moto très bon etat importé de l'italie Vespa GTV 300 Spécial Edition",
+      "usedDarija": false
     },
     "features": [
       {
@@ -129858,9 +130582,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "moto personnalisée cafe racer",
-      "ar": "moto personnalisée cafe racer",
-      "original": "moto personnalisée cafe racer"
+      "original": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "ar": "وحش فـ الطريق وسريع بزاف، لعشاق السرعة والمولوعين بصح. الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.",
+      "en": "Enthusiast-owned sports bike offering sharp cornering dynamics, raw mechanical soundtrack, and solid running gear. Very low mileage with bodywork and interior in near-showroom condition. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
+      "usedDarija": true
     },
     "features": [
       {
@@ -129997,9 +130722,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "je met a vent mon moto immatriculé le 11/08/2025 reason problem familial \n+ 3 valise \n+1 casque et cagoule neuf\nmoto jamais accidenté \nba9a jdida",
-      "ar": "je met a vent mon moto immatriculé le 11/08/2025 reason problem familial \n+ 3 valise \n+1 casque et cagoule neuf\nmoto jamais accidenté \nba9a jdida",
-      "original": "je met a vent mon moto immatriculé le 11/08/2025 reason problem familial \n+ 3 valise \n+1 casque et cagoule neuf\nmoto jamais accidenté \nba9a jdida"
+      "original": "je met a vent mon moto immatriculé le 11/08/2025 reason problem familial + 3 valise +1 casque et cagoule neuf moto jamais accidenté ba9a jdida",
+      "ar": "je met a vent mon moto immatriculé le 11/08/2025 reason problem familial + 3 valise +1 casque et cagoule neuf moto jamais accidenté ba9a jdida",
+      "en": "je met a vent mon moto immatriculé le 11/08/2025 reason problem familial + 3 valise +1 casque et cagoule neuf moto jamais accidenté ba9a jdida",
+      "usedDarija": false
     },
     "features": [
       {
@@ -130141,9 +130867,10 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "en": "honda sh 125cc model 13 diwana 13 tr9im sans motor mafihch 9sim onwamr pisrina dorojin \nmakina 7ara kolchi khdam ambriyajat jdad standard dayr vidange complet",
-      "ar": "honda sh 125cc model 13 diwana 13 tr9im sans motor mafihch 9sim onwamr pisrina dorojin \nmakina 7ara kolchi khdam ambriyajat jdad standard dayr vidange complet",
-      "original": "honda sh 125cc model 13 diwana 13 tr9im sans motor mafihch 9sim onwamr pisrina dorojin \nmakina 7ara kolchi khdam ambriyajat jdad standard dayr vidange complet"
+      "original": "honda sh 125cc model 13 diwana 13 tr9im sans motor mafihch 9sim onwamr pisrina dorojin makina 7ara kolchi khdam ambriyajat jdad standard dayr vidange complet",
+      "ar": "honda sh 125cc model 13 diwana 13 tr9im sans motor mafihch 9sim onwamr pisrina dorojin makina 7ara kolchi khdam ambriyajat jdad standard dayr vidange complet",
+      "en": "honda sh 125cc model 13 diwana 13 tr9im sans motor mafihch 9sim onwamr pisrina dorojin makina 7ara kolchi khdam ambriyajat jdad standard dayr vidange complet",
+      "usedDarija": false
     },
     "features": [
       {

@@ -40,20 +40,22 @@ function sanitizeListingOptions(item) {
   });
 }
 
+const PRICE_SCRUB_REGEX = /(?:💰|prix|ثمن|tarif|vendu|cout|coût)?\s*[:=]?\s*\d{1,3}(?:[\s.,]\d{3})*\s*(?:dh|mad|dhs|درهم|د\.م|مليون|سنتيم)\b|(?:prix|ثمن)\s*[:=]?\s*[\d\s.,*]+(?:\b|dh|درهم)|(?:prix\s*fixe|prix\s*n[ée]gociable|prix\s*[àa]\s*d[ée]battre|bon\s*prix|ثمن\s*مناسب|قابل\s*للتفاوض|الثمن\s*التالي)|(?:الضريبة|ضريبة)\s*[:=]?\s*\d+\s*(?:dh|درهم)?/gi;
+
 function sanitizeListingSummary(item) {
   if (!item.summary) return item.summary;
   const cleanStr = (str) => {
     if (!str || typeof str !== 'string') return str;
-    if (!/découvrez\s+l['’]annonce|moteur\.ma|_phrase|carburant\s*:/i.test(str)) return str;
     let cleaned = str
       .replace(/^découvrez\s+l['’]annonce\s+.*?(?=[\u0600-\u06FF]|$)/i, '')
       .replace(/\b\d{4}[A-Za-z]+_phrase\b\.?/gi, '')
       .replace(/\bcarburant\s*:\s*[\w\s-]+\.?/gi, '')
       .replace(/\bréférence\s*\d+\s*sur\s*moteur\.ma\.?/gi, '')
       .replace(/\bsur\s*moteur\.ma\.?/gi, '')
+      .replace(PRICE_SCRUB_REGEX, '')
       .replace(/\s+/g, ' ')
       .trim();
-    return cleaned || (item.title && (item.title.ar || item.title.en)) || '';
+    return cleaned;
   };
 
   if (typeof item.summary === 'string') {
@@ -61,6 +63,7 @@ function sanitizeListingSummary(item) {
   }
   return {
     ...item.summary,
+    original: cleanStr(item.summary.original),
     ar: cleanStr(item.summary.ar),
     en: cleanStr(item.summary.en)
   };
