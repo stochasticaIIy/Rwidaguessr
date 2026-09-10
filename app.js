@@ -20,8 +20,8 @@
     soundToggle: $('sound-toggle'), soundIcon: $('sound-icon')
   };
   const copy = {
-    en: { howTo:'How to play', eyebrow:'Cars & motorbikes · Morocco', heroTitle:'What’s the price<br /><em>of this vehicle?</em>', heroTitleCars:'What’s the price<br /><em>of this car?</em>', heroTitleBikes:'What’s the price<br /><em>of this motorbike?</em>', modeLabel:'Vehicle category', modeCars:'Cars', modeBikes:'Motorbikes', intro:'Five listings, their full details, and zero price clues. Estimate the listed price in dirhams.', durationLabel:'Maximum time per guess', tenMinutes:'10 minutes', thirtyMinutes:'30 minutes', fiftyMinutes:'50 minutes (maximum)', durationNote:'Time is capped at 50 minutes for every listing.', start:'Start 5 rounds <span>→</span>', startCars:'Start 5 Car rounds <span>→</span>', startBikes:'Start 5 Motorbike rounds <span>→</span>', priceHidden:'Price hidden', summaryHeading:'Listing summary', featuresHeading:'Features', optionsHeading:'Equipment & options', yourGuess:'Your guess', submit:'Submit <span>→</span>', quickIncrements:'Quick add:', clearInput:'Reset', result:'Result', listedPrice:'Listed price', difference:'Difference', points:'Points', viewSource:'View source listing ↗', gameOver:'Game complete', finalTitle:'You’ve got an eye for it.', outOfFive:'points out of 5,000', playAgain:'Play again <span>↻</span>', rules:'Rules', rulesTitle:'Five prices to estimate.', rulesCopy1:'For every listing, study the vehicle, its details, and every option. Enter the price you think is listed. The closer you are, the more points you earn.', rulesCopy2:'A timer begins each round and can never be longer than 50 minutes.', rulesCopy3:'At the end, save your name to the Leaderboard and see how your eye for car prices ranks!', ready:'Ready to play', round:'Round {n} of 5', roundCars:'Cars · Round {n} of 5', roundBikes:'Motorbikes · Round {n} of 5', complete:'Game complete', vehicle:'Vehicle listing', car:'Car listing', bike:'Motorbike listing', invalidGuess:'Enter a valid price in MAD.', failedGuess:'We could not validate that guess. Please try again.', loading:'Loading listings…', liveData:'Verified listings — prices reveal after each guess.', previewData:'Preview mode — add the Cloudflare secrets to load your authorized listings.', insufficient:'At least five valid listings are needed to play.', preparing:'Preparing…', next:'Next round →', finalNext:'See my final score →', timeUp:'Time is up', expired:'Time is up — the price is revealed, but this round earns no points.', excellent:'Impressive: your estimate was extremely close.', great:'Great instinct — you are in the right range.', okay:'Not bad. The vehicle details made the difference.', tough:'That one was difficult. Every round counts.', noOptions:'No options listed', timeRemaining:'Time remaining', switchLanguage:'Switch to Arabic', useDark:'Use dark mode', useLight:'Use light mode', soundOn:'Sound effects enabled', soundOff:'Sound effects muted', previousPhoto:'Previous photo', nextPhoto:'Next photo', zoomIn:'Zoom in', zoomOut:'Zoom out', openFullscreen:'Open fullscreen', exitFullscreen:'Exit fullscreen', closenessKicker:'Accuracy', closeToPrice:'close to actual price', closenessCol:'Closeness', saveScoreTitle:'Save your score to the Leaderboard', saveScoreHint:'Compete against other players across Morocco.', saveScoreBtn:'Save score <span>→</span>', savingScore:'Saving…', savedScore:'✓ Score Saved', scoreRanked:'🎉 Ranked #{rank}! Your score is on the leaderboard.', alreadySaved:'Your score has already been saved.', nameRequired:'Please enter your name or nickname.', saveFailed:'Could not save score. Please try again.', topScorers:'Top Scorers', loadingLb:'Loading leaderboard…', emptyLb:'No scores yet. Be the first!', leaderboardBtn:'Leaderboard', leaderboardTitle:'Top Scorers', leaderboardEyebrow:'Hall of Fame', playerNamePlaceholder:'Enter your name / nickname', bullseye:'Bullseye! Extremely close to the price.', almostExact:'Excellent! Very close to listed price.', solidGuess:'Solid guess — within the right range.', fairEstimate:'Fair estimate, but options made the difference.', wayOff:'Far from listed price — this one was tricky.' },
-    ar: { howTo:'كيفاش تلعب', eyebrow:'سيارات ودراجات نارية · المغرب', heroTitle:'كم يبلغ سعر<br /><em>هاد الحديدة؟</em>', heroTitleCars:'كم يبلغ سعر<br /><em>هذه السيارة؟</em>', heroTitleBikes:'كم يبلغ سعر<br /><em>هذه الدراجة النارية؟</em>', modeLabel:'نوع المركبات', modeCars:'سيارات', modeBikes:'دراجات نارية', intro:'خمس إعلانات وتفاصيلها الكاملة من دون أي تلميح للسعر. قدّر السعر المعروض بالدرهم.', durationLabel:'الوقت الأقصى لكل تخمين', tenMinutes:'10 دقائق', thirtyMinutes:'30 دقيقة', fiftyMinutes:'50 دقيقة (الحد الأقصى)', durationNote:'الوقت لا يتجاوز 50 دقيقة لكل إعلان.', start:'ابدأ 5 جولات <span>→</span>', startCars:'ابدأ 5 جولات سيارات <span>→</span>', startBikes:'ابدأ 5 جولات دراجات نارية <span>→</span>', priceHidden:'السعر مخفي', summaryHeading:'ملخص الإعلان', featuresHeading:'المواصفات', optionsHeading:'التجهيزات والخيارات', yourGuess:'تخمينك', submit:'إرسال <span>→</span>', quickIncrements:'إضافة سريعة:', clearInput:'مسح', result:'النتيجة', listedPrice:'السعر المعروض', difference:'الفارق', points:'النقاط', viewSource:'عرض الإعلان المصدر ↗', gameOver:'انتهت اللعبة', finalTitle:'لديك عين خبيرة.', outOfFive:'نقطة من أصل 5,000', playAgain:'العب مجددًا <span>↻</span>', rules:'قواعد اللعبة', rulesTitle:'5 د الهميزات خاصك تجيب ثمنهم', rulesCopy1:'في كل جولة، شوف التصاور وتفاصيل الحديد والمواصفات مزيان. حط الثمن لي كيبان ليك معروض فالإعلان بالدرهم. كلما كنتي قريب للثمن الحقيقي، كلما ضربتي نقط كثر (حتى لـ 1,000 نقطة فكل جولة).', rulesCopy2:'كاين وقت محدد لكل جولة، وما كيفوتش 50 دقيقة كحد أقصى. زرب قبل ما يسالي العداد!', rulesCopy3:'في اللخر، سجّل سميتك فـ الليدربورد وتنافس مع الدراري و الحرايفية!', ready:'جاهز للعب', round:'الجولة {n} من 5', roundCars:'سيارات · الجولة {n} من 5', roundBikes:'دراجات نارية · الجولة {n} من 5', complete:'انتهت اللعبة', vehicle:'إعلان مركبة', car:'إعلان سيارة', bike:'إعلان دراجة نارية', invalidGuess:'أدخل سعرًا صحيحًا بالدرهم.', failedGuess:'تعذّر التحقق من التخمين. حاول مرة أخرى.', loading:'جارٍ تحميل الإعلانات…', liveData:'إعلانات موثقة — يظهر السعر بعد كل تخمين.', previewData:'وضع المعاينة — أضف أسرار Cloudflare لتحميل إعلاناتك المصرح بها.', insufficient:'يلزم خمسة إعلانات صالحة على الأقل للعب.', preparing:'جارٍ التحضير…', next:'الجولة التالية ←', finalNext:'عرض نتيجتي النهائية ←', timeUp:'انتهى الوقت', expired:'انتهى الوقت — تم كشف السعر، لكن هذه الجولة لا تمنح نقاطًا.', excellent:'مذهل: كان تخمينك قريبًا جدًا.', great:'حدس رائع — أنت ضمن النطاق الصحيح.', okay:'المرة الجاية ها تجيبها لاصقة.', tough:'كانت هذه صعبة. كل الجولات مهمة.', noOptions:'لا توجد خيارات مذكورة', timeRemaining:'الوقت المتبقي', switchLanguage:'التبديل إلى الإنجليزية', useDark:'استخدم الوضع الداكن', useLight:'استخدم الوضع الفاتح', soundOn:'المؤثرات الصوتية مفعلة', soundOff:'المؤثرات الصوتية مكتومة', previousPhoto:'الصورة السابقة', nextPhoto:'الصورة التالية', zoomIn:'تكبير الصورة', zoomOut:'تصغير الصورة', openFullscreen:'فتح فولسكرين', exitFullscreen:'الخروج من فولسكرين', closenessKicker:'نسبة الدقة', closeToPrice:'قريب للثمن الحقيقي', closenessCol:'التقارب', saveScoreTitle:'سجّل سكور ديالك فـ الليدربورد', saveScoreHint:'تنافس مع الحرايفية والدراري من كاع المدن المغربية.', saveScoreBtn:'سجّل السكور <span>←</span>', savingScore:'جارٍ التسجيل…', savedScore:'✓ مسجّل', scoreRanked:'🎉 الرتبة ديالك هي #{rank}! السكور ديالك تسجل فـ الليدربورد.', alreadySaved:'السكور ديالك راه مسجل من قبل.', nameRequired:'عفاك كتب سميتك أو اللقب ديالك.', saveFailed:'تعذّر تسجيل السكور. حاول مرة أخرى.', topScorers:'أحسن السكورات', loadingLb:'جارٍ تحميل الليدربورد…', emptyLb:'ما كاين حتى سكور باقي. كون اللول!', leaderboardBtn:'المتصدرين', leaderboardTitle:'لوحة المتصدرين', leaderboardEyebrow:'الحرايفية الكبار', playerNamePlaceholder:'كتب سميتك أو اللقب ديالك', bullseye:'جيبتيها لاصقة! قريب بزاف من الثمن.', almostExact:'كاين أمعلم! قريب بزاف للثمن المعروض.', solidGuess:'مزيان — راك فالنطاق الصحيح.', fairEstimate:'ماشي بعيد، راك قريب ولكن ماشي ببزاف.', wayOff:'بعيد على الثمن — عولنا عليك بكري.' }
+    en: { howTo:'How to play', eyebrow:'Cars & motorbikes · Morocco', heroTitle:'What’s the price<br /><em>of this vehicle?</em>', heroTitleCars:'What’s the price<br /><em>of this car?</em>', heroTitleBikes:'What’s the price<br /><em>of this motorbike?</em>', modeLabel:'Vehicle category', modeCars:'Cars', modeBikes:'Motorbikes', intro:'Five listings, their full details, and zero price clues. Estimate the listed price in dirhams.', durationLabel:'Maximum time per guess', tenMinutes:'10 minutes', thirtyMinutes:'30 minutes', fiftyMinutes:'50 minutes (maximum)', durationNote:'Time is capped at 50 minutes for every listing.', start:'Start 5 rounds <span>→</span>', startCars:'Start 5 Car rounds <span>→</span>', startBikes:'Start 5 Motorbike rounds <span>→</span>', priceHidden:'Price hidden', summaryHeading:'Spécifications rapides', featuresHeading:'Features', optionsHeading:'Equipment & options', yourGuess:'Your guess', submit:'Submit <span>→</span>', quickIncrements:'Quick add:', clearInput:'Reset', result:'Result', listedPrice:'Listed price', difference:'Difference', points:'Points', viewSource:'View source listing ↗', gameOver:'Game complete', finalTitle:'You’ve got an eye for it.', outOfFive:'points out of 5,000', playAgain:'Play again <span>↻</span>', rules:'Rules', rulesTitle:'Five prices to estimate.', rulesCopy1:'For every listing, study the vehicle, its details, and every option. Enter the price you think is listed. The closer you are, the more points you earn.', rulesCopy2:'A timer begins each round and can never be longer than 50 minutes.', rulesCopy3:'At the end, save your name to the Leaderboard and see how your eye for car prices ranks!', ready:'Ready to play', round:'Round {n} of 5', roundCars:'Cars · Round {n} of 5', roundBikes:'Motorbikes · Round {n} of 5', complete:'Game complete', vehicle:'Vehicle listing', car:'Car listing', bike:'Motorbike listing', invalidGuess:'Enter a valid price in MAD.', failedGuess:'We could not validate that guess. Please try again.', loading:'Loading listings…', liveData:'Verified listings — prices reveal after each guess.', previewData:'Preview mode — add the Cloudflare secrets to load your authorized listings.', insufficient:'At least five valid listings are needed to play.', preparing:'Preparing…', next:'Next round →', finalNext:'See my final score →', timeUp:'Time is up', expired:'Time is up — the price is revealed, but this round earns no points.', excellent:'Impressive: your estimate was extremely close.', great:'Great instinct — you are in the right range.', okay:'Not bad. The vehicle details made the difference.', tough:'That one was difficult. Every round counts.', noOptions:'No options listed', timeRemaining:'Time remaining', switchLanguage:'Switch to Arabic', useDark:'Use dark mode', useLight:'Use light mode', soundOn:'Sound effects enabled', soundOff:'Sound effects muted', previousPhoto:'Previous photo', nextPhoto:'Next photo', zoomIn:'Zoom in', zoomOut:'Zoom out', openFullscreen:'Open fullscreen', exitFullscreen:'Exit fullscreen', closenessKicker:'Accuracy', closeToPrice:'close to actual price', closenessCol:'Closeness', saveScoreTitle:'Save your score to the Leaderboard', saveScoreHint:'Compete against other players across Morocco.', saveScoreBtn:'Save score <span>→</span>', savingScore:'Saving…', savedScore:'✓ Score Saved', scoreRanked:'🎉 Ranked #{rank}! Your score is on the leaderboard.', alreadySaved:'Your score has already been saved.', nameRequired:'Please enter your name or nickname.', saveFailed:'Could not save score. Please try again.', topScorers:'Top Scorers', loadingLb:'Loading leaderboard…', emptyLb:'No scores yet. Be the first!', leaderboardBtn:'Leaderboard', leaderboardTitle:'Top Scorers', leaderboardEyebrow:'Hall of Fame', playerNamePlaceholder:'Enter your name / nickname', bullseye:'Bullseye! Extremely close to the price.', almostExact:'Excellent! Very close to listed price.', solidGuess:'Solid guess — within the right range.', fairEstimate:'Fair estimate, but options made the difference.', wayOff:'Far from listed price — this one was tricky.' },
+    ar: { howTo:'كيفاش تلعب', eyebrow:'سيارات ودراجات نارية · المغرب', heroTitle:'كم يبلغ سعر<br /><em>هاد الحديدة؟</em>', heroTitleCars:'كم يبلغ سعر<br /><em>هذه السيارة؟</em>', heroTitleBikes:'كم يبلغ سعر<br /><em>هذه الدراجة النارية؟</em>', modeLabel:'نوع المركبات', modeCars:'سيارات', modeBikes:'دراجات نارية', intro:'خمس إعلانات وتفاصيلها الكاملة من دون أي تلميح للسعر. قدّر السعر المعروض بالدرهم.', durationLabel:'الوقت الأقصى لكل تخمين', tenMinutes:'10 دقائق', thirtyMinutes:'30 دقيقة', fiftyMinutes:'50 دقيقة (الحد الأقصى)', durationNote:'الوقت لا يتجاوز 50 دقيقة لكل إعلان.', start:'ابدأ 5 جولات <span>→</span>', startCars:'ابدأ 5 جولات سيارات <span>→</span>', startBikes:'ابدأ 5 جولات دراجات نارية <span>→</span>', priceHidden:'السعر مخفي', summaryHeading:'المواصفات السريعة', featuresHeading:'المواصفات', optionsHeading:'التجهيزات والخيارات', yourGuess:'تخمينك', submit:'إرسال <span>→</span>', quickIncrements:'إضافة سريعة:', clearInput:'مسح', result:'النتيجة', listedPrice:'السعر المعروض', difference:'الفارق', points:'النقاط', viewSource:'عرض الإعلان المصدر ↗', gameOver:'انتهت اللعبة', finalTitle:'لديك عين خبيرة.', outOfFive:'نقطة من أصل 5,000', playAgain:'العب مجددًا <span>↻</span>', rules:'قواعد اللعبة', rulesTitle:'5 د الهميزات خاصك تجيب ثمنهم', rulesCopy1:'في كل جولة، شوف التصاور وتفاصيل الحديد والمواصفات مزيان. حط الثمن لي كيبان ليك معروض فالإعلان بالدرهم. كلما كنتي قريب للثمن الحقيقي، كلما ضربتي نقط كثر (حتى لـ 1,000 نقطة فكل جولة).', rulesCopy2:'كاين وقت محدد لكل جولة، وما كيفوتش 50 دقيقة كحد أقصى. زرب قبل ما يسالي العداد!', rulesCopy3:'في اللخر، سجّل سميتك فـ الليدربورد وتنافس مع الدراري و الحرايفية!', ready:'جاهز للعب', round:'الجولة {n} من 5', roundCars:'سيارات · الجولة {n} من 5', roundBikes:'دراجات نارية · الجولة {n} من 5', complete:'انتهت اللعبة', vehicle:'إعلان مركبة', car:'إعلان سيارة', bike:'إعلان دراجة نارية', invalidGuess:'أدخل سعرًا صحيحًا بالدرهم.', failedGuess:'تعذّر التحقق من التخمين. حاول مرة أخرى.', loading:'جارٍ تحميل الإعلانات…', liveData:'إعلانات موثقة — يظهر السعر بعد كل تخمين.', previewData:'وضع المعاينة — أضف أسرار Cloudflare لتحميل إعلاناتك المصرح بها.', insufficient:'يلزم خمسة إعلانات صالحة على الأقل للعب.', preparing:'جارٍ التحضير…', next:'الجولة التالية ←', finalNext:'عرض نتيجتي النهائية ←', timeUp:'انتهى الوقت', expired:'انتهى الوقت — تم كشف السعر، لكن هذه الجولة لا تمنح نقاطًا.', excellent:'مذهل: كان تخمينك قريبًا جدًا.', great:'حدس رائع — أنت ضمن النطاق الصحيح.', okay:'المرة الجاية ها تجيبها لاصقة.', tough:'كانت هذه صعبة. كل الجولات مهمة.', noOptions:'لا توجد خيارات مذكورة', timeRemaining:'الوقت المتبقي', switchLanguage:'التبديل إلى الإنجليزية', useDark:'استخدم الوضع الداكن', useLight:'استخدم الوضع الفاتح', soundOn:'المؤثرات الصوتية مفعلة', soundOff:'المؤثرات الصوتية مكتومة', previousPhoto:'الصورة السابقة', nextPhoto:'الصورة التالية', zoomIn:'تكبير الصورة', zoomOut:'تصغير الصورة', openFullscreen:'فتح فولسكرين', exitFullscreen:'الخروج من فولسكرين', closenessKicker:'نسبة الدقة', closeToPrice:'قريب للثمن الحقيقي', closenessCol:'التقارب', saveScoreTitle:'سجّل سكور ديالك فـ الليدربورد', saveScoreHint:'تنافس مع الحرايفية والدراري من كاع المدن المغربية.', saveScoreBtn:'سجّل السكور <span>←</span>', savingScore:'جارٍ التسجيل…', savedScore:'✓ مسجّل', scoreRanked:'🎉 الرتبة ديالك هي #{rank}! السكور ديالك تسجل فـ الليدربورد.', alreadySaved:'السكور ديالك راه مسجل من قبل.', nameRequired:'عفاك كتب سميتك أو اللقب ديالك.', saveFailed:'تعذّر تسجيل السكور. حاول مرة أخرى.', topScorers:'أحسن السكورات', loadingLb:'جارٍ تحميل الليدربورد…', emptyLb:'ما كاين حتى سكور باقي. كون اللول!', leaderboardBtn:'المتصدرين', leaderboardTitle:'لوحة المتصدرين', leaderboardEyebrow:'الحرايفية الكبار', playerNamePlaceholder:'كتب سميتك أو اللقب ديالك', bullseye:'جيبتيها لاصقة! قريب بزاف من الثمن.', almostExact:'كاين أمعلم! قريب بزاف للثمن المعروض.', solidGuess:'مزيان — راك فالنطاق الصحيح.', fairEstimate:'ماشي بعيد، راك قريب ولكن ماشي ببزاف.', wayOff:'بعيد على الثمن — عولنا عليك بكري.' }
   };
   // Default language is Arabic ('ar') per user specification
   let initialLanguage = 'ar';
@@ -283,7 +283,7 @@
   }
   function renderImage(item, resetZoom = true) {
     const images = listingImages(item);
-    if (resetZoom) ui.visual.classList.remove('is-zoomed');
+    if (resetZoom && typeof visualPanZoom !== 'undefined' && visualPanZoom) visualPanZoom.reset(false);
     if (!images.length) {
       ui.image.removeAttribute('src'); ui.image.classList.add('hidden'); ui.fallback.classList.remove('hidden');
       ui.gallery.classList.add('hidden'); ui.imageActions.classList.add('hidden'); return;
@@ -305,8 +305,19 @@
     ui.title.textContent = formatTitleWithYear(item);
     const isBike = item.kind === 'Moto' || item.kind === 'Motorbike';
     ui.kind.textContent = isBike ? t('bike') : t('car');
-    ui.facts.innerHTML = (item.quickFacts || []).map((fact) => `<span dir="auto"><bdi>${escape(localized(fact))}</bdi></span>`).join('');
-    let summaryText = localized(item.summary) || '';
+    // Quick facts: ensure cars show customs status (Dédouanée / WW au Maroc) instead of horsepower, and bikes show gearbox
+    const sanitizedQuickFacts = (item.quickFacts || []).map((fact) => {
+      const valStr = (typeof fact === 'object' ? (fact.en || fact.ar || fact.fr || '') : String(fact || '')).toLowerCase();
+      if (valStr.includes('hp') || valStr.includes('ch') || valStr.includes('حصان')) {
+        return { en: 'Dédouanée', ar: 'مجمركة' };
+      }
+      return fact;
+    });
+    ui.facts.innerHTML = sanitizedQuickFacts
+      .map((fact) => `<span dir="auto"><bdi>${escape(localized(fact))}</bdi></span>`)
+      .join('');
+
+    let summaryText = (typeof item.summary === 'object' && item.summary ? (item.summary.original || item.summary[state.language] || item.summary.en || item.summary.fr || localized(item.summary)) : item.summary) || '';
     if (/découvrez\s+l['’]annonce|moteur\.ma|_phrase|carburant\s*:/i.test(summaryText)) {
       summaryText = summaryText
         .replace(/^découvrez\s+l['’]annonce\s+.*?(?=[\u0600-\u06FF]|$)/i, '')
@@ -318,22 +329,62 @@
         .trim();
     }
     ui.summary.textContent = summaryText || formatTitleWithYear(item) || '';
-    ui.summary.setAttribute('dir', state.language === 'ar' ? 'rtl' : 'ltr');
+    const isArabicSummary = /[\u0600-\u06FF]/.test(summaryText);
+    ui.summary.setAttribute('dir', isArabicSummary ? 'rtl' : 'ltr');
+    ui.summary.style.textAlign = isArabicSummary ? 'right' : 'left';
+
     let featureEntries = Array.isArray(item.features) ? item.features.map((feature) => [feature.label, feature.value]) : Object.entries(item.features || {});
     
-    // For cars, remove "Statut de douane" and "Tax horsepower" from features
-    if (!isBike) {
-      featureEntries = featureEntries.filter(([label]) => {
-        const en = (label && typeof label === 'object' ? (label.en || label.fr || label.raw || '') : String(label || '')).toLowerCase().trim();
-        const ar = (label && typeof label === 'object' ? (label.ar || '') : '').toLowerCase().trim();
-        if (en.includes('douane') || ar.includes('douane') || en.includes('customs') || ar.includes('جمارك')) {
-          return false;
-        }
-        if (en.includes('tax horsepower') || en === 'tax hp' || en.includes('puissance fiscale') || ar.includes('الجبائية')) {
-          return false;
-        }
-        return true;
+    // Remove tax horsepower, transmission (keep Gearbox / علبة السرعات), and remove ALL horsepower
+    featureEntries = featureEntries.filter(([label]) => {
+      const en = (label && typeof label === 'object' ? (label.en || label.fr || label.raw || '') : String(label || '')).toLowerCase().trim();
+      const ar = (label && typeof label === 'object' ? (label.ar || '') : '').toLowerCase().trim();
+      if (en.includes('tax horsepower') || en === 'tax hp' || en.includes('puissance fiscale') || ar.includes('الجبائية')) {
+        return false;
+      }
+      if (en.includes('transmission') || ar.includes('ناقل الحركة')) {
+        return false;
+      }
+      if (en.includes('horsepower') || ar.includes('حصان') || en.includes('puissance din')) {
+        return false;
+      }
+      return true;
+    });
+
+    // Ensure Customs status (Statut de douane / حالة الجمارك) is present in features
+    const hasCustoms = featureEntries.some(([label]) => {
+      const lblStr = (typeof label === 'object' ? (label.en || label.ar || label.fr || '') : String(label)).toLowerCase();
+      return lblStr.includes('custom') || lblStr.includes('douane') || lblStr.includes('جمارك');
+    });
+    if (!hasCustoms) {
+      let customsFact = (item.quickFacts || []).find((q) => {
+        const val = (typeof q === 'object' ? (q.en || q.ar || q.fr || '') : String(q)).toLowerCase();
+        return val.includes('dédouan') || val.includes('dedouan') || val.includes('maroc') || val.includes('ww') || val.includes('جمرك') || val.includes('مغرب');
       });
+      if (!customsFact) {
+        customsFact = { en: 'Dédouanée', ar: 'مجمركة' };
+      }
+      featureEntries.push([{ en: 'Customs status', ar: 'حالة الجمارك' }, customsFact]);
+    }
+
+    // Ensure Gearbox is present in features
+    const hasGearbox = featureEntries.some(([label]) => {
+      const lblStr = (typeof label === 'object' ? (label.en || label.ar || '') : String(label)).toLowerCase();
+      return lblStr.includes('gearbox') || lblStr.includes('علبة السرعات') || lblStr.includes('boite') || lblStr.includes('boîte');
+    });
+    if (!hasGearbox) {
+      let gbFact = (item.quickFacts || []).find((q) => {
+        const val = (typeof q === 'object' ? (q.en || q.ar || '') : String(q)).toLowerCase();
+        return val.includes('auto') || val.includes('man') || val.includes('أوطو') || val.includes('ماني');
+      });
+      if (!gbFact) {
+        const titleLower = ((item.title && (item.title.en || item.title.ar)) || '').toLowerCase();
+        const isAuto = isBike 
+          ? /scooter|vespa|tmax|t-max|forza|adv|pcx|sh|beverly|burgman/i.test(titleLower)
+          : /porsche|mercedes|bmw|audi|range rover|land rover|volvo|jeep|bva|auto/i.test(titleLower);
+        gbFact = isAuto ? { en: 'Automatic', ar: 'أوطوماتيك' } : { en: 'Manual', ar: 'مانييل' };
+      }
+      featureEntries.push([{ en: 'Gearbox', ar: 'علبة السرعات' }, gbFact]);
     }
 
     // For motorbikes, ensure Cylinders is always displayed in features
@@ -650,16 +701,190 @@
     const raw = normalizeDigits(value).replace(/[^\d]/g, '');
     return raw ? Number(raw) : null;
   }
+  function createPanZoom({ container, img, onZoomChange }) {
+    let scale = 1;
+    let tx = 0;
+    let ty = 0;
+    let isDragging = false;
+    let startX = 0;
+    let startY = 0;
+    let startTx = 0;
+    let startTy = 0;
+    let hasMoved = false;
+
+    function clampOffsets() {
+      if (scale <= 1.02) {
+        tx = 0;
+        ty = 0;
+        return;
+      }
+      const rect = container.getBoundingClientRect();
+      const maxTx = Math.max(0, (rect.width * (scale - 1)) / 2);
+      const maxTy = Math.max(0, (rect.height * (scale - 1)) / 2);
+      tx = Math.max(-maxTx, Math.min(maxTx, tx));
+      ty = Math.max(-maxTy, Math.min(maxTy, ty));
+    }
+
+    function applyTransform(animate = false) {
+      if (animate) {
+        img.style.transition = 'transform 0.22s cubic-bezier(0.2, 0, 0, 1)';
+      } else {
+        img.style.transition = 'none';
+      }
+      img.style.transform = `translate3d(${tx}px, ${ty}px, 0) scale(${scale})`;
+      const zoomed = scale > 1.05;
+      container.classList.toggle('is-zoomed', zoomed);
+      if (zoomed) {
+        img.style.cursor = isDragging ? 'grabbing' : 'grab';
+      } else {
+        img.style.cursor = 'zoom-in';
+      }
+      if (onZoomChange) onZoomChange(zoomed);
+    }
+
+    function zoomTo(targetScale, animate = true) {
+      scale = Math.max(1, Math.min(4, targetScale));
+      if (scale <= 1.02) {
+        scale = 1;
+        tx = 0;
+        ty = 0;
+      } else {
+        clampOffsets();
+      }
+      applyTransform(animate);
+    }
+
+    function toggle() {
+      if (scale > 1.05) {
+        reset(true);
+      } else {
+        zoomTo(2.35, true);
+      }
+    }
+
+    function reset(animate = true) {
+      scale = 1;
+      tx = 0;
+      ty = 0;
+      applyTransform(animate);
+    }
+
+    function centerPan(animate = false) {
+      tx = 0;
+      ty = 0;
+      applyTransform(animate);
+    }
+
+    function isZoomed() {
+      return scale > 1.05;
+    }
+
+    function onPointerDown(e) {
+      if (e.button !== undefined && e.button !== 0) return;
+      startX = e.clientX;
+      startY = e.clientY;
+      startTx = tx;
+      startTy = ty;
+      hasMoved = false;
+
+      if (scale > 1.05) {
+        isDragging = true;
+        container.classList.add('is-dragging');
+        img.style.cursor = 'grabbing';
+      }
+
+      function onPointerMove(ev) {
+        const dx = ev.clientX - startX;
+        const dy = ev.clientY - startY;
+        if (Math.hypot(dx, dy) > 4) {
+          hasMoved = true;
+        }
+        if (isDragging && scale > 1.05) {
+          ev.preventDefault();
+          tx = startTx + dx;
+          ty = startTy + dy;
+          clampOffsets();
+          applyTransform(false);
+        }
+      }
+
+      function onPointerUp() {
+        window.removeEventListener('pointermove', onPointerMove);
+        window.removeEventListener('pointerup', onPointerUp);
+        window.removeEventListener('pointercancel', onPointerUp);
+        if (isDragging) {
+          isDragging = false;
+          container.classList.remove('is-dragging');
+          clampOffsets();
+          applyTransform(true);
+        }
+      }
+
+      window.addEventListener('pointermove', onPointerMove, { passive: false });
+      window.addEventListener('pointerup', onPointerUp);
+      window.addEventListener('pointercancel', onPointerUp);
+    }
+
+    img.addEventListener('pointerdown', onPointerDown);
+
+    img.addEventListener('click', (e) => {
+      if (hasMoved) {
+        e.stopPropagation();
+        e.preventDefault();
+        return;
+      }
+      toggle();
+    });
+
+    img.addEventListener('dblclick', (e) => {
+      e.preventDefault();
+      toggle();
+    });
+
+    container.addEventListener('wheel', (e) => {
+      e.preventDefault();
+      const delta = e.deltaY < 0 ? 0.35 : -0.35;
+      zoomTo(scale + delta, false);
+    }, { passive: false });
+
+    return {
+      isZoomed,
+      toggle,
+      reset,
+      centerPan,
+      zoomTo
+    };
+  }
+
+  const visualPanZoom = createPanZoom({
+    container: ui.visual,
+    img: ui.image,
+    onZoomChange: (isZoomed) => {
+      ui.zoomImage.setAttribute('aria-label', t(isZoomed ? 'zoomOut' : 'zoomIn'));
+    }
+  });
+
+  const lightboxPanZoom = createPanZoom({
+    container: ui.lightbox,
+    img: ui.lightboxImage,
+    onZoomChange: (isZoomed) => {
+      ui.lightboxZoom.setAttribute('aria-label', t(isZoomed ? 'zoomOut' : 'zoomIn'));
+    }
+  });
+
   function changeImage(delta) {
     const item = state.listings[state.current];
     const images = item && listingImages(item);
     if (!images || images.length < 2) return;
-    state.imageIndex += delta; renderImage(item);
+    state.imageIndex += delta;
+    renderImage(item, false);
+    if (visualPanZoom.isZoomed()) {
+      visualPanZoom.centerPan(false);
+    }
   }
   function toggleZoom() {
     if (ui.image.classList.contains('hidden')) return;
-    ui.visual.classList.toggle('is-zoomed');
-    ui.zoomImage.setAttribute('aria-label', t(ui.visual.classList.contains('is-zoomed') ? 'zoomOut' : 'zoomIn'));
+    visualPanZoom.toggle();
   }
   function openLightbox() {
     const item = state.listings[state.current];
@@ -669,6 +894,7 @@
     if (!ui.lightbox.open) {
       ui.lightbox.showModal();
     }
+    lightboxPanZoom.reset(false);
     try {
       if (ui.lightbox.requestFullscreen && !document.fullscreenElement) {
         ui.lightbox.requestFullscreen().catch(() => {});
@@ -676,7 +902,7 @@
     } catch (_) {}
   }
   function closeLightbox() {
-    ui.lightbox.classList.remove('is-zoomed');
+    lightboxPanZoom.reset(false);
     if (ui.lightbox.open) {
       ui.lightbox.close();
     }
@@ -696,17 +922,17 @@
     ui.lightboxCount.textContent = `${state.imageIndex + 1} / ${images.length}`;
     ui.lightboxPrev.disabled = images.length < 2;
     ui.lightboxNext.disabled = images.length < 2;
-    ui.lightbox.classList.remove('is-zoomed');
-    ui.lightboxZoom.setAttribute('aria-label', t('zoomIn'));
+    if (lightboxPanZoom.isZoomed()) {
+      lightboxPanZoom.centerPan(false);
+    }
+    ui.lightboxZoom.setAttribute('aria-label', t(lightboxPanZoom.isZoomed() ? 'zoomOut' : 'zoomIn'));
     if (images.length > 1) {
       preloadImage(images[(state.imageIndex + 1) % images.length]);
       preloadImage(images[((state.imageIndex - 1) % images.length + images.length) % images.length]);
     }
   }
   function toggleLightboxZoom() {
-    ui.lightbox.classList.toggle('is-zoomed');
-    const isZoomed = ui.lightbox.classList.contains('is-zoomed');
-    ui.lightboxZoom.setAttribute('aria-label', t(isZoomed ? 'zoomOut' : 'zoomIn'));
+    lightboxPanZoom.toggle();
   }
   function changeLightboxImage(delta) {
     const item = state.listings[state.current];
@@ -714,7 +940,7 @@
     if (!images || images.length < 2) return;
     state.imageIndex += delta;
     updateLightbox();
-    renderImage(item);
+    renderImage(item, false);
   }
   async function loadGame() {
     const seconds = Math.min(3000, Math.max(30, Number(ui.duration.value) || 600));
@@ -846,13 +1072,11 @@
   ui.previousImage.addEventListener('click', () => changeImage(-1));
   ui.nextImage.addEventListener('click', () => changeImage(1));
   ui.zoomImage.addEventListener('click', toggleZoom);
-  ui.image.addEventListener('click', toggleZoom);
   ui.fullscreenImage.addEventListener('click', openLightbox);
   ui.lightboxClose.addEventListener('click', closeLightbox);
   ui.lightboxPrev.addEventListener('click', () => changeLightboxImage(document.documentElement.dir === 'rtl' ? 1 : -1));
   ui.lightboxNext.addEventListener('click', () => changeLightboxImage(document.documentElement.dir === 'rtl' ? -1 : 1));
   ui.lightboxZoom.addEventListener('click', toggleLightboxZoom);
-  ui.lightboxImage.addEventListener('click', toggleLightboxZoom);
   ui.lightbox.addEventListener('click', (e) => {
     if (e.target === ui.lightbox) closeLightbox();
   });

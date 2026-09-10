@@ -16,14 +16,15 @@ function sample(items, count) {
 }
 
 function sanitizeListingFeatures(item) {
-  const isBike = (item.kind || '').toLowerCase().includes('moto') || (item.kind || '').toLowerCase().includes('bike');
-  if (isBike || !Array.isArray(item.features)) return item.features;
+  if (!Array.isArray(item.features)) return item.features;
   return item.features.filter((f) => {
     const label = f.label;
     const en = (label && typeof label === 'object' ? (label.en || label.fr || label.raw || '') : String(label || '')).toLowerCase().trim();
     const ar = (label && typeof label === 'object' ? (label.ar || '') : '').toLowerCase().trim();
-    if (en.includes('douane') || ar.includes('douane') || en.includes('customs') || ar.includes('جمارك')) return false;
     if (en.includes('tax horsepower') || en === 'tax hp' || en.includes('puissance fiscale') || ar.includes('الجبائية')) return false;
+    if (en.includes('transmission') || ar.includes('ناقل الحركة')) return false;
+    // Remove horsepower completely per user request and replace with statut de douane
+    if (en.includes('horsepower') || ar.includes('حصان') || en.includes('power')) return false;
     return true;
   });
 }

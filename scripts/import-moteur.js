@@ -24,7 +24,7 @@ import fs from 'fs';
 import path from 'path';
 import * as cheerio from 'cheerio';
 import { terms, localizeTerm } from './dictionary.js';
-import { frenchToDarija, frenchToEnglish, detectBikeCylinders } from './darija.js';
+import { frenchToDarija, frenchToEnglish, detectBikeCylinders, getVehicleHorsepower } from './darija.js';
 
 const MIN_DELAY_MS = 1500;
 const DEFAULT_DELAY_MS = 2000;
@@ -280,24 +280,66 @@ export function parseMoteurHtml(html, sourceUrl) {
   const year = rawFeatures['Année'] || rawFeatures['Annee'] || '';
   const mileage = rawFeatures['Kilométrage'] || rawFeatures['Kilometrage'] || '';
   const fuel = rawFeatures['Carburant'] || '';
-  const transmission = rawFeatures['Boîte de vitesses'] || rawFeatures['Boite de vitesses'] || rawFeatures['Transmission'] || '';
+  const rawGearbox = rawFeatures['Boîte de vitesses'] || rawFeatures['Boite de vitesses'] || rawFeatures['Transmission'] || '';
 
-  const quickFacts = [year, mileage, fuel, transmission]
-    .filter(Boolean)
-    .map(val => localizeTerm(val));
+  let gearboxVal = rawGearbox ? localizeTerm(rawGearbox) : { en: 'Manual', ar: 'مانييل' };
+  if (isMoto) {
+    const isAutoMoto = /scooter|vespa|tmax|t-max|forza|adv|pcx|sh|beverly|burgman|symphony|agility|c50|c90|c100|x-adv|xadv/i.test(rawTitle);
+    gearboxVal = isAutoMoto ? { en: 'Automatic', ar: 'أوطوماتيك' } : { en: 'Manual', ar: 'مانييل' };
+  } else if (!rawGearbox) {
+    const isAutoCar = /porsche|mercedes|bmw|audi|land rover|range rover|jaguar|volvo|jeep|lexus/i.test(rawTitle) || /auto|bva|dsg|tiptronic|s-tronic/i.test(rawTitle);
+    gearboxVal = isAutoCar ? { en: 'Automatic', ar: 'أوطوماتيك' } : { en: 'Manual', ar: 'مانييل' };
+  }
+
+  const gearboxFeature = {
+    label: { en: 'Gearbox', ar: 'علبة السرعات' },
+    value: gearboxVal
+  };
 
   let features = Object.entries(rawFeatures).map(([k, v]) => ({
     label: localizeTerm(k),
     value: localizeTerm(v)
   }));
 
-  if (isMoto) {
+  // Filter out redundant transmission, customs, and tax horsepower, but KEEP gearbox
+  features = features.filter(f => {
+    const lblEn = (f.label && (f.label.en || f.label) || '').trim().toLowerCase();
+    const lblAr = (f.label && f.label.ar || '').trim().toLowerCase();
+    if (lblEn.includes('douane') || lblAr.includes('douane') || lblEn.includes('customs') || lblAr.includes('جمارك')) return false;
+    if (lblEn.includes('tax horsepower') || lblEn === 'tax hp' || lblEn.includes('puissance fiscale') || lblAr.includes('الجبائية')) return false;
+    if (lblEn.includes('transmission') || lblAr.includes('ناقل الحركة')) return false;
+    if (lblEn.includes('gearbox') || lblAr.includes('علبة السرعات')) return false;
+    return true;
+  });
+  features.push(gearboxFeature);
+
+  let quickFacts;
+
+  if (!isMoto) {
+    // Estimate vehicle horsepower for cars only
+    const hpValue = getVehicleHorsepower({ kind, title: { en: rawTitle }, features });
+    const hpFact = { en: `${hpValue} hp`, ar: `${hpValue} حصان` };
+    const hpFeature = {
+      label: { en: 'Horsepower', ar: 'القوة الحصانية' },
+      value: hpFact
+    };
+    features.push(hpFeature);
+
+    quickFacts = [year, mileage, fuel]
+      .filter(Boolean)
+      .map(val => localizeTerm(val));
+    quickFacts.push(hpFact);
+  } else {
+    // For motorbikes: Horsepower spec is NOT visible
+    quickFacts = [year, mileage, fuel]
+      .filter(Boolean)
+      .map(val => localizeTerm(val));
+    quickFacts.push(gearboxVal);
+
     // Filter out irrelevant car-specific empty fields for motorbikes
     features = features.filter(f => {
       const valEn = (f.value && (f.value.en || f.value) || '').trim();
-      const lblEn = (f.label && (f.label.en || f.label) || '').trim();
       if (valEn === 'N/A' || valEn === '') return false;
-      if (lblEn === 'Statut de douane') return false;
       return true;
     });
 
@@ -306,13 +348,6 @@ export function parseMoteurHtml(html, sourceUrl) {
     features.unshift({
       label: { en: 'Cylinders', ar: 'عدد الأسطوانات' },
       value: { en: bikeCyl.en, ar: bikeCyl.ar }
-    });
-  } else {
-    // Filter out Statut de douane and Tax horsepower for cars
-    features = features.filter(f => {
-      const lblEn = (f.label && (f.label.en || f.label) || '').trim();
-      if (lblEn === 'Statut de douane' || lblEn === 'Tax horsepower') return false;
-      return true;
     });
   }
 

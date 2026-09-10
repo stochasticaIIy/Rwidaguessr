@@ -156,11 +156,14 @@ button, input, select { font: inherit; } button { cursor: pointer; } .hidden { d
   height: 100%;
   object-fit: cover;
   object-position: center;
-  transition: transform .25s ease;
   cursor: zoom-in;
   user-select: none;
+  -webkit-user-drag: none;
+  touch-action: none;
+  will-change: transform;
 }
-.vehicle-visual.is-zoomed img { transform: scale(1.9); cursor: zoom-out; }
+.vehicle-visual.is-zoomed img { cursor: grab; }
+.vehicle-visual.is-zoomed.is-dragging img { cursor: grabbing; }
 .vehicle-fallback {
   display: grid;
   place-items: center;
@@ -173,7 +176,7 @@ button, input, select { font: inherit; } button { cursor: pointer; } .hidden { d
 .listing-label {
   position: absolute;
   top: 16px;
-  left: 16px;
+  right: 16px;
   background: #0f172aeb;
   color: #fb923c;
   border: 1px solid #f9731666;
@@ -185,9 +188,26 @@ button, input, select { font: inherit; } button { cursor: pointer; } .hidden { d
   backdrop-filter: blur(6px);
   box-shadow: 0 4px 12px #00000033;
 }
-.gallery-controls, .image-actions { position: absolute; display: flex; align-items: center; gap: 8px; z-index: 2; }
-.gallery-controls { left: 50%; bottom: 16px; transform: translateX(-50%); }
-.image-actions { right: 16px; bottom: 16px; }
+.gallery-controls {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  z-index: 2;
+  left: 50%;
+  bottom: 16px;
+  transform: translateX(-50%);
+}
+.image-actions {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  z-index: 2;
+  top: 16px;
+  left: 16px;
+}
 .gallery-button, .image-count {
   border: 1px solid #ffffff38;
   border-radius: 8px;
@@ -636,8 +656,19 @@ dialog h2 { margin: 10px 0; font-size: 28px; }
 dialog p { color: var(--muted); line-height: 1.55; }
 .image-lightbox { position: fixed; inset: 0; width: 100vw; max-width: 100vw; height: 100vh; max-height: 100vh; margin: 0; padding: 0; overflow: hidden; border: 0; border-radius: 0; background: #05080c; z-index: 9999; }
 .image-lightbox::backdrop { background: #05080c; }
-.image-lightbox img { display: block; width: 100%; height: 100%; object-fit: contain; cursor: zoom-in; transition: transform .25s ease; user-select: none; }
-.image-lightbox.is-zoomed img { transform: scale(2); cursor: zoom-out; }
+.image-lightbox img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  cursor: zoom-in;
+  user-select: none;
+  -webkit-user-drag: none;
+  touch-action: none;
+  will-change: transform;
+}
+.image-lightbox.is-zoomed img { cursor: grab; }
+.image-lightbox.is-zoomed.is-dragging img { cursor: grabbing; }
 .lightbox-close, .lightbox-nav { position: absolute; z-index: 10001; border: 1px solid #ffffff44; border-radius: 8px; color: #fff; background: #0f172acc; backdrop-filter: blur(5px); min-width: 44px; min-height: 44px; display: grid; place-items: center; }
 .lightbox-close { top: 18px; right: 20px; width: 44px; height: 44px; font-size: 30px; line-height: 1; }
 .lightbox-close:hover { background: #ea580c; }
@@ -659,8 +690,8 @@ html[dir="rtl"] .mode-selector-group { text-align: right; }
 html[dir="rtl"] .start-card { text-align: right; }
 html[dir="rtl"] .timer { text-align: center; }
 html[dir="rtl"] .gallery-controls { direction: ltr; left: 50%; right: auto; transform: translateX(-50%); }
-html[dir="rtl"] .image-actions { direction: ltr; left: 16px; right: auto; }
-html[dir="rtl"] .listing-label { left: auto; right: 16px; }
+html[dir="rtl"] .image-actions { direction: ltr; left: 16px; right: auto; top: 16px; bottom: auto; }
+html[dir="rtl"] .listing-label { right: 16px; left: auto; }
 html[dir="rtl"] .features-card dl div:nth-child(odd) { padding-right: 4px; padding-left: 12px; }
 html[dir="rtl"] .primary-button span { display: inline-block; margin-left: 0; margin-right: 5px; transform: scaleX(-1); }
 html[dir="rtl"] .dialog-close { right: auto; left: 15px; }
