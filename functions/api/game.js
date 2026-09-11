@@ -25,6 +25,9 @@ function sanitizeListingFeatures(item) {
     if (en.includes('transmission') || ar.includes('ناقل الحركة')) return false;
     // Remove horsepower completely per user request and replace with statut de douane
     if (en.includes('horsepower') || ar.includes('حصان') || en.includes('power')) return false;
+    if (en.includes('body type') || en.includes('carrosserie') || ar.includes('نوع الهيكل') || ar.includes('هيكل')) return false;
+    const val = f.value && typeof f.value === 'object' ? (f.value.en || f.value.fr || f.value.raw || '') : String(f.value || '');
+    if (!val || val.toLowerCase() === 'n/a') return false;
     return true;
   });
 }
@@ -98,7 +101,10 @@ export async function onRequestGet({ request, env = {} }) {
     if (motos.length >= 5) pool = motos;
   }
 
-  const round = await Promise.all(sample(pool, 5).map(async ({ price, ...publicListing }) => {
+  const sampleCount = Math.min(pool.length, 15);
+  const sampledItems = sample(pool, sampleCount);
+
+  const signedListings = await Promise.all(sampledItems.map(async ({ price, ...publicListing }) => {
     const payload = base64url(new TextEncoder().encode(JSON.stringify({ id: publicListing.id, expiresAt })));
     return {
       ...publicListing,
@@ -108,5 +114,8 @@ export async function onRequestGet({ request, env = {} }) {
       token: `${payload}.${await sign(payload, signingSecret)}`
     };
   }));
-  return Response.json({ round }, { headers: { 'cache-control': 'no-store' } });
+
+  const round = signedListings.slice(0, 5);
+  const reserves = signedListings.slice(5);
+  return Response.json({ round, reserves }, { headers: { 'cache-control': 'no-store' } });
 }

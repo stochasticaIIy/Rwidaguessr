@@ -83,6 +83,7 @@
 
         <div class="listing-layout">
           <aside class="vehicle-visual" id="vehicle-visual" aria-label="Vehicle photo or illustration">
+            <div class="photo-skip-toast hidden" id="photo-skip-toast" aria-live="polite"></div>
             <img id="vehicle-image" class="hidden" alt="" referrerpolicy="no-referrer" />
             <div class="vehicle-fallback" id="vehicle-fallback"><span id="vehicle-emoji">🚗</span></div>
             <span class="listing-label" data-i18n="priceHidden">Price hidden</span>
@@ -92,8 +93,8 @@
               <button class="gallery-button" id="image-next" type="button" aria-label="Next photo">→</button>
             </div>
             <div class="image-actions hidden" id="image-actions">
+              <button class="gallery-button" id="image-zoom" type="button" aria-label="Zoom in"><span class="zoom-btn-icon" aria-hidden="true">+</span></button>
               <button class="gallery-button" id="image-fullscreen" type="button" aria-label="Open fullscreen">⛶</button>
-              <button class="gallery-button" id="image-zoom" type="button" aria-label="Zoom photo">⌕</button>
             </div>
           </aside>
           <div class="listing-content">
@@ -223,12 +224,15 @@
       </div>
     </dialog>
     <dialog class="image-lightbox" id="image-lightbox" aria-label="Full-screen photo viewer">
+      <div class="lightbox-actions" id="lightbox-actions">
+        <button class="gallery-button lightbox-zoom" id="lightbox-zoom" type="button" aria-label="Zoom in"><span class="zoom-btn-icon" id="lightbox-zoom-icon" aria-hidden="true">+</span></button>
+        <button class="gallery-button lightbox-zoom-sub" id="lightbox-zoom-out" type="button" aria-label="Zoom out" disabled><span class="zoom-btn-icon" aria-hidden="true">−</span></button>
+      </div>
       <button class="lightbox-close" id="lightbox-close" type="button" aria-label="Close photo viewer">×</button>
       <button class="lightbox-nav lightbox-prev" id="lightbox-prev" type="button" aria-label="Previous photo">←</button>
       <img id="lightbox-image" alt="" referrerpolicy="no-referrer" />
       <button class="lightbox-nav lightbox-next" id="lightbox-next" type="button" aria-label="Next photo">→</button>
       <div class="lightbox-footer">
-        <button class="gallery-button" id="lightbox-zoom" type="button" aria-label="Zoom photo">⌕</button>
         <span class="image-count" id="lightbox-count">1 / 1</span>
       </div>
     </dialog>

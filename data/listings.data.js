@@ -85,26 +85,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -131,6 +111,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -232,26 +222,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -278,6 +248,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -448,26 +428,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -670,26 +630,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -716,6 +656,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -867,26 +817,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -913,6 +843,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -1081,26 +1021,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -1301,26 +1221,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -1516,26 +1416,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -1552,6 +1432,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -1647,26 +1537,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -1860,26 +1730,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -3096,26 +2946,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -3132,6 +2962,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -3247,26 +3087,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -3436,26 +3256,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -3571,26 +3371,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -3617,6 +3397,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -3759,26 +3549,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -3805,6 +3575,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -3934,26 +3714,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -4103,26 +3863,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -4312,26 +4052,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -4358,6 +4078,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -4469,26 +4199,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Electric",
           "ar": "كهربائي"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -4691,26 +4401,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -4737,6 +4427,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -4894,26 +4594,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -5096,26 +4776,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -5267,26 +4927,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -5313,6 +4953,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Origin",
+          "ar": "الأصل"
+        },
+        "value": {
+          "en": "Imported new",
+          "ar": "مستوردة جديدة"
         }
       }
     ],
@@ -5429,26 +5079,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -5465,6 +5095,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -5562,26 +5202,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -5784,26 +5404,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -5993,26 +5593,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -6029,6 +5609,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -6127,26 +5717,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -6173,6 +5743,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -6341,26 +5921,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -6557,26 +6117,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -6603,6 +6143,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "First hand",
+          "ar": "اليد الأولى"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
         }
       }
     ],
@@ -6737,26 +6287,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -6783,6 +6313,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -6880,26 +6420,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -6926,6 +6446,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -7098,26 +6628,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -7272,26 +6782,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -7486,26 +6976,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -7689,26 +7159,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -7735,6 +7185,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -7900,26 +7360,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -7936,6 +7376,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -8028,26 +7478,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -8178,26 +7608,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -8381,26 +7791,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -8427,6 +7817,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -8584,26 +7984,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -8630,6 +8010,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -8750,26 +8140,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -8796,6 +8166,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -8965,26 +8345,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -9001,6 +8361,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -9097,16 +8467,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -9315,26 +8675,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -9351,6 +8691,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -9452,26 +8802,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -9498,6 +8828,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -9608,26 +8948,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -9828,26 +9148,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -9874,6 +9174,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -10046,26 +9356,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -10092,6 +9382,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -10260,26 +9560,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -10467,26 +9747,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -10513,6 +9773,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -10665,26 +9935,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -10711,6 +9961,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -10881,26 +10141,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -10927,6 +10167,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -11065,26 +10315,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -11111,6 +10341,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -11232,26 +10472,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -11454,26 +10674,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -11500,6 +10700,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -11592,26 +10802,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -11769,26 +10959,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -11815,6 +10985,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -11969,26 +11149,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -12015,6 +11175,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -12177,26 +11347,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -12347,26 +11497,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -12393,6 +11523,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -12534,26 +11674,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -12580,6 +11700,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -12740,26 +11870,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -12954,26 +12064,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -13143,26 +12233,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -13274,26 +12344,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -13487,26 +12537,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -13676,26 +12706,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -13892,26 +12902,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -14101,26 +13091,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -14147,6 +13117,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -14309,26 +13289,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -14355,6 +13315,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Origin",
+          "ar": "الأصل"
+        },
+        "value": {
+          "en": "Imported new",
+          "ar": "مستوردة جديدة"
         }
       }
     ],
@@ -14527,26 +13497,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -14669,26 +13619,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -14715,6 +13645,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -14860,26 +13800,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -15082,26 +14002,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -15279,26 +14179,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -15325,6 +14205,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -15478,26 +14368,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -15700,26 +14570,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -15746,6 +14596,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -15902,26 +14762,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -15948,6 +14788,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -16093,26 +14943,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -16290,26 +15120,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -16336,6 +15146,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -16481,26 +15301,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -16703,26 +15503,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -16904,26 +15684,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -16950,6 +15710,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -17102,26 +15872,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -17300,26 +16050,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Hybrid",
           "ar": "هجين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -17512,26 +16242,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -17733,26 +16443,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -17779,6 +16469,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -17946,26 +16646,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -18096,26 +16776,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -18142,6 +16802,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -18299,26 +16969,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -18496,26 +17146,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -18542,6 +17172,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -18637,26 +17277,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -18808,26 +17428,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -19030,26 +17630,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -19076,6 +17656,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -19242,26 +17832,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -19288,6 +17858,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -19458,26 +18038,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -19494,6 +18054,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -19586,26 +18156,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -19731,26 +18281,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -19919,26 +18449,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -20135,26 +18645,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -20312,26 +18802,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -22297,26 +20767,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -22343,6 +20793,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -22509,26 +20969,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -22555,6 +20995,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -22651,26 +21101,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -22687,6 +21117,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -22837,26 +21277,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -23053,26 +21473,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -23265,26 +21665,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -23311,6 +21691,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -23477,26 +21867,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -23523,6 +21893,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -23616,26 +21996,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -23831,26 +22191,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -23877,6 +22217,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -24013,26 +22363,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -24235,26 +22565,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -24424,26 +22734,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -24470,6 +22760,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -24642,26 +22942,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -24688,6 +22968,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -24850,26 +23140,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -24896,6 +23166,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -25060,26 +23340,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -25106,6 +23366,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -25273,26 +23543,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -25431,26 +23681,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -25477,6 +23707,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -25638,26 +23878,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -25684,6 +23904,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -25838,26 +24068,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -25884,6 +24094,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -26056,26 +24276,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -26102,6 +24302,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -26266,26 +24476,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -26312,6 +24502,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -26413,26 +24613,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -26459,6 +24639,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -26582,26 +24772,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -26800,26 +24970,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -26942,26 +25092,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -27094,26 +25224,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -27140,6 +25250,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -27303,26 +25423,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -27349,6 +25449,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -27516,26 +25626,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -27562,6 +25652,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -27671,26 +25771,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -27717,6 +25797,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -27875,26 +25965,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -28091,26 +26161,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -28264,26 +26314,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -28300,6 +26330,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -28394,26 +26434,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -28540,26 +26560,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -28699,26 +26699,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -28844,26 +26824,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -29022,26 +26982,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -29068,6 +27008,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -29167,26 +27117,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -29316,26 +27246,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -29362,6 +27272,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -29510,26 +27430,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -29707,26 +27607,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -29753,6 +27633,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -29926,26 +27816,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -29972,6 +27842,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -30142,26 +28022,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -30178,6 +28038,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -30281,26 +28151,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -30327,6 +28177,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -30419,26 +28279,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -30597,26 +28437,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -30733,26 +28553,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -30886,26 +28686,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -30932,6 +28712,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -31106,16 +28896,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Colour",
           "ar": "اللون"
         },
@@ -31152,6 +28932,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -31317,26 +29107,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -31541,26 +29311,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -31729,26 +29479,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -31775,6 +29505,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -31942,26 +29682,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -32146,26 +29866,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -32192,6 +29892,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -32361,26 +30071,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -32407,6 +30097,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -32579,26 +30279,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -32716,26 +30396,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -32762,6 +30422,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -32929,26 +30599,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -33075,26 +30725,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -33121,6 +30751,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -33293,26 +30933,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -33339,6 +30959,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -33470,26 +31100,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -33516,6 +31126,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -33616,26 +31236,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -33662,6 +31262,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -33826,26 +31436,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -34041,26 +31631,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -34087,6 +31657,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -34259,26 +31839,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -34305,6 +31865,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -34468,26 +32038,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -34607,26 +32157,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -34653,6 +32183,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -34750,26 +32290,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -34954,26 +32474,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -34990,6 +32490,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -35087,26 +32597,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -35260,26 +32750,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -35477,26 +32947,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -35523,6 +32973,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -35626,26 +33086,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -35672,6 +33112,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -35814,26 +33264,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -35860,6 +33290,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -36018,26 +33458,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -36064,6 +33484,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -36231,26 +33661,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -36445,26 +33855,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -36491,6 +33881,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -36591,26 +33991,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -36802,26 +34182,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -36848,6 +34208,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -36942,16 +34312,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "Saloon",
-          "ar": "سيدان"
         }
       },
       {
@@ -37137,26 +34497,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -37359,26 +34699,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -37405,6 +34725,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -37572,26 +34902,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -37618,6 +34928,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -37778,26 +35098,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -37824,6 +35124,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -37988,26 +35298,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -38034,6 +35324,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -38126,16 +35426,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -38346,26 +35636,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -38392,6 +35662,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -38525,26 +35805,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -38747,26 +36007,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -38965,26 +36205,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -39163,26 +36383,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -39380,26 +36580,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -39426,6 +36606,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -39536,26 +36726,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -39687,26 +36857,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -39826,26 +36976,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -39961,26 +37091,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -40133,26 +37243,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -40279,26 +37369,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -40325,6 +37395,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -40497,26 +37577,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -40543,6 +37603,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -40633,26 +37703,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -40778,26 +37828,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -41002,26 +38032,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -41180,26 +38190,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -41275,8 +38265,8 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "original": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
-      "ar": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "original": "كروس أوفر (Crossover) عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
+      "ar": "كروس أوفر (Crossover) عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.",
       "en": "Practical, spacious SUV perfectly suited for both daily family routines and long Moroccan road trips. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
       "usedDarija": true
     },
@@ -41329,26 +38319,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -41527,26 +38497,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -41573,6 +38523,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -41723,26 +38683,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -41932,26 +38872,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -41978,6 +38898,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -42146,26 +39076,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -42353,26 +39263,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -42493,26 +39383,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -42539,6 +39409,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -42671,26 +39551,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -42717,6 +39577,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -42854,26 +39724,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -43076,26 +39926,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -43122,6 +39952,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "First hand",
+          "ar": "اليد الأولى"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
         }
       }
     ],
@@ -43279,26 +40119,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -43434,26 +40254,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -43480,6 +40280,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -43614,26 +40424,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -43660,6 +40450,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -47266,26 +44066,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -47312,6 +44092,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -47482,26 +44272,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -47528,6 +44298,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -47636,26 +44416,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -47829,26 +44589,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -48040,26 +44780,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -48086,6 +44806,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -48187,26 +44917,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -48233,6 +44943,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -48345,26 +45065,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -48391,6 +45091,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -48564,26 +45274,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -48610,6 +45300,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -48782,26 +45482,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -48828,6 +45508,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -48946,26 +45636,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -49168,26 +45838,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -49386,26 +46036,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -49432,6 +46062,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "First hand",
+          "ar": "اليد الأولى"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
         }
       }
     ],
@@ -49594,26 +46234,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -49818,26 +46438,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -49854,6 +46454,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -49955,26 +46565,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -50001,6 +46591,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -50175,26 +46775,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -50221,6 +46801,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -50380,26 +46970,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -50583,26 +47153,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -50807,26 +47357,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -51012,26 +47542,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -51058,6 +47568,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -51213,26 +47733,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -51437,26 +47937,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -51609,26 +48089,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -51655,6 +48115,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -51813,26 +48283,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -52036,26 +48486,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -52254,26 +48684,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -52300,6 +48710,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -52459,26 +48879,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Hybrid",
           "ar": "هجين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -52661,26 +49061,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -52707,6 +49087,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -52877,26 +49267,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -52923,6 +49293,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -53090,26 +49470,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -53136,6 +49496,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "First hand",
+          "ar": "اليد الأولى"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
         }
       }
     ],
@@ -53299,26 +49669,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -53488,26 +49838,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -53653,36 +49983,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Fuel",
-          "ar": "الوقود"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -53795,26 +50095,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -53841,6 +50121,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -54013,26 +50303,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -54059,6 +50329,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -54224,26 +50504,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -54270,6 +50530,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -54439,26 +50709,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -54485,6 +50735,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -54648,26 +50908,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -54840,26 +51080,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -55007,26 +51227,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -55219,26 +51419,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -55265,6 +51445,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -55417,26 +51607,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -55463,6 +51633,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -55637,26 +51817,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -55770,26 +51930,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -55816,6 +51956,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -55973,26 +52123,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -56019,6 +52149,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -56191,26 +52331,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -56237,6 +52357,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -56406,26 +52536,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -56442,6 +52552,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -56534,26 +52654,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -56686,26 +52786,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -56907,26 +52987,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -57074,26 +53134,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -57120,6 +53160,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -57276,26 +53326,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -57410,26 +53440,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -57446,6 +53456,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -57557,26 +53577,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -57763,26 +53763,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -57809,6 +53789,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -57956,26 +53946,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -58180,26 +54150,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -58399,26 +54349,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -58550,26 +54480,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -58596,6 +54506,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -58754,26 +54674,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -58956,26 +54856,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -59002,6 +54882,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -59172,26 +55062,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -59384,26 +55254,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -59430,6 +55280,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -59528,26 +55388,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -59574,6 +55414,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -59722,26 +55572,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -59914,26 +55744,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -60055,26 +55865,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -60238,26 +56028,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -60404,26 +56174,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -60553,26 +56303,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -60599,6 +56329,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -60743,26 +56483,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -60936,26 +56656,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -60982,6 +56682,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -61104,16 +56814,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "SUV & 4x4",
-          "ar": "دفع رباعي"
         }
       },
       {
@@ -61318,26 +57018,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -61456,26 +57136,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -61659,26 +57319,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -61867,26 +57507,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -62089,26 +57709,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -62135,6 +57735,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -62309,26 +57919,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -62355,6 +57945,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -62489,26 +58089,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -62701,26 +58281,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -62747,6 +58307,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -62894,26 +58464,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -62940,6 +58490,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -63109,26 +58669,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -63275,26 +58815,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -63429,26 +58949,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -63651,26 +59151,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -63697,6 +59177,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -63861,26 +59351,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -64010,26 +59480,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -64056,6 +59506,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "First hand",
+          "ar": "اليد الأولى"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
         }
       }
     ],
@@ -64226,26 +59686,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -64365,26 +59805,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -64411,6 +59831,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -64549,16 +59979,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "SUV & 4x4",
-          "ar": "دفع رباعي"
         }
       },
       {
@@ -64758,26 +60178,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -64972,26 +60372,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -65018,6 +60398,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -65161,26 +60551,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -65306,26 +60676,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -65468,26 +60818,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -65690,26 +61020,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -65736,6 +61046,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -65903,26 +61223,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -65949,6 +61249,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -66052,26 +61362,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -66098,6 +61388,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -66197,26 +61497,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -66414,26 +61694,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -66460,6 +61720,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -66613,26 +61883,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -66835,26 +62085,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -66881,6 +62111,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -67051,16 +62291,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "Saloon",
-          "ar": "سيدان"
         }
       },
       {
@@ -67250,26 +62480,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -67399,26 +62609,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -67445,6 +62635,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -67613,26 +62813,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -67833,26 +63013,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -71520,26 +66680,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -71650,26 +66790,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -71872,26 +66992,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -71908,6 +67008,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "First hand",
+          "ar": "اليد الأولى"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
         }
       }
     ],
@@ -72000,26 +67110,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -72217,26 +67307,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -72263,6 +67333,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -72425,26 +67505,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -72471,6 +67531,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -72612,26 +67682,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -72658,6 +67708,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -72830,26 +67890,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -72969,26 +68009,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -73103,26 +68123,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -73139,6 +68139,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -73301,26 +68311,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -73347,6 +68337,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -73514,26 +68514,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -73560,6 +68540,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -73729,26 +68719,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -73878,16 +68848,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Colour",
           "ar": "اللون"
         },
@@ -73924,6 +68884,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "First hand",
+          "ar": "اليد الأولى"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
         }
       }
     ],
@@ -74088,26 +69058,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -74305,26 +69255,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -74493,26 +69423,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -74634,26 +69544,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -74850,26 +69740,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -74896,6 +69766,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -75058,26 +69938,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -75104,6 +69964,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "First hand",
+          "ar": "اليد الأولى"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
         }
       }
     ],
@@ -75272,16 +70142,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "SUV & 4x4",
-          "ar": "دفع رباعي"
         }
       },
       {
@@ -75496,26 +70356,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -75714,26 +70554,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -75760,6 +70580,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -75932,26 +70762,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -76078,26 +70888,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -76124,6 +70914,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -76280,26 +71080,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -76326,6 +71106,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Origin",
+          "ar": "الأصل"
+        },
+        "value": {
+          "en": "WW in Morocco",
+          "ar": "جديدة بالمغرب (WW)"
         }
       }
     ],
@@ -76477,26 +71267,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -76513,6 +71283,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -76614,26 +71394,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -76660,6 +71420,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -76825,26 +71595,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Hybrid",
           "ar": "هجين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -77042,26 +71792,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -77078,6 +71808,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -77250,26 +71990,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -77393,26 +72113,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -77439,6 +72139,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -77540,26 +72250,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -77586,6 +72276,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -77727,26 +72427,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -77773,6 +72453,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -77945,26 +72635,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -77991,6 +72661,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -78134,26 +72814,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -78355,26 +73015,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -78491,26 +73131,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -78537,6 +73157,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -78670,26 +73300,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -78862,26 +73472,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -78908,6 +73498,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -79071,26 +73671,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -79293,26 +73873,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -79435,26 +73995,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -79481,6 +74021,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -79595,26 +74145,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Hybrid",
           "ar": "هجين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -79819,26 +74349,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -79865,6 +74375,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -80037,26 +74557,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -80083,6 +74583,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "First hand",
+          "ar": "اليد الأولى"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
         }
       }
     ],
@@ -80250,26 +74760,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -80472,26 +74962,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -80618,26 +75088,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -80664,6 +75114,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -80833,26 +75293,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -80879,6 +75319,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "First hand",
+          "ar": "اليد الأولى"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
         }
       }
     ],
@@ -81052,26 +75502,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -81088,6 +75518,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -81185,26 +75625,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -81387,26 +75807,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -81566,26 +75966,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -81766,26 +76146,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -81909,16 +76269,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "SUV & 4x4",
-          "ar": "دفع رباعي"
         }
       },
       {
@@ -82133,26 +76483,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -82179,6 +76509,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -82330,26 +76670,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -82507,26 +76827,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -82730,26 +77030,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -82883,16 +77163,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "SUV & 4x4",
-          "ar": "دفع رباعي"
         }
       },
       {
@@ -83102,26 +77372,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -83148,6 +77398,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -83258,26 +77518,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -83480,26 +77720,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -83694,26 +77914,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -88195,26 +82395,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -88241,6 +82421,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -88408,26 +82598,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -88630,26 +82800,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -88676,6 +82826,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -88846,26 +83006,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -89058,26 +83198,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -89254,26 +83374,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -89438,26 +83538,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -89660,26 +83740,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -89844,26 +83904,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -90061,26 +84101,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -90140,8 +84160,8 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "original": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
-      "ar": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "original": "كروس أوفر (Crossover) عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "كروس أوفر (Crossover) عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. شبعانة طريق والميكانيك ديالها ناضي وشاد راسو. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
       "en": "Practical, spacious SUV perfectly suited for both daily family routines and long Moroccan road trips. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
       "usedDarija": true
     },
@@ -90194,26 +84214,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -90327,16 +84327,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "Saloon",
-          "ar": "سيدان"
         }
       },
       {
@@ -90541,26 +84531,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -90733,26 +84703,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -90940,26 +84890,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -91102,26 +85032,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -91148,6 +85058,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -91315,26 +85235,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -91450,26 +85350,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -91618,26 +85498,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -91664,6 +85524,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -91781,26 +85651,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -92002,26 +85852,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -92048,6 +85878,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -92210,26 +86050,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -92345,26 +86165,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -92391,6 +86191,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -92559,26 +86369,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -92778,26 +86568,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -92986,26 +86756,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -93186,26 +86936,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -93232,6 +86962,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -93400,26 +87140,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -93617,26 +87337,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -93663,6 +87363,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -93806,26 +87516,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -94023,26 +87713,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -94170,26 +87840,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -94306,26 +87956,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -94435,26 +88065,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -94652,26 +88262,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -94851,16 +88441,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "SUV & 4x4",
-          "ar": "دفع رباعي"
         }
       },
       {
@@ -95065,26 +88645,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -95285,26 +88845,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -95424,26 +88964,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -95610,16 +89130,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Colour",
           "ar": "اللون"
         },
@@ -95656,6 +89166,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -95830,26 +89350,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -95876,6 +89376,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -96028,26 +89538,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -96074,6 +89564,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -96246,26 +89746,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -96292,6 +89772,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -96455,26 +89945,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -96501,6 +89971,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "First hand",
+          "ar": "اليد الأولى"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
         }
       }
     ],
@@ -96660,26 +90140,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -96882,26 +90342,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -96928,6 +90368,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -97077,26 +90527,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -97123,6 +90553,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -97291,26 +90731,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -97510,26 +90930,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -97556,6 +90956,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -97724,26 +91134,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -97928,26 +91318,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -98097,26 +91467,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -98248,26 +91598,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -98294,6 +91624,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -98449,26 +91789,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -98495,6 +91815,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -98660,26 +91990,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -98853,36 +92163,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Fuel",
-          "ar": "الوقود"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -98999,26 +92279,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -99045,6 +92305,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -99209,26 +92479,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -99374,26 +92624,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -99591,26 +92821,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -99797,26 +93007,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -99990,26 +93180,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -100036,6 +93206,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "First hand",
+          "ar": "اليد الأولى"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
         }
       }
     ],
@@ -100201,26 +93381,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Hybrid",
           "ar": "هجين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -100425,26 +93585,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -100641,26 +93781,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -100862,26 +93982,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -101060,26 +94160,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -101272,26 +94352,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -101318,6 +94378,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -101457,26 +94527,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -101602,26 +94652,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -101825,26 +94855,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -102039,26 +95049,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -102244,26 +95234,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -102290,6 +95260,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -102462,26 +95442,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -102508,6 +95468,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -102608,26 +95578,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -102644,6 +95594,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -102806,26 +95766,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -102984,26 +95924,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -103030,6 +95950,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -103204,26 +96134,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -103250,6 +96160,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -103370,26 +96290,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -103516,26 +96416,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -103552,6 +96432,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -103649,26 +96539,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -103871,26 +96741,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -104001,8 +96851,8 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "original": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
-      "ar": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "original": "كروس أوفر (Crossover) عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "كروس أوفر (Crossover) عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ ريگيلاتور دو فيتيس للمسافات، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
       "en": "Practical, spacious SUV perfectly suited for both daily family routines and long Moroccan road trips. Richly specified with cruise control, stylish alloy wheels, and air conditioning. Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.",
       "usedDarija": true
     },
@@ -104055,26 +96905,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -104271,26 +97101,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -104482,26 +97292,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -104636,26 +97426,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Hybrid",
           "ar": "هجين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -104860,26 +97630,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -104906,6 +97656,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -105046,26 +97806,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -105082,6 +97822,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -105177,26 +97927,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -105401,26 +98131,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -105447,6 +98157,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -105586,26 +98306,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -105803,26 +98503,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -105946,26 +98626,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -105992,6 +98652,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -106141,26 +98811,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -106187,6 +98837,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -110622,26 +103282,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -110668,6 +103308,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -110840,26 +103490,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -110973,26 +103603,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -111152,26 +103762,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -111319,26 +103909,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -111365,6 +103935,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -111533,26 +104113,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -111579,6 +104139,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "First hand",
+          "ar": "اليد الأولى"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
         }
       }
     ],
@@ -111675,26 +104245,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -111863,26 +104413,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -111909,6 +104439,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -112077,26 +104617,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -112123,6 +104643,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -112246,26 +104776,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -112468,26 +104978,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -112684,26 +105174,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -112720,6 +105190,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -112892,26 +105372,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -112938,6 +105398,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -113105,26 +105575,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -113281,26 +105731,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -113502,26 +105932,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -113548,6 +105958,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -113689,26 +106109,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -113735,6 +106135,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -113884,26 +106294,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -114043,26 +106433,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -114089,6 +106459,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -114254,26 +106634,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -114300,6 +106660,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -114461,26 +106831,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -114678,26 +107028,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -114900,26 +107230,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -114946,6 +107256,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -115120,26 +107440,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -115166,6 +107466,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -115330,26 +107640,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -115376,6 +107666,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -115474,26 +107774,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -115520,6 +107800,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -115688,26 +107978,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -115908,26 +108178,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -116122,26 +108372,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -116168,6 +108398,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -116335,26 +108575,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -116381,6 +108601,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -116553,26 +108783,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -116731,26 +108941,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -116777,6 +108967,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -116938,26 +109138,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -117155,26 +109335,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -117201,6 +109361,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -117364,26 +109534,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -117586,26 +109736,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -117632,6 +109762,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -117805,26 +109945,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -117851,6 +109971,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -118019,26 +110149,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -118228,26 +110338,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -118416,26 +110506,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -118462,6 +110532,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -118632,26 +110712,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -118678,6 +110738,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -118845,26 +110915,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -119023,26 +111073,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -119247,26 +111277,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -119293,6 +111303,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -119462,26 +111482,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -119679,26 +111679,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -119725,6 +111705,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -119899,26 +111889,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -119945,6 +111915,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -120103,26 +112083,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -120149,6 +112109,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -120321,26 +112291,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -120367,6 +112317,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -120494,26 +112454,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -120540,6 +112480,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -120704,26 +112654,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -120750,6 +112680,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -120897,26 +112837,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -120943,6 +112863,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -121113,26 +113043,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -121334,26 +113244,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -121380,6 +113270,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -121537,26 +113437,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -121583,6 +113463,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Origin",
+          "ar": "الأصل"
+        },
+        "value": {
+          "en": "Imported new",
+          "ar": "مستوردة جديدة"
         }
       }
     ],
@@ -121750,16 +113640,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "SUV & 4x4",
-          "ar": "دفع رباعي"
         }
       },
       {
@@ -121974,26 +113854,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -122194,26 +114054,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -122240,6 +114080,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -122408,26 +114258,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -122628,26 +114458,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -122674,6 +114484,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -122793,26 +114613,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -122839,6 +114639,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -123013,26 +114823,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -123059,6 +114849,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -123231,26 +115031,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -123277,6 +115057,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -123372,26 +115162,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -123594,26 +115364,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Gearbox",
           "ar": "علبة السرعات"
         },
@@ -123731,26 +115481,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -123777,6 +115507,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Good condition",
+          "ar": "حالة جيدة"
         }
       }
     ],
@@ -123949,26 +115689,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -123995,6 +115715,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "First hand",
+          "ar": "اليد الأولى"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
         }
       }
     ],
@@ -124096,26 +115826,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -124142,6 +115852,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -124296,26 +116016,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -124491,26 +116191,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -124582,8 +116262,8 @@ export const DEFAULT_LISTINGS = [
       }
     ],
     "summary": {
-      "original": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. معروضة للبيع فـ وجدة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
-      "ar": "كروفر عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. معروضة للبيع فـ وجدة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "original": "كروس أوفر (Crossover) عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. معروضة للبيع فـ وجدة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
+      "ar": "كروس أوفر (Crossover) عائلي ناضي، حديد قاصح وعالي على الأرض وصالح للطريق والبلاد. عامرة بـ ليزوبسيون، مجهزة بـ كاميرا ورادار للمارشاريير، جوانط ألمنيوم أنيقة، كليما خدامة مزيان. معروضة للبيع فـ وجدة. صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.",
       "en": "Practical, spacious SUV perfectly suited for both daily family routines and long Moroccan road trips. Richly specified with reversing camera and parking sensors, stylish alloy wheels, and air conditioning. Available for viewing in Oujda. Meticulously maintained and turnkey ready for its next owner with all paperwork in order.",
       "usedDarija": true
     },
@@ -124636,26 +116316,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -124843,26 +116503,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -125014,26 +116654,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -125060,6 +116680,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Very good",
+          "ar": "حالة جيدة جداً"
         }
       }
     ],
@@ -125227,26 +116857,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -125437,26 +117047,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -125633,26 +117223,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -125851,26 +117421,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -125897,6 +117447,16 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent",
+          "ar": "حالة ممتازة"
         }
       }
     ],
@@ -126067,26 +117627,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -126268,26 +117808,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
           "en": "Doors",
           "ar": "الأبواب"
         },
@@ -126447,26 +117967,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {
@@ -126665,26 +118165,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Diesel",
           "ar": "ديزل"
-        }
-      },
-      {
-        "label": {
-          "en": "Body type",
-          "ar": "نوع الهيكل"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
-        }
-      },
-      {
-        "label": {
-          "en": "Colour",
-          "ar": "اللون"
-        },
-        "value": {
-          "en": "N/A",
-          "ar": "N/A"
         }
       },
       {

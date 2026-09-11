@@ -193,7 +193,9 @@ export function parseMoteurHtml(html, sourceUrl) {
     { key: 'Carburant', regex: /Carburant\s*[:\s]\s*(Diesel|Essence|Hybride|Électrique)/i },
     { key: 'Boîte de vitesses', regex: /(?:Bo[îi]te\s*de\s*vitesses?|Transmission)\s*[:\s]\s*(Manuelle|Automatique)/i },
     { key: 'Puissance fiscale', regex: /Puissance\s*fiscale\s*[:\s]\s*(\d+\s*CV)/i },
-    { key: 'Carrosserie', regex: /Carrosserie\s*[:\s]\s*([\w\s&]+?)(?:\n|\t|,|$)/i },
+    { key: 'État', regex: /État\s*[:\s]\s*([\w\s]+?)(?:\n|\t|,|$)/i },
+    { key: 'Première main', regex: /Premi[eè]re\s*main\s*[:\s]\s*(Oui|Non)/i },
+    { key: 'Origine', regex: /Origine\s*[:\s]\s*([\w\s]+?)(?:\n|\t|,|$)/i },
     { key: 'Couleur', regex: /Couleur\s*[:\s]\s*([\w\s]+?)(?:\n|\t|,|$)/i },
     { key: 'Ville', regex: /Ville\s*[:\s]\s*([\w\s-]+?)(?:\n|\t|,|$)/i }
   ];
@@ -301,14 +303,17 @@ export function parseMoteurHtml(html, sourceUrl) {
     value: localizeTerm(v)
   }));
 
-  // Filter out redundant transmission, customs, and tax horsepower, but KEEP gearbox
+  // Filter out redundant transmission, customs, tax horsepower, and body type
   features = features.filter(f => {
     const lblEn = (f.label && (f.label.en || f.label) || '').trim().toLowerCase();
     const lblAr = (f.label && f.label.ar || '').trim().toLowerCase();
+    const valEn = (f.value && (f.value.en || f.value) || '').trim().toLowerCase();
+    if (!valEn || valEn === 'n/a' || valEn === 'null') return false;
     if (lblEn.includes('douane') || lblAr.includes('douane') || lblEn.includes('customs') || lblAr.includes('جمارك')) return false;
     if (lblEn.includes('tax horsepower') || lblEn === 'tax hp' || lblEn.includes('puissance fiscale') || lblAr.includes('الجبائية')) return false;
     if (lblEn.includes('transmission') || lblAr.includes('ناقل الحركة')) return false;
     if (lblEn.includes('gearbox') || lblAr.includes('علبة السرعات')) return false;
+    if (lblEn.includes('body type') || lblEn.includes('carrosserie') || lblAr.includes('نوع الهيكل')) return false;
     return true;
   });
   features.push(gearboxFeature);
