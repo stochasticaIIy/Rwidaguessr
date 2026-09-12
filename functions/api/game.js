@@ -43,6 +43,34 @@ function sanitizeListingOptions(item) {
   });
 }
 
+function getListingFuel(item) {
+  if (!item) return '';
+  const fuelFeature = (item.features || []).find((f) => {
+    const lbl = (f.label && (f.label.en || f.label.fr || f.label.ar || f.label)) || '';
+    const l = String(lbl).toLowerCase();
+    return l.includes('fuel') || l.includes('carburant') || l.includes('وقود');
+  });
+  if (fuelFeature) {
+    const val = (fuelFeature.value && (fuelFeature.value.en || fuelFeature.value.fr || fuelFeature.value.ar || fuelFeature.value)) || '';
+    const v = String(val).toLowerCase();
+    if (v.includes('diesel') || v.includes('ديزل') || v.includes('مازوط')) return 'diesel';
+    if (v.includes('petrol') || v.includes('essence') || v.includes('بنزين') || v.includes('ليسانس')) return 'petrol';
+    if (v.includes('electric') || v.includes('electrique') || v.includes('électrique') || v.includes('كهربائي')) return 'electric';
+    if (v.includes('hybrid') || v.includes('hybride') || v.includes('هجين')) return 'hybrid';
+  }
+  for (const q of (item.quickFacts || [])) {
+    const val = (typeof q === 'object' ? (q.en || q.fr || q.ar || '') : String(q || '')).toLowerCase();
+    if (val.includes('diesel') || val.includes('ديزل') || val.includes('مازوط')) return 'diesel';
+    if (val.includes('essence') || val.includes('petrol') || val.includes('بنزين') || val.includes('ليسانس')) return 'petrol';
+    if (val.includes('electric') || val.includes('electrique') || val.includes('électrique') || val.includes('كهربائي')) return 'electric';
+    if (val.includes('hybrid') || val.includes('hybride') || val.includes('هجين')) return 'hybrid';
+  }
+  if ((item.kind || '').toLowerCase().includes('moto') || (item.kind || '').toLowerCase().includes('bike')) {
+    return 'petrol';
+  }
+  return '';
+}
+
 const PRICE_SCRUB_REGEX = /(?:💰|prix|ثمن|tarif|vendu|cout|coût)?\s*[:=]?\s*\d{1,3}(?:[\s.,]\d{3})*\s*(?:dh|mad|dhs|درهم|د\.م|مليون|سنتيم)\b|(?:prix|ثمن)\s*[:=]?\s*[\d\s.,*]+(?:\b|dh|درهم)|(?:prix\s*fixe|prix\s*n[ée]gociable|prix\s*[àa]\s*d[ée]battre|bon\s*prix|ثمن\s*مناسب|قابل\s*للتفاوض|الثمن\s*التالي)|(?:الضريبة|ضريبة)\s*[:=]?\s*\d+\s*(?:dh|درهم)?/gi;
 
 function sanitizeListingSummary(item) {
@@ -99,6 +127,45 @@ export async function onRequestGet({ request, env = {} }) {
       return k.includes('moto') || k.includes('bike');
     });
     if (motos.length >= 5) pool = motos;
+  }
+
+  const isMotoMode = mode === 'motorbikes' || mode === 'moto' || mode === 'motos' || mode === 'motorcycle';
+  const region = (url.searchParams.get('region') || '').toLowerCase().trim();
+  const fuel = isMotoMode ? '' : (url.searchParams.get('fuel') || '').toLowerCase().trim();
+
+  const isMatchRegion = (item, r) => {
+    if (!r || r === 'all') return true;
+    return (item.location && item.location.region || '').toLowerCase() === r;
+  };
+  const isMatchFuel = (item, f) => {
+    if (!f || f === 'all') return true;
+    const lf = getListingFuel(item);
+    if (f === 'diesel') return lf === 'diesel';
+    if (f === 'petrol' || f === 'essence') return lf === 'petrol';
+    if (f === 'hybrid') return lf === 'hybrid';
+    if (f === 'electric' || f === 'electrique') return lf === 'electric';
+    if (f === 'eco' || f === 'electric_hybrid') return lf === 'electric' || lf === 'hybrid';
+    return true;
+  };
+
+  if ((region && region !== 'all') && (fuel && fuel !== 'all')) {
+    const both = pool.filter((item) => isMatchRegion(item, region) && isMatchFuel(item, fuel));
+    if (both.length >= 5) {
+      pool = both;
+    } else if (both.length > 0) {
+      const sameFuel = pool.filter((item) => isMatchFuel(item, fuel) && !isMatchRegion(item, region));
+      pool = [...both, ...sameFuel];
+      if (pool.length < 5) {
+        const sameRegion = pool.filter((item) => isMatchRegion(item, region) && !isMatchFuel(item, fuel));
+        pool = [...pool, ...sameRegion];
+      }
+    }
+  } else if (region && region !== 'all') {
+    const regional = pool.filter((item) => isMatchRegion(item, region));
+    if (regional.length >= 5) pool = regional;
+  } else if (fuel && fuel !== 'all') {
+    const fuelFiltered = pool.filter((item) => isMatchFuel(item, fuel));
+    if (fuelFiltered.length >= 5) pool = fuelFiltered;
   }
 
   const sampleCount = Math.min(pool.length, 15);

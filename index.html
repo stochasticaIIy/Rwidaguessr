@@ -66,6 +66,26 @@
             <option value="3000" data-i18n="fiftyMinutes">50 دقيقة (الحد الأقصى)</option>
           </select>
           <small data-i18n="durationNote">الوقت لا يتجاوز 50 دقيقة لكل إعلان.</small>
+          <div id="fuel-filter-group">
+            <label for="fuel-filter" data-i18n="fuelLabel">نوع الوقود (اختياري)</label>
+            <select id="fuel-filter">
+              <option value="all" selected data-i18n="fuelAll">كافة أنواع الوقود (الكل)</option>
+              <option value="diesel" data-i18n="fuelDiesel">ديزل / مازوط (Diesel)</option>
+              <option value="petrol" data-i18n="fuelPetrol">بنزين / ليسانس (Essence)</option>
+              <option value="hybrid" data-i18n="fuelHybrid">هجين (Hybride)</option>
+              <option value="electric" data-i18n="fuelElectric">كهربائي 100% (100% Électrique)</option>
+              <option value="eco" data-i18n="fuelEco">كهربائي وهجين (Électrique & Hybride)</option>
+            </select>
+          </div>
+          <label for="region-filter" data-i18n="regionLabel">المنطقة أو المدينة (اختياري)</label>
+          <select id="region-filter">
+            <option value="all" selected data-i18n="regionAll">كافة المدن المغربية (المغرب كامل)</option>
+            <option value="casablanca" data-i18n="regionCasa">الدار البيضاء - سطات (كازا، المحمدية...)</option>
+            <option value="rabat" data-i18n="regionRabat">الرباط - سلا - القنيطرة (تمارة...)</option>
+            <option value="tanger" data-i18n="regionTanger">طنجة - تطوان - الشمال (الناظور...)</option>
+            <option value="marrakech" data-i18n="regionMarrakech">مراكش - أكادير - الجنوب (آسفي...)</option>
+            <option value="oriental" data-i18n="regionOriental">فاس - مكناس - الشرق (وجدة، خريبكة...)</option>
+          </select>
           <button class="primary-button" id="start-game" type="button" data-i18n-html="start">ابدأ 5 جولات <span>←</span></button>
         </div>
         <p class="data-note" id="data-note">جارٍ تحميل الإعلانات…</p>
@@ -74,7 +94,10 @@
       <section class="game-screen hidden" id="game-screen" aria-live="polite">
         <div class="game-header">
           <div>
-            <span class="eyebrow" id="vehicle-kind">Vehicle listing</span>
+            <div class="header-tags">
+              <span class="eyebrow" id="vehicle-kind">Vehicle listing</span>
+              <span class="vehicle-location-badge hidden" id="vehicle-location-badge">📍 —</span>
+            </div>
             <h2 id="vehicle-title">—</h2>
           </div>
           <div class="timer" id="timer" aria-label="Time remaining">02:00</div>

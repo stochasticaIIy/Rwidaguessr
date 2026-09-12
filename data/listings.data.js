@@ -122,6 +122,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
@@ -135,7 +145,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154781813?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154781816?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656399/audi-q3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656399/audi-q3.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-497369",
@@ -259,6 +278,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -345,7 +374,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10151546574-730500.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10151546563-715124.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/497369/honda-accord.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/497369/honda-accord.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-645151",
@@ -459,6 +497,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -543,7 +591,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154170077?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154170076?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/645151/ford-kuga.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/645151/ford-kuga.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-652408",
@@ -667,6 +724,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Khouribga",
+          "ar": "خريبكة"
+        }
       }
     ],
     "options": [
@@ -730,7 +797,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154754805?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154754809?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652408/bmw-serie-4.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652408/bmw-serie-4.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Khouribga",
+      "cityAr": "خريبكة"
+    }
   },
   {
     "id": "moteur-508072",
@@ -854,6 +930,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Salé",
+          "ar": "سلا"
+        }
       }
     ],
     "options": [
@@ -938,7 +1024,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152066342?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152066361?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/508072/volkswagen-touareg.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/508072/volkswagen-touareg.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Salé",
+      "cityAr": "سلا"
+    }
   },
   {
     "id": "moteur-492813",
@@ -1052,6 +1147,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Salé",
+          "ar": "سلا"
+        }
       }
     ],
     "options": [
@@ -1134,7 +1239,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153406292-911609.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153406290-826144.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492813/dacia-sandero.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492813/dacia-sandero.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Salé",
+      "cityAr": "سلا"
+    }
   },
   {
     "id": "moteur-655377",
@@ -1248,6 +1362,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -1329,7 +1453,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154734668?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154734671?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655377/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655377/volkswagen-tiguan.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-635294",
@@ -1443,6 +1576,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [],
@@ -1454,7 +1597,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153324265?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153324257?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/635294/nissan-370z.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/635294/nissan-370z.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-647467",
@@ -1568,6 +1720,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -1647,7 +1809,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154600232?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154600231?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/647467/nissan-qashqai.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/647467/nissan-qashqai.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657394",
@@ -1751,6 +1922,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [],
@@ -1764,7 +1945,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154830432?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830433?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657394/fiat-grande-punto.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657394/fiat-grande-punto.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-471757",
@@ -1878,6 +2068,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
       }
     ],
     "options": [
@@ -1890,7 +2090,16 @@ export const DEFAULT_LISTINGS = [
     "images": [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153125495-842225.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/471757/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/471757/autre-autre.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
   },
   {
     "id": "moteur-452664",
@@ -2004,6 +2213,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -2058,7 +2277,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154503136-207073.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154503137-881632.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/452664/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/452664/autre-autre.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-493177",
@@ -2172,6 +2400,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [],
@@ -2183,7 +2421,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10151024315-182090.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10151024316-906081.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/493177/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/493177/autre-autre.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-457084",
@@ -2297,6 +2544,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -2312,7 +2569,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-224790.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-480840.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/457084/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/457084/autre-autre.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-621228",
@@ -2426,6 +2692,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -2447,7 +2723,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152904496-387178.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152904503-163160.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/621228/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/621228/autre-autre.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-492020",
@@ -2561,6 +2846,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -2580,7 +2875,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152209025-188384.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152209030-925952.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/492020/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/492020/autre-autre.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-656779",
@@ -2714,6 +3018,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -2726,7 +3040,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/voge-500ds-1788776558.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/voge-500ds-1788776397.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/656779/voge-500ds.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/656779/voge-500ds.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-611386",
@@ -2840,6 +3163,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -2859,7 +3192,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152530511-433972.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152530513-327399.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/611386/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/611386/autre-autre.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657626",
@@ -2973,6 +3315,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -3004,7 +3356,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154426141?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836159?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657626/hyundai-accent.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657626/hyundai-accent.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657628",
@@ -3118,6 +3479,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [
@@ -3169,7 +3540,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154248078?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154608888?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657628/opel-crossland.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657628/opel-crossland.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-657629",
@@ -3273,6 +3653,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -3284,7 +3674,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839652?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839653?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657629/renault-megane.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657629/renault-megane.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-656214",
@@ -3408,6 +3807,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -3462,7 +3871,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154780478?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154780482?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656214/volkswagen-t-roc.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656214/volkswagen-t-roc.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657630",
@@ -3586,6 +4004,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -3631,7 +4059,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153540747?t=moteur_feed",
       "https://www.moteur.ma/storage/media/images/ads/resized/10151084398-371883.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657630/mercedes-benz-220.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657630/mercedes-benz-220.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657631",
@@ -3745,6 +4182,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -3780,7 +4227,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154840038?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154840039?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657631/volkswagen-golf-4.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657631/volkswagen-golf-4.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657622",
@@ -3894,6 +4350,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -3965,7 +4431,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839721?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839745?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657622/hyundai-accent.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657622/hyundai-accent.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657621",
@@ -4089,6 +4564,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -4116,7 +4601,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154840085?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154840079?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657621/renault-clio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657621/renault-clio.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-540973",
@@ -4230,6 +4724,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -4314,7 +4818,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10129534953?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10129534950?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/540973/mercedes-benz-eqe.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/540973/mercedes-benz-eqe.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-654513",
@@ -4438,6 +4951,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -4511,7 +5034,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154690427?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154690431?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654513/volkswagen-caddy.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654513/volkswagen-caddy.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-638976",
@@ -4625,6 +5157,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -4689,7 +5231,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153849597?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154314106?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/638976/bmw-serie-5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/638976/bmw-serie-5.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-657624",
@@ -4803,6 +5354,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -4840,7 +5401,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839776?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839778?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657624/citroen-c3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657624/citroen-c3.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-639412",
@@ -4964,6 +5534,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Imported new",
           "ar": "مستوردة جديدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -4992,7 +5572,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153869555?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153869556?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/639412/toyota-c-hr.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/639412/toyota-c-hr.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-652688",
@@ -5106,6 +5695,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -5119,7 +5718,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154586288?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154586286?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652688/toyota-prado.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652688/toyota-prado.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-626791",
@@ -5233,6 +5841,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -5317,7 +5935,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153198767?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153198769?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/626791/land-rover-range-rover-sport.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/626791/land-rover-range-rover-sport.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-657625",
@@ -5431,6 +6058,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -5506,7 +6143,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153540746?t=moteur_feed",
       "https://www.moteur.ma/storage/media/images/ads/resized/10151084388-470817.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657625/mercedes-benz-220.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657625/mercedes-benz-220.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657614",
@@ -5620,6 +6266,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [],
@@ -5630,7 +6286,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839889?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839891?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657614/volkswagen-polo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657614/volkswagen-polo.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-657615",
@@ -5754,6 +6419,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -5838,7 +6513,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839682?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839680?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657615/bmw-x3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657615/bmw-x3.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-491831",
@@ -5952,6 +6636,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -6030,7 +6724,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10149752261-942814.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10149752263-216308.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491831/bmw-serie-5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491831/bmw-serie-5.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657617",
@@ -6154,6 +6857,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Yes",
           "ar": "نعم"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [
@@ -6200,7 +6913,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839520?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839521?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657617/opel-mokka.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657617/opel-mokka.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-657618",
@@ -6324,6 +7046,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [],
@@ -6333,7 +7065,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839687?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839672?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657618/seat-ibiza.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657618/seat-ibiza.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-655637",
@@ -6457,6 +7198,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [
@@ -6541,7 +7292,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154741825?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154741827?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655637/mercedes-benz-classe-c.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655637/mercedes-benz-classe-c.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-642122",
@@ -6655,6 +7415,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -6699,7 +7469,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154012748?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154012751?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/642122/kia-soul.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/642122/kia-soul.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-650596",
@@ -6813,6 +7592,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -6889,7 +7678,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154465043?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154465041?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/650596/audi-q3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/650596/audi-q3.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657616",
@@ -7003,6 +7801,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [
@@ -7072,7 +7880,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839448?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839447?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657616/citroen-c3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657616/citroen-c3.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-517983",
@@ -7196,6 +8013,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -7273,7 +8100,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10133437618?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10135191322?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/517983/land-rover-range-rover-sport.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/517983/land-rover-range-rover-sport.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-657620",
@@ -7387,6 +8223,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -7395,7 +8241,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839578?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839576?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657620/volkswagen-golf-4.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657620/volkswagen-golf-4.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-652653",
@@ -7509,6 +8364,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -7525,7 +8390,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152143362?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152143361?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652653/audi-a1.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652653/audi-a1.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657612",
@@ -7639,6 +8513,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tétouan",
+          "ar": "تطوان"
+        }
       }
     ],
     "options": [
@@ -7704,7 +8588,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838335?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837120?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657612/dacia-logan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657612/dacia-logan.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tétouan",
+      "cityAr": "تطوان"
+    }
   },
   {
     "id": "moteur-657613",
@@ -7828,6 +8721,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -7897,7 +8800,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839321?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839319?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657613/renault-clio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657613/renault-clio.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-657607",
@@ -8021,6 +8933,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -8053,7 +8975,16 @@ export const DEFAULT_LISTINGS = [
     "images": [
       "https://content.avito.ma/classifieds/images/10154839258?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657607/ford-fiesta.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657607/ford-fiesta.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-648622",
@@ -8177,6 +9108,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -8258,7 +9199,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154341356?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154341362?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/648622/jeep-grand-cherokee.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/648622/jeep-grand-cherokee.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657608",
@@ -8372,6 +9322,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -8384,7 +9344,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839140?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839171?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657608/mercedes-benz-220.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657608/mercedes-benz-220.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-657548",
@@ -8508,6 +9477,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -8588,7 +9567,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/audi-a6-1788817546.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/audi-a6-1788817191.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657548/audi-a6.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657548/audi-a6.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657609",
@@ -8702,6 +9690,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -8715,7 +9713,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839178?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839180?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657609/jeep-grand-cherokee.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657609/jeep-grand-cherokee.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-657610",
@@ -8839,6 +9846,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -8865,7 +9882,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839111?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839102?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657610/fiat-tipo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657610/fiat-tipo.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-652635",
@@ -8979,6 +10005,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -9061,7 +10097,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154627967?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154627968?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652635/mercedes-benz-classe-c.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652635/mercedes-benz-classe-c.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-496018",
@@ -9185,6 +10230,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -9269,7 +10324,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10151014735?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10151014746?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/496018/land-rover-range-rover-velar.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/496018/land-rover-range-rover-velar.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-655618",
@@ -9393,6 +10457,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -9477,7 +10551,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154741616?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154741605?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655618/mercedes-benz-classe-gle.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655618/mercedes-benz-classe-gle.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-495219",
@@ -9591,6 +10674,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -9660,7 +10753,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838071?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154838069?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495219/audi-q7.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495219/audi-q7.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657599",
@@ -9784,6 +10886,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -9848,7 +10960,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838653?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154838658?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657599/skoda-fabia.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657599/skoda-fabia.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-657600",
@@ -9972,6 +11093,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -10054,7 +11185,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838626?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154838627?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657600/opel-grandland.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657600/opel-grandland.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657601",
@@ -10178,6 +11318,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -10228,7 +11378,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837883?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837882?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657601/peugeot-208.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657601/peugeot-208.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657603",
@@ -10352,6 +11511,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -10389,7 +11558,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838532?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154838531?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657603/fiat-500.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657603/fiat-500.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-400732",
@@ -10503,6 +11681,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -10587,7 +11775,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153288841-638150.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153288843-570027.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/400732/jeep-compass.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/400732/jeep-compass.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-618628",
@@ -10711,6 +11908,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -10719,7 +11926,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152766129?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152766131?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/618628/mercedes-benz-classe-glc.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/618628/mercedes-benz-classe-glc.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657606",
@@ -10833,6 +12049,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -10872,7 +12098,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838287?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154838289?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657606/skoda-fabia.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657606/skoda-fabia.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-657586",
@@ -10996,6 +12231,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -11062,7 +12307,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838447?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154838446?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657586/nissan-qashqai.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657586/nissan-qashqai.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657588",
@@ -11186,6 +12440,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -11260,7 +12524,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838161?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154838174?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657588/ford-c-max.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657588/ford-c-max.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657590",
@@ -11374,6 +12647,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -11410,7 +12693,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836851?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154399966?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657590/ford-tourneo-custom.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657590/ford-tourneo-custom.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-657589",
@@ -11534,6 +12826,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -11587,7 +12889,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838348?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154838350?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657589/dacia-dokker.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657589/dacia-dokker.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657591",
@@ -11711,6 +13022,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -11787,7 +13108,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836232?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154583264?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657591/bmw-serie-2.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657591/bmw-serie-2.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-657592",
@@ -11901,6 +13231,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -11977,7 +13317,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838007?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10141138210?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657592/jeep-renegade.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657592/jeep-renegade.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-657593",
@@ -12091,6 +13440,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -12146,7 +13505,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838257?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154838339?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657593/dacia-dokker.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657593/dacia-dokker.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-657594",
@@ -12250,6 +13618,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [],
@@ -12261,7 +13639,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837809?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837810?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657594/porsche-cayenne.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657594/porsche-cayenne.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-657595",
@@ -12375,6 +13762,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -12450,7 +13847,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154690386?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839890?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657595/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657595/volkswagen-tiguan.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-657581",
@@ -12564,6 +13970,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -12623,7 +14039,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837842?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837935?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657581/honda-accord.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657581/honda-accord.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-657582",
@@ -12737,6 +14162,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -12815,7 +14250,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837870?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837869?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657582/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657582/volkswagen-tiguan.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-657584",
@@ -12929,6 +14373,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -13004,7 +14458,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154690403?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154839888?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657584/volkswagen-golf-7.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657584/volkswagen-golf-7.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-655069",
@@ -13128,6 +14591,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -13202,7 +14675,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154717548?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154717552?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655069/fiat-500.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655069/fiat-500.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-494271",
@@ -13326,6 +14808,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Imported new",
           "ar": "مستوردة جديدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -13410,7 +14902,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10149372689?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10149372686?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494271/mercedes-benz-classe-glc.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494271/mercedes-benz-classe-glc.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657551",
@@ -13524,6 +15025,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [],
@@ -13532,7 +15043,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836231?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836230?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657551/bmw-serie-5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657551/bmw-serie-5.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-652592",
@@ -13656,6 +15176,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -13717,7 +15247,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154583294?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154583293?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652592/bmw-serie-1.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652592/bmw-serie-1.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-526981",
@@ -13831,6 +15370,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -13915,7 +15464,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154784947?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154784946?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/526981/mercedes-benz-classe-cla.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/526981/mercedes-benz-classe-cla.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-630479",
@@ -14029,6 +15587,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
       }
     ],
     "options": [
@@ -14092,7 +15660,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153406495?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153406494?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/630479/mini-cooper.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/630479/mini-cooper.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
   },
   {
     "id": "moteur-657564",
@@ -14216,6 +15793,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -14285,7 +15872,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837759?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837760?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657564/hyundai-creta.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657564/hyundai-creta.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-653291",
@@ -14399,6 +15995,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -14483,7 +16089,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154638397?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154638390?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653291/land-rover-range-rover-sport.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653291/land-rover-range-rover-sport.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657566",
@@ -14607,6 +16222,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -14675,7 +16300,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837570?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837568?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657566/volkswagen-polo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657566/volkswagen-polo.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-657568",
@@ -14799,6 +16433,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -14860,7 +16504,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837574?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837576?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657568/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657568/volkswagen-tiguan.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-657571",
@@ -14974,6 +16627,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -15033,7 +16696,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837510?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837508?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657571/citroen-berlingo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657571/citroen-berlingo.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-657570",
@@ -15157,6 +16829,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -15218,7 +16900,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837468?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837464?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657570/renault-kangoo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657570/renault-kangoo.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-515706",
@@ -15332,6 +17023,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -15416,7 +17117,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10141138217?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10141138218?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/515706/jeep-grand-cherokee.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/515706/jeep-grand-cherokee.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-654618",
@@ -15530,6 +17240,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -15597,7 +17317,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154687750?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154687751?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654618/audi-a5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654618/audi-a5.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657572",
@@ -15721,6 +17450,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -15789,7 +17528,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837502?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837503?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657572/nissan-note.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657572/nissan-note.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-657573",
@@ -15903,6 +17651,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -15967,7 +17725,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837217?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837218?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657573/renault-laguna-.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657573/renault-laguna-.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-494299",
@@ -16081,6 +17848,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -16159,7 +17936,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10149754683?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10149754682?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494299/bmw-x5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494299/bmw-x5.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-499912",
@@ -16273,6 +18059,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -16356,7 +18152,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10151668333?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153445466?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/499912/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/499912/volkswagen-tiguan.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657574",
@@ -16480,6 +18285,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -16559,7 +18374,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837147?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837150?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657574/hyundai-i20.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657574/hyundai-i20.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-657575",
@@ -16673,6 +18497,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -16689,7 +18523,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836047?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836050?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657575/fiat-siena.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657575/fiat-siena.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657577",
@@ -16813,6 +18656,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -16886,7 +18739,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837037?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837038?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657577/opel-corsa.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657577/opel-corsa.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657579",
@@ -17000,6 +18862,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -17059,7 +18931,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837426?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837427?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657579/citroen-c-elysee.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657579/citroen-c-elysee.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657569",
@@ -17183,6 +19064,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [],
@@ -17194,7 +19085,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837747?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837754?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657569/peugeot-206.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657569/peugeot-206.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-494207",
@@ -17308,6 +19208,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -17345,7 +19255,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10148664023?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10148664020?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494207/honda-jazz.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494207/honda-jazz.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-653682",
@@ -17459,6 +19378,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -17543,7 +19472,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154638830?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154638831?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653682/mercedes-benz-classe-a.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653682/mercedes-benz-classe-a.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-495224",
@@ -17667,6 +19605,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [
@@ -17745,7 +19693,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10134826911?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10134826910?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495224/ford-kuga.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495224/ford-kuga.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-644057",
@@ -17869,6 +19826,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
       }
     ],
     "options": [
@@ -17951,7 +19918,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154111754?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154111776?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/644057/mercedes-benz-classe-c.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/644057/mercedes-benz-classe-c.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
   },
   {
     "id": "moteur-657580",
@@ -18065,6 +20041,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [],
@@ -18073,7 +20059,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837256?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837272?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657580/mercedes-benz-220.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657580/mercedes-benz-220.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-657557",
@@ -18187,6 +20182,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
@@ -18198,7 +20203,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837061?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837062?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657557/mercedes-benz-classe-a.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657557/mercedes-benz-classe-a.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657556",
@@ -18312,6 +20326,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -18366,7 +20390,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836975?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836978?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657556/volkswagen-golf-5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657556/volkswagen-golf-5.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657555",
@@ -18480,6 +20513,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -18558,7 +20601,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836993?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836990?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657555/peugeot-partner.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657555/peugeot-partner.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657554",
@@ -18672,6 +20724,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -18719,7 +20781,16 @@ export const DEFAULT_LISTINGS = [
     "images": [
       "https://content.avito.ma/classifieds/images/10154837259?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657554/kia-picanto.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657554/kia-picanto.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-629490",
@@ -18833,6 +20904,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Salé",
+          "ar": "سلا"
+        }
       }
     ],
     "options": [
@@ -18919,7 +21000,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153353384-243940.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153353381-270935.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/629490/peugeot-2008.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/629490/peugeot-2008.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Salé",
+      "cityAr": "سلا"
+    }
   },
   {
     "id": "moteur-657518",
@@ -19043,6 +21133,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -19051,7 +21151,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/suzuki-sv-650-abs-1788815050.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/suzuki-sv-650-abs-1788814770.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/657518/suzuki-sv-650-abs.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/657518/suzuki-sv-650-abs.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-493179",
@@ -19155,6 +21264,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [],
@@ -19164,7 +21283,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154663682-133192.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154663680-519526.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/493179/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/493179/autre-autre.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-654876",
@@ -19268,6 +21396,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
@@ -19279,7 +21417,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154708692-385190.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154708698-661510.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/654876/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/654876/autre-autre.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-493178",
@@ -19383,6 +21530,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -19400,7 +21557,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10151334128-460098.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10151334130-167140.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/493178/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/493178/autre-autre.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-487817",
@@ -19504,6 +21670,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
       }
     ],
     "options": [],
@@ -19519,7 +21695,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-194038.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-990012.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487817/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487817/autre-autre.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
   },
   {
     "id": "moteur-489784",
@@ -19623,6 +21808,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -19638,7 +21833,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10151156556-679482.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10151331785-694923.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/489784/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/489784/autre-autre.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-452665",
@@ -19752,6 +21956,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -19806,7 +22020,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10150184338-649025.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10150184337-666590.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/452665/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/452665/autre-autre.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-653462",
@@ -19940,6 +22163,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
@@ -19952,7 +22185,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-tmax-1788459087.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-tmax-1788459066.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/653462/yamaha-tmax.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/653462/yamaha-tmax.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-652831",
@@ -20086,6 +22328,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -20101,7 +22353,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-tracer-9-gt-1788425519.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-tracer-9-gt-1788425523.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/652831/yamaha-tracer-9-gt.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/652831/yamaha-tracer-9-gt.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-651297",
@@ -20235,6 +22496,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -20245,7 +22516,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-mt-07-1788283878.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-mt-07-1788284393.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/651297/yamaha-mt-07.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/651297/yamaha-mt-07.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-650901",
@@ -20379,6 +22659,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -20390,7 +22680,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-mt-07-1788261893.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-mt-07-1788261817.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/650901/yamaha-mt-07.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/650901/yamaha-mt-07.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-646747",
@@ -20524,6 +22823,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -20536,7 +22845,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/royal-enfield-500s-continental-1787863856.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/royal-enfield-500s-continental-1787863579.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/646747/royal-enfield-500s-continental.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/646747/royal-enfield-500s-continental.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-646720",
@@ -20670,6 +22988,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
@@ -20680,7 +23008,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/kawasaki-bayou-250-1787862465.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/kawasaki-bayou-250-1787861894.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/646720/kawasaki-bayou-250.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/646720/kawasaki-bayou-250.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657558",
@@ -20804,6 +23141,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -20882,7 +23229,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837267?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837268?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657558/citroen-c3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657558/citroen-c3.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-496076",
@@ -21006,6 +23362,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
@@ -21014,7 +23380,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10151471033?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154378247?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/496076/alfa-romeo-tonale.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/496076/alfa-romeo-tonale.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-649935",
@@ -21128,6 +23503,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -21194,7 +23579,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154426143?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154426144?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/649935/hyundai-i40.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/649935/hyundai-i40.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-632692",
@@ -21308,6 +23702,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -21386,7 +23790,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153518232?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153927136?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/632692/porsche-panamera.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/632692/porsche-panamera.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-656523",
@@ -21500,6 +23913,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -21578,7 +24001,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154785034?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154785031?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656523/audi-a5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656523/audi-a5.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657559",
@@ -21702,6 +24134,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -21780,7 +24222,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837120?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837119?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657559/dacia-sandero.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657559/dacia-sandero.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-656543",
@@ -21904,6 +24355,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [],
@@ -21913,7 +24374,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154786437?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154786436?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656543/volkswagen-golf-8.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656543/volkswagen-golf-8.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-657561",
@@ -22027,6 +24497,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -22104,7 +24584,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837067?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837066?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657561/mini-cooper.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657561/mini-cooper.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-657563",
@@ -22228,6 +24717,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -22280,7 +24779,16 @@ export const DEFAULT_LISTINGS = [
     "images": [
       "https://content.avito.ma/classifieds/images/10154836999?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657563/peugeot-partner.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657563/peugeot-partner.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-657562",
@@ -22394,6 +24902,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -22478,7 +24996,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837049?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837047?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657562/volkswagen-passat.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657562/volkswagen-passat.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-655515",
@@ -22592,6 +25119,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -22647,7 +25184,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154738974?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154738973?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655515/peugeot-208.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655515/peugeot-208.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-654585",
@@ -22771,6 +25317,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -22855,7 +25411,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154685806?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154685799?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654585/jaguar-xf.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654585/jaguar-xf.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-654510",
@@ -22979,6 +25544,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -23053,7 +25628,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154687459?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154687461?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654510/honda-cr-v.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654510/honda-cr-v.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657549",
@@ -23177,6 +25761,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -23253,7 +25847,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836924?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836927?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657549/dacia-sandero.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657549/dacia-sandero.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657550",
@@ -23377,6 +25980,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -23456,7 +26069,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836852?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836853?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657550/ford-focus.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657550/ford-focus.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-620697",
@@ -23560,6 +26182,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -23594,7 +26226,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152875684?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152875686?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/620697/mercedes-benz-classe-sl.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/620697/mercedes-benz-classe-sl.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-629437",
@@ -23718,6 +26359,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -23791,7 +26442,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153351313?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154173446?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/629437/volkswagen-passat.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/629437/volkswagen-passat.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-497697",
@@ -23915,6 +26575,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -23981,7 +26651,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10151561979?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10151561988?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/497697/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/497697/volkswagen-tiguan.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657553",
@@ -24105,6 +26784,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -24189,7 +26878,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836303?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836301?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657553/audi-a3-sportback.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657553/audi-a3-sportback.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657552",
@@ -24313,6 +27011,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -24389,7 +27097,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837204?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837206?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657552/dacia-sandero.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657552/dacia-sandero.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-642417",
@@ -24513,6 +27230,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [],
@@ -24526,7 +27253,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154030380?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154030381?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/642417/bmw-x5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/642417/bmw-x5.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-657539",
@@ -24650,6 +27386,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -24689,7 +27435,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836311?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836318?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657539/peugeot-306.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657539/peugeot-306.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657540",
@@ -24803,6 +27558,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -24883,7 +27648,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836437?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836436?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657540/bmw-serie-5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657540/bmw-serie-5.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657541",
@@ -24997,6 +27771,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [],
@@ -25009,7 +27793,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836355?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836354?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657541/dacia-sandero.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657541/dacia-sandero.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-657542",
@@ -25123,6 +27916,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -25137,7 +27940,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836099?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836100?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657542/peugeot-206.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657542/peugeot-206.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657543",
@@ -25261,6 +28073,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -25336,7 +28158,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153209290?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154578062?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657543/ssangyong-rexton.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657543/ssangyong-rexton.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657544",
@@ -25460,6 +28291,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -25539,7 +28380,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836181?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836178?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657544/peugeot-208.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657544/peugeot-208.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657547",
@@ -25663,6 +28513,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -25684,7 +28544,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836160?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836163?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657547/hyundai-i20.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657547/hyundai-i20.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657546",
@@ -25808,6 +28677,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -25882,7 +28761,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836183?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836185?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657546/renault-clio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657546/renault-clio.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657533",
@@ -25996,6 +28884,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -26074,7 +28972,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154835999?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836000?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657533/peugeot-2008.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657533/peugeot-2008.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657532",
@@ -26188,6 +29095,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -26227,7 +29144,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154835941?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835938?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657532/fiat-grande-punto.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657532/fiat-grande-punto.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657535",
@@ -26341,6 +29267,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [],
@@ -26351,7 +29287,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837259?t=moteur_feed",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152129338-686289.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657535/kia-picanto.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657535/kia-picanto.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657536",
@@ -26465,6 +29410,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -26477,7 +29432,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154835925?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835927?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657536/mercedes-benz-classe-sl.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657536/mercedes-benz-classe-sl.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657537",
@@ -26591,6 +29555,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -26612,7 +29586,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154835743?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835744?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657537/fiat-grande-punto.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657537/fiat-grande-punto.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-490705",
@@ -26726,6 +29709,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tétouan",
+          "ar": "تطوان"
+        }
       }
     ],
     "options": [],
@@ -26741,7 +29734,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10149140493-872431.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10149140494-384552.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490705/mercedes-benz-classe-e.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490705/mercedes-benz-classe-e.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tétouan",
+      "cityAr": "تطوان"
+    }
   },
   {
     "id": "moteur-655509",
@@ -26855,6 +29857,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -26895,7 +29907,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152143361?t=moteur_feed",
       "https://www.moteur.ma/storage/media/images/ads/resized/audi-a6-1788817191.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655509/audi-q5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655509/audi-q5.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-472642",
@@ -27019,6 +30040,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -27034,7 +30065,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/jaguar-xf-615950.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/jaguar-xf-748329.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/472642/jaguar-xf.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/472642/jaguar-xf.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-657526",
@@ -27148,6 +30188,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
@@ -27159,7 +30209,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836069?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154836068?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657526/mercedes-benz-classe-sl.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657526/mercedes-benz-classe-sl.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-655487",
@@ -27283,6 +30342,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -27347,7 +30416,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154730974?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154730975?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655487/peugeot-508.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655487/peugeot-508.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657501",
@@ -27461,6 +30539,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [
@@ -27520,7 +30608,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154835442?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835441?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657501/volkswagen-passat.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657501/volkswagen-passat.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-490075",
@@ -27644,6 +30741,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -27729,7 +30836,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10149501221-700419.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154416386-134314.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490075/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490075/autre-autre.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-649451",
@@ -27853,6 +30969,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -27935,7 +31061,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154399982?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154399993?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/649451/ford-kuga.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/649451/ford-kuga.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-491190",
@@ -28049,6 +31184,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
@@ -28064,7 +31209,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10149063552-442761.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10149064371-545404.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491190/bmw-serie-5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491190/bmw-serie-5.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657529",
@@ -28188,6 +31342,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -28196,7 +31360,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10129534956?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154741820?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657529/mercedes-benz-220.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657529/mercedes-benz-220.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-657528",
@@ -28310,6 +31483,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -28350,7 +31533,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154835611?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835614?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657528/nissan-maxima.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657528/nissan-maxima.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-657527",
@@ -28464,13 +31656,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154836149?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657527/audi-a6.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657527/audi-a6.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-487016",
@@ -28584,6 +31795,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -28599,7 +31820,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10149589793-687706.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10149589798-895675.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/487016/mercedes-benz-classe-s.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/487016/mercedes-benz-classe-s.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-488309",
@@ -28723,6 +31953,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -28809,7 +32049,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152129329-457118.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152129328-253213.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/488309/kia-seltos.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/488309/kia-seltos.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657468",
@@ -28943,6 +32192,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -29024,7 +32283,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/renault-megane-1788811637.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/renault-megane-1788811799.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657468/renault-megane.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657468/renault-megane.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-489147",
@@ -29138,6 +32406,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -29224,7 +32502,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152916427-975287.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152916428-486125.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489147/peugeot-208.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489147/peugeot-208.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657530",
@@ -29338,6 +32625,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Khouribga",
+          "ar": "خريبكة"
+        }
       }
     ],
     "options": [
@@ -29392,7 +32689,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154835013?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835014?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657530/mercedes-benz-190.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657530/mercedes-benz-190.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Khouribga",
+      "cityAr": "خريبكة"
+    }
   },
   {
     "id": "moteur-504513",
@@ -29516,6 +32822,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -29599,7 +32915,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153555432?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153555437?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/504513/bmw-x5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/504513/bmw-x5.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-489225",
@@ -29703,6 +33028,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -29779,7 +33114,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10151284653-670835.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10151284652-441828.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489225/mercedes-benz-classe-sl.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489225/mercedes-benz-classe-sl.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-489216",
@@ -29903,6 +33247,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -29984,7 +33338,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152897313-343536.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152897366-470404.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489216/mercedes-benz-classe-s.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489216/mercedes-benz-classe-s.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-640278",
@@ -30108,6 +33471,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -30192,7 +33565,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153915215?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153915231?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/640278/ford-kuga.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/640278/ford-kuga.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-527881",
@@ -30296,6 +33678,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [],
@@ -30309,7 +33701,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10149586019?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10149586022?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/527881/bmw-x3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/527881/bmw-x3.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-495140",
@@ -30433,6 +33834,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -30512,7 +33923,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10150486140?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10150486158?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495140/bmw-serie-5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495140/bmw-serie-5.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657519",
@@ -30626,6 +34046,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -30638,7 +34068,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154835584?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835585?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657519/hyundai-accent.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657519/hyundai-accent.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-495831",
@@ -30762,6 +34201,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [
@@ -30846,7 +34295,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154171509?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154171514?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495831/seat-arona.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495831/seat-arona.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-657520",
@@ -30970,6 +34428,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -31013,7 +34481,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154835349?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835354?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657520/suzuki-sx-4.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657520/suzuki-sx-4.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657521",
@@ -31137,6 +34614,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
@@ -31149,7 +34636,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154835409?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835391?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657521/skoda-fabia.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657521/skoda-fabia.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657523",
@@ -31273,6 +34769,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -31353,7 +34859,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154835434?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835432?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657523/renault-megane.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657523/renault-megane.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657522",
@@ -31467,6 +34982,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -31544,7 +35069,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154835240?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835241?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657522/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657522/volkswagen-tiguan.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-653486",
@@ -31668,6 +35202,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -31752,7 +35296,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153753091?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153753092?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653486/byd-seal.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653486/byd-seal.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-649578",
@@ -31876,6 +35429,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -31951,7 +35514,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154405155?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154405153?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/649578/jeep-renegade.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/649578/jeep-renegade.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-492754",
@@ -32055,6 +35627,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -32070,7 +35652,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154791817-498984.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154791819-817209.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492754/kia-sportage.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492754/kia-sportage.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-654937",
@@ -32194,6 +35785,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -32207,7 +35808,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154712804?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154712802?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654937/mercedes-benz-classe-glc.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654937/mercedes-benz-classe-glc.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-482868",
@@ -32321,6 +35931,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
       }
     ],
     "options": [
@@ -32387,7 +36007,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10150768704-880236.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10150768707-161656.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/482868/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/482868/hyundai-tucson.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
   },
   {
     "id": "moteur-513060",
@@ -32501,6 +36130,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [],
@@ -32514,7 +36153,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10151289996?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10151289995?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/513060/renault-talisman.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/513060/renault-talisman.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-644769",
@@ -32618,6 +36266,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -32667,7 +36325,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154148485?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154148483?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/644769/ford-focus.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/644769/ford-focus.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657525",
@@ -32781,6 +36448,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -32860,7 +36537,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154835094?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835103?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657525/dacia-logan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657525/dacia-logan.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-490653",
@@ -32984,6 +36670,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -32999,7 +36695,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10148611209-149510.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10148611210-205931.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490653/lincoln-town-car.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490653/lincoln-town-car.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-651247",
@@ -33123,6 +36828,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -33177,7 +36892,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154518702?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154518701?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651247/jeep-compass.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651247/jeep-compass.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657508",
@@ -33301,6 +37025,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -33371,7 +37105,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834908?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834903?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657508/dacia-logan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657508/dacia-logan.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657509",
@@ -33495,6 +37238,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -33578,7 +37331,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834614?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834624?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657509/jeep-grand-cherokee.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657509/jeep-grand-cherokee.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657511",
@@ -33692,6 +37454,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -33768,7 +37540,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837490?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837489?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657511/nissan-x-trail.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657511/nissan-x-trail.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657512",
@@ -33892,6 +37673,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -33908,7 +37699,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834051?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834052?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657512/honda-civic.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657512/honda-civic.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657513",
@@ -34022,6 +37822,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -34095,7 +37905,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832565?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832566?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657513/bmw-serie-2.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657513/bmw-serie-2.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-652534",
@@ -34219,6 +38038,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -34229,7 +38058,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154580755?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154580753?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652534/ford-focus.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652534/ford-focus.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-481179",
@@ -34353,6 +38191,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -34414,7 +38262,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154740691-172516.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154740692-846464.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/481179/renault-koleos.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/481179/renault-koleos.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657515",
@@ -34528,6 +38385,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -34612,7 +38479,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834957?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834960?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657515/bmw-serie-2.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657515/bmw-serie-2.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-652542",
@@ -34736,6 +38612,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -34815,7 +38701,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154581389?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154581384?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652542/bmw-x3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652542/bmw-x3.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-625764",
@@ -34939,6 +38834,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -35011,7 +38916,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153142174?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153142175?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/625764/citroen-c4.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/625764/citroen-c4.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657516",
@@ -35135,6 +39049,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -35211,7 +39135,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154835611?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837490?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657516/nissan-magnite.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657516/nissan-magnite.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657517",
@@ -35335,6 +39268,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -35343,7 +39286,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834795?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834790?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657517/dacia-logan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657517/dacia-logan.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657413",
@@ -35467,6 +39419,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -35549,7 +39511,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/hyundai-tucson-1788810344.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/hyundai-tucson-1788809960.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657413/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657413/hyundai-tucson.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657496",
@@ -35673,6 +39644,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -35722,7 +39703,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834407?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834409?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657496/dacia-duster.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657496/dacia-duster.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-653579",
@@ -35836,6 +39826,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -35920,7 +39920,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154635829?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154635833?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653579/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653579/hyundai-tucson.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-653553",
@@ -36034,6 +40043,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -36118,7 +40137,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154634892?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154634894?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653553/audi-q3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653553/audi-q3.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-657497",
@@ -36232,6 +40260,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -36300,7 +40338,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834593?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834592?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657497/honda-cr-v.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657497/honda-cr-v.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-620050",
@@ -36414,6 +40461,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -36493,7 +40550,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154167034?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154167036?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/620050/mercedes-benz-classe-cla.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/620050/mercedes-benz-classe-cla.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-657499",
@@ -36617,6 +40683,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -36643,7 +40719,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834571?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834574?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657499/dacia-logan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657499/dacia-logan.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657498",
@@ -36757,6 +40842,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
@@ -36770,7 +40865,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834622?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834623?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657498/toyota-corolla.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657498/toyota-corolla.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-489692",
@@ -36874,6 +40978,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [],
@@ -36889,7 +41003,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154792027-822116.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154792029-867410.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489692/kia-sportage.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489692/kia-sportage.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-488035",
@@ -36993,6 +41116,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -37008,7 +41141,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154745308-624619.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154745309-930204.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/488035/kia-k5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/488035/kia-k5.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657503",
@@ -37122,6 +41264,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -37156,7 +41308,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834228?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834229?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657503/volkswagen-golf-2.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657503/volkswagen-golf-2.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-657502",
@@ -37270,6 +41431,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [],
@@ -37282,7 +41453,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834527?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834528?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657502/renault-kangoo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657502/renault-kangoo.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-657505",
@@ -37406,6 +41586,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -37490,7 +41680,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834485?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834484?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657505/renault-clio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657505/renault-clio.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-657507",
@@ -37614,13 +41813,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154834428?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657507/dacia-logan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657507/dacia-logan.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657506",
@@ -37734,6 +41952,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
@@ -37745,7 +41973,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834445?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834446?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657506/hyundai-i10.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657506/hyundai-i10.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-633107",
@@ -37859,6 +42096,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -37945,7 +42192,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153542570-623023.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153542569-583734.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/633107/fiat-500.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/633107/fiat-500.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657488",
@@ -38059,6 +42315,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -38103,7 +42369,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834198?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834200?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657488/renault-megane.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657488/renault-megane.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657489",
@@ -38207,6 +42482,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -38236,7 +42521,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834143?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834142?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657489/citroen-c3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657489/citroen-c3.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657491",
@@ -38350,6 +42644,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -38410,7 +42714,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838261?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154838351?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657491/dacia-duster.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657491/dacia-duster.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-505637",
@@ -38534,6 +42847,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -38600,7 +42923,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10147875115?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10147875116?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/505637/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/505637/hyundai-tucson.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-657492",
@@ -38714,6 +43046,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -38785,7 +43127,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833873?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833878?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657492/nissan-note.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657492/nissan-note.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-657493",
@@ -38909,6 +43260,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -38993,7 +43354,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833871?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833870?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657493/kia-sportage.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657493/kia-sportage.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-657494",
@@ -39107,6 +43477,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -39176,7 +43556,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833763?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833762?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657494/volkswagen-passat.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657494/volkswagen-passat.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-657479",
@@ -39290,13 +43679,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://content.avito.ma/classifieds/images/10154833771?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657479/dacia-logan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657479/dacia-logan.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657481",
@@ -39420,6 +43828,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -39464,7 +43882,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833685?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833686?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657481/chevrolet-optra.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657481/chevrolet-optra.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-657480",
@@ -39588,6 +44015,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -39641,7 +44078,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833647?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833649?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657480/fiat-freemont.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657480/fiat-freemont.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-649407",
@@ -39755,6 +44201,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -39839,7 +44295,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154397308?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154397329?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/649407/ford-tourneo-connect.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/649407/ford-tourneo-connect.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657482",
@@ -39963,6 +44428,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Yes",
           "ar": "نعم"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -40032,7 +44507,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833576?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833634?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657482/kia-sportage.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657482/kia-sportage.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-657483",
@@ -40146,6 +44630,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Khouribga",
+          "ar": "خريبكة"
+        }
       }
     ],
     "options": [
@@ -40167,7 +44661,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833233?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833211?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657483/fiat-palio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657483/fiat-palio.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Khouribga",
+      "cityAr": "خريبكة"
+    }
   },
   {
     "id": "moteur-657484",
@@ -40291,6 +44794,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Khouribga",
+          "ar": "خريبكة"
+        }
       }
     ],
     "options": [
@@ -40337,7 +44850,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833154?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833156?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657484/dacia-duster.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657484/dacia-duster.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Khouribga",
+      "cityAr": "خريبكة"
+    }
   },
   {
     "id": "moteur-657485",
@@ -40461,6 +44983,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Khouribga",
+          "ar": "خريبكة"
+        }
       }
     ],
     "options": [
@@ -40530,7 +45062,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154834763?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154834768?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657485/fiat-500.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657485/fiat-500.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Khouribga",
+      "cityAr": "خريبكة"
+    }
   },
   {
     "id": "moteur-644385",
@@ -40664,6 +45205,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [],
@@ -40674,7 +45225,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-x-max-250-1787666715.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-x-max-250-1787666864.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/644385/yamaha-x-max-250.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/644385/yamaha-x-max-250.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-643029",
@@ -40808,6 +45368,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [],
@@ -40816,7 +45386,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/bmw-c-650-gt-1787529887.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/bmw-c-650-gt-1787530161.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/643029/bmw-c-650-gt.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/643029/bmw-c-650-gt.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-642270",
@@ -40940,6 +45519,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -40949,7 +45538,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/bmw-f-800-gs-1787483831.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/bmw-f-800-gs-1787483894.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/642270/bmw-f-800-gs.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/642270/bmw-f-800-gs.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-636916",
@@ -41083,6 +45681,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -41092,7 +45700,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/ktm-autre-1786979668.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/ktm-autre-1786979600.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/636916/ktm-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/636916/ktm-autre.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-635319",
@@ -41186,6 +45803,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -41198,7 +45825,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153654573-382347.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153654575-156013.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/635319/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/635319/autre-autre.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-633039",
@@ -41332,6 +45968,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Khouribga",
+          "ar": "خريبكة"
+        }
       }
     ],
     "options": [],
@@ -41341,7 +45987,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/bmw-r-1200-gs-adventure-1786623025.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/bmw-r-1200-gs-adventure-1786622676.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/633039/bmw-r-1200-gs-adventure.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/633039/bmw-r-1200-gs-adventure.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Khouribga",
+      "cityAr": "خريبكة"
+    }
   },
   {
     "id": "moteur-632221",
@@ -41475,6 +46130,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [],
@@ -41486,7 +46151,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/harley-davidson-autre-1786546512.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/harley-davidson-autre-1786545959.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/632221/harley-davidson-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/632221/harley-davidson-autre.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-628172",
@@ -41590,6 +46264,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [],
@@ -41602,7 +46286,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153279983-714291.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153279982-885733.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/628172/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/628172/autre-autre.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-624579",
@@ -41736,13 +46429,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Khouribga",
+          "ar": "خريبكة"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://www.moteur.ma/storage/media/images/ads/resized/bmw-f-850-gs-1785873149.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/624579/bmw-f-850-gs.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/624579/bmw-f-850-gs.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Khouribga",
+      "cityAr": "خريبكة"
+    }
   },
   {
     "id": "moteur-623783",
@@ -41876,6 +46588,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -41884,7 +46606,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/voge-500r-1785827658.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/voge-500r-1785827116.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/623783/voge-500r.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/623783/voge-500r.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-619152",
@@ -42018,6 +46749,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -42028,7 +46769,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/sym-autre-1785387289.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/sym-autre-1785386947.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/619152/sym-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/619152/sym-autre.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-619052",
@@ -42162,6 +46912,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Salé",
+          "ar": "سلا"
+        }
       }
     ],
     "options": [],
@@ -42171,7 +46931,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-mt-03-1785365684.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-mt-03-1785365254.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/619052/yamaha-mt-03.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/619052/yamaha-mt-03.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Salé",
+      "cityAr": "سلا"
+    }
   },
   {
     "id": "moteur-618804",
@@ -42305,6 +47074,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [],
@@ -42314,7 +47093,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/cimatti-monstre-1785351424.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/cimatti-monstre-1785351313.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/618804/cimatti-monstre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/618804/cimatti-monstre.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-614983",
@@ -42448,6 +47236,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -42455,7 +47253,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-nmax-155-1785062190.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-nmax-155-1785062519.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/614983/yamaha-nmax-155.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/614983/yamaha-nmax-155.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-512197",
@@ -42589,6 +47396,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -42601,7 +47418,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/harley-davidson-autre-1784642030.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/harley-davidson-autre-1784641555.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/512197/harley-davidson-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/512197/harley-davidson-autre.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-509119",
@@ -42735,6 +47561,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -42750,7 +47586,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/benelli-502c-1784383495.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/benelli-502c-1784383715.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/509119/benelli-502c.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/509119/benelli-502c.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-507181",
@@ -42874,6 +47719,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Salé",
+          "ar": "سلا"
+        }
       }
     ],
     "options": [],
@@ -42882,7 +47737,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-stunt-1784221871.png",
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-stunt-1784221957.png"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/507181/yamaha-stunt.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/507181/yamaha-stunt.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Salé",
+      "cityAr": "سلا"
+    }
   },
   {
     "id": "moteur-506019",
@@ -43016,6 +47880,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [],
@@ -43027,7 +47901,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/honda-forza-x-1784137274.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/honda-forza-x-1784137632.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/506019/honda-forza-x.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/506019/honda-forza-x.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-504890",
@@ -43161,6 +48044,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -43169,7 +48062,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-xt1200z-super-tenere-1784049190.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-xt1200z-super-tenere-1784049698.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/504890/yamaha-xt1200z-super-tenere.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/504890/yamaha-xt1200z-super-tenere.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-503801",
@@ -43283,6 +48185,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
@@ -43296,7 +48208,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/autre-autre-1783970733.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/autre-autre-1783970616.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/503801/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/503801/autre-autre.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-499375",
@@ -43430,6 +48351,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
@@ -43443,7 +48374,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-mt-07-1783641759.jpeg",
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-mt-07-1783642344.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/499375/yamaha-mt-07.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/499375/yamaha-mt-07.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-498497",
@@ -43577,13 +48517,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://www.moteur.ma/storage/media/images/ads/resized/yamaha-v-max-vmx-1200-1783584026.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/498497/yamaha-v-max-vmx-1200.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/498497/yamaha-v-max-vmx-1200.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-491819",
@@ -43687,6 +48646,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [],
@@ -43696,7 +48665,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154106727-555954.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154503140-604824.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/491819/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/491819/autre-autre.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-488253",
@@ -43830,13 +48808,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://www.moteur.ma/media/photos/ads/resized/bmw-r1250-rt-850898.png"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/488253/bmw-r1250-rt.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/488253/bmw-r1250-rt.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-488105",
@@ -43970,6 +48967,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
@@ -43979,7 +48986,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-t-max-tech-max-242305.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-t-max-tech-max-542477.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/488105/yamaha-t-max-tech-max.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/488105/yamaha-t-max-tech-max.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657487",
@@ -44103,6 +49119,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -44185,7 +49211,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833474?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833482?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657487/peugeot-408.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657487/peugeot-408.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657469",
@@ -44309,6 +49344,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -44333,7 +49378,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833360?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833361?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657469/citroen-berlingo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657469/citroen-berlingo.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-650546",
@@ -44447,6 +49501,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -44506,7 +49570,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154461936?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154461937?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/650546/neo-motors-bvm.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/650546/neo-motors-bvm.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-653562",
@@ -44620,6 +49693,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -44693,7 +49776,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154635192?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154635200?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653562/audi-a6.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653562/audi-a6.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-518414",
@@ -44817,6 +49909,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -44830,7 +49932,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10146013929?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10146013935?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/518414/land-rover-range-rover-vogue.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/518414/land-rover-range-rover-vogue.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657471",
@@ -44954,6 +50065,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -44978,7 +50099,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833016?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833018?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657471/citroen-berlingo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657471/citroen-berlingo.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-491713",
@@ -45102,6 +50232,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -45187,7 +50327,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10149646299-923494.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10149646296-225887.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491713/land-rover-range-rover-sport.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491713/land-rover-range-rover-sport.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-650390",
@@ -45311,6 +50460,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -45395,7 +50554,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154457462?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154457464?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/650390/land-rover-range-rover-sport.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/650390/land-rover-range-rover-sport.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-657472",
@@ -45519,6 +50687,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -45553,7 +50731,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833228?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833248?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657472/dacia-logan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657472/dacia-logan.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-494511",
@@ -45667,6 +50854,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -45751,7 +50948,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10141178542?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10141061199?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494511/land-rover-range-rover-sport.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494511/land-rover-range-rover-sport.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657473",
@@ -45865,6 +51071,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -45949,7 +51165,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833244?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833243?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657473/alfa-romeo-giulietta.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657473/alfa-romeo-giulietta.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-657474",
@@ -46073,6 +51298,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Yes",
           "ar": "نعم"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -46151,7 +51386,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833106?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833109?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657474/kia-sonet.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657474/kia-sonet.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-472645",
@@ -46265,6 +51509,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -46351,7 +51605,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154635651-568534.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154635658-900084.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/472645/citroen-c4.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/472645/citroen-c4.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-631701",
@@ -46465,6 +51728,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [],
@@ -46478,7 +51751,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153465882?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153465879?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/631701/kia-sorento.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/631701/kia-sorento.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-486120",
@@ -46602,6 +51884,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -46688,7 +51980,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153948617-989343.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153948615-936700.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486120/porsche-macan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486120/porsche-macan.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-657476",
@@ -46812,6 +52113,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -46887,7 +52198,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832732?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832729?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657476/renault-captur.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657476/renault-captur.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-646697",
@@ -47001,6 +52321,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -47070,7 +52400,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154250010?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154250620?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/646697/mercedes-benz-220.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/646697/mercedes-benz-220.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-477360",
@@ -47184,6 +52523,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -47270,7 +52619,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154635456-456319.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154635473-403319.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/477360/mercedes-benz-classe-cla.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/477360/mercedes-benz-classe-cla.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-657477",
@@ -47374,6 +52732,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -47455,7 +52823,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838778?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154838775?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657477/bmw-serie-5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657477/bmw-serie-5.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657478",
@@ -47579,6 +52956,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -47650,7 +53037,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832787?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832789?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657478/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657478/volkswagen-tiguan.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-474866",
@@ -47764,6 +53160,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -47850,7 +53256,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154635270-228648.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154635274-214326.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/474866/land-rover-range-rover-sport.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/474866/land-rover-range-rover-sport.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657449",
@@ -47964,6 +53379,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -48002,7 +53427,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154833851?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154833853?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657449/peugeot-307.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657449/peugeot-307.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657448",
@@ -48126,6 +53560,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -48200,7 +53644,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832452?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832454?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657448/land-rover-range-rover-evoque.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657448/land-rover-range-rover-evoque.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-468547",
@@ -48314,6 +53767,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -48399,7 +53862,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154389410-943418.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154389412-140852.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/468547/volkswagen-touareg.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/468547/volkswagen-touareg.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-468633",
@@ -48513,6 +53985,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -48597,7 +54079,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154516585-677627.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154516584-500258.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/468633/volvo-s60.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/468633/volvo-s60.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-624096",
@@ -48721,6 +54212,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -48796,7 +54297,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153058362?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153058361?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/624096/bmw-serie-2.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/624096/bmw-serie-2.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-631496",
@@ -48910,6 +54420,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -48974,7 +54494,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153457080?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153457087?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/631496/toyota-corolla.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/631496/toyota-corolla.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-657452",
@@ -49098,6 +54627,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -49180,7 +54719,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832817?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832818?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657452/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657452/hyundai-tucson.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-657453",
@@ -49304,6 +54852,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -49383,7 +54941,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832761?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832753?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657453/dacia-logan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657453/dacia-logan.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-657456",
@@ -49507,6 +55074,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Yes",
           "ar": "نعم"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [
@@ -49586,7 +55163,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832728?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832733?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657456/cupra-formentor.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657456/cupra-formentor.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-657310",
@@ -49690,6 +55276,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -49751,7 +55347,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154826769?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154826777?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657310/ford-kuga.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657310/ford-kuga.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657450",
@@ -49865,6 +55470,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -49916,7 +55531,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154830991?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830990?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657450/volkswagen-touareg.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657450/volkswagen-touareg.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-492764",
@@ -50000,6 +55624,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -50008,7 +55642,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10150541246-458255.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10150541251-893977.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492764/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492764/autre-autre.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-655402",
@@ -50132,6 +55775,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -50216,7 +55869,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154722707?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154722704?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655402/hyundai-santa-fe.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655402/hyundai-santa-fe.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-646457",
@@ -50340,6 +56002,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -50417,7 +56089,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154234765?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154368601?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/646457/volkswagen-golf-6.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/646457/volkswagen-golf-6.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-657457",
@@ -50541,6 +56222,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [
@@ -50622,7 +56313,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837133?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154426142?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657457/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657457/hyundai-tucson.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-494158",
@@ -50746,6 +56446,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -50825,7 +56535,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10150919076?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10150919107?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494158/volkswagen-golf-7.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494158/volkswagen-golf-7.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657458",
@@ -50939,6 +56658,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
       }
     ],
     "options": [
@@ -50993,7 +56722,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837879?t=moteur_feed",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154641445-682873.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657458/peugeot-208.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657458/peugeot-208.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
   },
   {
     "id": "moteur-657460",
@@ -51107,6 +56845,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -51144,7 +56892,16 @@ export const DEFAULT_LISTINGS = [
     "images": [
       "https://content.avito.ma/classifieds/images/10154832410?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657460/dacia-sandero.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657460/dacia-sandero.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657462",
@@ -51248,6 +57005,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -51332,7 +57099,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832199?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832207?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657462/jeep-grand-cherokee.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657462/jeep-grand-cherokee.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657463",
@@ -51456,6 +57232,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -51520,7 +57306,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832608?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832611?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657463/toyota-rav-4.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657463/toyota-rav-4.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-486125",
@@ -51644,6 +57439,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Khouribga",
+          "ar": "خريبكة"
+        }
       }
     ],
     "options": [
@@ -51730,7 +57535,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153068613-369436.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153068612-182296.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486125/audi-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486125/audi-autre.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Khouribga",
+      "cityAr": "خريبكة"
+    }
   },
   {
     "id": "moteur-657465",
@@ -51834,6 +57648,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -51843,7 +57667,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839318?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837546?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657465/renault-kangoo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657465/renault-kangoo.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657466",
@@ -51967,6 +57800,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -52036,7 +57879,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832618?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832617?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657466/peugeot-208.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657466/peugeot-208.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-495929",
@@ -52160,6 +58012,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -52244,7 +58106,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154174684?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154174884?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495929/bmw-serie-3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495929/bmw-serie-3.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-484009",
@@ -52368,6 +58239,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Khouribga",
+          "ar": "خريبكة"
+        }
       }
     ],
     "options": [
@@ -52449,7 +58330,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10149058925-331640.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10149058924-437093.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/484009/peugeot-2008.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/484009/peugeot-2008.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Khouribga",
+      "cityAr": "خريبكة"
+    }
   },
   {
     "id": "moteur-657467",
@@ -52563,6 +58453,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -52571,7 +58471,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832307?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832306?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657467/skoda-fabia.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657467/skoda-fabia.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657434",
@@ -52685,6 +58594,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -52703,7 +58622,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832287?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832288?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657434/fiat-uno.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657434/fiat-uno.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-511288",
@@ -52817,6 +58745,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -52900,7 +58838,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10148842290?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10148842291?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/511288/bmw-x4.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/511288/bmw-x4.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-657435",
@@ -53014,6 +58961,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -53047,7 +59004,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832387?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832386?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657435/volkswagen-touareg.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657435/volkswagen-touareg.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-653072",
@@ -53171,6 +59137,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -53239,7 +59215,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154608917?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154608915?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653072/opel-corsa.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653072/opel-corsa.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-657436",
@@ -53343,6 +59328,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -53353,7 +59348,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832671?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832670?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657436/dacia-dokker.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657436/dacia-dokker.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657437",
@@ -53467,6 +59471,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -53494,7 +59508,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832229?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832333?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657437/kia-picanto.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657437/kia-picanto.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-534983",
@@ -53608,6 +59631,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -53676,7 +59709,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154101557?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154101559?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/534983/jeep-wrangler.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/534983/jeep-wrangler.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657439",
@@ -53800,6 +59842,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -53863,7 +59915,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832321?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832324?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657439/dacia-sandero.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657439/dacia-sandero.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-491719",
@@ -53977,6 +60038,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [
@@ -54063,7 +60134,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153567689-390368.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153567690-430230.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491719/opel-insignia.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491719/opel-insignia.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-634101",
@@ -54177,6 +60257,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [
@@ -54262,7 +60352,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153610918-638994.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153610926-905144.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/634101/peugeot-3008.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/634101/peugeot-3008.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-657440",
@@ -54376,6 +60475,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -54393,7 +60502,16 @@ export const DEFAULT_LISTINGS = [
     "images": [
       "https://content.avito.ma/classifieds/images/10154832211?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657440/peugeot-405.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657440/peugeot-405.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-515726",
@@ -54517,6 +60635,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -54591,7 +60719,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10150791475?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10150791478?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/515726/audi-q5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/515726/audi-q5.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657441",
@@ -54705,6 +60842,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -54769,7 +60916,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832102?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832105?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657441/volkswagen-touareg.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657441/volkswagen-touareg.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-467404",
@@ -54893,6 +61049,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -54979,7 +61145,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10147098380-270796.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10147098381-670213.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/467404/land-rover-range-rover-sport.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/467404/land-rover-range-rover-sport.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-477892",
@@ -55093,6 +61268,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -55167,7 +61352,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153267324-627272.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153267323-351345.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/477892/kia-cerato.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/477892/kia-cerato.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-650892",
@@ -55291,6 +61485,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -55301,7 +61505,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154484085?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154484084?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/650892/volkswagen-golf-7.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/650892/volkswagen-golf-7.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657443",
@@ -55425,6 +61638,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -55489,7 +61712,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832077?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832078?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657443/kia-picanto.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657443/kia-picanto.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657442",
@@ -55603,6 +61835,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -55657,7 +61899,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831492?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831494?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657442/opel-corsa.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657442/opel-corsa.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-657444",
@@ -55761,6 +62012,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Salé",
+          "ar": "سلا"
+        }
       }
     ],
     "options": [
@@ -55782,7 +62043,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837420?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837268?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657444/citroen-c3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657444/citroen-c3.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Salé",
+      "cityAr": "سلا"
+    }
   },
   {
     "id": "moteur-657445",
@@ -55896,6 +62166,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -55941,7 +62221,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832068?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832070?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657445/mazda-6.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657445/mazda-6.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657446",
@@ -56055,6 +62344,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -56087,7 +62386,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832042?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832039?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657446/mini-cooper.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657446/mini-cooper.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657414",
@@ -56201,6 +62509,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -56216,7 +62534,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831996?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831995?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657414/dacia-duster.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657414/dacia-duster.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657415",
@@ -56340,6 +62667,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -56400,7 +62737,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838257?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154838336?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657415/dacia-sandero.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657415/dacia-sandero.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657416",
@@ -56504,6 +62850,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -56569,7 +62925,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831922?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831923?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657416/honda-accord.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657416/honda-accord.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657417",
@@ -56693,6 +63058,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -56731,7 +63106,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831743?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831745?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657417/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657417/volkswagen-tiguan.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-418795",
@@ -56855,6 +63239,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -56931,7 +63325,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/mg-mg3-286071.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/mg-mg3-362426.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/418795/mg-mg3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/418795/mg-mg3.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657418",
@@ -57045,6 +63448,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [],
@@ -57053,7 +63466,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831538?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831537?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657418/volkswagen-gol.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657418/volkswagen-gol.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-657419",
@@ -57167,6 +63589,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [
@@ -57236,7 +63668,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831369?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831365?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657419/volkswagen-golf-7.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657419/volkswagen-golf-7.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-657420",
@@ -57350,6 +63791,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -57424,7 +63875,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829525?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829523?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657420/opel-astra.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657420/opel-astra.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657422",
@@ -57538,6 +63998,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -57622,7 +64092,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154830980?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830981?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657422/land-rover-range-rover-evoque.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657422/land-rover-range-rover-evoque.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-491712",
@@ -57746,6 +64225,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -57832,7 +64321,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152318153-163474.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152318158-998678.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491712/bmw-serie-3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491712/bmw-serie-3.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-657425",
@@ -57956,6 +64454,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -58006,7 +64514,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831782?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831780?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657425/peugeot-308.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657425/peugeot-308.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-474405",
@@ -58120,6 +64637,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -58194,7 +64721,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152394349-369016.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154558871-309359.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/474405/fiat-500.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/474405/fiat-500.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657426",
@@ -58318,6 +64854,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -58377,7 +64923,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837378?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837374?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657426/bmw-serie-3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657426/bmw-serie-3.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-627913",
@@ -58501,6 +65056,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -58582,7 +65147,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153257039?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153257049?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/627913/mercedes-benz-classe-c.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/627913/mercedes-benz-classe-c.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657428",
@@ -58696,6 +65270,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -58728,7 +65312,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829450?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829449?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657428/kia-sportage.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657428/kia-sportage.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657432",
@@ -58832,6 +65425,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -58866,7 +65469,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831581?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831582?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657432/peugeot-308.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657432/peugeot-308.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-481879",
@@ -58980,6 +65592,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -59064,7 +65686,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154386801-668683.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154386803-600442.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/481879/audi-a3-berline.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/481879/audi-a3-berline.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657407",
@@ -59188,6 +65819,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -59264,7 +65905,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831523?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831525?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657407/peugeot-508.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657407/peugeot-508.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-616082",
@@ -59378,6 +66028,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tétouan",
+          "ar": "تطوان"
+        }
       }
     ],
     "options": [],
@@ -59393,7 +66053,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152627033-466408.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152627035-375730.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/616082/nissan-qashqai.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/616082/nissan-qashqai.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tétouan",
+      "cityAr": "تطوان"
+    }
   },
   {
     "id": "moteur-637261",
@@ -59517,6 +66186,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Yes",
           "ar": "نعم"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -59599,7 +66278,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153760371?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153760376?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/637261/audi-q5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/637261/audi-q5.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-491524",
@@ -59703,6 +66391,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -59718,7 +66416,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154791545-750570.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154791547-749210.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491524/renault-arkana.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491524/renault-arkana.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-630525",
@@ -59842,6 +66549,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [
@@ -59896,7 +66613,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153408234?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153408238?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/630525/renault-megane.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/630525/renault-megane.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-418797",
@@ -60020,6 +66746,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -60091,7 +66827,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10147440679-137596.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10147440691-842895.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/418797/citroen-c5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/418797/citroen-c5.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-645346",
@@ -60205,6 +66950,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -60285,7 +67040,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154171888?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154171970?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/645346/volkswagen-passat.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/645346/volkswagen-passat.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657408",
@@ -60409,6 +67173,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -60464,7 +67238,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831461?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831468?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657408/citroen-c3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657408/citroen-c3.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-483797",
@@ -60578,6 +67361,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -60593,7 +67386,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152118555-190697.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152118552-987460.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/483797/mercedes-benz-classe-e.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/483797/mercedes-benz-classe-e.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657409",
@@ -60707,6 +67509,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -60735,7 +67547,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831358?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831357?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657409/peugeot-partner.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657409/peugeot-partner.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657411",
@@ -60849,6 +67670,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -60933,7 +67764,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831399?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831398?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657411/peugeot-2008.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657411/peugeot-2008.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657412",
@@ -61057,6 +67897,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -61136,7 +67986,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831247?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831241?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657412/hyundai-elantra.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657412/hyundai-elantra.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-490651",
@@ -61260,6 +68119,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -61275,7 +68144,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10148610647-706034.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10148610642-360600.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490651/volvo-c70.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490651/volvo-c70.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-490650",
@@ -61399,6 +68277,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -61414,7 +68302,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10148610870-619223.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10148610868-338385.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490650/citroen-2-cv.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490650/citroen-2-cv.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657400",
@@ -61528,6 +68425,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -61607,7 +68514,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831119?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831120?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657400/skoda-karoq.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657400/skoda-karoq.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-655384",
@@ -61731,6 +68647,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -61800,7 +68726,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154734947?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154734950?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655384/renault-clio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655384/renault-clio.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-657401",
@@ -61914,6 +68849,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -61998,7 +68943,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154831027?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154831025?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657401/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657401/volkswagen-tiguan.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-489215",
@@ -62122,6 +69076,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -62208,7 +69172,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10151278336-299565.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10151278345-481022.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489215/bmw-serie-3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489215/bmw-serie-3.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-478957",
@@ -62332,6 +69305,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -62393,7 +69376,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10149901275-714696.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10149901274-414481.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/478957/jeep-grand-cherokee.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/478957/jeep-grand-cherokee.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-485013",
@@ -62507,6 +69499,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -62522,7 +69524,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10149066309-824360.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10149066310-492885.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/485013/mercedes-benz-classe-cls.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/485013/mercedes-benz-classe-cls.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-627063",
@@ -62646,6 +69657,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -62730,7 +69751,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153217041?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153217042?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/627063/audi-a6.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/627063/audi-a6.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-486126",
@@ -62844,6 +69874,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -62930,7 +69970,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10151995856-183121.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10151995863-700420.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486126/land-rover-range-rover-evoque.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486126/land-rover-range-rover-evoque.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657402",
@@ -63044,6 +70093,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -63055,7 +70114,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154830651?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830652?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657402/volkswagen-polo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657402/volkswagen-polo.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-482317",
@@ -63169,6 +70237,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [
@@ -63190,7 +70268,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10148390004-865771.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10148389994-614255.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482317/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482317/autre-autre.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-487974",
@@ -63324,13 +70411,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://www.moteur.ma/media/photos/ads/resized/zontes-350gk-603363.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487974/zontes-350gk.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487974/zontes-350gk.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-487956",
@@ -63464,6 +70570,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -63474,7 +70590,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/cooper-winner-s-380656.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/cooper-winner-s-173970.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487956/cooper-winner-s.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487956/cooper-winner-s.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-487937",
@@ -63598,6 +70723,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [],
@@ -63609,7 +70744,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/bmw-g-310-gs-134594.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/bmw-g-310-gs-514364.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487937/bmw-g-310-gs.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487937/bmw-g-310-gs.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-487614",
@@ -63743,6 +70887,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -63758,7 +70912,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/indian-autre-364605.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/indian-autre-295162.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487614/indian-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487614/indian-autre.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-487581",
@@ -63892,6 +71055,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -63904,7 +71077,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/bmw-r-1150-rt-401268.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/bmw-r-1150-rt-749544.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487581/bmw-r-1150-rt.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487581/bmw-r-1150-rt.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-487570",
@@ -64038,6 +71220,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [],
@@ -64046,7 +71238,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-mt-09-433740.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-mt-09-789686.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487570/yamaha-mt-09.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487570/yamaha-mt-09.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-487515",
@@ -64170,6 +71371,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [],
@@ -64179,7 +71390,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/sym-autre-321190.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/sym-autre-822286.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487515/sym-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487515/sym-autre.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-487316",
@@ -64303,6 +71523,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -64312,7 +71542,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/becane-super-cub-660993.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/becane-super-cub-228712.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487316/becane-super-cub.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/487316/becane-super-cub.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-486998",
@@ -64436,6 +71675,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [],
@@ -64446,7 +71695,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/cappuccino-jnen-496125.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/cappuccino-jnen-704941.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/486998/cappuccino-jnen.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/486998/cappuccino-jnen.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-486807",
@@ -64580,6 +71838,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Salé",
+          "ar": "سلا"
+        }
       }
     ],
     "options": [],
@@ -64590,7 +71858,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/becane-150-cc-249614.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/becane-150-cc-362221.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/486807/becane-super-cub.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/486807/becane-super-cub.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Salé",
+      "cityAr": "سلا"
+    }
   },
   {
     "id": "moteur-486454",
@@ -64714,6 +71991,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
@@ -64724,7 +72011,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-neos-561899.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-neos-495241.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/486454/yamaha-neos.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/486454/yamaha-neos.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-486250",
@@ -64858,6 +72154,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -64866,7 +72172,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-v-star-custom-650-123238.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-v-star-custom-650-404890.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/486250/yamaha-v-star-custom-650.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/486250/yamaha-v-star-custom-650.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-484884",
@@ -65000,6 +72315,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -65012,7 +72337,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/bmw-r1250-gs-738024.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/bmw-r1250-gs-903883.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/484884/bmw-r1250-gs.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/484884/bmw-r1250-gs.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-484548",
@@ -65146,6 +72480,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [],
@@ -65159,7 +72503,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/sym-50-st-795698.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/sym-50-st-837005.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/484548/sym-50-st.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/484548/sym-50-st.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-483896",
@@ -65293,6 +72646,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -65302,7 +72665,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/cimatti-ycr-250-258780.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/cimatti-ycr-250-797380.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/483896/cimatti-ycr-250.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/483896/cimatti-ycr-250.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-483786",
@@ -65436,6 +72808,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -65446,7 +72828,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/kawasaki-zx-6r-806919.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/kawasaki-zx-6r-133594.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/483786/kawasaki-zx-6r.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/483786/kawasaki-zx-6r.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-483447",
@@ -65580,6 +72971,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -65590,7 +72991,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-xsr900-670464.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-xsr900-721340.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/483447/yamaha-xsr900.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/483447/yamaha-xsr900.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-483258",
@@ -65724,6 +73134,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [],
@@ -65733,7 +73153,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/honda-sh-125i-880237.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/honda-sh-125i-183754.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/483258/honda-sh-125i.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/483258/honda-sh-125i.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-482944",
@@ -65867,6 +73296,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
       }
     ],
     "options": [],
@@ -65880,7 +73319,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/benelli-trk-278242.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/benelli-trk-248797.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482944/benelli-trk.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482944/benelli-trk.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
   },
   {
     "id": "moteur-482743",
@@ -65994,6 +73442,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -66007,7 +73465,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-830445.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-903592.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482743/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482743/autre-autre.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-482577",
@@ -66141,6 +73608,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
@@ -66149,7 +73626,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/harley-davidson-fat-boy-892600.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/harley-davidson-fat-boy-950743.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482577/harley-davidson-fat-boy.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482577/harley-davidson-fat-boy.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-482493",
@@ -66270,8 +73756,8 @@ export const DEFAULT_LISTINGS = [
           "ar": "المدينة"
         },
         "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
         }
       },
       {
@@ -66303,7 +73789,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-mt-09-477414.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-mt-09-853059.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482493/yamaha-mt-09.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482493/yamaha-mt-09.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-482236",
@@ -66437,6 +73932,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [],
@@ -66449,7 +73954,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/peugeot-django-181734.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/peugeot-django-929914.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482236/peugeot-django.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482236/peugeot-django.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-482106",
@@ -66583,6 +74097,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -66593,7 +74117,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-fzs-600-n-546688.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-fzs-600-n-731321.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482106/yamaha-fzs-600-n.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482106/yamaha-fzs-600-n.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-657403",
@@ -66697,6 +74230,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -66707,7 +74250,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154836046?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154835931?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657403/fiat-grande-punto.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657403/fiat-grande-punto.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-651746",
@@ -66821,6 +74373,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -66905,7 +74467,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154507926?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154508303?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651746/renault-megane.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651746/renault-megane.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657404",
@@ -67019,6 +74590,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Yes",
           "ar": "نعم"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -67027,7 +74608,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154830685?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830684?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657404/mercedes-benz-190.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657404/mercedes-benz-190.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-618291",
@@ -67141,6 +74731,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -67220,7 +74820,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152748862-738748.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152748865-277568.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/618291/peugeot-2008.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/618291/peugeot-2008.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657395",
@@ -67344,6 +74953,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -67418,7 +75037,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154830063?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830062?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657395/peugeot-508.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657395/peugeot-508.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-652409",
@@ -67542,6 +75170,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Khouribga",
+          "ar": "خريبكة"
+        }
       }
     ],
     "options": [
@@ -67595,7 +75233,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154576447?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154576451?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652409/peugeot-508.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652409/peugeot-508.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Khouribga",
+      "cityAr": "خريبكة"
+    }
   },
   {
     "id": "moteur-502932",
@@ -67719,6 +75366,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -67803,7 +75460,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152022501?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152022503?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/502932/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/502932/volkswagen-tiguan.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-488068",
@@ -67907,6 +75573,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -67922,7 +75598,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154791681-898555.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154791689-770387.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/488068/geely-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/488068/geely-autre.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657397",
@@ -68026,6 +75711,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [],
@@ -68036,7 +75731,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154830448?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830446?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657397/volkswagen-caddy.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657397/volkswagen-caddy.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-657385",
@@ -68150,6 +75854,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -68224,7 +75938,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154830324?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830325?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657385/renault-express.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657385/renault-express.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-641059",
@@ -68348,6 +76071,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Khouribga",
+          "ar": "خريبكة"
+        }
       }
     ],
     "options": [
@@ -68427,7 +76160,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153955862?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153955870?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/641059/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/641059/hyundai-tucson.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Khouribga",
+      "cityAr": "خريبكة"
+    }
   },
   {
     "id": "moteur-647521",
@@ -68551,6 +76293,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -68632,7 +76384,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154299485?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154299487?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/647521/nissan-juke.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/647521/nissan-juke.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657387",
@@ -68746,6 +76507,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -68761,7 +76532,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829847?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829842?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657387/renault-r19.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657387/renault-r19.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657323",
@@ -68895,6 +76675,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Yes",
           "ar": "نعم"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -68975,7 +76765,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/jaguar-e-pace-1788804523.gif",
       "https://www.moteur.ma/storage/media/images/ads/resized/jaguar-e-pace-1788803705.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657323/jaguar-e-pace.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657323/jaguar-e-pace.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-653491",
@@ -69089,6 +76888,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -69168,7 +76977,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154632825?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154632790?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653491/renault-clio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653491/renault-clio.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-657388",
@@ -69282,6 +77100,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -69336,7 +77164,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154830174?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830173?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657388/citroen-c-elysee.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657388/citroen-c-elysee.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-504102",
@@ -69450,6 +77287,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -69461,7 +77308,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10138046186?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10138046187?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/504102/mercedes-benz-classe-c.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/504102/mercedes-benz-classe-c.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-630271",
@@ -69575,6 +77431,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -69653,7 +77519,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153397740?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153397742?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/630271/fiat-500x.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/630271/fiat-500x.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-640155",
@@ -69777,6 +77652,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -69851,7 +77736,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153910184?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153910181?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/640155/bmw-serie-1.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/640155/bmw-serie-1.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-494145",
@@ -69975,6 +77869,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Yes",
           "ar": "نعم"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -70059,7 +77963,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154139516?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154139513?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494145/opel-corsa.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494145/opel-corsa.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-486189",
@@ -70183,6 +78096,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -70269,7 +78192,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/peugeot-3008-640718.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/peugeot-3008-941755.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486189/peugeot-3008.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486189/peugeot-3008.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-513085",
@@ -70383,6 +78315,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -70467,7 +78409,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152337527?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152337528?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/513085/renault-koleos.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/513085/renault-koleos.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-640144",
@@ -70591,6 +78542,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -70675,7 +78636,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153909612?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153909615?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/640144/volkswagen-t-roc.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/640144/volkswagen-t-roc.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657390",
@@ -70789,6 +78759,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Salé",
+          "ar": "سلا"
+        }
       }
     ],
     "options": [],
@@ -70801,7 +78781,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829705?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829704?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657390/fiat-punto.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657390/fiat-punto.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Salé",
+      "cityAr": "سلا"
+    }
   },
   {
     "id": "moteur-657389",
@@ -70925,6 +78914,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -70993,7 +78992,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154830026?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830027?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657389/kia-picanto.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657389/kia-picanto.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-657386",
@@ -71117,6 +79125,16 @@ export const DEFAULT_LISTINGS = [
           "en": "WW in Morocco",
           "ar": "جديدة بالمغرب (WW)"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -71180,7 +79198,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154830452?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830509?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657386/skoda-kodiaq.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657386/skoda-kodiaq.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657391",
@@ -71294,6 +79321,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [],
@@ -71307,7 +79344,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154830045?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154830051?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657391/peugeot-2008.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657391/peugeot-2008.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-496048",
@@ -71431,6 +79477,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -71512,7 +79568,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10128124929?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10128145248?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/496048/land-rover-defender.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/496048/land-rover-defender.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-495072",
@@ -71626,6 +79691,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -71705,7 +79780,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152071432?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152071425?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495072/jeep-renegade.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495072/jeep-renegade.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-657375",
@@ -71819,6 +79903,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -71903,7 +79997,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829904?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832393?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657375/renault-talisman.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657375/renault-talisman.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657376",
@@ -72017,6 +80120,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [],
@@ -72026,7 +80139,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829875?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829876?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657376/peugeot-306.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657376/peugeot-306.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657377",
@@ -72150,6 +80272,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -72163,7 +80295,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154827927?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154827929?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657377/lancia-ypsilon.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657377/lancia-ypsilon.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-655339",
@@ -72287,6 +80428,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [
@@ -72340,7 +80491,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154731777?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154731781?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655339/jaguar-xf.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655339/jaguar-xf.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-632173",
@@ -72464,6 +80624,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -72548,7 +80718,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153493813?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153493810?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/632173/bmw-serie-5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/632173/bmw-serie-5.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-657378",
@@ -72672,6 +80851,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -72731,7 +80920,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829763?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829760?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657378/mercedes-benz-classe-c.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657378/mercedes-benz-classe-c.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657379",
@@ -72845,6 +81043,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -72928,7 +81136,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829722?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829723?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657379/audi-q5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657379/audi-q5.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657380",
@@ -73032,6 +81249,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -73044,7 +81271,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829657?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829659?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657380/fiat-ducato.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657380/fiat-ducato.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657381",
@@ -73168,6 +81404,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -73217,7 +81463,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829404?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829403?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657381/renault-clio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657381/renault-clio.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-650381",
@@ -73331,6 +81586,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -73385,7 +81650,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154456865?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154456866?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/650381/mitsubishi-l200.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/650381/mitsubishi-l200.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-657382",
@@ -73509,6 +81783,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -73588,7 +81872,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829414?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829412?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657382/ford-focus.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657382/ford-focus.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-650417",
@@ -73702,6 +81995,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -73786,7 +82089,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154457091?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154457118?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/650417/ds-7.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/650417/ds-7.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-612478",
@@ -73900,6 +82212,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -73908,7 +82230,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152420142?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152420144?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/612478/renault-clio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/612478/renault-clio.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657366",
@@ -74032,6 +82363,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -74062,7 +82403,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829126?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829128?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657366/peugeot-301.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657366/peugeot-301.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-488617",
@@ -74176,6 +82526,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -74262,7 +82622,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10147146028-712956.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10147146029-787172.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/488617/lexus-nx.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/488617/lexus-nx.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-635278",
@@ -74386,6 +82755,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -74470,7 +82849,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153653545?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153653543?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/635278/jaguar-e-pace.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/635278/jaguar-e-pace.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-570446",
@@ -74594,6 +82982,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Yes",
           "ar": "نعم"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -74677,7 +83075,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153063529?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153063530?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/570446/opel-combo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/570446/opel-combo.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657367",
@@ -74791,6 +83198,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -74875,7 +83292,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829498?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829501?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657367/volkswagen-touran.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657367/volkswagen-touran.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657368",
@@ -74989,6 +83415,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
@@ -75001,7 +83437,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829294?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829293?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657368/porsche-cayenne.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657368/porsche-cayenne.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657369",
@@ -75125,6 +83570,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -75206,7 +83661,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154837132?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154426144?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657369/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657369/hyundai-tucson.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-486118",
@@ -75330,6 +83794,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Yes",
           "ar": "نعم"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -75415,7 +83889,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10151994963-465441.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10151994961-401641.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486118/audi-q8.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486118/audi-q8.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-657370",
@@ -75529,6 +84012,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [],
@@ -75542,7 +84035,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829226?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829230?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657370/volkswagen-passat.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657370/volkswagen-passat.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657371",
@@ -75656,6 +84158,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -75720,7 +84232,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154828754?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154828752?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657371/nissan-qashqai.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657371/nissan-qashqai.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657373",
@@ -75824,6 +84345,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -75883,7 +84414,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829130?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829127?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657373/volkswagen-golf-5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657373/volkswagen-golf-5.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657372",
@@ -75987,6 +84527,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -76059,7 +84609,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154829198?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154829197?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657372/volkswagen-passat.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657372/volkswagen-passat.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-640021",
@@ -76173,6 +84732,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [],
@@ -76186,7 +84755,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153903484?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153903485?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/640021/volkswagen-caddy.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/640021/volkswagen-caddy.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-418792",
@@ -76310,6 +84888,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -76396,7 +84984,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153523902-341326.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153523904-869062.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/418792/chevrolet-cruze.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/418792/chevrolet-cruze.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657351",
@@ -76520,6 +85117,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -76587,7 +85194,16 @@ export const DEFAULT_LISTINGS = [
     "images": [
       "https://content.avito.ma/classifieds/images/10154829397?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657351/peugeot-308.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657351/peugeot-308.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657353",
@@ -76701,6 +85317,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -76744,7 +85370,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154828744?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154828745?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657353/fiat-500.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657353/fiat-500.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-467324",
@@ -76858,6 +85493,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -76943,7 +85588,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154828486-257790.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154828488-439878.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/467324/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/467324/volkswagen-tiguan.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657356",
@@ -77057,6 +85711,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -77080,7 +85744,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154826934?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154826956?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657356/volvo-s90.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657356/volvo-s90.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-418798",
@@ -77204,6 +85877,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -77285,7 +85968,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152434596-232429.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152434597-444147.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/418798/hyundai-santa-fe.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/418798/hyundai-santa-fe.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-657357",
@@ -77409,6 +86101,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -77435,7 +86137,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152051965-388922.jpg",
       "https://content.avito.ma/classifieds/images/10154834620?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657357/toyota-corolla.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657357/toyota-corolla.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657358",
@@ -77549,6 +86260,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -77633,7 +86354,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825895?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825907?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657358/renault-kadjar.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657358/renault-kadjar.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-651141",
@@ -77747,6 +86477,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -77831,7 +86571,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154771562?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154771564?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651141/mercedes-benz-classe-c.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651141/mercedes-benz-classe-c.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-657352",
@@ -77945,6 +86694,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -78029,7 +86788,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154828687?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154828690?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657352/cupra-ateca.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657352/cupra-ateca.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-482075",
@@ -78150,8 +86918,8 @@ export const DEFAULT_LISTINGS = [
           "ar": "المدينة"
         },
         "value": {
-          "en": "105",
-          "ar": "105"
+          "en": "El Jadida",
+          "ar": "الجديدة"
         }
       },
       {
@@ -78180,7 +86948,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/honda-gorilla-50-783990.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/honda-gorilla-50-981409.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482075/honda-gorilla-50.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/482075/honda-gorilla-50.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-481768",
@@ -78314,6 +87091,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -78324,7 +87111,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/kawasaki-vulcan-750-505890.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/kawasaki-vulcan-750-596446.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481768/kawasaki-vulcan-750.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481768/kawasaki-vulcan-750.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-481839",
@@ -78458,6 +87254,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [],
@@ -78470,7 +87276,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/vespa-sprint-678041.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/vespa-sprint-400119.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481839/vespa-sprint.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481839/vespa-sprint.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-481648",
@@ -78604,6 +87419,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
@@ -78614,7 +87439,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/cimatti-monstre-928490.png",
       "https://www.moteur.ma/media/photos/ads/resized/cimatti-monstre-975609.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481648/cimatti-monstre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481648/cimatti-monstre.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-481406",
@@ -78748,6 +87582,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Salé",
+          "ar": "سلا"
+        }
       }
     ],
     "options": [],
@@ -78762,7 +87606,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/honda-sh-300i-350795.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/honda-sh-300i-147687.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481406/honda-sh-300i.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481406/honda-sh-300i.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Salé",
+      "cityAr": "سلا"
+    }
   },
   {
     "id": "moteur-481537",
@@ -78896,6 +87749,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [],
@@ -78906,7 +87769,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/beta-rr-motard-50-407890.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/beta-rr-motard-50-915507.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481537/beta-rr-motard-50.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481537/beta-rr-motard-50.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-481257",
@@ -79040,6 +87912,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [],
@@ -79048,7 +87930,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/sym-50-st-403341.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/sym-50-st-439036.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481257/sym-50-st.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481257/sym-50-st.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-481256",
@@ -79182,6 +88073,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [],
@@ -79192,7 +88093,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-mt-07-429797.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-mt-07-932429.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481256/yamaha-mt-07.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481256/yamaha-mt-07.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-481202",
@@ -79326,6 +88236,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -79337,7 +88257,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/cimatti-naked-50-384216.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/cimatti-naked-50-652347.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481202/cimatti-naked-50.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/481202/cimatti-naked-50.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-480819",
@@ -79471,6 +88400,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [],
@@ -79481,7 +88420,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/becane-super-cub-988517.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/becane-super-cub-977709.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480819/becane-super-cub.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480819/becane-super-cub.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-480814",
@@ -79615,13 +88563,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Salé",
+          "ar": "سلا"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-tdm-900-151530.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480814/yamaha-tdm-900.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480814/yamaha-tdm-900.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Salé",
+      "cityAr": "سلا"
+    }
   },
   {
     "id": "moteur-480747",
@@ -79755,6 +88722,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
       }
     ],
     "options": [],
@@ -79765,7 +88742,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-tenere-700-320589.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-tenere-700-447666.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480747/yamaha-t%C3%A9n%C3%A9r%C3%A9-700.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480747/yamaha-t%C3%A9n%C3%A9r%C3%A9-700.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
   },
   {
     "id": "moteur-480744",
@@ -79899,6 +88885,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tétouan",
+          "ar": "تطوان"
+        }
       }
     ],
     "options": [],
@@ -79910,7 +88906,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/cfmoto-800mt-sport-326841.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/cfmoto-800mt-sport-338645.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480744/cfmoto-700cl-x-heritage.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480744/cfmoto-700cl-x-heritage.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tétouan",
+      "cityAr": "تطوان"
+    }
   },
   {
     "id": "moteur-480724",
@@ -80034,6 +89039,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -80045,7 +89060,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/vespa-300-gts-122487.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/vespa-300-gts-959097.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480724/vespa-300-gts.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480724/vespa-300-gts.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-480583",
@@ -80179,6 +89203,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -80190,7 +89224,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/kawasaki-z-650-sr-201401.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/kawasaki-z-650-sr-328725.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480583/kawasaki-z-650-sr.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480583/kawasaki-z-650-sr.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-480469",
@@ -80314,6 +89357,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Salé",
+          "ar": "سلا"
+        }
       }
     ],
     "options": [],
@@ -80328,7 +89381,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/sym-nht-365125.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/sym-nht-415167.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480469/sym-nht.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480469/sym-nht.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Salé",
+      "cityAr": "سلا"
+    }
   },
   {
     "id": "moteur-480322",
@@ -80462,6 +89524,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -80473,7 +89545,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/honda-x-adv-827808.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/honda-x-adv-736520.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480322/honda-x-adv.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480322/honda-x-adv.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-480321",
@@ -80597,6 +89678,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -80607,7 +89698,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/honda-autre-263342.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/honda-autre-286205.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480321/honda-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480321/honda-autre.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-480084",
@@ -80731,13 +89831,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://www.moteur.ma/media/photos/ads/resized/royal-enfield-scram-411-396931.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480084/royal-enfield-scram-411.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/480084/royal-enfield-scram-411.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-479978",
@@ -80861,6 +89980,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [],
@@ -80869,7 +89998,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-701630.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-763344.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479978/access-motor-ddr-50.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479978/access-motor-ddr-50.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-479707",
@@ -81003,6 +90141,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -81018,7 +90166,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/royal-enfield-himalayan-726191.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/royal-enfield-himalayan-153250.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479707/royal-enfield-himalayan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479707/royal-enfield-himalayan.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-479618",
@@ -81152,6 +90309,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [],
@@ -81160,7 +90327,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/sym-symphony-166876.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/sym-symphony-925649.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479618/sym-symphony.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479618/sym-symphony.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-479567",
@@ -81294,6 +90470,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -81309,7 +90495,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/ktm-790-adventure-687222.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/ktm-790-adventure-886730.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479567/ktm-790-adventure.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479567/ktm-790-adventure.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-479518",
@@ -81433,6 +90628,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -81444,7 +90649,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/honda-forza-x-538301.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/honda-forza-x-703517.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479518/honda-forza-x.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479518/honda-forza-x.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-479346",
@@ -81578,6 +90792,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
@@ -81589,7 +90813,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/ktm-390-660004.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/ktm-390-602470.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479346/ktm-390.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479346/ktm-390.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-479314",
@@ -81723,6 +90956,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -81733,7 +90976,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/peugeot-django-439124.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/peugeot-django-883993.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479314/peugeot-django.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479314/peugeot-django.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-479155",
@@ -81867,6 +91119,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -81878,7 +91140,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/honda-sh-150i-781720.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/honda-sh-150i-156032.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479155/honda-sh-150i.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/479155/honda-sh-150i.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-478732",
@@ -82012,6 +91283,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -82019,7 +91300,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/qjmotor-srt800x-916797.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/qjmotor-srt800x-994527.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/478732/qjmotor-srt800x.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/478732/qjmotor-srt800x.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-478578",
@@ -82153,6 +91443,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -82166,7 +91466,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/kymco-xtown-300-596359.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/kymco-xtown-300-271026.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/478578/kymco-xtown-300.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/478578/kymco-xtown-300.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-478510",
@@ -82300,6 +91609,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
@@ -82308,7 +91627,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-x-max-250-350763.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-x-max-250-530752.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/478510/yamaha-x-max-250.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/478510/yamaha-x-max-250.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657361",
@@ -82432,6 +91760,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -82515,7 +91853,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154827470?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154827471?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657361/jeep-wrangler.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657361/jeep-wrangler.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-654189",
@@ -82629,6 +91976,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -82713,7 +92070,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154669211?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154669210?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654189/peugeot-3008.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654189/peugeot-3008.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-624359",
@@ -82837,6 +92203,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -82923,7 +92299,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153069957-602169.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153069956-252827.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/624359/bmw-x1.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/624359/bmw-x1.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657362",
@@ -83037,6 +92422,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -83111,7 +92506,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154828374?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154828376?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657362/mercedes-benz-220.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657362/mercedes-benz-220.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-657364",
@@ -83225,6 +92629,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -83287,7 +92701,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154827075?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154827074?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657364/renault-express.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657364/renault-express.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-657340",
@@ -83391,6 +92814,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -83455,7 +92888,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825883?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825881?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657340/peugeot-208.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657340/peugeot-208.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-657342",
@@ -83569,6 +93011,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -83653,7 +93105,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154828351?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154828345?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657342/audi-a4.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657342/audi-a4.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-657343",
@@ -83767,6 +93228,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -83821,7 +93292,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154828387?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154828388?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657343/citroen-c3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657343/citroen-c3.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-616624",
@@ -83935,6 +93415,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -84014,7 +93504,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152222886?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152222883?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/616624/seat-tarraco.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/616624/seat-tarraco.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657344",
@@ -84118,6 +93617,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
@@ -84131,7 +93640,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154832520?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154832517?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657344/nissan-qashqai.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657344/nissan-qashqai.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657345",
@@ -84235,6 +93753,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
@@ -84244,7 +93772,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154828460?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154828458?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657345/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657345/hyundai-tucson.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-418788",
@@ -84368,6 +93905,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -84444,7 +93991,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153648788-108167.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153648791-438038.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/418788/citroen-c5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/418788/citroen-c5.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-657346",
@@ -84558,6 +94114,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -84620,7 +94186,16 @@ export const DEFAULT_LISTINGS = [
     "images": [
       "https://content.avito.ma/classifieds/images/10154832749?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657346/hyundai-creta.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657346/hyundai-creta.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-494650",
@@ -84734,6 +94309,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -84803,7 +94388,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10151449700?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10151449701?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494650/fiat-doblo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494650/fiat-doblo.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-645206",
@@ -84917,6 +94511,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -84945,7 +94549,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154243513?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154243511?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/645206/renault-r4.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/645206/renault-r4.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-657349",
@@ -85069,6 +94682,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -85148,7 +94771,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154828200?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154828199?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657349/dacia-duster.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657349/dacia-duster.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-492334",
@@ -85252,6 +94884,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [],
@@ -85267,7 +94909,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154791585-594935.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154791590-963866.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492334/kia-carnival.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492334/kia-carnival.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-657336",
@@ -85381,6 +95032,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -85411,7 +95072,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154828000?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154827999?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657336/volkswagen-golf-4.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657336/volkswagen-golf-4.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-656340",
@@ -85535,6 +95205,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -85568,7 +95248,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154777439?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154777440?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656340/kia-sportage.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656340/kia-sportage.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-645570",
@@ -85682,6 +95371,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -85765,7 +95464,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154190653?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154190651?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/645570/audi-q8.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/645570/audi-q8.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-470399",
@@ -85889,6 +95597,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -85963,7 +95681,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152822420-118593.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152822422-436592.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/470399/land-rover-range-rover-evoque.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/470399/land-rover-range-rover-evoque.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-640025",
@@ -86067,6 +95794,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [],
@@ -86078,7 +95815,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153903401?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153903400?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/640025/mercedes-benz-classe-c.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/640025/mercedes-benz-classe-c.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-620802",
@@ -86202,6 +95948,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [
@@ -86286,7 +96042,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152881172?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152881173?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/620802/volkswagen-golf-7.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/620802/volkswagen-golf-7.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-657335",
@@ -86400,6 +96165,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -86481,7 +96256,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154828072-870413.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154828074-171126.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657335/audi-a8.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657335/audi-a8.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657338",
@@ -86595,6 +96379,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -86669,7 +96463,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154828040?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154828041?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657338/ford-focus.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657338/ford-focus.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-630178",
@@ -86783,6 +96586,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -86849,7 +96662,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153391642-512024.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153391648-399571.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/630178/audi-q2.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/630178/audi-q2.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-656343",
@@ -86973,6 +96795,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -87057,7 +96889,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154778370?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154778362?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656343/nissan-evalia.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656343/nissan-evalia.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-478491",
@@ -87171,6 +97012,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -87250,7 +97101,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152822401-741316.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152822402-266358.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/478491/alfa-romeo-giulietta.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/478491/alfa-romeo-giulietta.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-636070",
@@ -87374,6 +97234,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
       }
     ],
     "options": [
@@ -87433,7 +97303,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153699650?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153699648?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/636070/audi-a4.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/636070/audi-a4.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
   },
   {
     "id": "moteur-497728",
@@ -87547,6 +97426,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tétouan",
+          "ar": "تطوان"
+        }
       }
     ],
     "options": [
@@ -87626,7 +97515,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152767103?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152767102?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/497728/volkswagen-touran.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/497728/volkswagen-touran.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tétouan",
+      "cityAr": "تطوان"
+    }
   },
   {
     "id": "moteur-654207",
@@ -87740,6 +97638,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -87753,7 +97661,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154670418?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154670413?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654207/volkswagen-golf-8.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654207/volkswagen-golf-8.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-640023",
@@ -87857,6 +97774,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [],
@@ -87869,7 +97796,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153903295?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153903299?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/640023/volvo-s60.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/640023/volvo-s60.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-627400",
@@ -87973,6 +97909,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [],
@@ -87982,7 +97928,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153236893?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153236894?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/627400/peugeot-partner.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/627400/peugeot-partner.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-657337",
@@ -88096,6 +98051,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -88175,7 +98140,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154827269?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154827323?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657337/seat-ateca.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657337/seat-ateca.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-654383",
@@ -88289,6 +98263,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -88358,7 +98342,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154679392?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154679393?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654383/hyundai-creta.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654383/hyundai-creta.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-421208",
@@ -88482,6 +98475,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -88558,7 +98561,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154102275-674350.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154102274-282474.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/421208/ssangyong-korando.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/421208/ssangyong-korando.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-486119",
@@ -88672,6 +98684,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -88758,7 +98780,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10151995386-157269.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10151995390-662965.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486119/porsche-macan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486119/porsche-macan.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-657324",
@@ -88872,6 +98903,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
       }
     ],
     "options": [],
@@ -88881,7 +98922,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839313?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837543?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657324/renault-r19.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657324/renault-r19.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
   },
   {
     "id": "moteur-657325",
@@ -88995,6 +99045,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -89043,7 +99103,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154827664?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154827665?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657325/peugeot-207.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657325/peugeot-207.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657266",
@@ -89177,6 +99246,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -89263,7 +99342,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/mercedes-benz-classe-c-1788800867.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/mercedes-benz-classe-c-1788800182.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657266/mercedes-benz-classe-c.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657266/mercedes-benz-classe-c.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-647459",
@@ -89387,6 +99475,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -89451,7 +99549,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154295635?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154295639?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/647459/opel-adam.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/647459/opel-adam.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-657326",
@@ -89575,6 +99682,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -89659,7 +99776,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154827351?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154827350?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657326/geely-ex5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657326/geely-ex5.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-652310",
@@ -89783,6 +99909,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -89858,7 +99994,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154574641?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154574645?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652310/bmw-x5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652310/bmw-x5.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657328",
@@ -89982,6 +100127,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Yes",
           "ar": "نعم"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -90057,7 +100212,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154827226?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154827230?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657328/jaguar-e-pace.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657328/jaguar-e-pace.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-646564",
@@ -90171,6 +100335,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -90255,7 +100429,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154241445?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154241446?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/646564/bmw-serie-3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/646564/bmw-serie-3.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-657329",
@@ -90379,6 +100562,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -90440,7 +100633,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154771775?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154840038?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657329/volkswagen-jetta.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657329/volkswagen-jetta.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-505441",
@@ -90564,6 +100766,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -90648,7 +100860,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10151931130?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10151931132?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/505441/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/505441/hyundai-tucson.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-651282",
@@ -90762,6 +100983,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -90843,7 +101074,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154510215?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154510214?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651282/bmw-serie-7.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651282/bmw-serie-7.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-494197",
@@ -90967,6 +101207,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -91051,7 +101301,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153832076?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153832073?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494197/renault-megane.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494197/renault-megane.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657330",
@@ -91165,6 +101424,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -91231,7 +101500,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154827253?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154827258?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657330/kia-sorento.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657330/kia-sorento.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-657331",
@@ -91345,6 +101623,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -91380,7 +101668,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154827248?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154827250?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657331/volkswagen-polo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657331/volkswagen-polo.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-657332",
@@ -91494,6 +101791,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -91511,7 +101818,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154826650?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154826651?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657332/mercedes-benz-classe-e.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657332/mercedes-benz-classe-e.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-657333",
@@ -91635,6 +101951,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -91702,7 +102028,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154826878?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154826877?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657333/renault-clio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657333/renault-clio.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-635220",
@@ -91826,6 +102161,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -91907,7 +102252,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153648929?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153648931?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/635220/audi-q5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/635220/audi-q5.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-657334",
@@ -92021,6 +102375,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -92096,7 +102460,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154827322?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154827321?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657334/renault-clio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657334/renault-clio.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-488311",
@@ -92180,6 +102553,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -92192,7 +102575,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10151142744-377403.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10151142745-589033.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/488311/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/488311/autre-autre.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-482556",
@@ -92316,6 +102708,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -92392,7 +102794,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153556646-669956.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153556645-614371.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/482556/alfa-romeo-stelvio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/482556/alfa-romeo-stelvio.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-657314",
@@ -92506,6 +102917,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -92541,7 +102962,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154838257?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154838336?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657314/dacia-sandero.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657314/dacia-sandero.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657315",
@@ -92655,6 +103085,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -92734,7 +103174,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154826829?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154826821?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657315/nissan-juke.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657315/nissan-juke.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657317",
@@ -92848,6 +103297,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -92920,7 +103379,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154827082?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154827081?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657317/kia-seltos.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657317/kia-seltos.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-615043",
@@ -93024,6 +103492,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -93093,7 +103571,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152565247?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152565249?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/615043/jeep-grand-cherokee.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/615043/jeep-grand-cherokee.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-469935",
@@ -93217,6 +103704,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Yes",
           "ar": "نعم"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -93298,7 +103795,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153850710-598361.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153850711-505098.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/469935/opel-astra.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/469935/opel-astra.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-483084",
@@ -93412,6 +103918,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -93498,7 +104014,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10147103411-463984.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10147103414-991877.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/483084/lexus-ux.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/483084/lexus-ux.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-493255",
@@ -93612,6 +104137,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -93698,7 +104233,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153624011-292690.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153624012-705675.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/493255/audi-a6.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/493255/audi-a6.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657318",
@@ -93812,6 +104356,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -93895,7 +104449,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154826817?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154828746?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657318/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657318/hyundai-tucson.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657321",
@@ -94009,6 +104572,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -94077,7 +104650,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154826932?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154826933?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657321/hyundai-i20.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657321/hyundai-i20.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-657319",
@@ -94191,6 +104773,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -94265,7 +104857,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154581835?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154841337?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657319/mercedes-benz-classe-gle.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657319/mercedes-benz-classe-gle.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-657320",
@@ -94389,6 +104990,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -94440,7 +105051,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154826656?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154826659?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657320/mercedes-benz-classe-c.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657320/mercedes-benz-classe-c.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-618781",
@@ -94554,6 +105174,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [],
@@ -94569,7 +105199,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152775447-255359.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152775449-387332.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/618781/bmw-x5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/618781/bmw-x5.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-631673",
@@ -94683,6 +105322,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -94768,7 +105417,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153463908-882888.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153463912-871632.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/631673/bmw-x5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/631673/bmw-x5.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-635323",
@@ -94882,6 +105540,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -94962,7 +105630,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153654330?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153654332?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/635323/bmw-x3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/635323/bmw-x3.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-495309",
@@ -95076,6 +105753,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
       }
     ],
     "options": [
@@ -95147,7 +105834,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152462485?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152462483?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495309/renault-kardian.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495309/renault-kardian.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
   },
   {
     "id": "moteur-652252",
@@ -95271,6 +105967,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -95355,7 +106061,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154682021?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154731854?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652252/porsche-cayenne.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652252/porsche-cayenne.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-509212",
@@ -95479,6 +106194,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [],
@@ -95491,7 +106216,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152143839?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152143760?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/509212/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/509212/volkswagen-tiguan.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-498757",
@@ -95605,6 +106339,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -95679,7 +106423,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10148112490?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10148112488?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/498757/ford-focus.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/498757/ford-focus.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657322",
@@ -95793,6 +106546,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -95837,7 +106600,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825420?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825423?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657322/volkswagen-golf-4.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657322/volkswagen-golf-4.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-486468",
@@ -95961,6 +106733,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -96047,7 +106829,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10149765014-451105.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10149765013-948882.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486468/lexus-ux.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486468/lexus-ux.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657316",
@@ -96171,6 +106962,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -96207,7 +107008,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154828186?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154828189?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657316/toyota-corolla.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657316/toyota-corolla.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657304",
@@ -96321,6 +107131,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [],
@@ -96329,7 +107149,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154826286?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154826285?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657304/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657304/hyundai-tucson.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-502421",
@@ -96443,6 +107272,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [],
@@ -96456,7 +107295,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10151782870?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10151782869?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/502421/fiat-500.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/502421/fiat-500.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-499033",
@@ -96570,6 +107418,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -96654,7 +107512,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10147574991?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10147574992?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/499033/mercedes-benz-classe-cla.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/499033/mercedes-benz-classe-cla.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657306",
@@ -96768,6 +107635,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -96822,7 +107699,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825752?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825827?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657306/fiat-500.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657306/fiat-500.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-494087",
@@ -96936,6 +107822,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -97014,7 +107910,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10150415469?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10150415481?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494087/volkswagen-touareg.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494087/volkswagen-touareg.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-657307",
@@ -97128,6 +108033,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -97205,7 +108120,16 @@ export const DEFAULT_LISTINGS = [
     "images": [
       "https://content.avito.ma/classifieds/images/10154828095?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657307/mercedes-benz-220.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657307/mercedes-benz-220.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-657308",
@@ -97319,6 +108243,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [
@@ -97343,7 +108277,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154826242?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154826239?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657308/renault-megane.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657308/renault-megane.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-482018",
@@ -97457,6 +108400,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -97543,7 +108496,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/lexus-nx-133408.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/lexus-nx-845861.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/482018/lexus-nx.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/482018/lexus-nx.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-506810",
@@ -97667,6 +108629,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -97719,7 +108691,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10151999705?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10151999708?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/506810/kia-picanto.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/506810/kia-picanto.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-633015",
@@ -97833,6 +108814,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -97844,7 +108835,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153605678?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153605699?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/633015/mercedes-benz-classe-gla.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/633015/mercedes-benz-classe-gla.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-612907",
@@ -97958,6 +108958,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -98044,7 +109054,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10152686363-180699.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10152686358-809933.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/612907/seat-ibiza.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/612907/seat-ibiza.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-657309",
@@ -98168,6 +109187,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [
@@ -98223,7 +109252,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154826302?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154826303?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657309/dacia-duster.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657309/dacia-duster.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-494405",
@@ -98337,6 +109375,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -98416,7 +109464,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10150415132?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10150415137?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494405/chevrolet-cruze.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494405/chevrolet-cruze.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-657312",
@@ -98530,6 +109587,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -98539,7 +109606,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825912?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825915?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657312/mercedes-benz-vito.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657312/mercedes-benz-vito.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657313",
@@ -98663,6 +109739,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -98724,7 +109810,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154826168?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154826173?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657313/renault-megane.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657313/renault-megane.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-506066",
@@ -98848,6 +109943,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -98931,7 +110036,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10151967075?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10151967073?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/506066/audi-a3-berline.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/506066/audi-a3-berline.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-478446",
@@ -99065,6 +110179,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [],
@@ -99076,7 +110200,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/becane-150-cc-597660.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/becane-150-cc-232616.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/478446/becane-150-cc.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/478446/becane-150-cc.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-478428",
@@ -99210,6 +110343,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -99220,7 +110363,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/kawasaki-z-650-sr-370913.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/kawasaki-z-650-sr-883825.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/478428/kawasaki-z-650-sr.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/478428/kawasaki-z-650-sr.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-478301",
@@ -99354,13 +110506,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://www.moteur.ma/media/photos/ads/resized/royal-enfield-himalayan-984716.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/478301/royal-enfield-himalayan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/478301/royal-enfield-himalayan.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-478159",
@@ -99484,6 +110655,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -99495,7 +110676,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-x-max-250-344529.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-x-max-250-922084.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/478159/yamaha-x-max-250.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/478159/yamaha-x-max-250.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-470225",
@@ -99609,6 +110799,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -99617,7 +110817,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-901898.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-935081.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/470225/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/470225/autre-autre.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-477991",
@@ -99751,6 +110960,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
@@ -99761,7 +110980,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/zontes-350gk-232820.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/zontes-350gk-411883.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477991/zontes-350gk.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477991/zontes-350gk.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-477900",
@@ -99895,6 +111123,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [],
@@ -99906,7 +111144,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-mt-07-308292.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-mt-07-168097.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477900/yamaha-mt-07.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477900/yamaha-mt-07.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-477866",
@@ -100040,6 +111287,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -100048,7 +111305,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/sym-cruisym-170237.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/sym-cruisym-114798.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477866/sym-cruisym.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477866/sym-cruisym.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-477832",
@@ -100182,6 +111448,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [],
@@ -100192,7 +111468,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/royal-enfield-bullet-500-classic-537063.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/royal-enfield-bullet-500-classic-963962.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477832/royal-enfield-bullet-500-classic.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477832/royal-enfield-bullet-500-classic.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-477650",
@@ -100326,6 +111611,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -100335,7 +111630,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/becane-150-cc-535234.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/becane-150-cc-658044.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477650/becane-150-cc.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477650/becane-150-cc.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-477455",
@@ -100469,6 +111773,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -100481,7 +111795,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/bmw-r1250-gs-367749.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/bmw-r1250-gs-414953.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477455/bmw-r1250-gs.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477455/bmw-r1250-gs.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-477236",
@@ -100595,6 +111918,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -100602,7 +111935,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/aprilia-rs-50-710739.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/aprilia-rs-50-146026.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477236/aprilia-rs-50.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477236/aprilia-rs-50.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-477231",
@@ -100736,6 +112078,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -100743,7 +112095,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/sym-joyride-200-670176.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/sym-joyride-200-661672.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477231/sym-joyride-200.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477231/sym-joyride-200.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-477076",
@@ -100877,6 +112238,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -100884,7 +112255,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/becane-150-cc-278931.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/becane-150-cc-489277.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477076/becane-150-cc.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/477076/becane-150-cc.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-476916",
@@ -101018,6 +112398,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -101032,7 +112422,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/keeway-autre-689997.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/keeway-autre-532759.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476916/keeway-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476916/keeway-autre.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-476798",
@@ -101166,6 +112565,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -101176,7 +112585,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/docker-c50-929012.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/docker-c50-883528.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476798/docker-c50.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476798/docker-c50.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-476779",
@@ -101310,6 +112728,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [],
@@ -101320,7 +112748,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/cfmoto-700cl-x-heritage-952353.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/cfmoto-700cl-x-heritage-161895.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476779/cfmoto-700cl-x-heritage.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476779/cfmoto-700cl-x-heritage.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-476640",
@@ -101454,6 +112891,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -101467,7 +112914,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/suzuki-gsx-787010.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/suzuki-gsx-897526.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476640/suzuki-gsx-.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476640/suzuki-gsx-.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-476613",
@@ -101601,6 +113057,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -101612,7 +113078,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/suzuki-gsx-977950.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/suzuki-gsx-917030.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476613/suzuki-gsx-.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476613/suzuki-gsx-.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-476612",
@@ -101746,6 +113221,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -101759,7 +113244,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/hanway-raw-125-196181.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/hanway-raw-125-611947.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476612/hanway-raw-125.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476612/hanway-raw-125.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-476507",
@@ -101893,6 +113387,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -101906,7 +113410,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-xt1200z-super-tenere-829660.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-xt1200z-super-tenere-287516.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476507/yamaha-xt1200z-super-tenere.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476507/yamaha-xt1200z-super-tenere.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-476344",
@@ -102040,6 +113553,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -102050,7 +113573,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-453487.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-980231.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476344/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476344/autre-autre.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-476137",
@@ -102184,6 +113716,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [],
@@ -102194,7 +113736,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/kawasaki-zx-6r-798839.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/kawasaki-zx-6r-320473.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476137/kawasaki-zx-6r.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476137/kawasaki-zx-6r.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-476093",
@@ -102328,6 +113879,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -102337,7 +113898,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/becane-ribiero-33-992246.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/becane-ribiero-33-758864.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476093/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/476093/autre-autre.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-475972",
@@ -102471,6 +114041,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [],
@@ -102482,7 +114062,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/kawasaki-z900-913334.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/kawasaki-z900-270464.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475972/kawasaki-z900.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475972/kawasaki-z900.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-475923",
@@ -102616,6 +114205,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -102625,7 +114224,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/royal-enfield-himalayan-963333.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/royal-enfield-himalayan-123418.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475923/royal-enfield-himalayan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475923/royal-enfield-himalayan.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-475898",
@@ -102759,6 +114367,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
@@ -102766,7 +114384,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/highland-c50-303472.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/highland-c50-368057.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475898/highland-c50.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475898/highland-c50.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-475880",
@@ -102900,6 +114527,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [],
@@ -102907,7 +114544,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/mbk-swing-736078.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/mbk-swing-483809.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475880/mbk-swing.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475880/mbk-swing.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-475852",
@@ -103041,6 +114687,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [],
@@ -103053,7 +114709,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/zontes-350gk-525444.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/zontes-350gk-409864.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475852/zontes-350gk.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475852/zontes-350gk.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-475702",
@@ -103187,6 +114852,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [],
@@ -103195,7 +114870,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/harley-davidson-sportster-1200-436124.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/harley-davidson-sportster-1200-667968.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475702/harley-davidson-sportster-1200.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475702/harley-davidson-sportster-1200.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-514396",
@@ -103319,6 +115003,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -103403,7 +115097,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10147890978?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10147890979?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/514396/audi-q3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/514396/audi-q3.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-640602",
@@ -103507,6 +115210,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -103520,7 +115233,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153934289?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153934287?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/640602/ford-raptor.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/640602/ford-raptor.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657296",
@@ -103634,6 +115356,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -103675,7 +115407,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825862?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825867?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657296/fiat-tipo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657296/fiat-tipo.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-651416",
@@ -103779,6 +115520,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -103822,7 +115573,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154515006?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154515049?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651416/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651416/hyundai-tucson.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-656190",
@@ -103946,6 +115706,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [
@@ -104026,7 +115796,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154768694?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154768815?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656190/soueast-s-05.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656190/soueast-s-05.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-494215",
@@ -104150,6 +115929,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Yes",
           "ar": "نعم"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -104162,7 +115951,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10148075753?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10148075755?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494215/audi-q7.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494215/audi-q7.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-657300",
@@ -104276,6 +116074,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -104326,7 +116134,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154839319?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154837545?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657300/renault-megane.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657300/renault-megane.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-657299",
@@ -104450,6 +116267,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -104530,7 +116357,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825680?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825681?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657299/bmw-serie-5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657299/bmw-serie-5.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-657298",
@@ -104654,6 +116490,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -104693,7 +116539,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825841?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825839?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657298/dacia-jogger.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657298/dacia-jogger.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-642833",
@@ -104807,6 +116662,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -104891,7 +116756,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154051801?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154051802?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/642833/skoda-kodiaq.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/642833/skoda-kodiaq.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-647779",
@@ -105005,6 +116879,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -105087,7 +116971,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154309650?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154309651?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/647779/alfa-romeo-giulia.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/647779/alfa-romeo-giulia.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-657303",
@@ -105201,6 +117094,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -105285,7 +117188,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825624?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825625?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657303/peugeot-3008.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657303/peugeot-3008.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-495118",
@@ -105409,6 +117321,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -105488,7 +117410,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10150894336?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10150894332?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495118/land-rover-range-rover-evoque.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/495118/land-rover-range-rover-evoque.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-490666",
@@ -105602,6 +117533,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [
@@ -105648,7 +117589,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10148624727-998261.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10148624728-647276.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490666/land-rover-defender.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490666/land-rover-defender.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-657288",
@@ -105762,6 +117712,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -105845,7 +117805,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825544?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825547?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657288/volkswagen-caddy.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657288/volkswagen-caddy.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-657289",
@@ -105969,6 +117938,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -106022,7 +118001,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154823799?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154823818?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657289/renault-clio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657289/renault-clio.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657290",
@@ -106146,6 +118134,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -106207,7 +118205,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825179?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825176?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657290/peugeot-208.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657290/peugeot-208.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-657291",
@@ -106321,6 +118328,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -106346,7 +118363,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825278?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825284?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657291/dacia-logan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657291/dacia-logan.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-657292",
@@ -106470,6 +118496,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [
@@ -106547,7 +118583,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825208?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825209?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657292/mercedes-benz-220.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657292/mercedes-benz-220.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-657293",
@@ -106671,6 +118716,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [
@@ -106748,7 +118803,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825407?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825406?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657293/hyundai-accent.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657293/hyundai-accent.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-643821",
@@ -106862,6 +118926,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -106945,7 +119019,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154781211?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154781204?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/643821/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/643821/hyundai-tucson.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-638908",
@@ -107059,6 +119142,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [
@@ -107143,7 +119236,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153845507?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153845508?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/638908/hyundai-santa-fe.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/638908/hyundai-santa-fe.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-639245",
@@ -107267,6 +119369,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -107353,7 +119465,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153860524-596236.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153860513-604388.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/639245/bmw-x3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/639245/bmw-x3.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-630977",
@@ -107477,6 +119598,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [
@@ -107553,7 +119684,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153321043-379735.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153321039-363568.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/630977/bmw-x3.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/630977/bmw-x3.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-655241",
@@ -107677,6 +119817,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [],
@@ -107687,7 +119837,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154728051?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154728064?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655241/bmw-serie-1.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655241/bmw-serie-1.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-648461",
@@ -107811,6 +119970,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -107895,7 +120064,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154349412?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154349410?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/648461/audi-q5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/648461/audi-q5.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-494314",
@@ -108009,6 +120187,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -108091,7 +120279,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153730804?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153730806?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494314/fiat-tipo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494314/fiat-tipo.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-645442",
@@ -108205,6 +120402,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -108285,7 +120492,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154182842?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154182880?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/645442/volkswagen-touareg.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/645442/volkswagen-touareg.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-492034",
@@ -108409,6 +120625,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -108488,7 +120714,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154068079-256702.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154068078-435182.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492034/renault-clio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492034/renault-clio.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-637314",
@@ -108612,6 +120847,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -108696,7 +120941,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154147899?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154147854?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/637314/volkswagen-golf-7.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/637314/volkswagen-golf-7.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657284",
@@ -108810,6 +121064,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -108854,7 +121118,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825217?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825218?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657284/kia-picanto.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657284/kia-picanto.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-657285",
@@ -108978,6 +121251,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -109055,7 +121338,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825172?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825187?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657285/hyundai-tucson.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657285/hyundai-tucson.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-637025",
@@ -109169,6 +121461,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -109248,7 +121550,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153750815?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153750816?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/637025/peugeot-208.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/637025/peugeot-208.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-651270",
@@ -109372,6 +121683,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Safi",
+          "ar": "آسفي"
+        }
       }
     ],
     "options": [
@@ -109451,7 +121772,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154508794?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154508798?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651270/volvo-s60.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651270/volvo-s60.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Safi",
+      "cityAr": "آسفي"
+    }
   },
   {
     "id": "moteur-519683",
@@ -109565,6 +121895,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -109649,7 +121989,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10149994157?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10149994158?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/519683/bmw-serie-5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/519683/bmw-serie-5.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-492033",
@@ -109773,6 +122122,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -109858,7 +122217,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154024900-242614.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154024899-425865.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492033/hyundai-accent.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492033/hyundai-accent.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-494295",
@@ -109982,6 +122350,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -110066,7 +122444,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154523942?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154523943?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494295/opel-adam.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494295/opel-adam.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-649184",
@@ -110180,6 +122567,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tétouan",
+          "ar": "تطوان"
+        }
       }
     ],
     "options": [
@@ -110251,7 +122648,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154386932?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154386933?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/649184/mercedes-benz-classe-b.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/649184/mercedes-benz-classe-b.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tétouan",
+      "cityAr": "تطوان"
+    }
   },
   {
     "id": "moteur-648316",
@@ -110365,6 +122771,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -110419,7 +122835,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154341539?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154341537?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/648316/ford-ranger.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/648316/ford-ranger.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-657287",
@@ -110543,6 +122968,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -110625,7 +123060,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825119?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825120?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657287/hyundai-santa-fe.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657287/hyundai-santa-fe.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-655238",
@@ -110749,6 +123193,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -110828,7 +123282,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154728358?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154728359?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655238/peugeot-5008.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/655238/peugeot-5008.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-654280",
@@ -110942,6 +123405,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -110990,7 +123463,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154674528?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154674527?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654280/volkswagen-polo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654280/volkswagen-polo.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-489206",
@@ -111104,6 +123586,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [
@@ -111190,7 +123682,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10147498232-907551.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10147498233-179379.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489206/seat-ibiza.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489206/seat-ibiza.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-488322",
@@ -111314,6 +123815,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -111399,7 +123910,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153279893-725045.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153279891-764992.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/488322/volkswagen-touareg.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/488322/volkswagen-touareg.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-635755",
@@ -111513,6 +124033,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -111592,7 +124122,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153683904?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153814028?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/635755/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/635755/volkswagen-tiguan.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-638004",
@@ -111716,6 +124255,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -111802,7 +124351,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153805997-369865.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153806006-266947.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/638004/audi-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/638004/audi-autre.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-657270",
@@ -111926,6 +124484,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -111996,7 +124564,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154825125?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154825127?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657270/kia-picanto.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657270/kia-picanto.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-651245",
@@ -112120,6 +124697,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [
@@ -112204,7 +124791,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154506932?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154506931?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651245/fiat-500x.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651245/fiat-500x.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-657267",
@@ -112328,6 +124924,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -112367,7 +124973,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154824659?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154824661?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657267/dacia-logan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657267/dacia-logan.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657268",
@@ -112491,6 +125106,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -112567,7 +125192,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154824494?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154824496?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657268/peugeot-3008.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657268/peugeot-3008.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-657269",
@@ -112691,6 +125325,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [
@@ -112750,7 +125394,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154824452?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154824451?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657269/nissan-qashqai.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657269/nissan-qashqai.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-491716",
@@ -112874,6 +125527,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -112960,7 +125623,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10149645950-370401.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10149645954-920305.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491716/land-rover-range-rover-sport.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491716/land-rover-range-rover-sport.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-494512",
@@ -113074,6 +125746,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -113157,7 +125839,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154664995?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154664994?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494512/volkswagen-coccinelle.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494512/volkswagen-coccinelle.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-503810",
@@ -113281,6 +125972,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -113350,7 +126051,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10151847807?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10151847809?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/503810/bmw-serie-5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/503810/bmw-serie-5.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-647444",
@@ -113474,6 +126184,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Imported new",
           "ar": "مستوردة جديدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -113557,7 +126277,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154635492?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154635488?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/647444/mercedes-benz-classe-c.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/647444/mercedes-benz-classe-c.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-470689",
@@ -113681,6 +126410,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -113767,7 +126506,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153523274-780957.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153523277-354938.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/470689/audi-q5.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/470689/audi-q5.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-490804",
@@ -113881,6 +126629,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -113967,7 +126725,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10150496225-410806.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10150496221-331199.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490804/citroen-c4.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490804/citroen-c4.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-494350",
@@ -114091,6 +126858,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -114175,7 +126952,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154398008?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154398007?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494350/mercedes-benz-220.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494350/mercedes-benz-220.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-492924",
@@ -114289,6 +127075,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Salé",
+          "ar": "سلا"
+        }
       }
     ],
     "options": [
@@ -114371,7 +127167,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153954314-154640.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153954313-175303.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492924/mercedes-benz-classe-c.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/492924/mercedes-benz-classe-c.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Salé",
+      "cityAr": "سلا"
+    }
   },
   {
     "id": "moteur-647690",
@@ -114495,6 +127300,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -114526,7 +127341,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154305434?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154305433?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/647690/seat-ibiza.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/647690/seat-ibiza.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-486122",
@@ -114650,6 +127474,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Khouribga",
+          "ar": "خريبكة"
+        }
       }
     ],
     "options": [
@@ -114736,7 +127570,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10147037473-818835.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10147037482-250466.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486122/porsche-macan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/486122/porsche-macan.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Khouribga",
+      "cityAr": "خريبكة"
+    }
   },
   {
     "id": "moteur-653388",
@@ -114860,6 +127703,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -114944,7 +127797,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154627348?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154627346?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653388/hyundai-santa-fe.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653388/hyundai-santa-fe.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-656238",
@@ -115068,6 +127930,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -115079,7 +127951,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154803167?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154803168?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656238/fiat-500.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/656238/fiat-500.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-491715",
@@ -115193,6 +128074,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [
@@ -115277,7 +128168,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154607814-208049.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154607811-723616.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491715/renault-clio.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/491715/renault-clio.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-645445",
@@ -115381,6 +128281,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
@@ -115394,7 +128304,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10154183771-600750.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10154183774-575176.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/645445/mercedes-benz-classe-cla.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/645445/mercedes-benz-classe-cla.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-657277",
@@ -115518,6 +128437,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Good condition",
           "ar": "حالة جيدة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Kénitra",
+          "ar": "القنيطرة"
+        }
       }
     ],
     "options": [
@@ -115602,7 +128531,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154824015?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154824019?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657277/volkswagen-coccinelle.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657277/volkswagen-coccinelle.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Kénitra",
+      "cityAr": "القنيطرة"
+    }
   },
   {
     "id": "moteur-657283",
@@ -115726,6 +128664,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Yes",
           "ar": "نعم"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [],
@@ -115739,7 +128687,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154823762?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154823764?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657283/fiat-panda.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657283/fiat-panda.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-657282",
@@ -115863,6 +128820,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -115933,7 +128900,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154823868?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154823870?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657282/peugeot-208.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657282/peugeot-208.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-657281",
@@ -116047,6 +129023,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Nador",
+          "ar": "الناظور"
+        }
       }
     ],
     "options": [
@@ -116104,7 +129090,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154824406?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154824405?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657281/ford-ka.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657281/ford-ka.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Nador",
+      "cityAr": "الناظور"
+    }
   },
   {
     "id": "moteur-657280",
@@ -116218,6 +129213,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tétouan",
+          "ar": "تطوان"
+        }
       }
     ],
     "options": [
@@ -116233,7 +129238,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154824176?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154824182?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657280/mini-cooper.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657280/mini-cooper.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tétouan",
+      "cityAr": "تطوان"
+    }
   },
   {
     "id": "moteur-657279",
@@ -116347,6 +129361,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [
@@ -116416,7 +129440,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154823090?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154823091?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657279/volkswagen-tiguan.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657279/volkswagen-tiguan.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-657278",
@@ -116530,6 +129563,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [
@@ -116567,7 +129610,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154824056?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154824059?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657278/renault-kangoo.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657278/renault-kangoo.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-499737",
@@ -116691,6 +129743,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Very good",
           "ar": "حالة جيدة جداً"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [
@@ -116774,7 +129836,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10151662646?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10151662645?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/499737/dacia-duster.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/499737/dacia-duster.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-646154",
@@ -116878,6 +129949,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [
@@ -116960,7 +130041,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154221139?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154221149?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/646154/volkswagen-touareg.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/646154/volkswagen-touareg.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-630163",
@@ -117074,6 +130164,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [
@@ -117140,7 +130240,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10153390836-460944.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10153390838-904703.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/630163/nissan-juke.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/630163/nissan-juke.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-621349",
@@ -117254,6 +130363,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [
@@ -117334,7 +130453,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10152911393?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152911395?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/621349/bmw-x1.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/621349/bmw-x1.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-490313",
@@ -117458,6 +130586,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Excellent",
           "ar": "حالة ممتازة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [
@@ -117544,7 +130682,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/storage/media/images/ads/resized/10148404056-375109.jpg",
       "https://www.moteur.ma/storage/media/images/ads/resized/10148404057-302908.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490313/opel-insignia.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490313/opel-insignia.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-498680",
@@ -117658,6 +130805,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [
@@ -117721,7 +130878,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10153557093?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10153557110?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/498680/jeep-wrangler.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/498680/jeep-wrangler.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-654225",
@@ -117835,6 +131001,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [
@@ -117884,7 +131060,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154776317?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154776309?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654225/ford-fiesta.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654225/ford-fiesta.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-494509",
@@ -117998,6 +131183,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [
@@ -118082,7 +131277,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10144796656?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10152194990?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494509/chery-tiggo-4-pro.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/494509/chery-tiggo-4-pro.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-657260",
@@ -118196,6 +131400,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -118209,7 +131423,16 @@ export const DEFAULT_LISTINGS = [
       "https://content.avito.ma/classifieds/images/10154823972?t=moteur_feed",
       "https://content.avito.ma/classifieds/images/10154823973?t=moteur_feed"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657260/jeep-renegade.html"
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/657260/jeep-renegade.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-475365",
@@ -118343,6 +131566,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -118350,7 +131583,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-aerox-696549.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-aerox-252446.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475365/yamaha-aerox.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475365/yamaha-aerox.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-475269",
@@ -118484,6 +131726,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -118496,7 +131748,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/harley-davidson-autre-772472.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/harley-davidson-autre-374289.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475269/harley-davidson-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475269/harley-davidson-autre.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
   },
   {
     "id": "moteur-475193",
@@ -118620,6 +131881,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [],
@@ -118627,7 +131898,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/cooper-winner-s-831634.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/cooper-winner-s-596639.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475193/cooper-winner-s.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475193/cooper-winner-s.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-475138",
@@ -118751,6 +132031,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [],
@@ -118761,7 +132051,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/kawasaki-z800-769570.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/kawasaki-z800-474355.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475138/kawasaki-z800.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475138/kawasaki-z800.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-475101",
@@ -118895,6 +132194,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -118907,7 +132216,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-x-max-125-311370.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-x-max-125-109324.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475101/yamaha-x-max-125.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475101/yamaha-x-max-125.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-475049",
@@ -119031,6 +132349,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
       }
     ],
     "options": [],
@@ -119046,7 +132374,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-xtz-716126.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-xtz-691744.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475049/yamaha-xtz.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/475049/yamaha-xtz.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
   },
   {
     "id": "moteur-474837",
@@ -119170,13 +132507,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-983962.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474837/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474837/autre-autre.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-474827",
@@ -119310,6 +132666,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [],
@@ -119325,7 +132691,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/triumph-scrambler-882517.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/triumph-scrambler-530982.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474827/triumph-scrambler.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474827/triumph-scrambler.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-474762",
@@ -119459,6 +132834,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Essaouira",
+          "ar": "الصويرة"
+        }
       }
     ],
     "options": [],
@@ -119471,7 +132856,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/honda-adv-238811.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/honda-adv-548742.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474762/honda-adv.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474762/honda-adv.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير - الجنوب",
+        "en": "Marrakech - Agadir (South)"
+      },
+      "city": "Essaouira",
+      "cityAr": "الصويرة"
+    }
   },
   {
     "id": "moteur-474699",
@@ -119605,13 +132999,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://www.moteur.ma/media/photos/ads/resized/bmw-r-1200-gs-adventure-622895.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474699/bmw-r-1200-gs-adventure.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474699/bmw-r-1200-gs-adventure.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-474639",
@@ -119735,6 +133148,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Mohammedia",
+          "ar": "المحمدية"
+        }
       }
     ],
     "options": [],
@@ -119744,7 +133167,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-tmax-912926.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-tmax-847380.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474639/yamaha-tmax.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474639/yamaha-tmax.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-474535",
@@ -119868,6 +133300,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Témara",
+          "ar": "تمارة"
+        }
       }
     ],
     "options": [],
@@ -119877,7 +133319,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-932695.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-826259.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474535/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474535/autre-autre.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-474441",
@@ -120011,13 +133462,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Berrechid",
+          "ar": "برشيد"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://www.moteur.ma/media/photos/ads/resized/suzuki-dl-1000-v-strom-698473.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474441/suzuki-dl-1000-v-strom.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474441/suzuki-dl-1000-v-strom.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Berrechid",
+      "cityAr": "برشيد"
+    }
   },
   {
     "id": "moteur-474416",
@@ -120151,6 +133621,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -120159,7 +133639,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/siamoto-capri-125-944550.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/siamoto-capri-125-276017.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474416/siamoto-birdie-50.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474416/siamoto-birdie-50.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-474329",
@@ -120280,8 +133769,8 @@ export const DEFAULT_LISTINGS = [
           "ar": "المدينة"
         },
         "value": {
-          "en": "105",
-          "ar": "105"
+          "en": "Mohammedia",
+          "ar": "المحمدية"
         }
       },
       {
@@ -120313,7 +133802,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/honda-gl-1800-gold-wing-322379.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/honda-gl-1800-gold-wing-659842.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474329/honda-gl-1800-gold-wing.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474329/honda-gl-1800-gold-wing.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Mohammedia",
+      "cityAr": "المحمدية"
+    }
   },
   {
     "id": "moteur-474305",
@@ -120447,6 +133945,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -120456,7 +133964,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/vespa-primavera-819079.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/vespa-primavera-797520.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474305/vespa-primavera.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474305/vespa-primavera.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-474114",
@@ -120590,6 +134107,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -120604,7 +134131,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/cimatti-monstre-927607.jpeg",
       "https://www.moteur.ma/media/photos/ads/resized/cimatti-monstre-891053.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474114/cimatti-monstre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474114/cimatti-monstre.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-474050",
@@ -120738,6 +134274,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -120751,7 +134297,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/harley-davidson-autre-529089.png",
       "https://www.moteur.ma/media/photos/ads/resized/harley-davidson-autre-148366.png"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474050/harley-davidson-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474050/harley-davidson-autre.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-474052",
@@ -120885,6 +134440,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [],
@@ -120897,7 +134462,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/harley-davidson-autre-244016.JPG",
       "https://www.moteur.ma/media/photos/ads/resized/harley-davidson-autre-894010.JPG"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474052/harley-davidson-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474052/harley-davidson-autre.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-474000",
@@ -121031,13 +134605,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Larache",
+          "ar": "العرائش"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://www.moteur.ma/media/photos/ads/resized/harley-davidson-vrsca-v-rod-226336.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474000/harley-davidson-vrsca-v-rod.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/474000/harley-davidson-vrsca-v-rod.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Larache",
+      "cityAr": "العرائش"
+    }
   },
   {
     "id": "moteur-473852",
@@ -121171,6 +134764,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Settat",
+          "ar": "سطات"
+        }
       }
     ],
     "options": [],
@@ -121183,7 +134786,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-mt-07-542971.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-mt-07-313625.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/473852/yamaha-mt-07.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/473852/yamaha-mt-07.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Settat",
+      "cityAr": "سطات"
+    }
   },
   {
     "id": "moteur-473782",
@@ -121304,8 +134916,8 @@ export const DEFAULT_LISTINGS = [
           "ar": "المدينة"
         },
         "value": {
-          "en": "105",
-          "ar": "105"
+          "en": "Témara",
+          "ar": "تمارة"
         }
       },
       {
@@ -121333,7 +134945,16 @@ export const DEFAULT_LISTINGS = [
     "images": [
       "https://www.moteur.ma/media/photos/ads/resized/honda-sh-150i-737365.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/473782/honda-sh-150i.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/473782/honda-sh-150i.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Témara",
+      "cityAr": "تمارة"
+    }
   },
   {
     "id": "moteur-473631",
@@ -121457,6 +135078,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Meknès",
+          "ar": "مكناس"
+        }
       }
     ],
     "options": [],
@@ -121464,7 +135095,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-391905.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/autre-autre-980226.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/473631/autre-autre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/473631/autre-autre.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Meknès",
+      "cityAr": "مكناس"
+    }
   },
   {
     "id": "moteur-473385",
@@ -121598,6 +135238,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -121606,7 +135256,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-aerox-633788.png",
       "https://www.moteur.ma/media/photos/ads/resized/yamaha-aerox-639938.png"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/473385/yamaha-aerox.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/473385/yamaha-aerox.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-473133",
@@ -121730,6 +135389,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
       }
     ],
     "options": [],
@@ -121741,7 +135410,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/harley-davidson-flstsb-softail-cross-475329.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/harley-davidson-flstsb-softail-cross-111145.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/473133/harley-davidson-flstsb-softail-cross.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/473133/harley-davidson-flstsb-softail-cross.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   },
   {
     "id": "moteur-473127",
@@ -121875,6 +135553,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Oujda",
+          "ar": "وجدة"
+        }
       }
     ],
     "options": [],
@@ -121888,7 +135576,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/sym-symphony-800250.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/sym-symphony-983227.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/473127/sym-symphony.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/473127/sym-symphony.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Oujda",
+      "cityAr": "وجدة"
+    }
   },
   {
     "id": "moteur-473105",
@@ -122022,6 +135719,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
       }
     ],
     "options": [],
@@ -122033,7 +135740,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/vespa-300-gts-236215.JPG",
       "https://www.moteur.ma/media/photos/ads/resized/vespa-300-gts-863318.JPG"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/473105/vespa-300-gts.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/473105/vespa-300-gts.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
   },
   {
     "id": "moteur-472931",
@@ -122167,13 +135883,32 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "El Jadida",
+          "ar": "الجديدة"
+        }
       }
     ],
     "options": [],
     "images": [
       "https://www.moteur.ma/media/photos/ads/resized/phoenix-classic-50-437498.jpeg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/472931/phoenix-classic-50.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/472931/phoenix-classic-50.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "El Jadida",
+      "cityAr": "الجديدة"
+    }
   },
   {
     "id": "moteur-472879",
@@ -122307,6 +136042,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Béni Mellal",
+          "ar": "بني ملال"
+        }
       }
     ],
     "options": [],
@@ -122318,7 +136063,16 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/cimatti-monstre-887986.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/cimatti-monstre-672880.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/472879/cimatti-monstre.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/472879/cimatti-monstre.html",
+    "location": {
+      "region": "oriental",
+      "regionName": {
+        "ar": "فاس - مكناس - الشرق",
+        "en": "Fès - Meknès - Oriental"
+      },
+      "city": "Béni Mellal",
+      "cityAr": "بني ملال"
+    }
   },
   {
     "id": "moteur-472757",
@@ -122452,6 +136206,16 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
       }
     ],
     "options": [],
@@ -122462,6 +136226,1742 @@ export const DEFAULT_LISTINGS = [
       "https://www.moteur.ma/media/photos/ads/resized/honda-sh-125i-814724.jpg",
       "https://www.moteur.ma/media/photos/ads/resized/honda-sh-125i-142948.jpg"
     ],
-    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/472757/honda-sh-125i.html"
+    "sourceUrl": "https://www.moteur.ma/fr/moto/achat-moto-occasion/detail-annonce/472757/honda-sh-125i.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
+  },
+  {
+    "id": "moteur-ev-01",
+    "kind": "Car",
+    "title": {
+      "en": "Tesla Model 3 2022",
+      "ar": "Tesla Model 3 2022"
+    },
+    "price": 385000,
+    "quickFacts": [
+      {
+        "en": "2022",
+        "ar": "2022"
+      },
+      {
+        "en": "48,000 km",
+        "ar": "48,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "summary": {
+      "original": "Tesla Model 3 Standard Plus 2022 en parfait état, autonomie 491 km, jantes Aero 18 pouces, intérieur noir, conduite semi-autonome Autopilot.",
+      "ar": "تسلا موديل 3 2022 حالة ممتازة، كتقطع 491 كلم بالشحنة، أوتوبيلوت، جنوط ألومنيوم 18، صالون نقي بزاف ديوانة خالصة.",
+      "en": "Tesla Model 3 Standard Plus 2022 in excellent condition, 491 km range, Autopilot, black interior.",
+      "usedDarija": true
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Tesla",
+          "ar": "Tesla"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Model 3",
+          "ar": "Model 3"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2022",
+          "ar": "2022"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "48,000 km",
+          "ar": "48,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation auto",
+        "ar": "Climatisation auto",
+        "raw": "Climatisation auto"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Régulateur de vitesse adaptatif",
+        "ar": "Régulateur de vitesse adaptatif",
+        "raw": "Régulateur de vitesse adaptatif"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "Autopilot",
+        "ar": "Autopilot",
+        "raw": "Autopilot"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Caméra 360",
+        "ar": "Caméra 360",
+        "raw": "Caméra 360"
+      },
+      {
+        "en": "Toit panoramique",
+        "ar": "Toit panoramique",
+        "raw": "Toit panoramique"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1536700503339-1e4b06520771?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/614021/tesla-model-3.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
+  },
+  {
+    "id": "moteur-ev-02",
+    "kind": "Car",
+    "title": {
+      "en": "Porsche Taycan 4S 2021",
+      "ar": "Porsche Taycan 4S 2021"
+    },
+    "price": 890000,
+    "quickFacts": [
+      {
+        "en": "2021",
+        "ar": "2021"
+      },
+      {
+        "en": "35,000 km",
+        "ar": "35,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "summary": {
+      "original": "Porsche Taycan 4S Performance Plus 2021, pack Sport Chrono, suspension pneumatique adaptative, toit panoramique, état exceptionnel.",
+      "ar": "بورش تايكان 4S 2021 باقة سبور كرونو، سقف بانوراما، تعليق هوائي متكيف، صالون جلد فاخر، بحال جديدة ديوانة خالصة.",
+      "en": "Porsche Taycan 4S 2021 Sport Chrono package, adaptive air suspension, panoramic roof.",
+      "usedDarija": true
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Porsche",
+          "ar": "Porsche"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Taycan",
+          "ar": "Taycan"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2021",
+          "ar": "2021"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "35,000 km",
+          "ar": "35,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "4",
+          "ar": "4"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation auto",
+        "ar": "Climatisation auto",
+        "raw": "Climatisation auto"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Suspension pneumatique",
+        "ar": "Suspension pneumatique",
+        "raw": "Suspension pneumatique"
+      },
+      {
+        "en": "Sport Chrono",
+        "ar": "Sport Chrono",
+        "raw": "Sport Chrono"
+      },
+      {
+        "en": "Intérieur cuir Porsche",
+        "ar": "Intérieur cuir Porsche",
+        "raw": "Intérieur cuir Porsche"
+      },
+      {
+        "en": "Caméra 360",
+        "ar": "Caméra 360",
+        "raw": "Caméra 360"
+      },
+      {
+        "en": "Jantes 20 pouces",
+        "ar": "Jantes 20 pouces",
+        "raw": "Jantes 20 pouces"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/614022/porsche-taycan.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
+  },
+  {
+    "id": "moteur-ev-03",
+    "kind": "Car",
+    "title": {
+      "en": "Dacia Spring 2023",
+      "ar": "Dacia Spring 2023"
+    },
+    "price": 135000,
+    "quickFacts": [
+      {
+        "en": "2023",
+        "ar": "2023"
+      },
+      {
+        "en": "19,000 km",
+        "ar": "19,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "WW au Maroc",
+        "ar": "WW المغرب"
+      }
+    ],
+    "summary": {
+      "original": "Dacia Spring Confort Plus 2023 100% électrique, idéale pour les trajets urbains, autonomie 230 km, écran tactile avec Apple CarPlay, première main.",
+      "ar": "داسيا سبرينغ 2023 كهربائية 100% اقتصادية ممتازة للمدينة، كتقطع 230 كلم بالشحنة، شاشة لمس كاربلاي، اليد الأولى.",
+      "en": "Dacia Spring 2023 100% electric, ideal for city driving, 230 km range, touch screen with CarPlay.",
+      "usedDarija": true
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Dacia",
+          "ar": "Dacia"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Spring",
+          "ar": "Spring"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2023",
+          "ar": "2023"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "19,000 km",
+          "ar": "19,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "WW au Maroc",
+          "ar": "WW المغرب"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Écran tactile",
+        "ar": "Écran tactile",
+        "raw": "Écran tactile"
+      },
+      {
+        "en": "Caméra de recul",
+        "ar": "Caméra de recul",
+        "raw": "Caméra de recul"
+      },
+      {
+        "en": "Bluetooth",
+        "ar": "Bluetooth",
+        "raw": "Bluetooth"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/614023/dacia-spring.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
+  },
+  {
+    "id": "moteur-ev-04",
+    "kind": "Car",
+    "title": {
+      "en": "Renault Zoé 2021",
+      "ar": "Renault Zoé 2021"
+    },
+    "price": 155000,
+    "quickFacts": [
+      {
+        "en": "2021",
+        "ar": "2021"
+      },
+      {
+        "en": "42,000 km",
+        "ar": "42,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "summary": {
+      "original": "Renault Zoe ZE50 R110 Intens 52 kWh autonomie 380 km, recharge rapide combo CCS, caméra de recul, régulateur de vitesse.",
+      "ar": "رونو زوي 2021 باقة إنتانس بطارية 52 كيلوواط، شحن سريع CCS، كاميرا خلفية، كتقطع 380 كلم، حالة ممتازة.",
+      "en": "Renault Zoe ZE50 R110 Intens 2021 52 kWh battery, real range 380 km, fast charging.",
+      "usedDarija": true
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Renault",
+          "ar": "Renault"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Zoe",
+          "ar": "Zoe"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2021",
+          "ar": "2021"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "42,000 km",
+          "ar": "42,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation auto",
+        "ar": "Climatisation auto",
+        "raw": "Climatisation auto"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Caméra de recul",
+        "ar": "Caméra de recul",
+        "raw": "Caméra de recul"
+      },
+      {
+        "en": "Jantes alu",
+        "ar": "Jantes alu",
+        "raw": "Jantes alu"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/614024/renault-zoe.html",
+    "location": {
+      "region": "marrakech",
+      "regionName": {
+        "ar": "مراكش - أكادير",
+        "en": "Marrakech - Agadir"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
+  },
+  {
+    "id": "moteur-ev-05",
+    "kind": "Car",
+    "title": {
+      "en": "Peugeot e-208 2022",
+      "ar": "Peugeot e-208 2022"
+    },
+    "price": 225000,
+    "quickFacts": [
+      {
+        "en": "2022",
+        "ar": "2022"
+      },
+      {
+        "en": "31,000 km",
+        "ar": "31,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "summary": {
+      "original": "Peugeot e-208 GT Line 136 ch électrique, i-Cockpit 3D, feux full LED, autonomie 340 km, jantes 17 pouces, très bien entretenue.",
+      "ar": "بيجو e-208 جي تي لاين 2022 كهربائية، عدادات ثلاثية الأبعاد i-Cockpit، أضواء LED، جنوط 17، نقية بزاف.",
+      "en": "Peugeot e-208 GT Line 2022 electric, 3D i-Cockpit, full LED lights, 340 km range.",
+      "usedDarija": true
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Peugeot",
+          "ar": "Peugeot"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "208",
+          "ar": "208"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2022",
+          "ar": "2022"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "31,000 km",
+          "ar": "31,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tanger",
+          "ar": "طنجة"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation automatique",
+        "ar": "Climatisation automatique",
+        "raw": "Climatisation automatique"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "i-Cockpit 3D",
+        "ar": "i-Cockpit 3D",
+        "raw": "i-Cockpit 3D"
+      },
+      {
+        "en": "Caméra de recul",
+        "ar": "Caméra de recul",
+        "raw": "Caméra de recul"
+      },
+      {
+        "en": "Jantes 17 pouces",
+        "ar": "Jantes 17 pouces",
+        "raw": "Jantes 17 pouces"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/614025/peugeot-e-208.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان",
+        "en": "Tangier - Tétouan"
+      },
+      "city": "Tanger",
+      "cityAr": "طنجة"
+    }
+  },
+  {
+    "id": "moteur-ev-06",
+    "kind": "Car",
+    "title": {
+      "en": "Hyundai Kona Electric 2022",
+      "ar": "Hyundai Kona Electric 2022"
+    },
+    "price": 270000,
+    "quickFacts": [
+      {
+        "en": "2022",
+        "ar": "2022"
+      },
+      {
+        "en": "38,000 km",
+        "ar": "38,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "summary": {
+      "original": "Hyundai Kona Electric 64 kWh autonomie 484 km, finition Premium, sièges chauffants et ventilés, affichage tête haute, état impeccable.",
+      "ar": "هيونداي كونا إلكتريك 2022 بطارية 64 كيلوواط كتقطع 484 كلم، مقاعد مبردة ومدفأة، شاشة بروجيكتور على الزجاج، نقية بزااف.",
+      "en": "Hyundai Kona Electric 64 kWh 2022, 484 km range, Premium trim, ventilated seats, head-up display.",
+      "usedDarija": true
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Hyundai",
+          "ar": "Hyundai"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Kona",
+          "ar": "Kona"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2022",
+          "ar": "2022"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "38,000 km",
+          "ar": "38,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation auto",
+        "ar": "Climatisation auto",
+        "raw": "Climatisation auto"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Sièges chauffants",
+        "ar": "Sièges chauffants",
+        "raw": "Sièges chauffants"
+      },
+      {
+        "en": "Affichage tête haute",
+        "ar": "Affichage tête haute",
+        "raw": "Affichage tête haute"
+      },
+      {
+        "en": "Jantes 17 pouces",
+        "ar": "Jantes 17 pouces",
+        "raw": "Jantes 17 pouces"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/614026/hyundai-kona-electric.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
+  },
+  {
+    "id": "moteur-ev-07",
+    "kind": "Car",
+    "title": {
+      "en": "Audi e-tron 2021",
+      "ar": "Audi e-tron 2021"
+    },
+    "price": 540000,
+    "quickFacts": [
+      {
+        "en": "2021",
+        "ar": "2021"
+      },
+      {
+        "en": "52,000 km",
+        "ar": "52,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "summary": {
+      "original": "Audi e-tron 55 quattro 408 ch, suspension pneumatique, toit ouvrant panoramique, pack S-Line extérieur et intérieur.",
+      "ar": "أودي إي-ترون 55 كواترو 2021 قوة 408 حصان، تعليق هوائي، باقة إس-لاين كاملة، سقف بانورامي ديوانة خالصة.",
+      "en": "Audi e-tron 55 quattro 2021 408 hp, air suspension, panoramic sunroof, S-Line.",
+      "usedDarija": true
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Audi",
+          "ar": "Audi"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "e-tron",
+          "ar": "e-tron"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2021",
+          "ar": "2021"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "52,000 km",
+          "ar": "52,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation 4 zones",
+        "ar": "Climatisation 4 zones",
+        "raw": "Climatisation 4 zones"
+      },
+      {
+        "en": "Suspension pneumatique",
+        "ar": "Suspension pneumatique",
+        "raw": "Suspension pneumatique"
+      },
+      {
+        "en": "Intérieur cuir S-Line",
+        "ar": "Intérieur cuir S-Line",
+        "raw": "Intérieur cuir S-Line"
+      },
+      {
+        "en": "Toit panoramique",
+        "ar": "Toit panoramique",
+        "raw": "Toit panoramique"
+      },
+      {
+        "en": "Jantes 21 pouces",
+        "ar": "Jantes 21 pouces",
+        "raw": "Jantes 21 pouces"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/614027/audi-e-tron.html",
+    "location": {
+      "region": "rabat",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
+  },
+  {
+    "id": "moteur-ev-08",
+    "kind": "Car",
+    "title": {
+      "en": "Volkswagen ID.4 2022",
+      "ar": "Volkswagen ID.4 2022"
+    },
+    "price": 380000,
+    "quickFacts": [
+      {
+        "en": "2022",
+        "ar": "2022"
+      },
+      {
+        "en": "29,000 km",
+        "ar": "29,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "summary": {
+      "original": "Volkswagen ID.4 Pro Performance 77 kWh autonomie 520 km, feux Matrix LED IQ.Light, écran 12 pouces, état neuf.",
+      "ar": "فولكسفاغن ID.4 بروفيشينال 2022 بطارية 77 كيلوواط كتقطع 520 كلم، أضواء ماتريكس IQ.Light، حالة بحال جديدة.",
+      "en": "Volkswagen ID.4 Pro Performance 2022 77 kWh, 520 km range, Matrix LED.",
+      "usedDarija": true
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Volkswagen",
+          "ar": "Volkswagen"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "ID.4",
+          "ar": "ID.4"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2022",
+          "ar": "2022"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "29,000 km",
+          "ar": "29,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tanger",
+          "ar": "طنجة"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation tri-zone",
+        "ar": "Climatisation tri-zone",
+        "raw": "Climatisation tri-zone"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Matrix LED",
+        "ar": "Matrix LED",
+        "raw": "Matrix LED"
+      },
+      {
+        "en": "Écran 12 pouces",
+        "ar": "Écran 12 pouces",
+        "raw": "Écran 12 pouces"
+      },
+      {
+        "en": "Jantes 19 pouces",
+        "ar": "Jantes 19 pouces",
+        "raw": "Jantes 19 pouces"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1508974239320-0a029497e820?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/614028/volkswagen-id4.html",
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان",
+        "en": "Tangier - Tétouan"
+      },
+      "city": "Tanger",
+      "cityAr": "طنجة"
+    }
+  },
+  {
+    "id": "moteur-ev-09",
+    "kind": "Car",
+    "title": {
+      "en": "BMW i4 2023",
+      "ar": "BMW i4 2023"
+    },
+    "price": 620000,
+    "quickFacts": [
+      {
+        "en": "2023",
+        "ar": "2023"
+      },
+      {
+        "en": "22,000 km",
+        "ar": "22,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "summary": {
+      "original": "BMW i4 eDrive40 M Sport 340 ch électrique, écran incurvé BMW Curved Display, cuir Vernasca, autonomie 590 km.",
+      "ar": "بي إم دابليو i4 باقة إم سبورت 2023 قوة 340 حصان، شاشة بانورامية منحنية Curved Display، كتقطع 590 كلم بالشحنة، نقية بزااف.",
+      "en": "BMW i4 eDrive40 M Sport 2023 340 hp, BMW Curved Display, Vernasca leather, 590 km range.",
+      "usedDarija": true
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "BMW",
+          "ar": "BMW"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "i4",
+          "ar": "i4"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2023",
+          "ar": "2023"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "22,000 km",
+          "ar": "22,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation auto",
+        "ar": "Climatisation auto",
+        "raw": "Climatisation auto"
+      },
+      {
+        "en": "Pack M Sport",
+        "ar": "Pack M Sport",
+        "raw": "Pack M Sport"
+      },
+      {
+        "en": "BMW Curved Display",
+        "ar": "BMW Curved Display",
+        "raw": "BMW Curved Display"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Jantes M 19 pouces",
+        "ar": "Jantes M 19 pouces",
+        "raw": "Jantes M 19 pouces"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/614029/bmw-i4.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
+  },
+  {
+    "id": "moteur-ev-10",
+    "kind": "Car",
+    "title": {
+      "en": "Kia EV6 2023",
+      "ar": "Kia EV6 2023"
+    },
+    "price": 480000,
+    "quickFacts": [
+      {
+        "en": "2023",
+        "ar": "2023"
+      },
+      {
+        "en": "25,000 km",
+        "ar": "25,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "summary": {
+      "original": "Kia EV6 GT-Line 77.4 kWh recharge ultra rapide 800V de 10% à 80% en 18 min, autonomie 528 km, double écran 12.3 pouces.",
+      "ar": "كيا EV6 جي تي لاين 2023 بطارية 77.4 كيلوواط، شحن فائق السرعة 800V كيعمر فـ 18 دقيقة، شاشتين 12.3 بوصة، كتقطع 528 كلم.",
+      "en": "Kia EV6 GT-Line 2023 77.4 kWh, 800V ultra-fast charging, 528 km range, dual 12.3 inch screens.",
+      "usedDarija": true
+    },
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Kia",
+          "ar": "Kia"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "EV6",
+          "ar": "EV6"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2023",
+          "ar": "2023"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "25,000 km",
+          "ar": "25,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation bi-zone",
+        "ar": "Climatisation bi-zone",
+        "raw": "Climatisation bi-zone"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Double écran panoramique",
+        "ar": "Double écran panoramique",
+        "raw": "Double écran panoramique"
+      },
+      {
+        "en": "Caméra 360",
+        "ar": "Caméra 360",
+        "raw": "Caméra 360"
+      },
+      {
+        "en": "Jantes 20 pouces",
+        "ar": "Jantes 20 pouces",
+        "raw": "Jantes 20 pouces"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/614030/kia-ev6.html",
+    "location": {
+      "region": "casablanca",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
   }
 ];
