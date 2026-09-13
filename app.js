@@ -1066,15 +1066,16 @@
       showLeaderboardFeedback(t('alreadySaved'), 'info');
       return;
     }
-    const name = (ui.playerName ? ui.playerName.value : '').trim();
-    if (!name) {
+    const rawName = (ui.playerName ? ui.playerName.value : '').trim();
+    if (!rawName) {
       showLeaderboardFeedback(t('nameRequired'), 'error');
       if (ui.playerName) ui.playerName.focus();
       return;
     }
+    const name = rawName.slice(0, 30);
     state.playerName = name;
     localStorage.setItem('rwida-player-name', name);
-    const total = state.results.reduce((sum, r) => sum + r.score, 0);
+    const total = state.results.reduce((sum, r) => sum + (Number(r.score) || 0), 0);
 
     if (ui.saveScoreBtn) {
       ui.saveScoreBtn.disabled = true;
@@ -1084,10 +1085,16 @@
       const res = await fetch('/api/leaderboard', {
         method: 'POST',
         headers: { 'content-type': 'application/json' },
-        body: JSON.stringify({ name, score: total, mode: state.mode })
+        body: JSON.stringify({ name, score: total, mode: state.mode || 'cars' })
       });
-      if (!res.ok) throw new Error('Failed to save score');
-      const data = await res.json();
+      let data = null;
+      if (res.ok) {
+        data = await res.json();
+      } else {
+        const errJson = await res.json().catch(() => null);
+        throw new Error((errJson && errJson.error) || 'Failed to save score');
+      }
+
       state.savedThisGame = true;
       if (Array.isArray(data.leaderboard)) {
         state.leaderboard = data.leaderboard;

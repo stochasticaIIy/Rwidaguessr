@@ -5,23 +5,26 @@ function parseEntry(item) {
   if (Array.isArray(item)) {
     const name = String(item[0] || '').trim();
     const score = Math.round(Number(item[1]) || 0);
-    const mode = item[2] ? String(item[2]) : undefined;
+    const mode = item[2] ? String(item[2]) : 'cars';
     if (name && score >= 0) return { name, score, mode };
   } else if (item && typeof item === 'object') {
     const name = String(item.name || '').trim();
     const score = Math.round(Number(item.score) || 0);
-    const mode = item.mode ? String(item.mode) : undefined;
+    const mode = item.mode ? String(item.mode) : 'cars';
     if (name && score >= 0) return { name, score, mode };
   }
   return null;
 }
 
+// Expanded character support (supports Arabic diacritics/tashkeel, Latin accents, numbers, apostrophes, etc.)
 function sanitizeName(raw) {
-  return String(raw || '')
+  let cleaned = String(raw || '')
     .replace(/<[^>]*>?/gm, '')
-    .replace(/[^\p{L}\p{N}\s\-_.@#]/gu, '')
+    .replace(/[^\p{L}\p{M}\p{N}\s\-_.@#'’()[\]]/gu, '')
     .trim()
     .slice(0, 30);
+  if (!cleaned) cleaned = 'حرايفي';
+  return cleaned;
 }
 
 export async function onRequestGet({ request, env = {} }) {
@@ -35,17 +38,15 @@ export async function onRequestGet({ request, env = {} }) {
 
     if (!response.ok) {
       return Response.json(
-        { error: 'Failed to fetch leaderboard from JSONbin', status: response.status },
+        { error: 'Failed to fetch leaderboard from JSONBin', status: response.status },
         { status: 502, headers: { 'cache-control': 'no-store' } }
       );
     }
 
     const payload = await response.json();
     const rawList = Array.isArray(payload.record) ? payload.record : [];
-    const entries = rawList
-      .map(parseEntry)
-      .filter(Boolean)
-      .sort((a, b) => b.score - a.score);
+    const entries = rawList.map(parseEntry).filter(Boolean);
+    entries.sort((a, b) => b.score - a.score);
 
     const leaderboard = entries.map((entry, index) => ({
       rank: index + 1,
@@ -60,8 +61,8 @@ export async function onRequestGet({ request, env = {} }) {
     );
   } catch (err) {
     return Response.json(
-      { error: 'Internal server error while querying leaderboard', details: err.message },
-      { status: 500, headers: { 'cache-control': 'no-store' } }
+      { error: 'Could not connect to JSONBin', details: err.message },
+      { status: 502, headers: { 'cache-control': 'no-store' } }
     );
   }
 }
@@ -78,19 +79,14 @@ export async function onRequestPost({ request, env = {} }) {
   }
 
   const name = sanitizeName(body.name);
-  if (!name || name.length < 1) {
-    return Response.json({ error: 'A valid player name is required (1-30 chars).' }, { status: 400 });
-  }
-
-  const score = Math.round(Number(body.score));
-  if (!Number.isFinite(score) || score < 0 || score > 5000) {
-    return Response.json({ error: 'Invalid score (must be between 0 and 5,000).' }, { status: 400 });
-  }
+  let score = Math.round(Number(body.score));
+  if (!Number.isFinite(score) || score < 0) score = 0;
+  if (score > 5000) score = 5000;
 
   const mode = body.mode === 'motorbikes' ? 'motorbikes' : 'cars';
 
   try {
-    // 1. Fetch current records
+    // 1. Fetch current record from JSONBin
     const getRes = await fetch(`https://api.jsonbin.io/v3/b/${binId}/latest`, {
       headers: { 'X-Master-Key': apiKey }
     });
@@ -98,23 +94,19 @@ export async function onRequestPost({ request, env = {} }) {
     let currentList = [];
     if (getRes.ok) {
       const payload = await getRes.json();
-      if (Array.isArray(payload.record)) {
-        currentList = payload.record.map(parseEntry).filter(Boolean);
-      }
+      const raw = Array.isArray(payload.record) ? payload.record : [];
+      currentList = raw.map(parseEntry).filter(Boolean);
     }
 
-    // 2. Add new record and sort
-    const newEntry = { name, score, mode };
-    currentList.push(newEntry);
+    // 2. Add new entry and sort descending
+    currentList.push({ name, score, mode });
     currentList.sort((a, b) => b.score - a.score);
 
-    // Keep top 100 entries to prevent unbounded JSON size
-    const topEntries = currentList.slice(0, 100);
+    // Keep top 50 scores
+    const topEntries = currentList.slice(0, 50);
 
-    // Save as array of [name, score, mode] to match structure and preserve mode
+    // 3. Save directly to JSONBin
     const toSave = topEntries.map((e) => [e.name, e.score, e.mode || 'cars']);
-
-    // 3. Put to JSONbin
     const putRes = await fetch(`https://api.jsonbin.io/v3/b/${binId}`, {
       method: 'PUT',
       headers: {
@@ -125,14 +117,12 @@ export async function onRequestPost({ request, env = {} }) {
     });
 
     if (!putRes.ok) {
-      const errText = await putRes.text();
       return Response.json(
-        { error: 'Failed to update JSONbin', details: errText },
+        { error: 'Failed to update remote JSONBin leaderboard', status: putRes.status },
         { status: 502, headers: { 'cache-control': 'no-store' } }
       );
     }
 
-    // Find rank of newly added score
     const rank = topEntries.findIndex((e) => e.name === name && e.score === score) + 1;
 
     const leaderboard = topEntries.map((entry, index) => ({
@@ -144,12 +134,12 @@ export async function onRequestPost({ request, env = {} }) {
 
     return Response.json(
       { success: true, rank, leaderboard },
-      { headers: { 'cache-control': 'no-store' } }
+      { status: 200, headers: { 'cache-control': 'no-store' } }
     );
   } catch (err) {
     return Response.json(
-      { error: 'Internal server error while saving score', details: err.message },
-      { status: 500, headers: { 'cache-control': 'no-store' } }
+      { error: 'Failed to process leaderboard update in JSONBin', details: err.message },
+      { status: 502, headers: { 'cache-control': 'no-store' } }
     );
   }
 }
