@@ -266,11 +266,40 @@ export function parseMoteurHtml(html, sourceUrl) {
   }
 
   // 8. Description / Summary
-  let rawDescription = $('.detail-description').text() ||
-                        $('.description').text() ||
-                        $('.text_detail').text() ||
-                        $('.detail-text').text() ||
-                        '';
+  let rawDescription = '';
+  $('h3, h4, h5, .card-title, .title, .sub-title').each((_, el) => {
+    if (rawDescription) return;
+    const h = $(el).text().trim().toLowerCase();
+    if (
+      h.includes('spécification') ||
+      h.includes('specification') ||
+      h.includes('description') ||
+      h.includes('texte de l') ||
+      h.includes('texte') ||
+      h.includes('remarque') ||
+      h.includes('détail de l') ||
+      h.includes('detail de l')
+    ) {
+      let nextEl = $(el).next();
+      let t = nextEl.text().trim();
+      if (!t || t.length < 5) {
+        t = $(el).parent().find('p, .mb-5, .text-muted, .card-body').not($(el)).text().trim();
+      }
+      if (t && t.length > 5 && !t.toLowerCase().includes('options') && !t.toLowerCase().includes('caractéristique')) {
+        rawDescription = t;
+      }
+    }
+  });
+
+  if (!rawDescription) {
+    rawDescription = $('.detail-description').text() ||
+                     $('.description').text() ||
+                     $('.text_detail').text() ||
+                     $('.detail-text').text() ||
+                     $('.bloc_description').text() ||
+                     $('.ad-description').text() ||
+                     '';
+  }
   if (!rawDescription) {
     const descMeta = $('meta[name="description"]').attr('content');
     if (descMeta) rawDescription = descMeta;
@@ -369,7 +398,7 @@ export function parseMoteurHtml(html, sourceUrl) {
     year,
     mileage,
     fuel,
-    transmission,
+    transmission: (gearboxVal && gearboxVal.en) || 'Manual',
     city: rawFeatures['Ville'] || rawFeatures['ville'] || ''
   };
 

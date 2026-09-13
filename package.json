@@ -11,7 +11,8 @@
     "check": "node --check server.js && node --check app.js && node --check functions/api/game.js && node --check functions/api/guess.js && node --check functions/api/leaderboard.js && node --check api/game.js && node --check api/guess.js && node --check api/leaderboard.js && node --check scripts/import-moteur.js && node --check scripts/darija.js",
     "sync": "node scripts/sync-listings.js",
     "import": "node scripts/import-moteur.js",
-    "import:crawl": "node scripts/import-moteur.js --crawl --limit 1000"
+    "import:crawl": "node scripts/import-moteur.js --crawl --limit 1000",
+    "update:descriptions": "node scripts/fetch-seller-descriptions.js && node scripts/sync-listings.js"
   },
   "dependencies": {
     "cheerio": "^1.2.0",
