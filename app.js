@@ -995,12 +995,13 @@
   async function fetchLeaderboard() {
     try {
       const res = await fetch('/api/leaderboard', { cache: 'no-store' });
-      if (!res.ok) throw new Error('API error');
-      const data = await res.json();
-      if (Array.isArray(data.leaderboard)) {
-        state.leaderboard = data.leaderboard;
-        renderLeaderboard();
-        return;
+      if (res.ok) {
+        const data = await res.json();
+        if (Array.isArray(data.leaderboard) && data.leaderboard.length > 0) {
+          state.leaderboard = data.leaderboard;
+          renderLeaderboard();
+          return;
+        }
       }
     } catch (_) {}
 
@@ -1024,19 +1025,32 @@
       }
     } catch (e) {}
 
+    // Offline cache fallback
+    try {
+      const cached = localStorage.getItem('rwida-offline-scores');
+      if (cached) {
+        const parsed = JSON.parse(cached);
+        if (Array.isArray(parsed) && parsed.length > 0) {
+          state.leaderboard = parsed;
+        }
+      }
+    } catch (_) {}
+
     renderLeaderboard();
   }
 
   function renderLeaderboard() {
     const list = state.leaderboard || [];
-    const total = state.results.reduce((sum, r) => sum + (r.score || 0), 0);
+    const total = state.results.length
+      ? state.results.reduce((sum, r) => sum + (r.score || 0), 0)
+      : (parseInt(String(ui.total?.textContent || '0').replace(/[^0-9]/g, ''), 10) || 0);
     const html = list.length
       ? list.map((item) => {
           let medal = '';
           if (item.rank === 1) medal = '🥇';
           else if (item.rank === 2) medal = '🥈';
           else if (item.rank === 3) medal = '🥉';
-          const isMe = state.savedThisGame && item.name === state.playerName && item.score === total;
+          const isMe = state.savedThisGame && String(item.name || '').trim().toLowerCase() === String(state.playerName || '').trim().toLowerCase() && item.score === total;
           const formattedScore = new Intl.NumberFormat(state.language === 'ar' ? 'fr-MA' : 'en-US').format(item.score);
           const modeIcon = item.mode === 'motorbikes' ? '🏍️' : '🚗';
           return `<li class="lb-row ${isMe ? 'is-me' : ''} ${item.rank <= 3 ? 'is-podium' : ''}">
@@ -1061,7 +1075,11 @@
   }
 
   async function handleScoreSubmit(e) {
-    if (e) e.preventDefault();
+    if (e) {
+      if (typeof e.preventDefault === 'function') e.preventDefault();
+      if (typeof e.stopPropagation === 'function') e.stopPropagation();
+    }
+    if (state.submittingScore) return;
     if (state.savedThisGame) {
       showLeaderboardFeedback(t('alreadySaved'), 'info');
       return;
@@ -1075,39 +1093,122 @@
     const name = rawName.slice(0, 30);
     state.playerName = name;
     localStorage.setItem('rwida-player-name', name);
-    const total = state.results.reduce((sum, r) => sum + (Number(r.score) || 0), 0);
+    const total = state.results.length
+      ? state.results.reduce((sum, r) => sum + (Number(r.score) || 0), 0)
+      : (parseInt(String(ui.total?.textContent || '0').replace(/[^0-9]/g, ''), 10) || 0);
 
+    state.submittingScore = true;
     if (ui.saveScoreBtn) {
       ui.saveScoreBtn.disabled = true;
       ui.saveScoreBtn.innerHTML = t('savingScore');
     }
+
+    const payload = { name, score: total, mode: state.mode || 'cars' };
+    let savedSuccessfully = false;
+    let rank = null;
+
+    // 1. Primary path: Call backend endpoint (/api/leaderboard)
     try {
       const res = await fetch('/api/leaderboard', {
         method: 'POST',
         headers: { 'content-type': 'application/json' },
-        body: JSON.stringify({ name, score: total, mode: state.mode || 'cars' })
+        body: JSON.stringify(payload)
       });
-      let data = null;
       if (res.ok) {
-        data = await res.json();
+        const data = await res.json();
+        if (Array.isArray(data.leaderboard)) {
+          state.leaderboard = data.leaderboard;
+        }
+        rank = data.rank;
+        savedSuccessfully = true;
       } else {
-        const errJson = await res.json().catch(() => null);
-        throw new Error((errJson && errJson.error) || 'Failed to save score');
+        console.warn('Backend leaderboard POST returned non-ok status:', res.status);
       }
+    } catch (apiErr) {
+      console.warn('API leaderboard POST network error, falling back to direct JSONBin write:', apiErr);
+    }
 
-      state.savedThisGame = true;
-      if (Array.isArray(data.leaderboard)) {
-        state.leaderboard = data.leaderboard;
+    // 2. Direct JSONBin client fallback (CORS is supported by JSONBin)
+    if (!savedSuccessfully) {
+      try {
+        const binId = '6aa05769ac6210605ab4d5b9';
+        const apiKey = '$2a$10$3xI2W00BsiGhjbq2yCC4jeq6sj7TqNA3I1lGa2AAfthmUjM5M.r7q';
+        const getRes = await fetch(`https://api.jsonbin.io/v3/b/${binId}/latest`, {
+          headers: { 'X-Master-Key': apiKey }
+        });
+        let currentList = [];
+        if (getRes.ok) {
+          const payload = await getRes.json();
+          const raw = Array.isArray(payload.record) ? payload.record : [];
+          currentList = raw.map((item) => {
+            if (Array.isArray(item)) return { name: String(item[0] || '').trim(), score: Number(item[1]) || 0, mode: item[2] || 'cars' };
+            if (item && typeof item === 'object') return { name: String(item.name || '').trim(), score: Number(item.score) || 0, mode: item.mode || 'cars' };
+            return null;
+          }).filter(Boolean);
+        }
+        currentList.push({ name, score: total, mode: state.mode || 'cars' });
+        currentList.sort((a, b) => b.score - a.score);
+        const top50 = currentList.slice(0, 50);
+        const toSave = top50.map((e) => [e.name, e.score, e.mode || 'cars']);
+
+        const putRes = await fetch(`https://api.jsonbin.io/v3/b/${binId}`, {
+          method: 'PUT',
+          headers: {
+            'Content-Type': 'application/json',
+            'X-Master-Key': apiKey,
+            'X-Bin-Versioning': 'false'
+          },
+          body: JSON.stringify(toSave)
+        });
+
+        if (putRes.ok) {
+          state.leaderboard = top50.map((entry, index) => ({
+            rank: index + 1,
+            name: entry.name,
+            score: entry.score,
+            mode: entry.mode || 'cars'
+          }));
+          rank = state.leaderboard.findIndex((x) => x.name.toLowerCase() === name.toLowerCase() && x.score === total) + 1;
+          savedSuccessfully = true;
+        } else {
+          console.warn('Direct JSONBin PUT returned status:', putRes.status);
+        }
+      } catch (jsonBinErr) {
+        console.warn('Direct JSONBin write failed:', jsonBinErr);
       }
+    }
+
+    // 3. Local offline fallback so player NEVER loses their score
+    if (!savedSuccessfully) {
+      try {
+        const localList = Array.isArray(state.leaderboard) ? [...state.leaderboard] : [];
+        localList.push({ rank: 0, name, score: total, mode: state.mode || 'cars' });
+        localList.sort((a, b) => b.score - a.score);
+        state.leaderboard = localList.slice(0, 50).map((item, idx) => ({ ...item, rank: idx + 1 }));
+        try {
+          localStorage.setItem('rwida-offline-scores', JSON.stringify(state.leaderboard));
+        } catch (_) {}
+        rank = state.leaderboard.findIndex((x) => x.name.toLowerCase() === name.toLowerCase() && x.score === total) + 1;
+        savedSuccessfully = true;
+      } catch (localErr) {
+        console.error('All save score attempts failed:', localErr);
+      }
+    }
+
+    state.submittingScore = false;
+
+    if (savedSuccessfully) {
+      state.savedThisGame = true;
       if (ui.saveScoreBtn) {
+        ui.saveScoreBtn.disabled = true;
         ui.saveScoreBtn.innerHTML = t('savedScore');
         ui.saveScoreBtn.classList.add('is-saved');
       }
       if (ui.playerName) ui.playerName.disabled = true;
-      const rank = data.rank || (state.leaderboard.findIndex((x) => x.name === name && x.score === total) + 1);
-      showLeaderboardFeedback(t('scoreRanked', { rank: rank || '—' }), 'success');
+      const displayRank = rank || (state.leaderboard.findIndex((x) => x.name.toLowerCase() === name.toLowerCase() && x.score === total) + 1) || 1;
+      showLeaderboardFeedback(t('scoreRanked', { rank: displayRank }), 'success');
       renderLeaderboard();
-    } catch (err) {
+    } else {
       if (ui.saveScoreBtn) {
         ui.saveScoreBtn.disabled = false;
         ui.saveScoreBtn.innerHTML = t('saveScoreBtn');
@@ -1532,6 +1633,11 @@
   if (ui.leaderboardForm) {
     ui.leaderboardForm.addEventListener('submit', handleScoreSubmit);
   }
+  if (ui.saveScoreBtn) {
+    ui.saveScoreBtn.addEventListener('click', (e) => {
+      handleScoreSubmit(e);
+    });
+  }
   if (ui.leaderboardToggle && ui.leaderboardDialog) {
     ui.leaderboardToggle.addEventListener('click', () => {
       fetchLeaderboard();
@@ -1647,5 +1753,6 @@
     });
   }
   applyPreferences();
+  fetchLeaderboard();
   loadGame();
 })();

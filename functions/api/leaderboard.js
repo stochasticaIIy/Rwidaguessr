@@ -16,11 +16,11 @@ function parseEntry(item) {
   return null;
 }
 
-// Expanded character support (supports Arabic diacritics/tashkeel, Latin accents, numbers, apostrophes, etc.)
+// Expanded character support (supports Arabic diacritics/tashkeel, Latin accents, emoji, numbers, apostrophes, etc.)
 function sanitizeName(raw) {
   let cleaned = String(raw || '')
     .replace(/<[^>]*>?/gm, '')
-    .replace(/[^\p{L}\p{M}\p{N}\s\-_.@#'’()[\]]/gu, '')
+    .replace(/[^\p{L}\p{M}\p{N}\p{Emoji}\s\-_.@#'’()[\]]/gu, '')
     .trim()
     .slice(0, 30);
   if (!cleaned) cleaned = 'حرايفي';
@@ -111,7 +111,8 @@ export async function onRequestPost({ request, env = {} }) {
       method: 'PUT',
       headers: {
         'Content-Type': 'application/json',
-        'X-Master-Key': apiKey
+        'X-Master-Key': apiKey,
+        'X-Bin-Versioning': 'false'
       },
       body: JSON.stringify(toSave)
     });

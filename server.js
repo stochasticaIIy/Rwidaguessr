@@ -63,7 +63,7 @@ app.get('/api/leaderboard', async (req, res, next) => {
   }
 });
 
-app.post('/api/leaderboard', async (req, res, next) => {
+app.post('/api/leaderboard', async (req, res) => {
   try {
     const fullUrl = `http://${req.headers.host || 'localhost'}${req.originalUrl}`;
     const request = new Request(fullUrl, {
@@ -77,9 +77,10 @@ app.post('/api/leaderboard', async (req, res, next) => {
     if (response.headers.get('cache-control')) {
       res.set('cache-control', response.headers.get('cache-control'));
     }
-    res.status(status).json(data);
+    return res.status(status).json(data);
   } catch (err) {
-    next(err);
+    console.error('[Leaderboard POST Error]', err);
+    return res.status(500).json({ error: 'Server error processing leaderboard', details: err.message });
   }
 });
 
