@@ -21,11 +21,9 @@ function sanitizeListingFeatures(item) {
     const label = f.label;
     const en = (label && typeof label === 'object' ? (label.en || label.fr || label.raw || '') : String(label || '')).toLowerCase().trim();
     const ar = (label && typeof label === 'object' ? (label.ar || '') : '').toLowerCase().trim();
-    if (en.includes('tax horsepower') || en === 'tax hp' || en.includes('puissance fiscale') || ar.includes('الجبائية')) return false;
     if (en.includes('transmission') || ar.includes('ناقل الحركة')) return false;
-    // Remove horsepower completely per user request and replace with statut de douane
-    if (en.includes('horsepower') || ar.includes('حصان') || en.includes('power')) return false;
-    if (en.includes('body type') || en.includes('carrosserie') || ar.includes('نوع الهيكل') || ar.includes('هيكل')) return false;
+    // Remove mechanical horsepower (DIN hp) only, keep fiscal horsepower (puissance fiscale)
+    if ((en.includes('horsepower') && !en.includes('tax') && !en.includes('fiscale')) || (ar.includes('حصان') && !ar.includes('جبائية') && !ar.includes('ضريب')) || en.includes('puissance din')) return false;
     const val = f.value && typeof f.value === 'object' ? (f.value.en || f.value.fr || f.value.raw || '') : String(f.value || '');
     if (!val || val.toLowerCase() === 'n/a') return false;
     return true;
