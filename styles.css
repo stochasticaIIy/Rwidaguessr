@@ -28,7 +28,6 @@
 :root[data-theme="dark"] .quick-facts span { background: #162030; color: var(--ink); border: 1px solid #24344a; }
 :root[data-theme="dark"] .score-breakdown div { background: #26160e; color: #fdba74; border: 1px solid #4a2110; }
 :root[data-theme="dark"] .option-list span { background: #151f2e; color: var(--ink); border-color: #27374d; }
-:root[data-theme="dark"] .description-card p { color: #cbd5e1; }
 :root[data-theme="dark"] .features-card dd { color: #f8fafc; }
 :root[data-theme="dark"] .features-card dt { color: #94a3b8; }
 :root[data-theme="dark"] .listing-label { background: #090d14e6; color: #fb923c; border: 1px solid #7c2d12; }
@@ -281,10 +280,9 @@ button, input, select { font: inherit; } button { cursor: pointer; } .hidden { d
 .listing-content { display: grid; gap: 14px; }
 .quick-facts { display: flex; flex-wrap: wrap; gap: 8px; }
 .quick-facts span { padding: 6px 11px; background: #f1f5f9; color: var(--ink); border: 1px solid #e2e8f0; border-radius: 99px; font-size: 13px; font-weight: 500; }
-.description-card, .features-card, .options-card { border: 1px solid var(--line); border-radius: 12px; background: var(--paper); padding: 17px 18px; }
+.features-card, .options-card { border: 1px solid var(--line); border-radius: 12px; background: var(--paper); padding: 17px 18px; }
 .section-heading { display: flex; align-items: center; gap: 10px; color: var(--pine); font: 500 11px "DM Mono", monospace; text-transform: uppercase; letter-spacing: .8px; }
 .section-heading i { height: 1px; flex: 1; background: var(--line); }
-.description-card p { margin: 11px 0 0; line-height: 1.55; color: #334155; }
 .features-card dl { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); margin: 13px 0 0; border-top: 1px solid var(--line); }
 .features-card dl div { padding: 10px 4px; border-bottom: 1px solid var(--line); }
 .features-card dl div:nth-child(odd) { padding-right: 12px; }
@@ -792,7 +790,6 @@ html[dir="rtl"] .lightbox-actions { left: 20px !important; right: auto !importan
 html[dir="rtl"] .lightbox-close { right: 20px !important; left: auto !important; }
 html[dir="rtl"] .lightbox-prev { left: auto; right: 20px; }
 html[dir="rtl"] .lightbox-next { right: auto; left: 20px; }
-html[dir="rtl"] #summary { direction: rtl; text-align: right; unicode-bidi: plaintext; line-height: 1.75; }
 html[dir="rtl"] .guess-input-row input { direction: ltr !important; text-align: right; unicode-bidi: plaintext !important; }
 html[dir="rtl"] .guess-input-row input::placeholder { direction: rtl !important; text-align: right; unicode-bidi: isolate !important; }
 html[dir="rtl"] #currency-label { unicode-bidi: isolate; font-family: "Noto Kufi Arabic", "DM Mono", sans-serif; font-size: 13px; }
