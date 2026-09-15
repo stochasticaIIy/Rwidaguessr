@@ -172,13 +172,72 @@
               <div class="closeness-fill" id="closeness-fill" style="width: 0%"></div>
             </div>
           </div>
+
           <div class="result-comparison">
             <div><span data-i18n="yourGuess">Your guess</span><b id="your-guess">—</b></div>
             <div><span data-i18n="difference">Difference</span><b id="difference">—</b></div>
             <div><span data-i18n="closenessCol">Closeness</span><b id="closeness-cell">—</b></div>
             <div><span data-i18n="points">Points</span><b id="round-score">—</b></div>
           </div>
-          <p id="result-message"></p>
+
+          <!-- Market Price Comparison Slider -->
+          <div class="market-slider-card" id="market-slider-card">
+            <div class="market-slider-header">
+              <h3 class="market-slider-title" id="market-slider-title" data-i18n="marketSliderTitle">Owner vs Market</h3>
+              <div class="market-verdict-tag" id="market-verdict-tag">
+                <span id="market-verdict-badge">Fair price</span>
+                <span class="market-diff-pill" id="market-diff-pill">+0.0%</span>
+              </div>
+            </div>
+
+            <!-- The Visual Slider Track with Pointer -->
+            <div class="market-gauge-container" id="market-gauge-container" dir="ltr">
+              <div class="market-needle-track" id="market-needle-track">
+                <div class="market-needle" id="market-needle" style="left: 45%;">
+                  <div class="market-needle-tooltip">
+                    <span class="market-tooltip-label" id="market-tooltip-label" data-i18n="sellerPrice">Owner</span>
+                    <strong class="market-tooltip-price" id="market-tooltip-price">—</strong>
+                  </div>
+                  <div class="market-needle-pin"></div>
+                </div>
+              </div>
+
+              <div class="market-track" id="market-track">
+                <div class="market-segment is-deal" title="Deal"></div>
+                <div class="market-segment is-fair" title="Fair market price"></div>
+                <div class="market-segment is-high" title="Above market"></div>
+                <div class="market-segment is-overpriced" title="Overpriced"></div>
+              </div>
+
+              <div class="market-benchmark-marker" id="market-benchmark-marker" style="left: 45%;">
+                <span class="market-benchmark-line"></span>
+                <span class="market-benchmark-tag" id="market-benchmark-tag" data-i18n="marketAvgTag">Market avg</span>
+              </div>
+
+              <div class="market-zones-labels">
+                <span class="zone-label is-deal" data-i18n="zoneDeal">Deal</span>
+                <span class="zone-label is-fair" data-i18n="zoneFair">Fair price</span>
+                <span class="zone-label is-high" data-i18n="zoneHigh">High</span>
+                <span class="zone-label is-overpriced" data-i18n="zoneOverpriced">Overpriced</span>
+              </div>
+            </div>
+
+            <!-- Comparison Stats -->
+            <div class="market-stats-row">
+              <div class="market-stat-box">
+                <span class="market-stat-lbl" data-i18n="marketEstimateLbl">Market avg</span>
+                <strong class="market-stat-val" id="market-estimate-val">—</strong>
+              </div>
+              <div class="market-stat-box">
+                <span class="market-stat-lbl" data-i18n="sellerPriceLbl">Owner's price</span>
+                <strong class="market-stat-val" id="market-seller-val">—</strong>
+              </div>
+              <div class="market-stat-box">
+                <span class="market-stat-lbl" data-i18n="marketGapLbl">Difference</span>
+                <strong class="market-stat-val" id="market-gap-val">—</strong>
+              </div>
+            </div>
+          </div>
           <a class="source-link hidden" id="source-link" target="_blank" rel="noopener noreferrer" data-i18n="viewSource">View source listing ↗</a>
           <button class="primary-button" id="next-round" type="button">Next round →</button>
         </div>

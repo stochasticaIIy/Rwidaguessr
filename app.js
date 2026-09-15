@@ -11,6 +11,10 @@
     guessed: $('your-guess'), difference: $('difference'), score: $('round-score'), message: $('result-message'),
     closenessPct: $('closeness-pct'), closenessFill: $('closeness-fill'), closenessCell: $('closeness-cell'),
     closenessLabel: $('closeness-label'), closenessBadge: $('closeness-badge'),
+    marketCard: $('market-slider-card'), marketVerdictBadge: $('market-verdict-badge'), marketDiffPill: $('market-diff-pill'),
+    marketNeedle: $('market-needle'), marketTooltipPrice: $('market-tooltip-price'),
+    marketEstimateVal: $('market-estimate-val'), marketSellerVal: $('market-seller-val'),
+    marketGapVal: $('market-gap-val'),
     leaderboardToggle: $('leaderboard-toggle'), leaderboardDialog: $('leaderboard-dialog'), closeLeaderboard: $('close-leaderboard'),
     leaderboardForm: $('leaderboard-form'), playerName: $('player-name'), saveScoreBtn: $('save-score-btn'),
     leaderboardFeedback: $('leaderboard-feedback'), finalLeaderboardList: $('final-leaderboard-list'),
@@ -20,8 +24,8 @@
     soundToggle: $('sound-toggle'), soundIcon: $('sound-icon')
   };
   const copy = {
-    en: { howTo:'How to play', eyebrow:'Cars & motorbikes · Morocco', heroTitle:'What’s the price<br /><em>of this vehicle?</em>', heroTitleCars:'What’s the price<br /><em>of this car?</em>', heroTitleBikes:'What’s the price<br /><em>of this motorbike?</em>', modeLabel:'Vehicle category', modeCars:'Cars', modeBikes:'Motorbikes', fuelLabel:'Fuel type (optional)', fuelAll:'All fuel types (National)', fuelDiesel:'Diesel (Gasoil)', fuelPetrol:'Petrol (Essence)', fuelHybrid:'Hybrid (Hybride)', fuelElectric:'100% Electric (Électrique)', fuelEco:'Electric & Hybrid', startCarsDiesel:'Start 5 Diesel rounds <span>→</span>', startCarsPetrol:'Start 5 Petrol rounds <span>→</span>', startCarsElectric:'Start 5 Electric rounds <span>→</span>', startCarsHybrid:'Start 5 Hybrid rounds <span>→</span>', startCarsEco:'Start 5 Eco rounds <span>→</span>', roundCarsDiesel:'Cars (Diesel) · Round {n} of 5', roundCarsPetrol:'Cars (Petrol) · Round {n} of 5', roundCarsElectric:'Cars (Electric) · Round {n} of 5', roundCarsHybrid:'Cars (Hybrid) · Round {n} of 5', roundCarsEco:'Cars (Eco) · Round {n} of 5', regionLabel:'Region or city (optional)', regionAll:'All Morocco (National)', regionCasa:'Casablanca - Settat (Casablanca, Mohammedia...)', regionRabat:'Rabat - Salé - Kénitra (Témara...)', regionTanger:'Tangier - Tétouan (North, Nador...)', regionMarrakech:'Marrakech - Agadir (South, Safi...)', regionOriental:'Fès - Meknès - Oriental (Oujda...)', intro:'Five listings, their full details, and zero price clues. Estimate the listed price in dirhams.', durationLabel:'Maximum time per guess', tenMinutes:'10 minutes', thirtyMinutes:'30 minutes', fiftyMinutes:'50 minutes (maximum)', durationNote:'Time is capped at 50 minutes for every listing.', start:'Start 5 rounds <span>→</span>', startCars:'Start 5 Car rounds <span>→</span>', startBikes:'Start 5 Motorbike rounds <span>→</span>', priceHidden:'Price hidden', summaryHeading:'Spécifications rapides', featuresHeading:'Features', optionsHeading:'Equipment & options', yourGuess:'Your guess', submit:'Submit <span>→</span>', quickIncrements:'Quick add:', clearInput:'Reset', result:'Result', listedPrice:'Listed price', difference:'Difference', points:'Points', viewSource:'View source listing ↗', gameOver:'Game complete', finalTitle:'You’ve got an eye for it.', outOfFive:'points out of 5,000', playAgain:'Play again <span>↻</span>', rules:'Rules', rulesTitle:'Five prices to estimate.', rulesCopy1:'For every listing, study the vehicle, its details, and every option. Enter the price you think is listed. The closer you are, the more points you earn.', rulesCopy2:'A timer begins each round and can never be longer than 50 minutes.', rulesCopy3:'At the end, save your name to the Leaderboard and see how your eye for car prices ranks!', ready:'Ready to play', round:'Round {n} of 5', roundCars:'Cars · Round {n} of 5', roundBikes:'Motorbikes · Round {n} of 5', complete:'Game complete', vehicle:'Vehicle listing', car:'Car listing', bike:'Motorbike listing', invalidGuess:'Enter a valid price in MAD.', failedGuess:'We could not validate that guess. Please try again.', loading:'Loading listings…', liveData:'Verified listings — prices reveal after each guess.', previewData:'Preview mode — add the Cloudflare secrets to load your authorized listings.', insufficient:'At least five valid listings are needed to play.', preparing:'Preparing…', next:'Next round →', finalNext:'See my final score →', timeUp:'Time is up', expired:'Time is up — the price is revealed, but this round earns no points.', excellent:'Impressive: your estimate was extremely close.', great:'Great instinct — you are in the right range.', okay:'Not bad. The vehicle details made the difference.', tough:'That one was difficult. Every round counts.', noOptions:'No options listed', timeRemaining:'Time remaining', switchLanguage:'Switch to Arabic', useDark:'Use dark mode', useLight:'Use light mode', soundOn:'Sound effects enabled', soundOff:'Sound effects muted', previousPhoto:'Previous photo', nextPhoto:'Next photo', zoomIn:'Zoom in', zoomOut:'Zoom out', openFullscreen:'Open fullscreen', exitFullscreen:'Exit fullscreen', closenessKicker:'Accuracy', closeToPrice:'close to actual price', closenessCol:'Closeness', saveScoreTitle:'Save your score to the Leaderboard', saveScoreHint:'Compete against other players across Morocco.', saveScoreBtn:'Save score <span>→</span>', savingScore:'Saving…', savedScore:'✓ Score Saved', scoreRanked:'🎉 Ranked #{rank}! Your score is on the leaderboard.', alreadySaved:'Your score has already been saved.', nameRequired:'Please enter your name or nickname.', saveFailed:'Could not save score. Please try again.', topScorers:'Top Scorers', loadingLb:'Loading leaderboard…', emptyLb:'No scores yet. Be the first!', leaderboardBtn:'Leaderboard', leaderboardTitle:'Top Scorers', leaderboardEyebrow:'Hall of Fame', playerNamePlaceholder:'Enter your name / nickname', bullseye:'Bullseye! Extremely close to the price.', almostExact:'Excellent! Very close to listed price.', solidGuess:'Solid guess — within the right range.', fairEstimate:'Fair estimate, but options made the difference.', wayOff:'Far from listed price — this one was tricky.', photoMissingSkipped:'Photos unavailable — moving to another listing…', unavailable:'Unavailable', unavailableHint:'No vehicles available for this selection' },
-    ar: { howTo:'كيفاش تلعب', eyebrow:'سيارات ودراجات نارية · المغرب', heroTitle:'كم يبلغ سعر<br /><em>هاد الحديدة؟</em>', heroTitleCars:'كم يبلغ سعر<br /><em>هذه السيارة؟</em>', heroTitleBikes:'كم يبلغ سعر<br /><em>هذه الدراجة النارية؟</em>', modeLabel:'نوع المركبات', modeCars:'سيارات', modeBikes:'دراجات نارية', fuelLabel:'نوع الوقود (اختياري)', fuelAll:'كافة أنواع الوقود (الكل)', fuelDiesel:'مازوط (Diesel)', fuelPetrol:'ليصانص (Essence)', fuelHybrid:'إيبريد (Hybride)', fuelElectric:'كهربائي 100% (100% Électrique)', fuelEco:'كهربائي وإيبريد (Électrique & Hybride)', startCarsDiesel:'ابدأ 5 جولات سيارات (مازوط) <span>←</span>', startCarsPetrol:'ابدأ 5 جولات سيارات (ليصانص) <span>←</span>', startCarsElectric:'ابدأ 5 جولات سيارات كهربائية <span>←</span>', startCarsHybrid:'ابدأ 5 جولات سيارات (إيبريد) <span>←</span>', startCarsEco:'ابدأ 5 جولات سيارات (إيكو) <span>←</span>', roundCarsDiesel:'سيارات (مازوط) · الجولة {n} من 5', roundCarsPetrol:'سيارات (ليصانص) · الجولة {n} من 5', roundCarsElectric:'سيارات (كهربائي) · الجولة {n} من 5', roundCarsHybrid:'سيارات (إيبريد) · الجولة {n} من 5', roundCarsEco:'سيارات (كهربائي/إيبريد) · الجولة {n} من 5', regionLabel:'المنطقة أو المدينة (اختياري)', regionAll:'كافة المدن المغربية (المغرب كامل)', regionCasa:'الدار البيضاء - سطات (كازا، المحمدية...)', regionRabat:'الرباط - سلا - القنيطرة (تمارة...)', regionTanger:'طنجة - تطوان - الشمال (الناظور...)', regionMarrakech:'مراكش - أكادير - الجنوب (آسفي...)', regionOriental:'فاس - مكناس - الشرق (وجدة، خريبكة...)', intro:'خمس إعلانات وتفاصيلها الكاملة من دون أي تلميح للسعر. قدّر السعر المعروض بالدرهم.', durationLabel:'الوقت الأقصى لكل تخمين', tenMinutes:'10 دقائق', thirtyMinutes:'30 دقيقة', fiftyMinutes:'50 دقيقة (الحد الأقصى)', durationNote:'الوقت لا يتجاوز 50 دقيقة لكل إعلان.', start:'ابدأ 5 جولات <span>→</span>', startCars:'ابدأ 5 جولات سيارات <span>→</span>', startBikes:'ابدأ 5 جولات دراجات نارية <span>→</span>', priceHidden:'السعر مخفي', summaryHeading:'المواصفات السريعة', featuresHeading:'المواصفات', optionsHeading:'التجهيزات والخيارات', yourGuess:'تخمينك', submit:'إرسال <span>→</span>', quickIncrements:'إضافة سريعة:', clearInput:'مسح', result:'النتيجة', listedPrice:'السعر المعروض', difference:'الفارق', points:'النقاط', viewSource:'عرض الإعلان المصدر ↗', gameOver:'انتهت اللعبة', finalTitle:'لديك عين خبيرة.', outOfFive:'نقطة من أصل 5,000', playAgain:'العب مجددًا <span>↻</span>', rules:'قواعد اللعبة', rulesTitle:'5 د الهميزات خاصك تجيب ثمنهم', rulesCopy1:'في كل جولة، شوف التصاور وتفاصيل الحديد والمواصفات مزيان. حط الثمن لي كيبان ليك معروض فالإعلان بالدرهم. كلما كنتي قريب للثمن الحقيقي، كلما ضربتي نقط كثر (حتى لـ 1,000 نقطة فكل جولة).', rulesCopy2:'كاين وقت محدد لكل جولة، وما كيفوتش 50 دقيقة كحد أقصى. زرب قبل ما يسالي العداد!', rulesCopy3:'في اللخر، سجّل سميتك فـ الليدربورد وتنافس مع الدراري و الحرايفية!', ready:'جاهز للعب', round:'الجولة {n} من 5', roundCars:'سيارات · الجولة {n} من 5', roundBikes:'دراجات نارية · الجولة {n} من 5', complete:'انتهت اللعبة', vehicle:'إعلان مركبة', car:'إعلان سيارة', bike:'إعلان دراجة نارية', invalidGuess:'أدخل سعرًا صحيحًا بالدرهم.', failedGuess:'تعذّر التحقق من التخمين. حاول مرة أخرى.', loading:'جارٍ تحميل الإعلانات…', liveData:'إعلانات موثقة — يظهر السعر بعد كل تخمين.', previewData:'وضع المعاينة — أضف أسرار Cloudflare لتحميل إعلاناتك المصرح بها.', insufficient:'يلزم خمسة إعلانات صالحة على الأقل للعب.', preparing:'جارٍ التحضير…', next:'الجولة التالية ←', finalNext:'عرض نتيجتي النهائية ←', timeUp:'انتهى الوقت', expired:'انتهى الوقت — تم كشف السعر، لكن هذه الجولة لا تمنح نقاطًا.', excellent:'مذهل: كان تخمينك قريبًا جدًا.', great:'حدس رائع — أنت ضمن النطاق الصحيح.', okay:'المرة الجاية ها تجيبها لاصقة.', tough:'كانت صعيبة هادي، ولكن كل جولة مهمة.', noOptions:'لا توجد خيارات مذكورة', timeRemaining:'الوقت المتبقي', switchLanguage:'التبديل إلى الإنجليزية', useDark:'استخدم الوضع الداكن', useLight:'استخدم الوضع الفاتح', soundOn:'المؤثرات الصوتية مفعلة', soundOff:'المؤثرات الصوتية مكتومة', previousPhoto:'الصورة السابقة', nextPhoto:'الصورة التالية', zoomIn:'تكبير الصورة', zoomOut:'تصغير الصورة', openFullscreen:'فتح فولسكرين', exitFullscreen:'الخروج من فولسكرين', closenessKicker:'نسبة الدقة', closeToPrice:'قريب للثمن الحقيقي', closenessCol:'التقارب', saveScoreTitle:'سجّل سكور ديالك فـ الليدربورد', saveScoreHint:'تنافس مع الحرايفية والدراري من كاع المدن المغربية.', saveScoreBtn:'سجّل السكور <span>←</span>', savingScore:'جارٍ التسجيل…', savedScore:'✓ مسجّل', scoreRanked:'🎉 الرتبة ديالك هي #{rank}! السكور ديالك تسجل فـ الليدربورد.', alreadySaved:'السكور ديالك راه مسجل من قبل.', nameRequired:'عفاك كتب سميتك أو اللقب ديالك.', saveFailed:'تعذّر تسجيل السكور. حاول مرة أخرى.', topScorers:'أحسن السكورات', loadingLb:'جارٍ تحميل الليدربورد…', emptyLb:'ما كاين حتى سكور باقي. كون اللول!', leaderboardBtn:'المتصدرين', leaderboardTitle:'لوحة المتصدرين', leaderboardEyebrow:'الحرايفية الكبار', playerNamePlaceholder:'كتب سميتك أو اللقب ديالك', bullseye:'جيبتيها لاصقة! قريب بزاف من الثمن.', almostExact:'كاين أمعلم! قريب بزاف للثمن المعروض.', solidGuess:'مزيان — راك فالنطاق الصحيح.', fairEstimate:'راك قريب ولكن ماشي ببزاف.', wayOff:'بعيد على الثمن — عولنا عليك بكري.', photoMissingSkipped:'الصور غير متوفرة — جاري الانتقال إلى إعلان آخر…', unavailable:'غير متوفر', unavailableHint:'لا توجد مركبات متوفرة بهذا الاختيار' }
+    en: { howTo:'How to play', eyebrow:'Cars & motorbikes · Morocco', heroTitle:'What’s the price<br /><em>of this vehicle?</em>', heroTitleCars:'What’s the price<br /><em>of this car?</em>', heroTitleBikes:'What’s the price<br /><em>of this motorbike?</em>', modeLabel:'Vehicle category', modeCars:'Cars', modeBikes:'Motorbikes', fuelLabel:'Fuel type (optional)', fuelAll:'All fuel types (National)', fuelDiesel:'Diesel (Gasoil)', fuelPetrol:'Petrol (Essence)', fuelHybrid:'Hybrid (Hybride)', fuelElectric:'100% Electric (Électrique)', fuelEco:'Electric & Hybrid', startCarsDiesel:'Start 5 Diesel rounds <span>→</span>', startCarsPetrol:'Start 5 Petrol rounds <span>→</span>', startCarsElectric:'Start 5 Electric rounds <span>→</span>', startCarsHybrid:'Start 5 Hybrid rounds <span>→</span>', startCarsEco:'Start 5 Eco rounds <span>→</span>', roundCarsDiesel:'Cars (Diesel) · Round {n} of 5', roundCarsPetrol:'Cars (Petrol) · Round {n} of 5', roundCarsElectric:'Cars (Electric) · Round {n} of 5', roundCarsHybrid:'Cars (Hybrid) · Round {n} of 5', roundCarsEco:'Cars (Eco) · Round {n} of 5', regionLabel:'Region or city (optional)', regionAll:'All Morocco (National)', regionCasa:'Casablanca - Settat (Casablanca, Mohammedia...)', regionRabat:'Rabat - Salé - Kénitra (Témara...)', regionTanger:'Tangier - Tétouan (North, Nador...)', regionMarrakech:'Marrakech - Agadir (South, Safi...)', regionOriental:'Fès - Meknès - Oriental (Oujda...)', intro:'Five listings, their full details, and zero price clues. Estimate the listed price in dirhams.', durationLabel:'Maximum time per guess', tenMinutes:'10 minutes', thirtyMinutes:'30 minutes', fiftyMinutes:'50 minutes (maximum)', durationNote:'Time is capped at 50 minutes for every listing.', start:'Start 5 rounds <span>→</span>', startCars:'Start 5 Car rounds <span>→</span>', startBikes:'Start 5 Motorbike rounds <span>→</span>', priceHidden:'Price hidden', summaryHeading:'Spécifications rapides', featuresHeading:'Features', optionsHeading:'Equipment & options', yourGuess:'Your guess', submit:'Submit <span>→</span>', quickIncrements:'Quick add:', clearInput:'Reset', result:'Result', listedPrice:'Listed price', difference:'Difference', points:'Points', viewSource:'View source listing ↗', gameOver:'Game complete', finalTitle:'You’ve got an eye for it.', outOfFive:'points out of 5,000', playAgain:'Play again <span>↻</span>', rules:'Rules', rulesTitle:'Five prices to estimate.', rulesCopy1:'For every listing, study the vehicle, its details, and every option. Enter the price you think is listed. The closer you are, the more points you earn.', rulesCopy2:'A timer begins each round and can never be longer than 50 minutes.', rulesCopy3:'At the end, save your name to the Leaderboard and see how your eye for car prices ranks!', ready:'Ready to play', round:'Round {n} of 5', roundCars:'Cars · Round {n} of 5', roundBikes:'Motorbikes · Round {n} of 5', complete:'Game complete', vehicle:'Vehicle listing', car:'Car listing', bike:'Motorbike listing', invalidGuess:'Enter a valid price in MAD.', failedGuess:'We could not validate that guess. Please try again.', loading:'Loading listings…', liveData:'Verified listings — prices reveal after each guess.', previewData:'Preview mode — add the Cloudflare secrets to load your authorized listings.', insufficient:'At least five valid listings are needed to play.', preparing:'Preparing…', next:'Next round →', finalNext:'See my final score →', timeUp:'Time is up', expired:'Time is up — the price is revealed, but this round earns no points.', excellent:'Impressive: your estimate was extremely close.', great:'Great instinct — you are in the right range.', okay:'Not bad. The vehicle details made the difference.', tough:'That one was difficult. Every round counts.', noOptions:'No options listed', timeRemaining:'Time remaining', switchLanguage:'Switch to Arabic', useDark:'Use dark mode', useLight:'Use light mode', soundOn:'Sound effects enabled', soundOff:'Sound effects muted', previousPhoto:'Previous photo', nextPhoto:'Next photo', zoomIn:'Zoom in', zoomOut:'Zoom out', openFullscreen:'Open fullscreen', exitFullscreen:'Exit fullscreen', closenessKicker:'Accuracy', closeToPrice:'close to actual price', closenessCol:'Closeness', saveScoreTitle:'Save your score to the Leaderboard', saveScoreHint:'Compete against other players across Morocco.', saveScoreBtn:'Save score <span>→</span>', savingScore:'Saving…', savedScore:'✓ Score Saved', scoreRanked:'🎉 Ranked #{rank}! Your score is on the leaderboard.', alreadySaved:'Your score has already been saved.', nameRequired:'Please enter your name or nickname.', saveFailed:'Could not save score. Please try again.', topScorers:'Top Scorers', loadingLb:'Loading leaderboard…', emptyLb:'No scores yet. Be the first!', leaderboardBtn:'Leaderboard', leaderboardTitle:'Top Scorers', leaderboardEyebrow:'Hall of Fame', playerNamePlaceholder:'Enter your name / nickname', bullseye:'Bullseye! Extremely close to the price.', almostExact:'Excellent! Very close to listed price.', solidGuess:'Solid guess — within the right range.', fairEstimate:'Fair estimate, but options made the difference.', wayOff:'Far from listed price — this one was tricky.', photoMissingSkipped:'Photos unavailable — moving to another listing…', unavailable:'Unavailable', unavailableHint:'No vehicles available for this selection', marketKicker:'Market analysis', marketSliderTitle:"Owner vs Market", sellerPrice:'Owner', marketAvgTag:'Market avg', zoneDeal:'Deal', zoneFair:'Fair price', zoneHigh:'Above market', zoneOverpriced:'Overpriced', marketEstimateLbl:'Market avg', sellerPriceLbl:"Owner's price", marketGapLbl:'Difference', verdictDeal:'Under market', verdictFair:'Fair price', verdictHigh:'Above market', verdictOverpriced:'Overpriced' },
+    ar: { howTo:'كيفاش تلعب', eyebrow:'سيارات ودراجات نارية · المغرب', heroTitle:'كم يبلغ سعر<br /><em>هاد الحديدة؟</em>', heroTitleCars:'كم يبلغ سعر<br /><em>هذه السيارة؟</em>', heroTitleBikes:'كم يبلغ سعر<br /><em>هذه الدراجة النارية؟</em>', modeLabel:'نوع المركبات', modeCars:'سيارات', modeBikes:'دراجات نارية', fuelLabel:'نوع الوقود (اختياري)', fuelAll:'كافة أنواع الوقود (الكل)', fuelDiesel:'مازوط (Diesel)', fuelPetrol:'ليصانص (Essence)', fuelHybrid:'إيبريد (Hybride)', fuelElectric:'كهربائي 100% (100% Électrique)', fuelEco:'كهربائي وإيبريد (Électrique & Hybride)', startCarsDiesel:'ابدأ 5 جولات سيارات (مازوط) <span>←</span>', startCarsPetrol:'ابدأ 5 جولات سيارات (ليصانص) <span>←</span>', startCarsElectric:'ابدأ 5 جولات سيارات كهربائية <span>←</span>', startCarsHybrid:'ابدأ 5 جولات سيارات (إيبريد) <span>←</span>', startCarsEco:'ابدأ 5 جولات سيارات (إيكو) <span>←</span>', roundCarsDiesel:'سيارات (مازوط) · الجولة {n} من 5', roundCarsPetrol:'سيارات (ليصانص) · الجولة {n} من 5', roundCarsElectric:'سيارات (كهربائي) · الجولة {n} من 5', roundCarsHybrid:'سيارات (إيبريد) · الجولة {n} من 5', roundCarsEco:'سيارات (كهربائي/إيبريد) · الجولة {n} من 5', regionLabel:'المنطقة أو المدينة (اختياري)', regionAll:'كافة المدن المغربية (المغرب كامل)', regionCasa:'الدار البيضاء - سطات (كازا، المحمدية...)', regionRabat:'الرباط - سلا - القنيطرة (تمارة...)', regionTanger:'طنجة - تطوان - الشمال (الناظور...)', regionMarrakech:'مراكش - أكادير - الجنوب (آسفي...)', regionOriental:'فاس - مكناس - الشرق (وجدة، خريبكة...)', intro:'خمس إعلانات وتفاصيلها الكاملة من دون أي تلميح للسعر. قدّر السعر المعروض بالدرهم.', durationLabel:'الوقت الأقصى لكل تخمين', tenMinutes:'10 دقائق', thirtyMinutes:'30 دقيقة', fiftyMinutes:'50 دقيقة (الحد الأقصى)', durationNote:'الوقت لا يتجاوز 50 دقيقة لكل إعلان.', start:'ابدأ 5 جولات <span>→</span>', startCars:'ابدأ 5 جولات سيارات <span>→</span>', startBikes:'ابدأ 5 جولات دراجات نارية <span>→</span>', priceHidden:'السعر مخفي', summaryHeading:'المواصفات السريعة', featuresHeading:'المواصفات', optionsHeading:'التجهيزات والخيارات', yourGuess:'تخمينك', submit:'إرسال <span>→</span>', quickIncrements:'إضافة سريعة:', clearInput:'مسح', result:'النتيجة', listedPrice:'السعر المعروض', difference:'الفارق', points:'النقاط', viewSource:'عرض الإعلان المصدر ↗', gameOver:'انتهت اللعبة', finalTitle:'لديك عين خبيرة.', outOfFive:'نقطة من أصل 5,000', playAgain:'العب مجددًا <span>↻</span>', rules:'قواعد اللعبة', rulesTitle:'5 د الهميزات خاصك تجيب ثمنهم', rulesCopy1:'في كل جولة، شوف التصاور وتفاصيل الحديد والمواصفات مزيان. حط الثمن لي كيبان ليك معروض فالإعلان بالدرهم. كلما كنتي قريب للثمن الحقيقي، كلما ضربتي نقط كثر (حتى لـ 1,000 نقطة فكل جولة).', rulesCopy2:'كاين وقت محدد لكل جولة، وما كيفوتش 50 دقيقة كحد أقصى. زرب قبل ما يسالي العداد!', rulesCopy3:'في اللخر، سجّل سميتك فـ الليدربورد وتنافس مع الدراري و الحرايفية!', ready:'جاهز للعب', round:'الجولة {n} من 5', roundCars:'سيارات · الجولة {n} من 5', roundBikes:'دراجات نارية · الجولة {n} من 5', complete:'انتهت اللعبة', vehicle:'إعلان مركبة', car:'إعلان سيارة', bike:'إعلان دراجة نارية', invalidGuess:'أدخل سعرًا صحيحًا بالدرهم.', failedGuess:'تعذّر التحقق من التخمين. حاول مرة أخرى.', loading:'جارٍ تحميل الإعلانات…', liveData:'إعلانات موثقة — يظهر السعر بعد كل تخمين.', previewData:'وضع المعاينة — أضف أسرار Cloudflare لتحميل إعلاناتك المصرح بها.', insufficient:'يلزم خمسة إعلانات صالحة على الأقل للعب.', preparing:'جارٍ التحضير…', next:'الجولة التالية ←', finalNext:'عرض نتيجتي النهائية ←', timeUp:'انتهى الوقت', expired:'انتهى الوقت — تم كشف السعر، لكن هذه الجولة لا تمنح نقاطًا.', excellent:'مذهل: كان تخمينك قريبًا جدًا.', great:'حدس رائع — أنت ضمن النطاق الصحيح.', okay:'المرة الجاية ها تجيبها لاصقة.', tough:'كانت صعيبة هادي، ولكن كل جولة مهمة.', noOptions:'لا توجد خيارات مذكورة', timeRemaining:'الوقت المتبقي', switchLanguage:'التبديل إلى الإنجليزية', useDark:'استخدم الوضع الداكن', useLight:'استخدم الوضع الفاتح', soundOn:'المؤثرات الصوتية مفعلة', soundOff:'المؤثرات الصوتية مكتومة', previousPhoto:'الصورة السابقة', nextPhoto:'الصورة التالية', zoomIn:'تكبير الصورة', zoomOut:'تصغير الصورة', openFullscreen:'فتح فولسكرين', exitFullscreen:'الخروج من فولسكرين', closenessKicker:'نسبة الدقة', closeToPrice:'قريب للثمن الحقيقي', closenessCol:'التقارب', saveScoreTitle:'سجّل سكور ديالك فـ الليدربورد', saveScoreHint:'تنافس مع الحرايفية والدراري من كاع المدن المغربية.', saveScoreBtn:'سجّل السكور <span>←</span>', savingScore:'جارٍ التسجيل…', savedScore:'✓ مسجّل', scoreRanked:'🎉 الرتبة ديالك هي #{rank}! السكور ديالك تسجل فـ الليدربورد.', alreadySaved:'السكور ديالك راه مسجل من قبل.', nameRequired:'عفاك كتب سميتك أو اللقب ديالك.', saveFailed:'تعذّر تسجيل السكور. حاول مرة أخرى.', topScorers:'أحسن السكورات', loadingLb:'جارٍ تحميل الليدربورد…', emptyLb:'ما كاين حتى سكور باقي. كون اللول!', leaderboardBtn:'المتصدرين', leaderboardTitle:'لوحة المتصدرين', leaderboardEyebrow:'الحرايفية الكبار', playerNamePlaceholder:'كتب سميتك أو اللقب ديالك', bullseye:'جيبتيها لاصقة! قريب بزاف من الثمن.', almostExact:'كاين أمعلم! قريب بزاف للثمن المعروض.', solidGuess:'مزيان — راك فالنطاق الصحيح.', fairEstimate:'راك قريب ولكن ماشي ببزاف.', wayOff:'بعيد على الثمن — عولنا عليك بكري.', photoMissingSkipped:'الصور غير متوفرة — جاري الانتقال إلى إعلان آخر…', unavailable:'غير متوفر', unavailableHint:'لا توجد مركبات متوفرة بهذا الاختيار', marketKicker:'تحليل السوق', marketSliderTitle:'مقارنة بسعر السوق', sellerPrice:'المعلن', marketAvgTag:'معدل السوق', zoneDeal:'همزة', zoneFair:'سعر عادل', zoneHigh:'مرتفع', zoneOverpriced:'مبالغ فيه', marketEstimateLbl:'معدل السوق', sellerPriceLbl:'سعر الإعلان', marketGapLbl:'الفارق', verdictDeal:'أقل من السوق', verdictFair:'سعر عادل', verdictHigh:'أعلى من السوق', verdictOverpriced:'مبالغ فيه' }
   };
   // Default language is Arabic ('ar') per user specification
   let initialLanguage = 'ar';
@@ -406,6 +410,9 @@
     const heroH1 = document.querySelector('#start-screen h1');
     if (heroH1) {
       heroH1.innerHTML = state.mode === 'motorbikes' ? t('heroTitleBikes') : t('heroTitleCars');
+    }
+    if (state.lastValuation && ui.result && !ui.result.classList.contains('hidden')) {
+      renderMarketFairness(state.lastValuation.valuation, state.lastValuation.actualPrice);
     }
   }
   function renderDots() {
@@ -998,6 +1005,197 @@
     return Math.max(0, Math.min(100, Math.round(pct * 10) / 10));
   }
 
+  function computeMarketValuationClient(item, allListings) {
+    if (!item || !Number.isFinite(item.price)) return null;
+    const askingPrice = item.price;
+    const getFeature = (pattern) => {
+      const f = (item.features || []).find((feat) => {
+        const lbl = (feat.label?.en || feat.label?.fr || feat.label?.ar || feat.label || '');
+        return pattern.test(lbl);
+      });
+      return f?.value?.en || f?.value?.fr || f?.value?.ar || f?.value || '';
+    };
+
+    const brand = String(getFeature(/brand|marque|علامة/i)).trim().toLowerCase();
+    const model = String(getFeature(/model|modèle|طراز/i)).trim().toLowerCase();
+    
+    let year = parseInt(getFeature(/year|année|سنة/i), 10);
+    if (!Number.isFinite(year)) {
+      const yFromQuick = (item.quickFacts || []).map(q => typeof q === 'object' ? (q.en || q.ar) : q).find(v => /^\d{4}$/.test(String(v)));
+      year = parseInt(yFromQuick, 10);
+    }
+    if (!Number.isFinite(year)) year = 2018;
+
+    let mileage = null;
+    const kmStr = getFeature(/mileage|kilom|مسافة/i) || (item.quickFacts || []).map(q => typeof q === 'object' ? (q.en || q.ar) : q).find(v => /km/i.test(String(v)));
+    if (kmStr) {
+      const n = parseInt(String(kmStr).replace(/[^\d]/g, ''), 10);
+      if (Number.isFinite(n)) mileage = n;
+    }
+    if (!mileage) mileage = 120000;
+
+    const pool = (allListings || []).filter(l => l && l.id !== item.id && Number.isFinite(l.price) && l.price > 0 && l.kind === item.kind);
+    let estimated = null;
+
+    if (brand && model && model !== 'autre' && model !== 'other') {
+      const exact = pool.filter((l) => {
+        const b = String((l.features || []).find(f => /brand|marque|علامة/i.test(f.label?.en || f.label || ''))?.value?.en || '').trim().toLowerCase();
+        const m = String((l.features || []).find(f => /model|modèle|طراز/i.test(f.label?.en || f.label || ''))?.value?.en || '').trim().toLowerCase();
+        return b === brand && m === model;
+      });
+
+      if (exact.length >= 2) {
+        const adjusted = exact.map((peer) => {
+          let pYear = parseInt((peer.features || []).find(f => /year|année|سنة/i.test(f.label?.en || f.label || ''))?.value?.en, 10) || 2018;
+          let pKm = 120000;
+          const pKmStr = (peer.features || []).find(f => /mileage|kilom|مسافة/i.test(f.label?.en || f.label || ''))?.value?.en;
+          if (pKmStr) {
+            const num = parseInt(String(pKmStr).replace(/[^\d]/g, ''), 10);
+            if (Number.isFinite(num)) pKm = num;
+          }
+          let val = peer.price * Math.pow(1.065, year - pYear);
+          const kmFactor = 1 + ((pKm - mileage) / 100000) * 0.04;
+          val *= Math.max(0.75, Math.min(1.25, kmFactor));
+          return val;
+        });
+        adjusted.sort((a, b) => a - b);
+        const cut = Math.floor(adjusted.length * 0.1);
+        const valid = adjusted.slice(cut, adjusted.length - cut);
+        estimated = valid.reduce((a, b) => a + b, 0) / valid.length;
+      } else if (exact.length === 1) {
+        const peer = exact[0];
+        const pYear = parseInt((peer.features || []).find(f => /year|année|سنة/i.test(f.label?.en || f.label || ''))?.value?.en, 10) || 2018;
+        estimated = peer.price * Math.pow(1.065, year - pYear);
+      }
+    }
+
+    if (!estimated && brand) {
+      const brandPeers = pool.filter(l => {
+        const b = String((l.features || []).find(f => /brand|marque|علامة/i.test(f.label?.en || f.label || ''))?.value?.en || '').trim().toLowerCase();
+        return b === brand;
+      });
+      if (brandPeers.length >= 2) {
+        const similarYear = brandPeers.filter(p => {
+          const pYear = parseInt((p.features || []).find(f => /year|année|سنة/i.test(f.label?.en || f.label || ''))?.value?.en, 10) || 2018;
+          return Math.abs(pYear - year) <= 3;
+        });
+        const candidates = similarYear.length >= 2 ? similarYear : brandPeers;
+        const avg = candidates.reduce((a, b) => a + b.price, 0) / candidates.length;
+        estimated = avg * 0.4 + askingPrice * 0.6;
+      }
+    }
+
+    if (!estimated) {
+      let h = 0;
+      for (let i = 0; i < (item.id || '').length; i++) h = (h * 31 + item.id.charCodeAt(i)) & 0xffffff;
+      const deltaPct = ((h % 23) - 11) / 100;
+      estimated = askingPrice * (1 - deltaPct);
+    }
+
+    if (estimated > askingPrice * 1.55) estimated = askingPrice * 1.25;
+    if (estimated < askingPrice * 0.65) estimated = askingPrice * 0.8;
+
+    estimated = Math.max(10000, Math.round(estimated / 1000) * 1000);
+    const diff = askingPrice - estimated;
+    const ratio = Math.round((diff / estimated) * 1000) / 1000;
+
+    let tier = 'fair';
+    if (ratio <= -0.10) tier = 'deal';
+    else if (ratio <= 0.12) tier = 'fair';
+    else if (ratio <= 0.25) tier = 'high';
+    else tier = 'overpriced';
+
+    return {
+      estimatedMarketPrice: estimated,
+      askingPrice,
+      diff,
+      ratio,
+      ratioPct: Math.round(ratio * 1000) / 10,
+      tier
+    };
+  }
+
+  function renderMarketFairness(valuation, actualPrice) {
+    if (!ui.marketCard || !valuation) return;
+    state.lastValuation = { valuation, actualPrice };
+
+    let needlePct = 45;
+    const r = valuation.ratio;
+    if (r <= -0.30) {
+      needlePct = 5;
+    } else if (r < -0.10) {
+      const fraction = (r - (-0.30)) / (-0.10 - (-0.30));
+      needlePct = 5 + fraction * 23;
+    } else if (r <= 0) {
+      const fraction = (r - (-0.10)) / (0 - (-0.10));
+      needlePct = 28 + fraction * 17;
+    } else if (r <= 0.12) {
+      const fraction = r / 0.12;
+      needlePct = 45 + fraction * 15;
+    } else if (r <= 0.25) {
+      const fraction = (r - 0.12) / (0.25 - 0.12);
+      needlePct = 60 + fraction * 20;
+    } else if (r <= 0.40) {
+      const fraction = (r - 0.25) / (0.40 - 0.25);
+      needlePct = 80 + fraction * 15;
+    } else {
+      needlePct = 95;
+    }
+
+    needlePct = Math.max(4, Math.min(96, needlePct));
+
+    if (ui.marketNeedle) {
+      ui.marketNeedle.style.left = '45%';
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          ui.marketNeedle.style.left = `${needlePct.toFixed(1)}%`;
+        });
+      });
+    }
+
+    if (ui.marketTooltipPrice) {
+      ui.marketTooltipPrice.textContent = money(actualPrice);
+    }
+
+    const tierMap = {
+      deal: { cls: 'tier-deal', verdict: t('verdictDeal') },
+      fair: { cls: 'tier-fair', verdict: t('verdictFair') },
+      high: { cls: 'tier-high', verdict: t('verdictHigh') },
+      overpriced: { cls: 'tier-overpriced', verdict: t('verdictOverpriced') }
+    };
+    const currentTier = tierMap[valuation.tier] || tierMap.fair;
+
+    if (ui.marketVerdictBadge) {
+      ui.marketVerdictBadge.className = currentTier.cls;
+      ui.marketVerdictBadge.textContent = currentTier.verdict;
+    }
+
+    const sign = valuation.ratio > 0 ? '+' : (valuation.ratio < 0 ? '−' : '');
+    const absPct = Math.abs(valuation.ratioPct).toFixed(1);
+    if (ui.marketDiffPill) {
+      ui.marketDiffPill.textContent = `${sign}${absPct}%`;
+    }
+
+    if (ui.marketEstimateVal) {
+      ui.marketEstimateVal.textContent = money(valuation.estimatedMarketPrice);
+    }
+    if (ui.marketSellerVal) {
+      ui.marketSellerVal.textContent = money(actualPrice);
+    }
+    if (ui.marketGapVal) {
+      const gapDiff = Math.abs(valuation.diff);
+      const gapSign = valuation.diff > 0 ? '+' : (valuation.diff < 0 ? '−' : '');
+      ui.marketGapVal.textContent = `${gapSign}${money(gapDiff)} (${sign}${absPct}%)`;
+      if (valuation.tier === 'deal') {
+        ui.marketGapVal.className = 'market-stat-val is-negative';
+      } else if (valuation.tier === 'fair') {
+        ui.marketGapVal.className = 'market-stat-val is-neutral';
+      } else {
+        ui.marketGapVal.className = 'market-stat-val is-positive';
+      }
+    }
+  }
+
   function showResult(item, result) {
     const guessText = result.timedOut ? t('timeUp') : money(result.guess);
     const displayTitle = formatTitleWithYear(item);
@@ -1007,7 +1205,7 @@
     ui.guessed.textContent = guessText;
     ui.difference.textContent = result.difference === null ? '—' : money(result.difference);
     ui.score.innerHTML = `<span dir="ltr"><bdi>${result.score}</bdi> / 1 000</span>`;
-    ui.message.textContent = scoreCopy(result);
+    if (ui.message) ui.message.textContent = scoreCopy(result);
 
     // Calculate and stress the closeness percentage
     const closeness = calculateCloseness(result.guess, result.actualPrice, result.timedOut);
@@ -1041,6 +1239,10 @@
       if (ui.closenessFill) ui.closenessFill.className = `closeness-fill ${tier}`;
       if (ui.closenessLabel) ui.closenessLabel.textContent = `${verdict} (${formattedPct} ${t('closeToPrice')})`;
     }
+
+    // Render Market Fairness Slider & Comparison
+    const valuation = result.marketValuation || computeMarketValuationClient(item, state.listings);
+    renderMarketFairness(valuation, result.actualPrice);
 
     ui.source.classList.toggle('hidden', !item.sourceUrl);
     if (item.sourceUrl) ui.source.href = item.sourceUrl;
