@@ -482,16 +482,15 @@ html[dir="rtl"] .increments-label {
 
 /* Market Price Fairness Slider Card */
 .market-slider-card {
-  margin: 14px 0 12px;
+  margin: 14px 0 16px;
   padding: 12px 14px;
-  background: var(--paper);
+  background: rgba(0, 0, 0, 0.015);
   border: 1px solid var(--line);
   border-radius: 12px;
   text-align: left;
-  box-shadow: 0 2px 8px #00000008;
 }
 :root[data-theme="dark"] .market-slider-card {
-  background: #0f172a;
+  background: rgba(255, 255, 255, 0.02);
   border-color: #1e293b;
 }
 [dir="rtl"] .market-slider-card {
@@ -780,14 +779,36 @@ html[dir="rtl"] .increments-label {
 :root[data-theme="dark"] .market-stat-val.is-negative { color: #34d399; }
 :root[data-theme="dark"] .market-stat-val.is-neutral { color: #38bdf8; }
 
-.result-comparison { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; margin: 14px 0 10px; }
-.result-comparison div { padding: 10px 4px; border-right: 1px solid var(--line); }
+.result-comparison { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 16px 0 14px; background: rgba(0, 0, 0, 0.02); border: 1px solid var(--line); border-radius: 12px; padding: 6px 4px; }
+:root[data-theme="dark"] .result-comparison { background: rgba(255, 255, 255, 0.02); }
+.result-comparison div { padding: 8px 6px; border-right: 1px solid var(--line); }
+[dir="rtl"] .result-comparison div { border-right: none; border-left: 1px solid var(--line); }
 .result-comparison div:last-child { border: 0; }
-.result-comparison span { display: block; color: var(--muted); font-size: 11px; }
-.result-comparison b { display: block; margin-top: 4px; font-size: 15px; }
+.result-comparison span { display: block; color: var(--muted); font-size: 11px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.3px; }
+.result-comparison b { display: block; margin-top: 4px; font-size: 16px; font-weight: 700; }
 
 .result-card>p { color: var(--muted); }
-.source-link { display: block; width: max-content; max-width: 100%; margin: 19px auto; color: var(--pine); font-weight: 700; }
+.result-card .primary-button {
+  width: 100%;
+  max-width: 360px;
+  margin: 0 auto;
+}
+.source-link {
+  display: block;
+  width: max-content;
+  margin: 14px auto 0;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 500;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  opacity: 0.8;
+  transition: opacity 0.2s, color 0.2s;
+}
+.source-link:hover {
+  opacity: 1;
+  color: var(--pine);
+}
 .final-score { margin: 0; }
 .final-score strong { font-size: 70px; letter-spacing: -3px; color: var(--pine); }
 .final-score span { display: block; color: var(--muted); }
