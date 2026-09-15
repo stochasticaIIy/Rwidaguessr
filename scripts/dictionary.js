@@ -32,9 +32,9 @@ export const terms = {
   'Dedouanee': { en: 'Customs cleared', ar: 'مجمركة' },
 
   // Fuels
-  'Essence': { en: 'Petrol', ar: 'بنزين' },
-  'Diesel': { en: 'Diesel', ar: 'ديزل' },
-  'Hybride': { en: 'Hybrid', ar: 'هجين' },
+  'Essence': { en: 'Petrol', ar: 'ليصانص' },
+  'Diesel': { en: 'Diesel', ar: 'مازوط' },
+  'Hybride': { en: 'Hybrid', ar: 'إيبريد' },
   'Électrique': { en: 'Electric', ar: 'كهربائي' },
   'Electrique': { en: 'Electric', ar: 'كهربائي' },
 
