@@ -620,6 +620,9 @@ html[dir="rtl"] .increments-label {
   color: #94a3b8;
   text-transform: uppercase;
 }
+.market-tooltip-label:empty {
+  display: none;
+}
 .market-tooltip-price {
   font: 700 11px "DM Mono", monospace;
   color: #38bdf8;
