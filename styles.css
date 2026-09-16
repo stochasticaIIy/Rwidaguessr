@@ -569,11 +569,18 @@ html[dir="rtl"] .increments-label {
   background: #f1f5f9;
   color: #475569;
   border: 1px solid #cbd5e1;
+  direction: ltr !important;
+  unicode-bidi: isolate !important;
+  display: inline-block;
 }
 :root[data-theme="dark"] .market-diff-pill {
   background: #1e293b;
   color: #cbd5e1;
   border-color: #334155;
+}
+html[dir="rtl"] .market-diff-pill {
+  direction: ltr !important;
+  unicode-bidi: isolate !important;
 }
 
 /* Gauge Track & Needle */
