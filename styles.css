@@ -1137,6 +1137,7 @@ html[dir="rtl"] .quick-facts { display: flex; flex-wrap: wrap; gap: 8px; directi
 html[dir="rtl"] .quick-facts span { direction: ltr; unicode-bidi: isolate; }
 html[dir="rtl"] .option-list { direction: rtl; }
 html[dir="rtl"] .option-list span { direction: ltr; unicode-bidi: isolate; text-align: right; }
+html[dir="rtl"] .market-stat-val { direction: ltr !important; unicode-bidi: isolate !important; text-align: center; }
 html[dir="rtl"] .result-comparison div { border-right: 0; border-left: 1px solid var(--line); }
 html[dir="rtl"] .result-comparison div:last-child { border-left: 0; }
 html[dir="rtl"] .final-leaderboard-section { text-align: right; }
