@@ -311,7 +311,8 @@
           return isMatchingFuel(item, val);
         }).length;
 
-        if (count === 0) {
+        // Each game requires a full set of 5 distinct listings
+        if (count < 5) {
           opt.disabled = true;
           opt.textContent = `${baseText} (${t('unavailable')})`;
           opt.title = t('unavailableHint');
@@ -353,7 +354,8 @@
         return true;
       }).length;
 
-      if (count === 0) {
+      // Each game requires a full set of 5 distinct listings
+      if (count < 5) {
         opt.disabled = true;
         opt.textContent = `${baseText} (${t('unavailable')})`;
         opt.title = t('unavailableHint');
@@ -1818,9 +1820,14 @@
         const bothFiltered = pool.filter((item) => (item.location && item.location.region === region) && isMatchingFuel(item, fuel));
         if (bothFiltered.length >= 5) {
           pool = bothFiltered;
-        } else if (bothFiltered.length > 0) {
-          const sameFuel = pool.filter((item) => isMatchingFuel(item, fuel) && (!item.location || item.location.region !== region));
-          pool = [...bothFiltered, ...sameFuel];
+        } else {
+          const sameRegion = pool.filter((item) => item.location && item.location.region === region);
+          if (sameRegion.length >= 5) {
+            pool = sameRegion;
+          } else {
+            const sameFuel = pool.filter((item) => isMatchingFuel(item, fuel));
+            if (sameFuel.length >= 5) pool = sameFuel;
+          }
         }
       } else if (region) {
         const regionFiltered = pool.filter((item) => item.location && item.location.region === region);

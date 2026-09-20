@@ -150,12 +150,14 @@ export async function onRequestGet({ request, env = {} }) {
     const both = pool.filter((item) => isMatchRegion(item, region) && isMatchFuel(item, fuel));
     if (both.length >= 5) {
       pool = both;
-    } else if (both.length > 0) {
-      const sameFuel = pool.filter((item) => isMatchFuel(item, fuel) && !isMatchRegion(item, region));
-      pool = [...both, ...sameFuel];
-      if (pool.length < 5) {
-        const sameRegion = pool.filter((item) => isMatchRegion(item, region) && !isMatchFuel(item, fuel));
-        pool = [...pool, ...sameRegion];
+    } else {
+      // Prioritize preserving the user's selected region over fuel
+      const sameRegion = pool.filter((item) => isMatchRegion(item, region));
+      if (sameRegion.length >= 5) {
+        pool = sameRegion;
+      } else {
+        const sameFuel = pool.filter((item) => isMatchFuel(item, fuel));
+        if (sameFuel.length >= 5) pool = sameFuel;
       }
     }
   } else if (region && region !== 'all') {
