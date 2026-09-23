@@ -996,7 +996,8 @@
   }
   function calculateDemo(item, guess) {
     const error = guess === null ? 1 : Math.abs(guess - item.price) / item.price;
-    return { actualPrice: item.price, score: Math.max(0, Math.round(1000 * (1 - Math.min(1, error)))), difference: guess === null ? null : Math.abs(guess - item.price) };
+    const marketValuation = computeMarketValuationClient(item, getCatalogListings());
+    return { actualPrice: item.price, score: Math.max(0, Math.round(1000 * (1 - Math.min(1, error)))), difference: guess === null ? null : Math.abs(guess - item.price), marketValuation };
   }
   async function submitGuess(guess, timedOut = false) {
     if (state.submitting) return;
@@ -1277,7 +1278,7 @@
     }
 
     // Render Market Fairness Slider & Comparison
-    const valuation = result.marketValuation || computeMarketValuationClient(item, state.listings);
+    const valuation = result.marketValuation || computeMarketValuationClient(item, getCatalogListings());
     renderMarketFairness(valuation, result.actualPrice);
 
     ui.source.classList.toggle('hidden', !item.sourceUrl);
