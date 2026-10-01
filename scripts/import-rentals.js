@@ -129,7 +129,12 @@ export function isValidRentalUrl(urlString) {
       'motonomad.ma',
       'location-scooter-marrakech.com',
       'aganamobility.com',
-      'locationmototanger.com'
+      'locationmototanger.com',
+      'xenoride.ma',
+      'marrakechmoto.com',
+      'ride2atlas.com',
+      'keni-rides.com',
+      'oxbikers.com'
     ].includes(host);
   } catch (_) {
     return false;
@@ -563,6 +568,181 @@ export function parseOneClickDriveHtml(html, sourceUrl) {
   };
 }
 
+const EN_TO_FR_COLOR = {
+  black: 'Noir',
+  white: 'Blanc',
+  gray: 'Gris',
+  grey: 'Gris',
+  silver: 'Argent',
+  blue: 'Bleu',
+  red: 'Rouge',
+  green: 'Vert',
+  brown: 'Marron',
+  beige: 'Beige',
+  gold: 'Or',
+  yellow: 'Jaune',
+  orange: 'Orange'
+};
+
+/**
+ * 2b. Parse OneClickDrive.ma Paginated City/Category Catalog Cards (.alt-card--rent)
+ */
+export function parseOneClickDriveCatalogHtml(html, pageUrl = '') {
+  const $ = cheerio.load(html);
+  const results = [];
+
+  $('.alt-card--rent').each((_, cardEl) => {
+    const $card = $(cardEl);
+    const titleLink = $card.find('h3.alt-title a').first();
+    const sourceUrl = (titleLink.attr('href') || '').trim();
+    const lid = $card.find('.alt-cta').attr('data-lid') || (sourceUrl.match(/[?&]id=(\d+)/)?.[1] || '');
+    if (!lid || !sourceUrl) return;
+
+    const id = `ocd-${lid}`;
+    const rawTitle = cleanText(titleLink.text());
+    if (!rawTitle) return;
+
+    const yearMatch = rawTitle.match(/\b(20\d\d|19\d\d)\b/);
+    const year = yearMatch ? yearMatch[1] : '2024';
+    const { brand, model, fullTitle } = splitBrandAndModel(rawTitle);
+
+    // Extract daily price in MAD
+    let price = 0;
+    const favOnchange = $card.find('input.alt-fav_input').attr('onchange') || '';
+    const wishMatch = favOnchange.match(/wishlist\(\s*\d+\s*,\s*'[^']*'\s*,\s*(\d+)/i);
+    if (wishMatch && wishMatch[1]) {
+      price = parseInt(wishMatch[1], 10);
+    }
+    if (!price) {
+      const waHref = $card.find('a.alt-btn--wa').attr('href') || '';
+      const waDecoded = decodeURIComponent(waHref.replace(/\+/g, ' '));
+      const waPriceMatch = waDecoded.match(/Price:\s*MAD\s*([\d,]+)\s*\/\s*day/i);
+      if (waPriceMatch) {
+        price = parseInt(waPriceMatch[1].replace(/[^\d]/g, ''), 10);
+      }
+    }
+    if (!price) {
+      const priceNowText = cleanText($card.find('.alt-price_now').first().text());
+      const usdMatch = priceNowText.match(/USD\s*([\d,]+)/i);
+      const madMatch = priceNowText.match(/MAD\s*([\d,]+)/i);
+      if (madMatch) {
+        price = parseInt(madMatch[1].replace(/[^\d]/g, ''), 10);
+      } else if (usdMatch) {
+        price = Math.round((parseInt(usdMatch[1].replace(/[^\d]/g, ''), 10) * 9.8) / 10) * 10;
+      }
+    }
+    if (!Number.isFinite(price) || price <= 0) return;
+
+    // Extract high-resolution images
+    const images = [];
+    $card.find('.alt-slider_track img.alt-slide, figure.alt-media img').each((__, imgEl) => {
+      const rawSrc = $(imgEl).attr('src') || $(imgEl).attr('data-defer-src') || '';
+      if (rawSrc.includes('static.oneclickdrive.com/uploads/cars/')) {
+        const hiRes = rawSrc.split('?')[0].replace('_small.', '.');
+        if (!images.includes(hiRes)) images.push(hiRes);
+      }
+    });
+    if (images.length === 0) return;
+
+    // Extract fuel, seats, minDays, and real scraped options
+    let fuelFr = 'Diesel';
+    let minDays = null;
+    const rawOptions = [];
+
+    $card.find('ul.alt-specs li').each((__, liEl) => {
+      const txt = cleanText($(liEl).text());
+      const lower = txt.toLowerCase();
+      if (lower === 'diesel') fuelFr = 'Diesel';
+      else if (lower === 'petrol' || lower === 'essence') fuelFr = 'Essence';
+      else if (lower === 'hybrid') fuelFr = 'Hybride';
+      else if (lower === 'electric') fuelFr = 'Électrique';
+      else {
+        const seatMatch = txt.match(/^(\d+)\s*seats?$/i);
+        if (seatMatch) {
+          const sLabel = `${seatMatch[1]} places`;
+          if (!rawOptions.includes(sLabel)) rawOptions.push(sLabel);
+        }
+      }
+    });
+
+    if (/electric|e-tron|taycan|id\.\d|ev\b/i.test(fullTitle)) {
+      fuelFr = 'Électrique';
+    } else if (/hybrid|hybride|e-hybrid/i.test(fullTitle)) {
+      fuelFr = 'Hybride';
+    }
+
+    $card.find('ul.alt-feats li').each((__, liEl) => {
+      const txt = cleanText($(liEl).text());
+      const minMatch = txt.match(/Min\.\s*(\d+)\s*days?\s*rental/i);
+      if (minMatch) {
+        minDays = parseInt(minMatch[1], 10);
+      } else if (/^Free Delivery$/i.test(txt)) {
+        if (!rawOptions.includes('Livraison gratuite')) rawOptions.push('Livraison gratuite');
+      } else if (/^Insurance included$/i.test(txt)) {
+        if (!rawOptions.includes('Assurance incluse')) rawOptions.push('Assurance incluse');
+      } else if (txt && !/deposit/i.test(txt) && txt.length < 40 && !rawOptions.includes(txt)) {
+        rawOptions.push(txt);
+      }
+    });
+
+    const kmIncludedText = cleanText($card.find('.alt-price_km').first().text());
+    if (/unlimited/i.test(kmIncludedText)) {
+      if (!rawOptions.includes('Kilométrage illimité')) rawOptions.push('Kilométrage illimité');
+    } else {
+      const kmLimitMatch = kmIncludedText.match(/(\d+)\s*km/i);
+      if (kmLimitMatch) {
+        const kmLabel = `${kmLimitMatch[1]} km/jour inclus`;
+        if (!rawOptions.includes(kmLabel)) rawOptions.push(kmLabel);
+      }
+    }
+
+    const locPinText = cleanText($card.find('.alt-loc_t').text());
+    if (/airport|aéroport/i.test(locPinText) && !rawOptions.includes('Livraison aéroport')) {
+      rawOptions.push('Livraison aéroport');
+    }
+
+    const descText = cleanText($card.find('p.alt-desc').text());
+    const firstWord = (descText.split(/[\s,]+/)[0] || '').toLowerCase();
+    if (EN_TO_FR_COLOR[firstWord]) {
+      const cLabel = `Couleur : ${EN_TO_FR_COLOR[firstWord]}`;
+      if (!rawOptions.includes(cLabel)) rawOptions.push(cLabel);
+    }
+
+    const location = resolveLocationFromText(sourceUrl, `${locPinText} ${pageUrl}`, hashString(id));
+
+    const { features, quickFacts } = buildRentalFeatures({
+      isMoto: false,
+      brand,
+      model,
+      year,
+      mileage: '',
+      fuelFr,
+      gearboxFr: 'Automatique',
+      doors: '4',
+      minDays,
+      title: fullTitle,
+      location
+    });
+
+    results.push({
+      id,
+      kind: 'Car',
+      listingType: 'rental',
+      priceUnit: 'day',
+      title: { en: fullTitle, ar: fullTitle },
+      price,
+      quickFacts,
+      features,
+      options: rawOptions.map((opt) => ({ en: opt, ar: opt, raw: opt })),
+      images: images.slice(0, 8),
+      sourceUrl,
+      location
+    });
+  });
+
+  return results;
+}
+
 /**
  * 3. Parse RentalMotoMarrakech.com Motorbike/Scooter Detail HTML
  */
@@ -712,6 +892,321 @@ export function parseLocationScooterMarrakechHtml(html, sourceUrl) {
 }
 
 /**
+ * 4b. Parse XenoRide.ma Motorbike/Scooter Detail HTML (Tangier)
+ */
+export function parseXenoRideHtml(html, sourceUrl) {
+  const $ = cheerio.load(html);
+  const slug = sourceUrl.split('/').filter(Boolean).pop() || 'moto';
+  const id = `xenoride-${slug}`;
+
+  const imgs = [];
+  $('img').each((_, el) => {
+    const src = $(el).attr('src') || '';
+    if (src.includes('cdn.sanity.io/images/')) {
+      const hiRes = src.replace(/&w=\d+&h=\d+/g, '&w=1200&h=900');
+      const baseKey = src.split('?')[0];
+      if (!imgs.some((x) => x.split('?')[0] === baseKey)) {
+        imgs.push(hiRes);
+      }
+    }
+  });
+
+  const rawH1 = cleanText($('h1').first().text())
+    .replace(/\s+[àa]\s+louer.*$/i, '')
+    .replace(/\s+tanger$/i, '');
+  const { brand, model, fullTitle } = splitBrandAndModel(rawH1 || slug.replace(/-/g, ' '));
+
+  $('script, style, nav, header, footer').remove();
+  const text = cleanText($('body').text());
+
+  let price = 0;
+  const madMatch = text.match(/(\d+)\s*MAD\s*\/\s*Jour/i);
+  if (madMatch) {
+    price = parseInt(madMatch[1], 10);
+  }
+
+  const yearMatch = text.match(/Ann[eé]e\s*:?\s*(20\d\d)/i) || rawH1.match(/\b(20\d\d)\b/);
+  const year = yearMatch ? yearMatch[1] : '2025';
+
+  // XenoRide explicitly provides real odometer mileage on its detail pages ("Kilométrage : 7.000 km")
+  const kmMatch = text.match(/Kilom[eé]trage\s*:?\s*([\d.]+)\s*km/i);
+  const mileage = kmMatch ? `${kmMatch[1].replace(/\./g, ',')} km` : '';
+
+  const ccMatch = text.match(/(\d+)\s*cc/i);
+  const engineCc = ccMatch ? ccMatch[1] : '50';
+  const isManual = /manuelle/i.test(text) && !/automatique/i.test(text);
+  const gearboxFr = isManual ? 'Manuelle' : 'Automatique';
+  const location = resolveLocationFromText('Tanger', text, 0);
+
+  const { features, quickFacts } = buildRentalFeatures({
+    isMoto: true,
+    brand,
+    model,
+    year,
+    mileage,
+    fuelFr: 'Essence',
+    gearboxFr,
+    minDays: null,
+    engineCc,
+    title: fullTitle,
+    location
+  });
+
+  const rawOptions = [];
+  if (/Assurance incluse/i.test(text)) rawOptions.push('Assurance incluse');
+  if (/2 casques inclus/i.test(text)) rawOptions.push('2 casques inclus');
+  if (/Kilom[eé]trage illimit[eé]/i.test(text)) rawOptions.push('Kilométrage illimité');
+  if (/Assistance 24\/7/i.test(text)) rawOptions.push('Assistance 24/7');
+  if (/Support t[eé]l[eé]phone/i.test(text)) rawOptions.push('Support téléphone');
+  if (/Top case/i.test(text)) rawOptions.push('Top case');
+
+  return {
+    id,
+    kind: 'Moto',
+    listingType: 'rental',
+    priceUnit: 'day',
+    title: { en: fullTitle, ar: fullTitle },
+    price,
+    quickFacts,
+    features,
+    options: rawOptions.map((o) => ({ en: o, ar: o, raw: o })),
+    images: imgs.slice(0, 6),
+    sourceUrl,
+    location
+  };
+}
+
+/**
+ * 4c. Parse MarrakechMoto.com Detail HTML (Marrakech)
+ */
+export function parseMarrakechMotoHtml(html, sourceUrl) {
+  const $ = cheerio.load(html);
+  const slug = sourceUrl.split('/').filter(Boolean).pop() || 'moto';
+  const id = `mmoto-${slug}`;
+
+  const imgs = [];
+  $('img').each((_, el) => {
+    const src = $(el).attr('src') || '';
+    if (src.includes('_next/image?url=')) {
+      try {
+        const u = new URL(src, 'https://marrakechmoto.com');
+        const dec = u.searchParams.get('url');
+        if (dec && dec.includes('supabase.co') && dec.includes('/motos/') && !imgs.includes(dec)) {
+          imgs.push(dec);
+        }
+      } catch (_) {}
+    }
+  });
+
+  const rawH1 = cleanText($('h1').first().text()) || slug.replace(/-/g, ' ');
+  const { brand, model, fullTitle } = splitBrandAndModel(rawH1);
+
+  $('script, style, nav, header, footer').remove();
+  const text = cleanText($('body').text());
+
+  let price = 0;
+  const eurMatch = text.match(/(\d+)\s*€\s*\/\s*jour/i);
+  if (eurMatch) {
+    price = Math.round((parseInt(eurMatch[1], 10) * 10.8) / 10) * 10;
+  }
+
+  const yearMatch = text.match(/Mod[eè]le\s*(20\d\d)/i);
+  const year = yearMatch ? yearMatch[1] : '2025';
+
+  const ccMatch = text.match(/(\d{2,4})\s*cc/i);
+  const engineCc = ccMatch ? ccMatch[1] : '450';
+  const isScooter = /scooter|agility|50\b/i.test(fullTitle);
+  const gearboxFr = isScooter ? 'Automatique' : 'Manuelle';
+  const location = resolveLocationFromText('Marrakech', text, 0);
+
+  const { features, quickFacts } = buildRentalFeatures({
+    isMoto: true,
+    brand,
+    model,
+    year,
+    mileage: '',
+    fuelFr: 'Essence',
+    gearboxFr,
+    minDays: null,
+    engineCc,
+    title: fullTitle,
+    location
+  });
+
+  const rawOptions = [];
+  if (/Top case aluminium/i.test(text)) rawOptions.push('Top case aluminium');
+  if (/Valises lat[eé]rales/i.test(text)) rawOptions.push('Valises latérales');
+  if (/Support t[eé]l[eé]phone/i.test(text)) rawOptions.push('Support téléphone + USB');
+  if (/Casque\s*&\s*gants/i.test(text)) rawOptions.push('Casque & gants');
+  if (/Assurance RC incluse/i.test(text)) rawOptions.push('Assurance RC incluse');
+  if (/Assistance 24h\/24/i.test(text)) rawOptions.push('Assistance 24h/24');
+
+  return {
+    id,
+    kind: 'Moto',
+    listingType: 'rental',
+    priceUnit: 'day',
+    title: { en: fullTitle, ar: fullTitle },
+    price,
+    quickFacts,
+    features,
+    options: rawOptions.map((o) => ({ en: o, ar: o, raw: o })),
+    images: imgs.slice(0, 2),
+    sourceUrl,
+    location
+  };
+}
+
+/**
+ * 4d. Parse Ride2Atlas.com Detail HTML (Marrakech)
+ */
+export function parseRide2AtlasHtml(html, sourceUrl) {
+  const $ = cheerio.load(html);
+  const slug = sourceUrl.split('/').filter(Boolean).pop() || 'moto';
+  const id = `r2a-${slug}`;
+
+  const imgs = [];
+  $('img').each((_, el) => {
+    const src = $(el).attr('src') || '';
+    if (
+      src.includes('ride2atlas.com/wp-content/uploads/') &&
+      !src.includes('Untitled-1') &&
+      !src.includes('cropped-') &&
+      !src.includes('logo') &&
+      !imgs.includes(src)
+    ) {
+      imgs.push(src);
+    }
+  });
+
+  const rawH2 = cleanText($('h2').first().text()) || slug.replace(/^location-|-marrakech$/gi, '').replace(/-/g, ' ');
+  const { brand, model, fullTitle } = splitBrandAndModel(rawH2);
+
+  $('script, style, nav, header, footer').remove();
+  const text = cleanText($('body').text());
+
+  let price = 0;
+  const eurMatch = text.match(/(\d+)\s*€\s*\/\s*Jour/i) || text.match(/(\d+)\s*€/i);
+  if (eurMatch) {
+    price = Math.round((parseInt(eurMatch[1], 10) * 10.8) / 10) * 10;
+  }
+
+  const ccMatch = text.match(/(\d{2,4})\s*cc/i) || fullTitle.match(/\b(50|125|310|390|411|450|800|850)\b/);
+  const engineCc = ccMatch ? ccMatch[1] : '450';
+  const isScooter = /scooter|cappuccino|agility|symphony/i.test(fullTitle);
+  const gearboxFr = isScooter ? 'Automatique' : 'Manuelle';
+  const location = resolveLocationFromText('Marrakech', text, 0);
+
+  const { features, quickFacts } = buildRentalFeatures({
+    isMoto: true,
+    brand,
+    model,
+    year: '2024',
+    mileage: '',
+    fuelFr: 'Essence',
+    gearboxFr,
+    minDays: null,
+    engineCc,
+    title: fullTitle,
+    location
+  });
+
+  const rawOptions = [];
+  if (/Assurance incluse/i.test(text)) rawOptions.push('Assurance incluse');
+  if (/Casque et gants inclus/i.test(text)) rawOptions.push('Casque et gants inclus');
+  if (/Kilom[eé]trage illimit[eé]/i.test(text)) rawOptions.push('Kilométrage illimité');
+  if (/Assistance 24\/7/i.test(text)) rawOptions.push('Assistance 24/7');
+
+  return {
+    id,
+    kind: 'Moto',
+    listingType: 'rental',
+    priceUnit: 'day',
+    title: { en: fullTitle, ar: fullTitle },
+    price,
+    quickFacts,
+    features,
+    options: rawOptions.map((o) => ({ en: o, ar: o, raw: o })),
+    images: imgs.slice(0, 2),
+    sourceUrl,
+    location
+  };
+}
+
+/**
+ * 4e. Parse Keni-Rides.com Detail HTML (Kénitra / National)
+ */
+export function parseKeniRidesHtml(html, sourceUrl) {
+  const $ = cheerio.load(html);
+  const slug = sourceUrl.split('/').filter(Boolean).pop() || 'moto';
+  const id = `keni-${slug}`;
+
+  const imgs = [];
+  $('img').each((_, el) => {
+    const src = $(el).attr('src') || '';
+    if (src.startsWith('/bikes/')) {
+      const full = `https://keni-rides.com${src}`;
+      if (!imgs.includes(full)) imgs.push(full);
+    }
+  });
+
+  const rawH1 = cleanText($('h1').first().text()) || slug.replace(/-/g, ' ');
+  const { brand, model, fullTitle } = splitBrandAndModel(rawH1);
+
+  $('script, style, nav, header, footer').remove();
+  const text = cleanText($('body').text());
+
+  let price = 0;
+  const eurMatch = text.match(/€\s*(\d+)\s*\/\s*day/i) || text.match(/Tarif journalier\s*€\s*(\d+)/i);
+  if (eurMatch) {
+    price = Math.round((parseInt(eurMatch[1], 10) * 10.8) / 10) * 10;
+  }
+
+  const ccMatch = text.match(/Cylindr[eé]e\s*([\d\s]+)\s*cc/i);
+  const engineCc = ccMatch ? ccMatch[1].replace(/\s+/g, '') : '650';
+  const minDaysMatch = text.match(/Location minimale\s*:\s*(\d+)\s*jours/i);
+  const minDays = minDaysMatch ? parseInt(minDaysMatch[1], 10) : 2;
+  const location = resolveLocationFromText('Kénitra', text, 0);
+
+  const { features, quickFacts } = buildRentalFeatures({
+    isMoto: true,
+    brand,
+    model,
+    year: '2024',
+    mileage: '',
+    fuelFr: 'Essence',
+    gearboxFr: 'Manuelle',
+    minDays,
+    engineCc,
+    title: fullTitle,
+    location
+  });
+
+  const rawOptions = [];
+  if (/Top case & valises aluminium/i.test(text)) rawOptions.push('Top case & valises aluminium');
+  if (/Barres de protection moteur/i.test(text)) rawOptions.push('Barres de protection moteur');
+  if (/Pare-brise touring r[eé]glable/i.test(text)) rawOptions.push('Pare-brise touring réglable');
+  if (/Prise 12V & USB/i.test(text)) rawOptions.push('Prise 12V & USB');
+  if (/Poign[eé]es chauffantes/i.test(text)) rawOptions.push('Poignées chauffantes');
+  if (/Feux additionnels LED/i.test(text)) rawOptions.push('Feux additionnels LED');
+
+  return {
+    id,
+    kind: 'Moto',
+    listingType: 'rental',
+    priceUnit: 'day',
+    title: { en: fullTitle, ar: fullTitle },
+    price,
+    quickFacts,
+    features,
+    options: rawOptions.map((o) => ({ en: o, ar: o, raw: o })),
+    images: imgs.slice(0, 4),
+    sourceUrl,
+    location
+  };
+}
+
+/**
  * 5. Parse generic rental URL dispatcher
  */
 export async function importRentalListing(url, delayMs = DEFAULT_DELAY_MS, meta = {}) {
@@ -741,6 +1236,14 @@ export async function importRentalListing(url, delayMs = DEFAULT_DELAY_MS, meta 
     listing = parseRentalMotoMarrakechHtml(html, url, meta.fallbackImg);
   } else if (url.includes('location-scooter-marrakech.com')) {
     listing = parseLocationScooterMarrakechHtml(html, url);
+  } else if (url.includes('xenoride.ma')) {
+    listing = parseXenoRideHtml(html, url);
+  } else if (url.includes('marrakechmoto.com')) {
+    listing = parseMarrakechMotoHtml(html, url);
+  } else if (url.includes('ride2atlas.com')) {
+    listing = parseRide2AtlasHtml(html, url);
+  } else if (url.includes('keni-rides.com')) {
+    listing = parseKeniRidesHtml(html, url);
   }
 
   if (actualDelay > 0) await sleep(actualDelay);
@@ -937,13 +1440,13 @@ export async function main() {
   let delayMs = DEFAULT_DELAY_MS;
   let isDryRun = false;
   let isCrawlMode = false;
-  let crawlLimit = 350;
+  let crawlLimit = 1250;
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === '--crawl') {
       isCrawlMode = true;
     } else if (args[i] === '--limit' && args[i + 1]) {
-      crawlLimit = parseInt(args[++i], 10) || 350;
+      crawlLimit = parseInt(args[++i], 10) || 1250;
     } else if (args[i] === '--file' && args[i + 1]) {
       const filePath = args[++i];
       if (fs.existsSync(filePath)) {
@@ -1021,37 +1524,74 @@ Usage:
       console.warn('[Rental Crawler] GoRide sitemap error:', e.message);
     }
 
-    // 2. OneClickDrive.ma Cities & Eco Categories (Electric, Hybrid, Luxury, SUV, Economy)
-    const ocdPages = [
-      'https://www.oneclickdrive.ma/casablanca',
-      'https://www.oneclickdrive.ma/marrakech',
-      'https://www.oneclickdrive.ma/rabat',
-      'https://www.oneclickdrive.ma/tangier',
-      'https://www.oneclickdrive.ma/agadir',
-      'https://www.oneclickdrive.ma/fes',
+    // 2. OneClickDrive.ma Paginated City & Category Catalogs across all 8 Moroccan cities
+    const ocdCities = [
+      { slug: 'casablanca', maxPages: 12 },
+      { slug: 'marrakech', maxPages: 10 },
+      { slug: 'rabat', maxPages: 7 },
+      { slug: 'tangier', maxPages: 7 },
+      { slug: 'agadir', maxPages: 7 },
+      { slug: 'fes', maxPages: 6 },
+      { slug: 'nador', maxPages: 4 },
+      { slug: 'oujda', maxPages: 4 }
+    ];
+    const ocdCatalogUrls = [];
+    for (const { slug, maxPages } of ocdCities) {
+      for (let p = 1; p <= maxPages; p++) {
+        ocdCatalogUrls.push(
+          p === 1
+            ? `https://www.oneclickdrive.ma/${slug}`
+            : `https://www.oneclickdrive.ma/${slug}?page=${p}`
+        );
+      }
+    }
+    ocdCatalogUrls.push(
       'https://www.oneclickdrive.ma/casablanca/electric-car-rental',
       'https://www.oneclickdrive.ma/casablanca/hybrid-car-rental',
       'https://www.oneclickdrive.ma/marrakech/electric-car-rental',
       'https://www.oneclickdrive.ma/marrakech/hybrid-car-rental',
       'https://www.oneclickdrive.ma/rabat/hybrid-car-rental',
       'https://www.oneclickdrive.ma/tangier/hybrid-car-rental'
-    ];
-    let ocdCount = 0;
-    for (const pUrl of ocdPages) {
-      try {
-        const r = await fetch(pUrl, { headers: { 'User-Agent': USER_AGENT } });
-        if (!r.ok) continue;
-        const h = await r.text();
-        const dUrls = [...new Set(h.match(/https:\/\/www\.oneclickdrive\.ma\/details\/index\/[^\s"'\''<>]+/gi) || [])];
-        for (const u of dUrls) {
-          if (!seenUrls.has(u) && !urls.includes(u)) {
-            urls.push(u);
-            ocdCount++;
+    );
+
+    let ocdDirectAdded = 0;
+    const OCD_BATCH = 6;
+    for (let i = 0; i < ocdCatalogUrls.length && currentList.length < crawlLimit; i += OCD_BATCH) {
+      const batchPages = ocdCatalogUrls.slice(i, i + OCD_BATCH);
+      const pageCardsList = await Promise.all(
+        batchPages.map(async (pUrl) => {
+          try {
+            const r = await fetch(pUrl, { headers: { 'User-Agent': USER_AGENT } });
+            if (!r.ok) return [];
+            const h = await r.text();
+            return parseOneClickDriveCatalogHtml(h, pUrl);
+          } catch (_) {
+            return [];
+          }
+        })
+      );
+      for (const cards of pageCardsList) {
+        for (const item of cards) {
+          if (
+            item &&
+            item.price > 0 &&
+            item.images &&
+            item.images.length > 0 &&
+            !seenIds.has(item.id) &&
+            !seenUrls.has(item.sourceUrl)
+          ) {
+            currentList.push(item);
+            seenIds.add(item.id);
+            seenUrls.add(item.sourceUrl);
+            ocdDirectAdded++;
           }
         }
-      } catch (_) {}
+      }
+      if (!isDryRun && ocdDirectAdded > 0 && i % 12 === 0) {
+        syncRentalFiles(currentList, path.dirname(resolvedOut));
+      }
     }
-    console.log(`[Rental Crawler] Queued ${ocdCount} car rental URLs from OneClickDrive.ma`);
+    console.log(`[Rental Crawler] Imported ${ocdDirectAdded} new car rental listings from OneClickDrive.ma catalogs (total: ${currentList.length})`);
 
     // 3. RentalMotoMarrakech.com (Motorbikes & Scooters)
     try {
@@ -1092,6 +1632,57 @@ Usage:
         console.log(`[Rental Crawler] Queued ${lsmAdded} scooter rental URLs from Location-Scooter-Marrakech.com`);
       }
     } catch (_) {}
+
+    // 4b. XenoRide.ma (Tangier Motorbikes & Scooters)
+    const xenoUrls = [
+      'https://xenoride.ma/motos/cooper-touring-pro-a-louer',
+      'https://xenoride.ma/motos/scooter-cappuccino-s-2025-a-louer-tanger',
+      'https://xenoride.ma/motos/sh-cooper-a-louer',
+      'https://xenoride.ma/motos/magotti-vespucci',
+      'https://xenoride.ma/motos/sanya-x1000',
+      'https://xenoride.ma/motos/honda-sh-mode',
+      'https://xenoride.ma/motos/location-scooter-sh-daytona-sport-tanger'
+    ];
+    // 4c. MarrakechMoto.com (Marrakech Adventure Motorbikes)
+    const mmotoUrls = [
+      'https://marrakechmoto.com/motos/bmw-1250-gs',
+      'https://marrakechmoto.com/motos/bmw-850-gs',
+      'https://marrakechmoto.com/motos/bmw-750-gs',
+      'https://marrakechmoto.com/motos/himalayan-450',
+      'https://marrakechmoto.com/motos/himalayan-411',
+      'https://marrakechmoto.com/motos/kymco-agility-50',
+      'https://marrakechmoto.com/motos/yamaha-xt-250',
+      'https://marrakechmoto.com/motos/bmw-f900-gs',
+      'https://marrakechmoto.com/motos/bmw-f800-gs',
+      'https://marrakechmoto.com/motos/bmw-r1300-gs'
+    ];
+    // 4d. Ride2Atlas.com (Marrakech Motorbikes & Scooters)
+    const r2aUrls = [
+      'https://ride2atlas.com/moto/location-cf-moto-mt450-marrakech/',
+      'https://ride2atlas.com/moto/location-bmw-310-gs-marrakech/',
+      'https://ride2atlas.com/moto/location-bmw-f-800-gs-marrakech/',
+      'https://ride2atlas.com/moto/location-scooter-cappuccino-50cc-marrakech/',
+      'https://ride2atlas.com/moto/location-ktm-390-adventure-marrakech/',
+      'https://ride2atlas.com/moto/location-scooter-kymco-agility-marrakech/',
+      'https://ride2atlas.com/moto/location-scooter-sym-symphony-marrakech/',
+      'https://ride2atlas.com/moto/location-bmw-850-gs-marrakech/',
+      'https://ride2atlas.com/moto/location-royal-enfield-himalayan-411-marrakech/',
+      'https://ride2atlas.com/moto/location-royal-enfield-himalayan-450-marrakech/'
+    ];
+    // 4e. Keni-Rides.com (Kénitra / National Adventure Motorbikes)
+    const keniUrls = [
+      'https://keni-rides.com/nos-motos/bmw-gs1200-adventure',
+      'https://keni-rides.com/nos-motos/yamaha-tenere-700-world-raid',
+      'https://keni-rides.com/nos-motos/yamaha-tenere-700',
+      'https://keni-rides.com/nos-motos/bmw-f800gs-adventure',
+      'https://keni-rides.com/nos-motos/suzuki-dr650',
+      'https://keni-rides.com/nos-motos/suzuki-dr400',
+      'https://keni-rides.com/nos-motos/honda-crf250',
+      'https://keni-rides.com/nos-motos/suzuki-dr200'
+    ];
+    for (const u of [...xenoUrls, ...mmotoUrls, ...r2aUrls, ...keniUrls]) {
+      if (!seenUrls.has(u) && !urls.includes(u)) urls.push(u);
+    }
 
     // 5. MotoNomad.ma & AganaMobility.com structured fleets
     const mnFleet = await crawlMotoNomadFleet();

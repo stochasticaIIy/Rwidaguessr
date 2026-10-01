@@ -152,8 +152,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -4779,8 +4779,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -9208,8 +9208,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -9384,8 +9384,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -12700,8 +12700,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -17851,8 +17851,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -21200,8 +21200,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -22253,8 +22253,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -24074,8 +24074,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -30920,8 +30920,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -32126,8 +32126,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -34803,8 +34803,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -40022,8 +40022,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -41352,8 +41352,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -41942,8 +41942,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -46219,8 +46219,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -47256,8 +47256,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -48001,8 +48001,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -50972,8 +50972,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -53359,8 +53359,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -54027,8 +54027,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -54625,8 +54625,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -56179,8 +56179,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -64088,8 +64088,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -67257,8 +67257,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -67873,8 +67873,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -68594,8 +68594,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -69197,8 +69197,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -73476,8 +73476,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -74559,8 +74559,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -75783,8 +75783,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -76165,8 +76165,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -83579,8 +83579,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -92185,8 +92185,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -94178,8 +94178,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -106889,8 +106889,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -107862,8 +107862,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -108346,8 +108346,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -108729,8 +108729,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -109913,8 +109913,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -110940,8 +110940,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -116638,8 +116638,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -116796,8 +116796,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -118127,8 +118127,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -118433,8 +118433,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -121569,8 +121569,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -125943,8 +125943,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -126758,8 +126758,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -132929,8 +132929,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -133637,8 +133637,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -134717,8 +134717,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -139857,8 +139857,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -141193,8 +141193,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -143972,8 +143972,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -144445,8 +144445,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -145571,8 +145571,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -146443,8 +146443,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -149725,8 +149725,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -151827,8 +151827,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -152063,8 +152063,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -154798,8 +154798,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -155470,8 +155470,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -155683,8 +155683,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -158025,8 +158025,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -162105,8 +162105,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -162705,8 +162705,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -164624,8 +164624,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -164925,8 +164925,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -165997,8 +165997,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -166806,8 +166806,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -169535,8 +169535,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -170400,8 +170400,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -176776,8 +176776,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -180019,8 +180019,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -183352,8 +183352,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -186169,8 +186169,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -186380,8 +186380,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -186845,8 +186845,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -188812,8 +188812,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -189058,8 +189058,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -190150,8 +190150,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -191434,8 +191434,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -192834,8 +192834,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -195042,8 +195042,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -203361,8 +203361,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -211768,8 +211768,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -217868,8 +217868,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -218319,8 +218319,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -229595,8 +229595,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -232048,8 +232048,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -233744,8 +233744,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -234424,8 +234424,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -236261,8 +236261,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -236853,8 +236853,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -239804,8 +239804,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -240218,8 +240218,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -241406,8 +241406,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -243122,8 +243122,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -244399,8 +244399,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -244570,8 +244570,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -244809,8 +244809,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -245213,8 +245213,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -246142,8 +246142,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -247647,8 +247647,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -248288,8 +248288,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -252884,8 +252884,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -259963,8 +259963,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -263843,8 +263843,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -265106,8 +265106,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -270564,8 +270564,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -271279,8 +271279,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -274223,8 +274223,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -275016,8 +275016,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -281389,8 +281389,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -284778,8 +284778,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -285601,8 +285601,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -289620,8 +289620,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -292049,8 +292049,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -294391,8 +294391,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -295237,8 +295237,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -298690,8 +298690,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -300098,8 +300098,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -304251,8 +304251,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",
@@ -306448,8 +306448,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -311732,8 +311732,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Very good condition",
@@ -320254,8 +320254,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Excellent condition",
@@ -320906,8 +320906,8 @@ window.DEMO_LISTINGS = [
       },
       {
         "label": {
-          "en": "Condition / Maintenance",
-          "ar": "الحالة والصيانة"
+          "en": "Condition",
+          "ar": "الحالة"
         },
         "value": {
           "en": "Accident-free",

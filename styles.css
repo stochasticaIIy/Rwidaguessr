@@ -30,7 +30,6 @@
 :root[data-theme="dark"] .option-list span { background: #151f2e; color: var(--ink); border-color: #27374d; }
 :root[data-theme="dark"] .features-card dd { color: #f8fafc; }
 :root[data-theme="dark"] .features-card dt { color: #94a3b8; }
-:root[data-theme="dark"] .listing-label { background: #090d14e6; color: #fb923c; border: 1px solid #7c2d12; }
 :root[data-theme="dark"] .start-card select { background: #111722; color: #f8fafc; border-color: var(--line); }
 :root[data-theme="dark"] .start-card select option { background: #111722; color: #f8fafc; }
 :root[data-theme="dark"] .start-card select option:disabled { color: #64748b; background: #0c121d; }
@@ -194,21 +193,6 @@ button, input, select { font: inherit; } button { cursor: pointer; } .hidden { d
   background: radial-gradient(ellipse at 50% 80%, #090d14 0 26%, transparent 27%), linear-gradient(145deg, #273549, #0f172a);
 }
 .vehicle-fallback span { filter: drop-shadow(0 12px 1px #090d1499); font-size: 130px; }
-.listing-label {
-  position: absolute;
-  top: 16px;
-  right: 16px;
-  background: #0f172aeb;
-  color: #fb923c;
-  border: 1px solid #f9731666;
-  border-radius: 99px;
-  padding: 6px 13px;
-  font: 700 11px "DM Mono", monospace;
-  text-transform: uppercase;
-  letter-spacing: .6px;
-  backdrop-filter: blur(6px);
-  box-shadow: 0 4px 12px #00000033;
-}
 .gallery-controls {
   position: absolute;
   display: flex;
@@ -326,16 +310,6 @@ html[dir="rtl"] .guess-input-row input {
   margin-top: 14px;
   padding-top: 14px;
   border-top: 1px solid #222f3e;
-}
-.increments-label {
-  font-size: 12px;
-  color: #94a3b8;
-  font-weight: 600;
-  margin-right: 4px;
-}
-html[dir="rtl"] .increments-label {
-  margin-right: 0;
-  margin-left: 4px;
 }
 .increment-buttons {
   display: flex;
@@ -622,14 +596,6 @@ html[dir="rtl"] .market-diff-pill {
   border: 1px solid #334155;
   white-space: nowrap;
 }
-.market-tooltip-label {
-  font: 600 9px "DM Mono", monospace;
-  color: #94a3b8;
-  text-transform: uppercase;
-}
-.market-tooltip-label:empty {
-  display: none;
-}
 .market-tooltip-price {
   font: 700 11px "DM Mono", monospace;
   color: #38bdf8;
@@ -840,14 +806,9 @@ html[dir="rtl"] .market-diff-pill {
   border-color: #1e293b;
 }
 .leaderboard-submission-card h3 {
-  margin: 0 0 4px;
+  margin: 0 0 10px;
   font-size: 18px;
   font-weight: 700;
-}
-.leaderboard-submission-hint {
-  margin: 0 0 12px;
-  font-size: 13px;
-  color: var(--muted);
 }
 .leaderboard-form {
   display: flex;
@@ -1113,7 +1074,6 @@ html[dir="rtl"] .start-card { text-align: right; }
 html[dir="rtl"] .timer { text-align: center; }
 html[dir="rtl"] .gallery-controls { direction: ltr; left: 50%; right: auto; transform: translateX(-50%); }
 html[dir="rtl"] .image-actions { direction: ltr; left: 16px; right: auto; top: 16px; bottom: auto; }
-html[dir="rtl"] .listing-label { right: 16px; left: auto; }
 html[dir="rtl"] .features-card dl div:nth-child(odd) { padding-right: 4px; padding-left: 12px; }
 html[dir="rtl"] .primary-button span { display: inline-block; margin-left: 0; margin-right: 5px; transform: scaleX(-1); }
 html[dir="rtl"] .dialog-close { right: auto; left: 15px; }

@@ -13,8 +13,7 @@
     "import": "node scripts/import-moteur.js",
     "import:crawl": "node scripts/import-moteur.js --crawl --limit 1000",
     "import:rentals": "node scripts/import-rentals.js",
-    "import:rentals:crawl": "node scripts/import-rentals.js --crawl --limit 400",
-    "update:descriptions": "node scripts/fetch-seller-descriptions.js && node scripts/sync-listings.js"
+    "import:rentals:crawl": "node scripts/import-rentals.js --crawl --limit 1250"
   },
   "dependencies": {
     "cheerio": "^1.2.0",
