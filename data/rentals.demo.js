@@ -6903,7 +6903,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Land Rover Range Rover Sport",
       "ar": "Land Rover Range Rover Sport"
     },
-    "price": 500,
+    "price": 2500,
     "quickFacts": [
       {
         "en": "2025",
@@ -7079,6 +7079,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -25343,7 +25353,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Mercedes C-Class",
       "ar": "Mercedes C-Class"
     },
-    "price": 200,
+    "price": 1200,
     "quickFacts": [
       {
         "en": "2024",
@@ -25519,6 +25529,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -30558,7 +30578,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Volkswagen Touareg",
       "ar": "Volkswagen Touareg"
     },
-    "price": 200,
+    "price": 1200,
     "quickFacts": [
       {
         "en": "2024",
@@ -30734,6 +30754,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -31811,7 +31841,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Porsche Macan",
       "ar": "Porsche Macan"
     },
-    "price": 700,
+    "price": 1700,
     "quickFacts": [
       {
         "en": "2023",
@@ -32446,7 +32476,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "BMW Série 2 pack m",
       "ar": "BMW Série 2 pack m"
     },
-    "price": 400,
+    "price": 1400,
     "quickFacts": [
       {
         "en": "2024",
@@ -32622,6 +32652,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -41649,7 +41689,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Hyundai Staria",
       "ar": "Hyundai Staria"
     },
-    "price": 200,
+    "price": 1200,
     "quickFacts": [
       {
         "en": "2025",
@@ -41825,6 +41865,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -41861,7 +41911,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Audi Q3",
       "ar": "Audi Q3"
     },
-    "price": 800,
+    "price": 1800,
     "quickFacts": [
       {
         "en": "2024",
@@ -42489,7 +42539,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Hyundai Staria",
       "ar": "Hyundai Staria"
     },
-    "price": 200,
+    "price": 1200,
     "quickFacts": [
       {
         "en": "2025",
@@ -42665,6 +42715,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -42698,7 +42758,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Land Rover Range Rover Sport",
       "ar": "Land Rover Range Rover Sport"
     },
-    "price": 500,
+    "price": 3500,
     "quickFacts": [
       {
         "en": "2025",
@@ -42874,6 +42934,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -42907,7 +42977,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Volkswagen Tiguan",
       "ar": "Volkswagen Tiguan"
     },
-    "price": 200,
+    "price": 1200,
     "quickFacts": [
       {
         "en": "2025",
@@ -43083,6 +43153,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -43517,7 +43597,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Audi Q3 qouatro s line",
       "ar": "Audi Q3 qouatro s line"
     },
-    "price": 850,
+    "price": 1850,
     "quickFacts": [
       {
         "en": "2024",
@@ -43739,7 +43819,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Hyundai Staria",
       "ar": "Hyundai Staria"
     },
-    "price": 300,
+    "price": 1300,
     "quickFacts": [
       {
         "en": "2025",
@@ -43915,6 +43995,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -43948,7 +44038,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Land Rover Range Rover Sport",
       "ar": "Land Rover Range Rover Sport"
     },
-    "price": 800,
+    "price": 2800,
     "quickFacts": [
       {
         "en": "2024",
@@ -44168,7 +44258,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Porsche Macan",
       "ar": "Porsche Macan"
     },
-    "price": 200,
+    "price": 2200,
     "quickFacts": [
       {
         "en": "2024",
@@ -44344,6 +44434,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -45215,7 +45315,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Audi A3",
       "ar": "Audi A3"
     },
-    "price": 400,
+    "price": 1400,
     "quickFacts": [
       {
         "en": "2025",
@@ -45391,6 +45491,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -45426,7 +45536,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Volkswagen Touareg",
       "ar": "Volkswagen Touareg"
     },
-    "price": 400,
+    "price": 1400,
     "quickFacts": [
       {
         "en": "2025",
@@ -45602,6 +45712,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -45847,7 +45967,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Audi A3",
       "ar": "Audi A3"
     },
-    "price": 100,
+    "price": 1100,
     "quickFacts": [
       {
         "en": "2024",
@@ -46023,6 +46143,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -46256,7 +46386,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Volkswagen Touareg",
       "ar": "Volkswagen Touareg"
     },
-    "price": 400,
+    "price": 1400,
     "quickFacts": [
       {
         "en": "2025",
@@ -46432,6 +46562,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -47315,7 +47455,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Audi A3",
       "ar": "Audi A3"
     },
-    "price": 200,
+    "price": 1200,
     "quickFacts": [
       {
         "en": "2024",
@@ -47491,6 +47631,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -47524,7 +47674,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Volkswagen Touareg",
       "ar": "Volkswagen Touareg"
     },
-    "price": 300,
+    "price": 1300,
     "quickFacts": [
       {
         "en": "2025",
@@ -47700,6 +47850,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -47733,7 +47893,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Land Rover Range Rover Evoque",
       "ar": "Land Rover Range Rover Evoque"
     },
-    "price": 200,
+    "price": 1200,
     "quickFacts": [
       {
         "en": "2024",
@@ -47909,6 +48069,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -47945,7 +48115,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Volkswagen Touareg",
       "ar": "Volkswagen Touareg"
     },
-    "price": 100,
+    "price": 1100,
     "quickFacts": [
       {
         "en": "2025",
@@ -48121,6 +48291,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -48778,7 +48958,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Audi A3",
       "ar": "Audi A3"
     },
-    "price": 100,
+    "price": 1100,
     "quickFacts": [
       {
         "en": "2025",
@@ -48954,6 +49134,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -49404,7 +49594,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Mercedes Gle 400 d Coupe",
       "ar": "Mercedes Gle 400 d Coupe"
     },
-    "price": 500,
+    "price": 2500,
     "quickFacts": [
       {
         "en": "2024",
@@ -49580,6 +49770,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Apple CarPlay / Android Auto",
         "ar": "Apple CarPlay / Android Auto",
         "raw": "Apple CarPlay / Android Auto"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -49617,7 +49817,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Land Rover Evoc",
       "ar": "Land Rover Evoc"
     },
-    "price": 100,
+    "price": 1100,
     "quickFacts": [
       {
         "en": "2023",
@@ -49788,6 +49988,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Caméra de recul",
         "ar": "Caméra de recul",
         "raw": "Caméra de recul"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -49819,7 +50029,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Volkswagen Touareg",
       "ar": "Volkswagen Touareg"
     },
-    "price": 800,
+    "price": 1800,
     "quickFacts": [
       {
         "en": "2023",
@@ -50253,7 +50463,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Porsche Macane",
       "ar": "Porsche Macane"
     },
-    "price": 500,
+    "price": 2500,
     "quickFacts": [
       {
         "en": "2023",
@@ -50424,6 +50634,16 @@ window.DEMO_RENTAL_LISTINGS = [
         "en": "Caméra de recul",
         "ar": "Caméra de recul",
         "raw": "Caméra de recul"
+      },
+      {
+        "en": "Sièges cuir",
+        "ar": "Sièges cuir",
+        "raw": "Sièges cuir"
+      },
+      {
+        "en": "Toit ouvrant",
+        "ar": "Toit ouvrant",
+        "raw": "Toit ouvrant"
       }
     ],
     "images": [
@@ -50455,7 +50675,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Volkswagen Touareg",
       "ar": "Volkswagen Touareg"
     },
-    "price": 800,
+    "price": 1800,
     "quickFacts": [
       {
         "en": "2025",
@@ -86316,7 +86536,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Vespa Primavera",
       "ar": "Vespa Primavera"
     },
-    "price": 1490,
+    "price": 270,
     "quickFacts": [
       {
         "en": "2024",
@@ -86526,7 +86746,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "SYM S",
       "ar": "SYM S"
     },
-    "price": 1490,
+    "price": 220,
     "quickFacts": [
       {
         "en": "2024",
@@ -86946,7 +87166,7 @@ window.DEMO_RENTAL_LISTINGS = [
       "en": "Gabelli Verona",
       "ar": "Gabelli Verona"
     },
-    "price": 1490,
+    "price": 220,
     "quickFacts": [
       {
         "en": "2024",

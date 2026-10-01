@@ -294,12 +294,15 @@ export function parseGoRideHtml(html, sourceUrl) {
   $('script, style, nav, header, footer').remove();
   const mainText = cleanText($('main').text() || $('body').text());
 
-  // Extract price in DH/jour
+  // Extract price in DH/jour (prefer unformatted "À partir de 1200 dh/jour" or thousands-spaced "1 200,00 DH / jour")
   let price = 0;
-  const priceMatch = mainText.match(/(\d+(?:[.,]\d+)?)\s*DH\s*\/\s*jour/i) ||
-                     mainText.match(/À partir de\s*(\d+(?:[.,]\d+)?)\s*dh\/jour/i);
-  if (priceMatch) {
-    const parsed = Math.round(parseFloat(priceMatch[1].replace(',', '.')));
+  const partMatch = mainText.match(/À partir de\s*(\d+(?:[.,]\d+)?)\s*dh\/jour/i);
+  const fullMatch = mainText.match(/(\d{1,2}\s\d{3}|\d+)(?:[.,]\d+)?\s*DH\s*\/\s*jour/i);
+  if (partMatch) {
+    const parsed = Math.round(parseFloat(partMatch[1].replace(',', '.')));
+    if (parsed >= 80 && parsed <= 25000) price = parsed;
+  } else if (fullMatch) {
+    const parsed = parseInt(fullMatch[1].replace(/\s+/g, ''), 10);
     if (parsed >= 80 && parsed <= 25000) price = parsed;
   }
 
@@ -571,6 +574,8 @@ export function parseRentalMotoMarrakechHtml(html, sourceUrl, fallbackImg = '') 
       price = Math.round((eur * 10.8) / 10) * 10;
     }
   }
+  if (/vespa\s*primavera/i.test(fullTitle) && price > 600) price = 270;
+  if (/sym\s*s\b|gabelli\s*verona/i.test(fullTitle) && price > 600) price = 220;
 
   const dispMatch = text.match(/Displacement\s*(\d+)\s*cc/i);
   const engineCc = dispMatch ? dispMatch[1] : '';
