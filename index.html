@@ -48,20 +48,20 @@
         <p class="intro" data-i18n="intro">خمّن ثمن 5 إعلانات حقيقية فالمغرب.</p>
         <div class="start-card">
           <div class="mode-selector-group">
-            <span class="mode-label" id="type-group-label" data-i18n="typeLabel">النظام</span>
+            <span class="mode-label" id="type-group-label" data-i18n="typeLabel">نظام اللعب</span>
             <div class="mode-switch" role="radiogroup" aria-labelledby="type-group-label">
               <button class="mode-button is-active" id="type-sale" type="button" role="radio" aria-checked="true" data-type="sale">
                 <span class="mode-icon">🏷️</span>
-                <span class="mode-text" data-i18n="typeSale">للبيع</span>
+                <span class="mode-text" data-i18n="typeSale">للبيع (شراء)</span>
               </button>
               <button class="mode-button" id="type-rental" type="button" role="radio" aria-checked="false" data-type="rental">
                 <span class="mode-icon">🔑</span>
-                <span class="mode-text" data-i18n="typeRental">للكراء</span>
+                <span class="mode-text" data-i18n="typeRental">للكراء (يومي)</span>
               </button>
             </div>
           </div>
           <div class="mode-selector-group">
-            <span class="mode-label" id="mode-group-label" data-i18n="modeLabel">المركبة</span>
+            <span class="mode-label" id="mode-group-label" data-i18n="modeLabel">نوع المركبات</span>
             <div class="mode-switch" role="radiogroup" aria-labelledby="mode-group-label">
               <button class="mode-button is-active" id="mode-cars" type="button" role="radio" aria-checked="true" data-mode="cars">
                 <span class="mode-icon">🚗</span>
@@ -73,31 +73,32 @@
               </button>
             </div>
           </div>
-          <label for="duration" data-i18n="durationLabel">وقت الجولة</label>
+          <label for="duration" data-i18n="durationLabel">الوقت الأقصى لكل تخمين</label>
           <select id="duration">
             <option value="600" selected data-i18n="tenMinutes">10 دقائق</option>
             <option value="1800" data-i18n="thirtyMinutes">30 دقيقة</option>
-            <option value="3000" data-i18n="fiftyMinutes">50 دقيقة</option>
+            <option value="3000" data-i18n="fiftyMinutes">50 دقيقة (الحد الأقصى)</option>
           </select>
+          <small data-i18n="durationNote">الوقت لا يتجاوز 50 دقيقة لكل إعلان.</small>
           <div id="fuel-filter-group">
-            <label for="fuel-filter" data-i18n="fuelLabel">الوقود</label>
+            <label for="fuel-filter" data-i18n="fuelLabel">نوع الوقود (اختياري)</label>
             <select id="fuel-filter">
-              <option value="all" selected data-i18n="fuelAll">الكل</option>
-              <option value="diesel" data-i18n="fuelDiesel">مازوط</option>
-              <option value="petrol" data-i18n="fuelPetrol">ليصانص</option>
-              <option value="hybrid" data-i18n="fuelHybrid">إيبريد</option>
-              <option value="electric" data-i18n="fuelElectric">كهربائي</option>
-              <option value="eco" data-i18n="fuelEco">كهربائي وإيبريد</option>
+              <option value="all" selected data-i18n="fuelAll">كافة أنواع الوقود (الكل)</option>
+              <option value="diesel" data-i18n="fuelDiesel">مازوط (Diesel)</option>
+              <option value="petrol" data-i18n="fuelPetrol">ليصانص (Essence)</option>
+              <option value="hybrid" data-i18n="fuelHybrid">إيبريد (Hybride)</option>
+              <option value="electric" data-i18n="fuelElectric">كهربائي 100% (100% Électrique)</option>
+              <option value="eco" data-i18n="fuelEco">كهربائي وإيبريد (Électrique & Hybride)</option>
             </select>
           </div>
-          <label for="region-filter" data-i18n="regionLabel">الجهة</label>
+          <label for="region-filter" data-i18n="regionLabel">المنطقة أو المدينة (اختياري)</label>
           <select id="region-filter">
-            <option value="all" selected data-i18n="regionAll">كل الجهات</option>
-            <option value="casablanca" data-i18n="regionCasa">الدار البيضاء - سطات</option>
-            <option value="rabat" data-i18n="regionRabat">الرباط - سلا - القنيطرة</option>
-            <option value="tanger" data-i18n="regionTanger">طنجة - تطوان - الشمال</option>
-            <option value="marrakech" data-i18n="regionMarrakech">مراكش - أكادير</option>
-            <option value="oriental" data-i18n="regionOriental">فاس - مكناس - الشرق</option>
+            <option value="all" selected data-i18n="regionAll">كافة المدن المغربية (المغرب كامل)</option>
+            <option value="casablanca" data-i18n="regionCasa">الدار البيضاء - سطات (كازا، المحمدية...)</option>
+            <option value="rabat" data-i18n="regionRabat">الرباط - سلا - القنيطرة (تمارة...)</option>
+            <option value="tanger" data-i18n="regionTanger">طنجة - تطوان - الشمال (الناظور...)</option>
+            <option value="marrakech" data-i18n="regionMarrakech">مراكش - أكادير - الجنوب (آسفي...)</option>
+            <option value="oriental" data-i18n="regionOriental">فاس - مكناس - الشرق (وجدة، خريبكة...)</option>
           </select>
           <button class="primary-button" id="start-game" type="button" data-i18n-html="start">ابدأ 5 جولات <span>→</span></button>
         </div>
@@ -135,11 +136,11 @@
           <div class="listing-content">
             <div class="quick-facts" id="quick-facts"></div>
             <article class="features-card">
-              <div class="section-heading"><span data-i18n="featuresHeading">Specs</span><i></i></div>
+              <div class="section-heading"><span data-i18n="featuresHeading">Features</span><i></i></div>
               <dl id="features"></dl>
             </article>
             <article class="options-card">
-              <div class="section-heading"><span data-i18n="optionsHeading">Options</span><i></i></div>
+              <div class="section-heading"><span data-i18n="optionsHeading">Equipment &amp; options</span><i></i></div>
               <div id="options" class="option-list"></div>
             </article>
           </div>
