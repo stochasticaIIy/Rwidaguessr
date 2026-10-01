@@ -30,6 +30,12 @@ export const terms = {
   'Premiere main': { en: 'First owner', ar: 'المالك الأول' },
   'Dédouanée': { en: 'Customs cleared', ar: 'مجمركة' },
   'Dedouanee': { en: 'Customs cleared', ar: 'مجمركة' },
+  'Durée minimale': { en: 'Minimum rental', ar: 'المدة الدنيا للكراء' },
+  'Caution': { en: 'Security deposit', ar: 'مبلغ الضمانة' },
+  'Âge minimum': { en: 'Minimum driver age', ar: 'السن الأدنى للسائق' },
+  'Kilométrage inclus': { en: 'Included mileage', ar: 'المسافة المسموحة' },
+  'Places': { en: 'Seats', ar: 'المقاعد' },
+  'Illimité': { en: 'Unlimited', ar: 'غير محدود' },
 
   // Fuels
   'Essence': { en: 'Petrol', ar: 'ليصانص' },

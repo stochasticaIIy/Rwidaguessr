@@ -1,4 +1,5 @@
 import { DEFAULT_LISTINGS } from '../../data/listings.data.js';
+import { DEFAULT_RENTAL_LISTINGS } from '../../data/rentals.data.js';
 
 const MAX_SECONDS = 50 * 60;
 const FALLBACK_SECRET = 'rwida-guessr-cloud-signing-key-production-fallback';
@@ -100,18 +101,24 @@ function sanitizeListingSummary(item) {
 
 export async function onRequestGet({ request, env = {} }) {
   const signingSecret = env.GAME_SIGNING_SECRET || env.APP_SECRET || FALLBACK_SECRET;
-  let listings = DEFAULT_LISTINGS;
-  if (env.LISTINGS_JSON) {
+  const url = new URL(request.url);
+  const rawType = (url.searchParams.get('type') || '').toLowerCase().trim();
+  const rawMode = (url.searchParams.get('mode') || '').toLowerCase().trim();
+  const isRental = rawType === 'rental' || rawType === 'rent' || rawType === 'location' || rawMode.startsWith('rental');
+
+  let listings = isRental ? DEFAULT_RENTAL_LISTINGS : DEFAULT_LISTINGS;
+  if (isRental && env.RENTAL_LISTINGS_JSON) {
+    try { listings = JSON.parse(env.RENTAL_LISTINGS_JSON); } catch (_) {}
+  } else if (!isRental && env.LISTINGS_JSON) {
     try { listings = JSON.parse(env.LISTINGS_JSON); } catch (_) {}
   }
   const valid = (listings || []).filter((item) => item.id && Number.isFinite(item.price) && item.title && item.summary && item.features);
   if (valid.length < 5) return Response.json({ error: 'At least five valid listings are required.' }, { status: 503 });
-  const url = new URL(request.url);
   const desiredSeconds = Number(url.searchParams.get('seconds')) || 120;
   const seconds = Math.min(MAX_SECONDS, Math.max(30, desiredSeconds));
   const expiresAt = Date.now() + seconds * 1000 + 10_000;
 
-  const mode = (url.searchParams.get('mode') || '').toLowerCase().trim();
+  const mode = rawMode.replace(/^rental[_-]?/, '');
   let pool = valid;
   if (mode === 'cars' || mode === 'car' || mode === 'voiture') {
     const cars = valid.filter((item) => {
@@ -172,9 +179,12 @@ export async function onRequestGet({ request, env = {} }) {
   const sampledItems = sample(pool, sampleCount);
 
   const signedListings = await Promise.all(sampledItems.map(async ({ price, ...publicListing }) => {
-    const payload = base64url(new TextEncoder().encode(JSON.stringify({ id: publicListing.id, expiresAt })));
+    const listingType = isRental ? 'rental' : (publicListing.listingType || 'sale');
+    const payload = base64url(new TextEncoder().encode(JSON.stringify({ id: publicListing.id, listingType, expiresAt })));
     return {
       ...publicListing,
+      listingType,
+      priceUnit: isRental ? 'day' : (publicListing.priceUnit || 'total'),
       summary: sanitizeListingSummary(publicListing),
       features: sanitizeListingFeatures(publicListing),
       options: sanitizeListingOptions(publicListing),
@@ -184,5 +194,5 @@ export async function onRequestGet({ request, env = {} }) {
 
   const round = signedListings.slice(0, 5);
   const reserves = signedListings.slice(5);
-  return Response.json({ round, reserves }, { headers: { 'cache-control': 'no-store' } });
+  return Response.json({ round, reserves, listingType: isRental ? 'rental' : 'sale' }, { headers: { 'cache-control': 'no-store' } });
 }

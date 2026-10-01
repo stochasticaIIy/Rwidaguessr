@@ -83,7 +83,8 @@ export async function onRequestPost({ request, env = {} }) {
   if (!Number.isFinite(score) || score < 0) score = 0;
   if (score > 5000) score = 5000;
 
-  const mode = body.mode === 'motorbikes' ? 'motorbikes' : 'cars';
+  const allowedModes = ['cars', 'motorbikes', 'rental_cars', 'rental_motorbikes'];
+  const mode = allowedModes.includes(body.mode) ? body.mode : 'cars';
 
   try {
     // 1. Fetch current record from JSONBin

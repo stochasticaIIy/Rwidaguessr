@@ -30,7 +30,24 @@ try {
   // 3. Export as demo.json for parity
   fs.writeFileSync(path.join(dataDir, 'listings.demo.json'), JSON.stringify(listings, null, 2), 'utf-8');
 
-  console.log(`[Sync] Successfully synchronized ${listings.length} listings from listings.imported.json to listings.data.js, listings.demo.js, and listings.demo.json!`);
+  console.log(`[Sync] Successfully synchronized ${listings.length} sale listings from listings.imported.json to listings.data.js, listings.demo.js, and listings.demo.json!`);
+
+  // 4. Also synchronize rental listings if data/rentals.imported.json exists
+  const rentalSourceFile = path.resolve(process.cwd(), 'data/rentals.imported.json');
+  if (fs.existsSync(rentalSourceFile)) {
+    const rentalContent = fs.readFileSync(rentalSourceFile, 'utf-8');
+    const rentals = JSON.parse(rentalContent);
+    if (Array.isArray(rentals) && rentals.length > 0) {
+      const rentalDataJs = `// Automatically exported verified Moroccan rental listings for server and edge runtimes\nexport const DEFAULT_RENTAL_LISTINGS = ${JSON.stringify(rentals, null, 2)};\n`;
+      fs.writeFileSync(path.join(dataDir, 'rentals.data.js'), rentalDataJs, 'utf-8');
+
+      const rentalDemoJs = `/*\n * Real verified Moroccan rental vehicle listings (daily rates in MAD/day).\n * Used for instant client-side rendering and static/fallback operation.\n */\nwindow.DEMO_RENTAL_LISTINGS = ${JSON.stringify(rentals, null, 2)};\n`;
+      fs.writeFileSync(path.join(dataDir, 'rentals.demo.js'), rentalDemoJs, 'utf-8');
+
+      fs.writeFileSync(path.join(dataDir, 'rentals.demo.json'), JSON.stringify(rentals, null, 2), 'utf-8');
+      console.log(`[Sync] Successfully synchronized ${rentals.length} rental listings from rentals.imported.json to rentals.data.js, rentals.demo.js, and rentals.demo.json!`);
+    }
+  }
 } catch (err) {
   console.error('[Sync] Error synchronizing listings:', err);
   process.exit(1);

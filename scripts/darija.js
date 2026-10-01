@@ -356,25 +356,41 @@ export function generateEnrichedSummary(item = {}) {
     arParts.push(highKm[idHash % highKm.length]);
   }
 
+  const isRental = item.listingType === 'rental' || item.isRental === true;
+
   // City availability if known
   if (cityKey && CITY_DARIJA[cityKey]) {
     const cityText = CITY_DARIJA[cityKey];
-    const cityNotes = [
-      `موجودة للمعاينة فـ ${cityText}.`,
-      `معروضة للبيع فـ ${cityText}.`
-    ];
+    const cityNotes = isRental
+      ? [
+          `متوفرة للكراء فـ ${cityText} مع إمكانية التوصيل للمطار أو الفندق.`,
+          `معروضة للكراء اليومي فـ ${cityText}.`
+        ]
+      : [
+          `موجودة للمعاينة فـ ${cityText}.`,
+          `معروضة للبيع فـ ${cityText}.`
+        ];
     arParts.push(cityNotes[idHash % cityNotes.length]);
   }
 
   // Closing Darija
-  const closings = [
-    'الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.',
-    'واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.',
-    isBike
-      ? 'موطور مضمون وناضي، لي داه غايرتاح مع راسو بلا وجع الراس.'
-      : 'طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.',
-    'صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.'
-  ];
+  const closings = isRental
+    ? [
+        'الصيانة ديما فـ وقتها والتأمين واجد، غير شد الساروت وتوكل على الله.',
+        'واجدة للكراء ديريكت، نقية بزاف وكلشي فيها خدام ناضي.',
+        isBike
+          ? 'موطور مضمون وناضي للكراء، غادي يدوز بيك العطلة أو الغرض بلا وجع الراس.'
+          : 'طوموبيل مضمونة وناضية للكراء، غادي تدوز بيك السفر أو الخدمة بلا وجع الراس.',
+        'نقية ومراجعة مزيان فـ لاجانس، دور كونطاك واستمتع بالطريق.'
+      ]
+    : [
+        'الصيانة دورية ومنتظمة، ما خاصها حتى مصاريف زايدة، ركب وزيد.',
+        'واجدة للطريق ديريكت، وريقات خالصين وكلشي فيها خدام ناضي.',
+        isBike
+          ? 'موطور مضمون وناضي، لي داه غايرتاح مع راسو بلا وجع الراس.'
+          : 'طوموبيل مضمونة وناضية، لي داها غايرتاح مع راسو بلا وجع الراس.',
+        'صيانة فـ وقتها وما محتاجة حتى مصاريف، دور كونطاك وتوكل على الله.'
+      ];
   arParts.push(closings[(idHash >> 3) % closings.length]);
 
   // ----------------------------------------------------
@@ -450,15 +466,25 @@ export function generateEnrichedSummary(item = {}) {
 
   // English City
   if (cityKey && CITY_EN[cityKey]) {
-    enParts.push(`Available for viewing in ${CITY_EN[cityKey]}.`);
+    enParts.push(
+      isRental
+        ? `Available for daily rental in ${CITY_EN[cityKey]} with airport and hotel delivery options.`
+        : `Available for viewing in ${CITY_EN[cityKey]}.`
+    );
   }
 
   // English Closing
-  const enClosings = [
-    'Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.',
-    'Meticulously maintained and turnkey ready for its next owner with all paperwork in order.',
-    'Sound running order with up-to-date maintenance, ready to drive anywhere immediately.'
-  ];
+  const enClosings = isRental
+    ? [
+        'Fully insured, agency-maintained, and ready for immediate rental pickup.',
+        'Meticulously serviced between rentals with clean documentation and flexible duration.',
+        'Turnkey rental condition with up-to-date maintenance, ready to hit the road immediately.'
+      ]
+    : [
+        'Fully serviced, road-ready with clean documentation, and requiring zero immediate expenses.',
+        'Meticulously maintained and turnkey ready for its next owner with all paperwork in order.',
+        'Sound running order with up-to-date maintenance, ready to drive anywhere immediately.'
+      ];
   enParts.push(enClosings[(idHash >> 2) % enClosings.length]);
 
   return {

@@ -11,8 +11,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="preconnect" href="https://content.avito.ma" crossorigin />
     <link rel="preconnect" href="https://www.moteur.ma" />
+    <link rel="preconnect" href="https://static.oneclickdrive.com" crossorigin />
     <link rel="dns-prefetch" href="https://content.avito.ma" />
     <link rel="dns-prefetch" href="https://www.moteur.ma" />
+    <link rel="dns-prefetch" href="https://static.oneclickdrive.com" />
     <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Kufi+Arabic:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="styles.css" />
   </head>
@@ -46,6 +48,19 @@
         <h1 data-i18n-html="heroTitle">كم يبلغ سعر<br /><em>هذه السيارة؟</em></h1>
         <p class="intro" data-i18n="intro">خمس إعلانات وتفاصيلها الكاملة من دون أي تلميح للسعر. قدّر السعر المعروض بالدرهم.</p>
         <div class="start-card">
+          <div class="mode-selector-group">
+            <span class="mode-label" id="type-group-label" data-i18n="typeLabel">نظام اللعب</span>
+            <div class="mode-switch" role="radiogroup" aria-labelledby="type-group-label">
+              <button class="mode-button is-active" id="type-sale" type="button" role="radio" aria-checked="true" data-type="sale">
+                <span class="mode-icon">🏷️</span>
+                <span class="mode-text" data-i18n="typeSale">للبيع (شراء)</span>
+              </button>
+              <button class="mode-button" id="type-rental" type="button" role="radio" aria-checked="false" data-type="rental">
+                <span class="mode-icon">🔑</span>
+                <span class="mode-text" data-i18n="typeRental">للكراء (يومي)</span>
+              </button>
+            </div>
+          </div>
           <div class="mode-selector-group">
             <span class="mode-label" id="mode-group-label" data-i18n="modeLabel">نوع المركبات</span>
             <div class="mode-switch" role="radiogroup" aria-labelledby="mode-group-label">
@@ -313,6 +328,7 @@
       </div>
     </dialog>
     <script src="data/listings.demo.js"></script>
+    <script src="data/rentals.demo.js"></script>
     <script src="app.js"></script>
   </body>
 </html>
