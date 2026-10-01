@@ -16,17 +16,37 @@ function sample(items, count) {
   return [...items].sort(() => crypto.getRandomValues(new Uint32Array(1))[0] - 0x80000000).slice(0, count);
 }
 
-function sanitizeListingFeatures(item) {
+function sanitizeListingFeatures(item, isRental = false) {
   if (!Array.isArray(item.features)) return item.features;
   return item.features.filter((f) => {
     const label = f.label;
     const en = (label && typeof label === 'object' ? (label.en || label.fr || label.raw || '') : String(label || '')).toLowerCase().trim();
     const ar = (label && typeof label === 'object' ? (label.ar || '') : '').toLowerCase().trim();
     if (en.includes('transmission') || ar.includes('ناقل الحركة')) return false;
-    // Remove mechanical horsepower (DIN hp) only, keep fiscal horsepower (puissance fiscale)
+    // Remove mechanical horsepower (DIN hp) only, keep fiscal horsepower (puissance fiscale) for sale mode
     if ((en.includes('horsepower') && !en.includes('tax') && !en.includes('fiscale')) || (ar.includes('حصان') && !ar.includes('جبائية') && !ar.includes('ضريب')) || en.includes('puissance din')) return false;
+    if (isRental) {
+      if (en.includes('security deposit') || en.includes('caution') || ar.includes('ضمانة')) return false;
+      if (en.includes('custom') || en.includes('douane') || ar.includes('جمارك')) return false;
+      if (en.includes('tax horsepower') || en === 'tax hp' || en.includes('puissance fiscale') || ar.includes('الجبائية')) return false;
+      if (en.includes('1ère main') || en.includes('première main') || en.includes('first owner') || ar.includes('المالك الأول')) return false;
+      if (en.includes('condition') || ar.includes('الحالة والصيانة')) return false;
+    }
     const val = f.value && typeof f.value === 'object' ? (f.value.en || f.value.fr || f.value.raw || '') : String(f.value || '');
     if (!val || val.toLowerCase() === 'n/a') return false;
+    return true;
+  });
+}
+
+function sanitizeListingQuickFacts(item, isRental = false) {
+  if (!Array.isArray(item.quickFacts)) return [];
+  if (!isRental) return item.quickFacts;
+  return item.quickFacts.filter((q) => {
+    const val = (typeof q === 'object' ? (q.en || q.fr || q.ar || '') : String(q || '')).toLowerCase().trim();
+    if (!val) return false;
+    if (val.includes('dédouan') || val.includes('dedouan') || val.includes('ww au maroc') || val.includes('مجمركة') || val.includes('جمرك')) return false;
+    if (val.includes('1ère') || val.includes('main')) return false;
+    if (/\b\d+\s*cv\b/i.test(val) || val.includes('خيل')) return false;
     return true;
   });
 }
@@ -70,35 +90,6 @@ function getListingFuel(item) {
   return '';
 }
 
-const PRICE_SCRUB_REGEX = /(?:💰|prix|ثمن|tarif|vendu|cout|coût)?\s*[:=]?\s*\d{1,3}(?:[\s.,]\d{3})*\s*(?:dh|mad|dhs|درهم|د\.م|مليون|سنتيم)\b|(?:prix|ثمن)\s*[:=]?\s*[\d\s.,*]+(?:\b|dh|درهم)|(?:prix\s*fixe|prix\s*n[ée]gociable|prix\s*[àa]\s*d[ée]battre|bon\s*prix|ثمن\s*مناسب|قابل\s*للتفاوض|الثمن\s*التالي)|(?:الضريبة|ضريبة)\s*[:=]?\s*\d+\s*(?:dh|درهم)?/gi;
-
-function sanitizeListingSummary(item) {
-  if (!item.summary) return item.summary;
-  const cleanStr = (str) => {
-    if (!str || typeof str !== 'string') return str;
-    let cleaned = str
-      .replace(/^découvrez\s+l['’]annonce\s+.*?(?=[\u0600-\u06FF]|$)/i, '')
-      .replace(/\b\d{4}[A-Za-z]+_phrase\b\.?/gi, '')
-      .replace(/\bcarburant\s*:\s*[\w\s-]+\.?/gi, '')
-      .replace(/\bréférence\s*\d+\s*sur\s*moteur\.ma\.?/gi, '')
-      .replace(/\bsur\s*moteur\.ma\.?/gi, '')
-      .replace(PRICE_SCRUB_REGEX, '')
-      .replace(/\s+/g, ' ')
-      .trim();
-    return cleaned;
-  };
-
-  if (typeof item.summary === 'string') {
-    return cleanStr(item.summary);
-  }
-  return {
-    ...item.summary,
-    original: cleanStr(item.summary.original),
-    ar: cleanStr(item.summary.ar),
-    en: cleanStr(item.summary.en)
-  };
-}
-
 export async function onRequestGet({ request, env = {} }) {
   const signingSecret = env.GAME_SIGNING_SECRET || env.APP_SECRET || FALLBACK_SECRET;
   const url = new URL(request.url);
@@ -112,7 +103,7 @@ export async function onRequestGet({ request, env = {} }) {
   } else if (!isRental && env.LISTINGS_JSON) {
     try { listings = JSON.parse(env.LISTINGS_JSON); } catch (_) {}
   }
-  const valid = (listings || []).filter((item) => item.id && Number.isFinite(item.price) && item.title && item.summary && item.features);
+  const valid = (listings || []).filter((item) => item.id && Number.isFinite(item.price) && item.title && item.features);
   if (valid.length < 5) return Response.json({ error: 'At least five valid listings are required.' }, { status: 503 });
   const desiredSeconds = Number(url.searchParams.get('seconds')) || 120;
   const seconds = Math.min(MAX_SECONDS, Math.max(30, desiredSeconds));
@@ -178,15 +169,15 @@ export async function onRequestGet({ request, env = {} }) {
   const sampleCount = Math.min(pool.length, 15);
   const sampledItems = sample(pool, sampleCount);
 
-  const signedListings = await Promise.all(sampledItems.map(async ({ price, ...publicListing }) => {
+  const signedListings = await Promise.all(sampledItems.map(async ({ price, summary, ...publicListing }) => {
     const listingType = isRental ? 'rental' : (publicListing.listingType || 'sale');
     const payload = base64url(new TextEncoder().encode(JSON.stringify({ id: publicListing.id, listingType, expiresAt })));
     return {
       ...publicListing,
       listingType,
       priceUnit: isRental ? 'day' : (publicListing.priceUnit || 'total'),
-      summary: sanitizeListingSummary(publicListing),
-      features: sanitizeListingFeatures(publicListing),
+      quickFacts: sanitizeListingQuickFacts(publicListing, isRental),
+      features: sanitizeListingFeatures(publicListing, isRental),
       options: sanitizeListingOptions(publicListing),
       token: `${payload}.${await sign(payload, signingSecret)}`
     };

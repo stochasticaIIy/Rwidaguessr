@@ -23,8 +23,8 @@
 import fs from 'fs';
 import path from 'path';
 import * as cheerio from 'cheerio';
-import { terms, localizeTerm } from './dictionary.js';
-import { frenchToDarija, frenchToEnglish, detectBikeCylinders, getVehicleHorsepower } from './darija.js';
+import { localizeTerm } from './dictionary.js';
+import { detectBikeCylinders, getVehicleHorsepower } from './darija.js';
 
 const MIN_DELAY_MS = 1500;
 const DEFAULT_DELAY_MS = 2000;
@@ -50,36 +50,6 @@ function isValidMoteurUrl(urlString) {
 function cleanText(str) {
   if (!str) return '';
   return str.replace(/\s+/g, ' ').trim();
-}
-
-function sanitizeSummary(text) {
-  if (!text) return '';
-  let cleaned = text;
-
-  // Remove phone numbers (Moroccan patterns: 06..., 07..., 05..., +212..., 00212...)
-  cleaned = cleaned.replace(/(?:\+?212|00212|0)\s*[5-7](?:[\s.-]*\d{2}){4}/g, '[contact masqué]');
-  cleaned = cleaned.replace(/\b0[5-7]\d{8}\b/g, '[contact masqué]');
-  cleaned = cleaned.replace(/\b\d{10}\b/g, '[contact masqué]');
-
-  // Remove email addresses
-  cleaned = cleaned.replace(/[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/g, '[contact masqué]');
-
-  // Remove price spoiler clues (e.g. 185 000 dh, 185k, 185000, 18 millions)
-  cleaned = cleaned.replace(/\b\d{1,3}(?:[.,\s]\d{3})*\s*(?:dh|dhs|mad|dirhams?|millions?|k)\b/gi, '[prix masqué]');
-  cleaned = cleaned.replace(/prix\s*[:=]?\s*[\d\s.,]+(?:dh|dhs|mad)?/gi, '');
-
-  // Remove calls to action
-  cleaned = cleaned.replace(/(?:contactez[- ]moi|appelez|disponible sur whatsapp|tel|gsm|numéro)[\s\w:.]*/gi, '');
-
-  // Remove Moteur.ma SEO boilerplate
-  cleaned = cleaned
-    .replace(/^découvrez\s+l['’]annonce\s+.*?(?=[\u0600-\u06FF]|$)/i, '')
-    .replace(/\b\d{4}[A-Za-z]+_phrase\b\.?/gi, '')
-    .replace(/\bcarburant\s*:\s*[\w\s-]+\.?/gi, '')
-    .replace(/\bréférence\s*\d+\s*sur\s*moteur\.ma\.?/gi, '')
-    .replace(/\bsur\s*moteur\.ma\.?/gi, '');
-
-  return cleanText(cleaned).slice(0, 350);
 }
 
 export function parseMoteurHtml(html, sourceUrl) {
@@ -265,49 +235,7 @@ export function parseMoteurHtml(html, sourceUrl) {
     });
   }
 
-  // 8. Description / Summary
-  let rawDescription = '';
-  $('h3, h4, h5, .card-title, .title, .sub-title').each((_, el) => {
-    if (rawDescription) return;
-    const h = $(el).text().trim().toLowerCase();
-    if (
-      h.includes('spécification') ||
-      h.includes('specification') ||
-      h.includes('description') ||
-      h.includes('texte de l') ||
-      h.includes('texte') ||
-      h.includes('remarque') ||
-      h.includes('détail de l') ||
-      h.includes('detail de l')
-    ) {
-      let nextEl = $(el).next();
-      let t = nextEl.text().trim();
-      if (!t || t.length < 5) {
-        t = $(el).parent().find('p, .mb-5, .text-muted, .card-body').not($(el)).text().trim();
-      }
-      if (t && t.length > 5 && !t.toLowerCase().includes('options') && !t.toLowerCase().includes('caractéristique')) {
-        rawDescription = t;
-      }
-    }
-  });
-
-  if (!rawDescription) {
-    rawDescription = $('.detail-description').text() ||
-                     $('.description').text() ||
-                     $('.text_detail').text() ||
-                     $('.detail-text').text() ||
-                     $('.bloc_description').text() ||
-                     $('.ad-description').text() ||
-                     '';
-  }
-  if (!rawDescription) {
-    const descMeta = $('meta[name="description"]').attr('content');
-    if (descMeta) rawDescription = descMeta;
-  }
-  const summaryFr = sanitizeSummary(rawDescription) || 
-                    `${rawTitle} en bon état général, disponible pour visite.`;
-
-  // 9. Quick facts & features assembly
+  // 8. Quick facts & features assembly
   const year = rawFeatures['Année'] || rawFeatures['Annee'] || '';
   const mileage = rawFeatures['Kilométrage'] || rawFeatures['Kilometrage'] || '';
   const fuel = rawFeatures['Carburant'] || '';
@@ -392,44 +320,6 @@ export function parseMoteurHtml(html, sourceUrl) {
     raw: opt
   }));
 
-  const metaSummary = {
-    kind,
-    title: rawTitle,
-    year,
-    mileage,
-    fuel,
-    transmission: (gearboxVal && gearboxVal.en) || 'Manual',
-    city: rawFeatures['Ville'] || rawFeatures['ville'] || ''
-  };
-
-  // English summary and Arabic summary in Moroccan Darija
-  const summaryEn = frenchToEnglish(summaryFr, metaSummary);
-  const summaryDarija = frenchToDarija(summaryFr, metaSummary);
-
-  const PRICE_REGEX = /(?:💰|prix|ثمن|tarif|vendu|cout|coût)?\s*[:=]?\s*\d{1,3}(?:[\s.,]\d{3})*\s*(?:dh|mad|dhs|درهم|د\.م|مليون|سنتيم)\b|(?:prix|ثمن)\s*[:=]?\s*[\d\s.,*]+(?:\b|dh|درهم)|(?:prix\s*fixe|prix\s*n[ée]gociable|prix\s*[àa]\s*d[ée]battre|bon\s*prix|ثمن\s*مناسب|قابل\s*للتفاوض|الثمن\s*التالي)|(?:الضريبة|ضريبة)\s*[:=]?\s*\d+\s*(?:dh|درهم)?/gi;
-  const hadPrice = PRICE_REGEX.test(summaryFr);
-  const cleanedSummaryFr = summaryFr.replace(PRICE_REGEX, '').replace(/\s+/g, ' ').trim();
-
-  const isTooShort = cleanedSummaryFr.length < 40;
-  const isTooLong = cleanedSummaryFr.length > 200;
-
-  let summaryObj;
-  if (hadPrice || isTooShort || isTooLong) {
-    summaryObj = {
-      original: summaryDarija,
-      ar: summaryDarija,
-      en: summaryEn,
-      usedDarija: true
-    };
-  } else {
-    summaryObj = {
-      original: cleanedSummaryFr,
-      ar: cleanedSummaryFr,
-      en: cleanedSummaryFr,
-      usedDarija: false
-    };
-  }
-
   return {
     id,
     kind,
@@ -439,7 +329,6 @@ export function parseMoteurHtml(html, sourceUrl) {
     },
     price,
     quickFacts,
-    summary: summaryObj,
     features,
     options,
     images: rawImages.slice(0, 10),

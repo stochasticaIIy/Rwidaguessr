@@ -16,9 +16,7 @@
  * - Enforces a polite rate limit (--delay, default 1500ms)
  * - Identifies itself with a dedicated User-Agent
  * - Scrubs personal/contact info (phone, WhatsApp, email, agency names)
- * - Scrubs daily/weekly/monthly price mentions from descriptions to prevent gameplay spoilers
  * - Leaves equipment & options in original French for both languages
- * - Generates Moroccan Darija summaries for Arabic version & English summaries for English version
  * - Supports automatic crawling across Moroccan cities & categories
  * - Saves incrementally to JSON so progress is never lost
  *
@@ -32,7 +30,7 @@ import fs from 'fs';
 import path from 'path';
 import * as cheerio from 'cheerio';
 import { localizeTerm } from './dictionary.js';
-import { generateEnrichedSummary, detectBikeCylinders } from './darija.js';
+import { detectBikeCylinders } from './darija.js';
 
 const MIN_DELAY_MS = 200;
 const DEFAULT_DELAY_MS = 1500;
@@ -138,28 +136,6 @@ export function isValidRentalUrl(urlString) {
   }
 }
 
-export function sanitizeRentalSummary(text) {
-  if (!text) return '';
-  let cleaned = String(text);
-
-  // Scrub phone numbers (Moroccan & international)
-  cleaned = cleaned.replace(/(?:\+?212|00212|0)\s*[5-7](?:[\s.-]*\d{2}){4}/g, '');
-  cleaned = cleaned.replace(/\b0[5-7]\d{8}\b/g, '');
-  cleaned = cleaned.replace(/\b\d{10}\b/g, '');
-
-  // Scrub emails
-  cleaned = cleaned.replace(/[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/g, '');
-
-  // Scrub daily/weekly/monthly price spoilers in MAD, DH, EUR, USD
-  cleaned = cleaned.replace(/(?:à partir de|from|prix|tarif|price|rent from|starting at)?\s*[:=]?\s*(?:mad|dh|dhs|eur|usd|€|\$)?\s*\d[\d\s.,]*\s*(?:dh|dhs|mad|dirhams?|€|eur|usd|\$)?\s*(?:\/\s*(?:jour|day|semaine|week|mois|month)|par\s*(?:jour|semaine|mois)|per\s*(?:day|week|month))?/gi, '');
-  cleaned = cleaned.replace(/\b\d{2,6}\s*(?:dh|dhs|mad|dirhams?|€|eur|usd)\b/gi, '');
-
-  // Scrub calls to action & agency boilerplates
-  cleaned = cleaned.replace(/(?:contactez[- ]nous|appelez|whatsapp|réservez|book now|contact\s+[a-z0-9\s]+directly)[\s\w:.,-]*/gi, '');
-
-  return cleanText(cleaned).slice(0, 320);
-}
-
 const KNOWN_BRANDS = [
   'Mercedes-Benz', 'Land Rover', 'Range Rover', 'Alfa Romeo', 'Aston Martin',
   'Volkswagen', 'Renault', 'Peugeot', 'Citroën', 'Citroen', 'Dacia', 'Hyundai',
@@ -209,24 +185,28 @@ function buildRentalFeatures({
   gearboxFr,
   doors,
   minDays,
-  depositMad,
   engineCc,
   title,
   location
 }) {
   const fuelLoc = localizeTerm(fuelFr || (isMoto ? 'Essence' : 'Diesel'));
   const gearboxLoc = localizeTerm(gearboxFr || 'Automatique');
-  const customsVal = Number(year) >= 2024
-    ? { en: 'WW au Maroc', ar: 'WW بالمغرب' }
-    : { en: 'Dédouanée', ar: 'مجمركة' };
+  const cleanMileage = mileage ? String(mileage).trim() : '';
 
   const features = [
     { label: { en: 'Brand', ar: 'العلامة' }, value: { en: brand, ar: brand } },
     { label: { en: 'Model', ar: 'الطراز' }, value: { en: model, ar: model } },
-    { label: { en: 'Year', ar: 'السنة' }, value: { en: String(year), ar: String(year) } },
-    { label: { en: 'Mileage', ar: 'المسافة المقطوعة' }, value: { en: mileage, ar: mileage } },
-    { label: { en: 'Fuel', ar: 'الوقود' }, value: fuelLoc }
+    { label: { en: 'Year', ar: 'السنة' }, value: { en: String(year), ar: String(year) } }
   ];
+
+  if (cleanMileage) {
+    features.push({
+      label: { en: 'Mileage', ar: 'المسافة المقطوعة' },
+      value: { en: cleanMileage, ar: cleanMileage }
+    });
+  }
+
+  features.push({ label: { en: 'Fuel', ar: 'الوقود' }, value: fuelLoc });
 
   if (!isMoto && doors) {
     features.push({ label: { en: 'Doors', ar: 'الأبواب' }, value: { en: String(doors), ar: String(doors) } });
@@ -257,21 +237,14 @@ function buildRentalFeatures({
     });
   }
 
-  if (depositMad && depositMad > 0) {
-    const formattedDep = new Intl.NumberFormat('en-US').format(depositMad);
-    features.push({
-      label: { en: 'Security deposit', ar: 'مبلغ الضمانة' },
-      value: { en: `${formattedDep} MAD`, ar: `${formattedDep} درهم` }
-    });
-  }
-
   features.push({ label: { en: 'Gearbox', ar: 'علبة السرعات' }, value: gearboxLoc });
-  features.push({ label: { en: 'Customs status', ar: 'حالة الجمارك' }, value: customsVal });
   features.push({ label: { en: 'City', ar: 'المدينة' }, value: { en: location.city, ar: location.cityAr } });
 
-  const quickFacts = isMoto
-    ? [{ en: String(year), ar: String(year) }, { en: mileage, ar: mileage }, fuelLoc, gearboxLoc]
-    : [{ en: String(year), ar: String(year) }, { en: mileage, ar: mileage }, fuelLoc, customsVal];
+  const quickFacts = [{ en: String(year), ar: String(year) }];
+  if (cleanMileage) {
+    quickFacts.push({ en: cleanMileage, ar: cleanMileage });
+  }
+  quickFacts.push(fuelLoc, gearboxLoc);
 
   return { features, quickFacts };
 }
@@ -324,17 +297,14 @@ export function parseGoRideHtml(html, sourceUrl) {
         : 'Diesel';
   const gearboxFr = /auto/i.test(gearRaw) ? 'Automatique' : 'Manuelle';
 
-  const kmMatch = mainText.match(/([\d.]+\s*-\s*[\d.]+\s*km)/i);
-  const mileage = kmMatch ? kmMatch[1].replace(/\./g, ',') : '15,000 km';
+  const kmMatch = mainText.match(/([\d.]+\s*-\s*[\d.]+\s*km|Plus de\s*[\d.]+\s*km)/i);
+  const mileage = kmMatch ? kmMatch[1].replace(/\./g, ',') : '';
 
   const doorsMatch = mainText.match(/(\d)\s*portes/i);
-  const doors = doorsMatch ? doorsMatch[1] : '5';
+  const doors = doorsMatch ? doorsMatch[1] : '';
 
   const minDaysMatch = mainText.match(/Durée minimale(?:\s*de location)?\s*:?\s*(\d+)\s*jours?/i);
-  const minDays = minDaysMatch ? parseInt(minDaysMatch[1], 10) : 2;
-
-  const depMatch = mainText.match(/Dépôt de garantie\s*:?\s*(\d[\d\s.,]*)\s*dh/i);
-  const depositMad = depMatch ? parseInt(depMatch[1].replace(/[^\d]/g, ''), 10) : 5000;
+  const minDays = minDaysMatch ? parseInt(minDaysMatch[1], 10) : null;
 
   // Extract images from _next/image or direct supabase URLs
   const $full = cheerio.load(html);
@@ -370,27 +340,59 @@ export function parseGoRideHtml(html, sourceUrl) {
     gearboxFr,
     doors,
     minDays,
-    depositMad,
     title: fullTitle,
     location
   });
 
-  const rawOptions = [
-    'Climatisation',
-    'Bluetooth',
-    'Régulateur de vitesse',
-    'ABS',
-    'Airbags',
-    'Livraison aéroport',
-    'Assurance incluse'
+  // Extract only real options/badges explicitly present on the GoRide listing page & embedded carDetails JSON
+  const rawOptions = [];
+  const unescapedHtml = html.replace(/\\"/g, '"');
+  const carDetailsIdx = unescapedHtml.indexOf('"carDetails"');
+  const carDetailsChunk = carDetailsIdx >= 0 ? unescapedHtml.slice(carDetailsIdx, carDetailsIdx + 3500) : '';
+
+  if (/\ba[ée]roport\b/i.test(mainText) || /"airportPickup"\s*:\s*true/i.test(carDetailsChunk)) {
+    rawOptions.push('Livraison aéroport');
+  }
+  if (/"isOnlinePayment"\s*:\s*true/i.test(carDetailsChunk)) {
+    rawOptions.push('Paiement en ligne');
+  }
+  const litrageMatch = carDetailsChunk.match(/"litrage"\s*:\s*"([0-9.]+)"/i);
+  if (litrageMatch && litrageMatch[1] && parseFloat(litrageMatch[1]) > 0) {
+    rawOptions.push(`Moteur ${litrageMatch[1]}L`);
+  }
+  const colorMatch = carDetailsChunk.match(/"color"\s*:\s*"([^"]+)"/i);
+  if (colorMatch && colorMatch[1] && !/^couleur$/i.test(colorMatch[1].trim())) {
+    const firstColor = colorMatch[1].split(',')[0].trim();
+    if (firstColor && firstColor.length < 25) {
+      rawOptions.push(`Couleur : ${firstColor}`);
+    }
+  }
+  const minAgeMatch = mainText.match(/Âge minimum du conducteur\s*(\d+)\s*ans/i) || carDetailsChunk.match(/"driverMinimumAge"\s*,\s*"value"\s*:\s*"(\d+)"/i);
+  if (minAgeMatch && minAgeMatch[1]) {
+    rawOptions.push(`Âge min : ${minAgeMatch[1]} ans`);
+  }
+
+  const goRideOptionPatterns = [
+    { regex: /\bclimatisation\b/i, label: 'Climatisation' },
+    { regex: /\bbluetooth\b/i, label: 'Bluetooth' },
+    { regex: /\br[ée]gulateur\s+de\s+vitesse\b/i, label: 'Régulateur de vitesse' },
+    { regex: /\bcam[ée]ra\s+de\s+recul\b/i, label: 'Caméra de recul' },
+    { regex: /\bgps\b/i, label: 'GPS' },
+    { regex: /\bcarplay\b/i, label: 'Apple CarPlay' },
+    { regex: /\bandroid\s+auto\b/i, label: 'Android Auto' },
+    { regex: /\bsi[èe]ges?\s+cuir\b/i, label: 'Sièges cuir' },
+    { regex: /\btoit\s+(?:ouvrant|panoramique)\b/i, label: 'Toit panoramique' },
+    { regex: /\bkilom[ée]trage\s+illimit[ée]\b/i, label: 'Kilométrage illimité' }
   ];
-  if (gearboxFr === 'Automatique') rawOptions.push('Caméra de recul');
-  if (Number(year) >= 2024) rawOptions.push('Apple CarPlay / Android Auto');
-  if (price >= 600) rawOptions.push('Sièges cuir', 'Toit ouvrant');
+  for (const { regex, label } of goRideOptionPatterns) {
+    if ((regex.test(mainText) || regex.test(carDetailsChunk)) && !rawOptions.includes(label)) {
+      rawOptions.push(label);
+    }
+  }
 
   const options = rawOptions.map((opt) => ({ en: opt, ar: opt, raw: opt }));
 
-  const tempItem = {
+  return {
     id,
     kind: 'Car',
     listingType: 'rental',
@@ -404,16 +406,6 @@ export function parseGoRideHtml(html, sourceUrl) {
     sourceUrl,
     location
   };
-
-  const enriched = generateEnrichedSummary(tempItem);
-  tempItem.summary = {
-    original: enriched.ar,
-    ar: enriched.ar,
-    en: enriched.en,
-    usedDarija: true
-  };
-
-  return tempItem;
 }
 
 /**
@@ -463,8 +455,54 @@ export function parseOneClickDriveHtml(html, sourceUrl) {
     .filter((v, idx, arr) => arr.indexOf(v) === idx)
     .slice(0, 8);
 
+  // Extract real scraped options from .new-specs-features before removing scripts/styles
+  const rawOptions = [];
+  $('.new-specs-features li').each((_, el) => {
+    const opt = cleanText($(el).text());
+    if (opt && opt.length > 1 && opt.length < 55 && !rawOptions.includes(opt)) {
+      rawOptions.push(opt);
+    }
+  });
+
   $('script, style, nav, header, footer').remove();
   const bodyText = cleanText($('body').text());
+
+  if (rawOptions.length === 0) {
+    const specBlock = bodyText.match(/Specifications:\s*([\s\S]*?)(?:Why hire|Requirements|Frequently|$)/i);
+    if (specBlock) {
+      const items = [...specBlock[1].matchAll(/\d+\.\s*([A-Za-z0-9\s/-]+?)(?=\s*\d+\.|$)/g)].map((m) => cleanText(m[1]));
+      for (const it of items) {
+        if (it && it.length > 1 && it.length < 55 && !rawOptions.includes(it)) rawOptions.push(it);
+      }
+    }
+  }
+  const fitsMatch = bodyText.match(/fits\s*(\d+)\s*passengers?(?:\s*and\s*(\d+)\s*[a-z-]*\s*bags?)?/i);
+  if (fitsMatch) {
+    if (fitsMatch[1]) {
+      const pLabel = `${fitsMatch[1]} places`;
+      if (!rawOptions.includes(pLabel)) rawOptions.push(pLabel);
+    }
+    if (fitsMatch[2]) {
+      const bNum = parseInt(fitsMatch[2], 10);
+      const bLabel = `${bNum} ${bNum === 1 ? 'bagage' : 'bagages'}`;
+      if (!rawOptions.includes(bLabel)) rawOptions.push(bLabel);
+    }
+  }
+  if ((/basic comprehensive insurance|Insurance included/i.test(bodyText)) && !rawOptions.includes('Assurance incluse')) {
+    rawOptions.push('Assurance incluse');
+  }
+  if (/standard mileage limit of Unlimited/i.test(bodyText) && !rawOptions.includes('Kilométrage illimité')) {
+    rawOptions.push('Kilométrage illimité');
+  } else {
+    const kmDayMatch = bodyText.match(/standard mileage limit of\s*(\d+)\s*km/i);
+    if (kmDayMatch && kmDayMatch[1]) {
+      const kmLabel = `${kmDayMatch[1]} km/jour inclus`;
+      if (!rawOptions.includes(kmLabel)) rawOptions.push(kmLabel);
+    }
+  }
+  if (/Free Delivery/i.test(bodyText) && !rawOptions.includes('Livraison gratuite')) {
+    rawOptions.push('Livraison gratuite');
+  }
 
   let fuelFr = 'Diesel';
   const fuelSpecMatch = bodyText.match(/Fuel Type\s+(Diesel|Petrol|Hybrid|Electric|Essence)/i);
@@ -483,13 +521,14 @@ export function parseOneClickDriveHtml(html, sourceUrl) {
   const gearMatch = bodyText.match(/Gearbox\s+(Auto|Automatic|Manual)/i);
   const gearboxFr = gearMatch && /man/i.test(gearMatch[1]) ? 'Manuelle' : 'Automatique';
 
-  const doorsMatch = bodyText.match(/No\.\s*of\s*Doors\s*(\d)/i);
-  const doors = doorsMatch ? doorsMatch[1] : '4';
+  const doorsMatch = bodyText.match(/No\.\s*of\s*Doors\s*(\d)/i) || bodyText.match(/This\s*(\d)\s*door/i);
+  const doors = doorsMatch ? doorsMatch[1] : '';
 
   const minDaysMatch = bodyText.match(/Minimum\s*(\d+)\s*days?\s*rental/i);
-  const minDays = minDaysMatch ? parseInt(minDaysMatch[1], 10) : 2;
+  const minDays = minDaysMatch ? parseInt(minDaysMatch[1], 10) : null;
 
-  const mileage = Number(year) >= 2024 ? '12,000 km' : '35,000 km';
+  // OneClickDrive does not list odometer mileage; only extract if explicitly stated as odometer
+  const mileage = '';
   const location = resolveLocationFromText(sourceUrl, bodyText, hashString(id));
 
   const { features, quickFacts } = buildRentalFeatures({
@@ -502,26 +541,13 @@ export function parseOneClickDriveHtml(html, sourceUrl) {
     gearboxFr,
     doors,
     minDays,
-    depositMad: price >= 1200 ? 15000 : 5000,
     title: fullTitle,
     location
   });
 
-  const rawOptions = [
-    'Climatisation automatique',
-    'Bluetooth',
-    'Régulateur de vitesse',
-    'Caméra de recul',
-    'Navigation GPS',
-    'Assurance incluse'
-  ];
-  if (/Free Delivery/i.test(bodyText)) rawOptions.push('Livraison gratuite');
-  if (/Leather|cuir/i.test(bodyText) || price >= 800) rawOptions.push('Sièges cuir');
-  if (/CarPlay/i.test(bodyText) || Number(year) >= 2023) rawOptions.push('Apple CarPlay');
-
   const options = rawOptions.map((opt) => ({ en: opt, ar: opt, raw: opt }));
 
-  const tempItem = {
+  return {
     id,
     kind: 'Car',
     listingType: 'rental',
@@ -535,16 +561,6 @@ export function parseOneClickDriveHtml(html, sourceUrl) {
     sourceUrl,
     location
   };
-
-  const enriched = generateEnrichedSummary(tempItem);
-  tempItem.summary = {
-    original: enriched.ar,
-    ar: enriched.ar,
-    en: enriched.en,
-    usedDarija: true
-  };
-
-  return tempItem;
 }
 
 /**
@@ -583,8 +599,8 @@ export function parseRentalMotoMarrakechHtml(html, sourceUrl, fallbackImg = '') 
   const gearboxFr = isScooter || /x-adv/i.test(fullTitle) ? 'Automatique' : 'Manuelle';
 
   const year = '2024';
-  const mileage = '12,000 km';
-  const location = resolveLocationFromText('Marrakech', 0);
+  const mileage = '';
+  const location = resolveLocationFromText('Marrakech', '', 0);
 
   const { features, quickFacts } = buildRentalFeatures({
     isMoto: true,
@@ -594,26 +610,23 @@ export function parseRentalMotoMarrakechHtml(html, sourceUrl, fallbackImg = '') 
     mileage,
     fuelFr: 'Essence',
     gearboxFr,
-    minDays: 2,
-    depositMad: price >= 700 ? 8000 : 3000,
+    minDays: null,
     engineCc,
     title: fullTitle,
     location
   });
 
-  const rawOptions = [
-    'Casque inclus',
-    'Antivol inclus',
-    'Assistance routière 24/7',
-    'Assurance incluse',
-    'Démarrage électrique'
-  ];
-  if (!isScooter) rawOptions.push('ABS', 'Support téléphone');
-  else rawOptions.push('Coffre sous selle', 'Top case');
+  // Extract only real included options/modules scraped from RentalMotoMarrakech HTML
+  const rawOptions = [];
+  if (/A motorcycle lock is included/i.test(text)) rawOptions.push('Antivol inclus');
+  if (/Roadside breakdown assistance/i.test(text)) rawOptions.push('Assistance routière');
+  if (/Driver helmet is included/i.test(text)) rawOptions.push('Casque conducteur inclus');
+  if (/Basic insurance is included/i.test(text)) rawOptions.push('Assurance de base incluse');
+  if (/Optional passenger helmet[\s\S]{0,80}\+\s*0\.00\s*€/i.test(text)) rawOptions.push('Casque passager gratuit');
 
   const options = rawOptions.map((opt) => ({ en: opt, ar: opt, raw: opt }));
 
-  const tempItem = {
+  return {
     id,
     kind: 'Moto',
     listingType: 'rental',
@@ -627,16 +640,6 @@ export function parseRentalMotoMarrakechHtml(html, sourceUrl, fallbackImg = '') 
     sourceUrl,
     location
   };
-
-  const enriched = generateEnrichedSummary(tempItem);
-  tempItem.summary = {
-    original: enriched.ar,
-    ar: enriched.ar,
-    en: enriched.en,
-    usedDarija: true
-  };
-
-  return tempItem;
 }
 
 /**
@@ -670,33 +673,29 @@ export function parseLocationScooterMarrakechHtml(html, sourceUrl) {
 
   const yearMatch = text.match(/Model:\s*(20\d\d)/i);
   const year = yearMatch ? yearMatch[1] : '2024';
-  const location = resolveLocationFromText('Marrakech', 0);
+  const location = resolveLocationFromText('Marrakech', '', 0);
 
   const { features, quickFacts } = buildRentalFeatures({
     isMoto: true,
     brand,
     model,
     year,
-    mileage: '9,500 km',
+    mileage: '',
     fuelFr: 'Essence',
     gearboxFr: 'Automatique',
-    minDays: 2,
-    depositMad: 2000,
+    minDays: /2 to 4 Days/i.test(text) ? 2 : null,
     engineCc: /125/i.test(fullTitle) ? '125' : '50',
     title: fullTitle,
     location
   });
 
-  const rawOptions = [
-    '2 Casques inclus',
-    'Assurance tous risques (Franchise 0 DH)',
-    'Antivol inclus',
-    'Kilométrage illimité',
-    'Coffre sous selle',
-    'Livraison hôtel / riad'
-  ];
+  // Extract only real options present in the Location-Scooter-Marrakech HTML
+  const rawOptions = [];
+  if (/Zero deductible insurance|Franchise 0/i.test(text)) rawOptions.push('Franchise 0 € (Zero deductible insurance)');
+  if (/Collision Damage Waiver/i.test(text)) rawOptions.push('Collision Damage Waiver');
+  if (/Anti-theft protection/i.test(text)) rawOptions.push('Anti-theft protection');
 
-  const tempItem = {
+  return {
     id,
     kind: 'Moto',
     listingType: 'rental',
@@ -710,16 +709,6 @@ export function parseLocationScooterMarrakechHtml(html, sourceUrl) {
     sourceUrl,
     location
   };
-
-  const enriched = generateEnrichedSummary(tempItem);
-  tempItem.summary = {
-    original: enriched.ar,
-    ar: enriched.ar,
-    en: enriched.en,
-    usedDarija: true
-  };
-
-  return tempItem;
 }
 
 /**
@@ -790,6 +779,9 @@ export async function crawlMotoNomadFleet() {
 
     const parsed = JSON.parse(m[1]);
     const bikes = Array.isArray(parsed.bikes) ? parsed.bikes : [];
+    const optionCatalog = new Map(
+      (Array.isArray(parsed.options) ? parsed.options : []).map((o) => [Number(o.id), cleanText(o.name)])
+    );
 
     // MotoNomad delivers across Casablanca, Rabat, Tanger, Fès
     const mnLocations = [
@@ -822,24 +814,19 @@ export async function crawlMotoNomadFleet() {
         brand,
         model,
         year,
-        mileage: '8,000 km',
+        mileage: '',
         fuelFr: /oxwin|es1/i.test(b.name) ? 'Électrique' : 'Essence',
         gearboxFr,
-        minDays: b.min_days || 2,
-        depositMad: price >= 900 ? 10000 : 3500,
+        minDays: b.min_days || null,
         engineCc,
         title: fullTitle,
         location: loc
       });
 
-      const rawOptions = [
-        'Casque homologué inclus',
-        'Système antivol',
-        'Assurance incluse',
-        'Assistance 24/7',
-        'Support téléphone USB'
-      ];
-      if (!isScooter) rawOptions.push('ABS', 'Top case aluminium');
+      // Extract real options from b.free_options mapped against MotoNomad's options catalog
+      const rawOptions = Array.isArray(b.free_options)
+        ? b.free_options.map((idNum) => optionCatalog.get(Number(idNum))).filter(Boolean)
+        : [];
 
       const sourceUrl = `https://motonomad.ma/motorcycle-rental-list/#bike-${b.id}`;
       const item = {
@@ -856,8 +843,6 @@ export async function crawlMotoNomadFleet() {
         sourceUrl,
         location: loc
       };
-      const enriched = generateEnrichedSummary(item);
-      item.summary = { original: enriched.ar, ar: enriched.ar, en: enriched.en, usedDarija: true };
       results.push(item);
     }
   } catch (err) {
@@ -908,24 +893,22 @@ export async function crawlAganaFleet() {
         brand,
         model,
         year: '2024',
-        mileage: '10,000 km',
+        mileage: '',
         fuelFr: 'Essence',
         gearboxFr: isScooter ? 'Automatique' : 'Manuelle',
-        minDays: 2,
-        depositMad: isScooter ? 3000 : 6500,
+        minDays: null,
         engineCc,
         title: fullTitle,
         location: loc
       });
 
-      const rawOptions = [
-        'Casque Pro inclus',
-        'Kilométrage illimité',
-        'Livraison aéroport',
-        '2ème conducteur gratuit',
-        'Assurance incluse'
-      ];
-      if (/Top Case/i.test(text)) rawOptions.push('Top case inclus');
+      // Extract only real options listed on the AganaMobility page
+      const rawOptions = [];
+      if (/Helmet Pro/i.test(text)) rawOptions.push('Helmet Pro');
+      if (/Unlimited Mileage/i.test(text)) rawOptions.push('Unlimited Mileage');
+      if (/Delivery airport/i.test(text)) rawOptions.push('Delivery airport');
+      if (/2nd Drivers/i.test(text)) rawOptions.push('2nd Drivers');
+      if (/Top Case/i.test(text)) rawOptions.push('Top Case');
 
       const item = {
         id: `agana-${slug}`,
@@ -941,8 +924,6 @@ export async function crawlAganaFleet() {
         sourceUrl: url,
         location: loc
       };
-      const enriched = generateEnrichedSummary(item);
-      item.summary = { original: enriched.ar, ar: enriched.ar, en: enriched.en, usedDarija: true };
       results.push(item);
     } catch (_) {}
   }
