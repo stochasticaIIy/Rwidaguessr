@@ -270406,5 +270406,6896 @@ export const DEFAULT_LISTINGS = [
       "en": "Very clean Cimatti monstre - Cimatti alien 400 (2025), well maintained and in great condition, ready to ride with no extra costs.",
       "usedDarija": true
     }
+  },
+  {
+    "id": "moteur-673493",
+    "kind": "Car",
+    "title": {
+      "en": "Tesla Model Y",
+      "ar": "Tesla Model Y"
+    },
+    "price": 395000,
+    "quickFacts": [
+      {
+        "en": "2022",
+        "ar": "2022"
+      },
+      {
+        "en": "53,000 km",
+        "ar": "53,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Tesla",
+          "ar": "Tesla"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Model Y",
+          "ar": "Model Y"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2022",
+          "ar": "2022"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "53,000 km",
+          "ar": "53,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://content.avito.ma/classifieds/images/10155553712?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155553711?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155553710?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155553713?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/673493/tesla-model-y.html",
+    "summary": {
+      "ar": "Tesla Model Y نقية بزاف موديل 2022، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Tesla Model Y 2022, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "casa-settat",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
+  },
+  {
+    "id": "moteur-652250",
+    "kind": "Car",
+    "title": {
+      "en": "Mini Cooper",
+      "ar": "Mini Cooper"
+    },
+    "price": 325000,
+    "quickFacts": [
+      {
+        "en": "2026",
+        "ar": "2026"
+      },
+      {
+        "en": "5,085 km",
+        "ar": "5,085 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Mini",
+          "ar": "Mini"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Cooper",
+          "ar": "Cooper"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2026",
+          "ar": "2026"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "5,085 km",
+          "ar": "5,085 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154568284-613419.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154568285-140270.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154568297-884026.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154568299-848498.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154568298-622710.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154568300-423960.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154568301-877171.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154568302-258520.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154568304-505496.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154568303-568942.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/652250/mini-cooper.html",
+    "summary": {
+      "ar": "Mini Cooper نقية بزاف موديل 2026، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Mini Cooper 2026, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "rabat-sale",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
+  },
+  {
+    "id": "moteur-672188",
+    "kind": "Car",
+    "title": {
+      "en": "Tesla Model Y",
+      "ar": "Tesla Model Y"
+    },
+    "price": 550000,
+    "quickFacts": [
+      {
+        "en": "2023",
+        "ar": "2023"
+      },
+      {
+        "en": "70,000 km",
+        "ar": "70,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Tesla",
+          "ar": "Tesla"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Model Y",
+          "ar": "Model Y"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2023",
+          "ar": "2023"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "70,000 km",
+          "ar": "70,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://content.avito.ma/classifieds/images/10155542414?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155542411?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155542412?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155542413?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155542417?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155542416?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/672188/tesla-model-y.html",
+    "summary": {
+      "ar": "Tesla Model Y نقية بزاف موديل 2023، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Tesla Model Y 2023, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "marrakech-safi",
+      "regionName": {
+        "ar": "مراكش - آسفي",
+        "en": "Marrakech - Safi"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
+  },
+  {
+    "id": "moteur-680026",
+    "kind": "Car",
+    "title": {
+      "en": "Seres 3",
+      "ar": "Seres 3"
+    },
+    "price": 230000,
+    "quickFacts": [
+      {
+        "en": "2022",
+        "ar": "2022"
+      },
+      {
+        "en": "60,000 km",
+        "ar": "60,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Seres",
+          "ar": "Seres"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "3",
+          "ar": "3"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2022",
+          "ar": "2022"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "60,000 km",
+          "ar": "60,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Origin",
+          "ar": "الأصل"
+        },
+        "value": {
+          "en": "Bought new in Morocco",
+          "ar": "جديدة بالمغرب"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://content.avito.ma/classifieds/images/10155847593?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155847609?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155847610?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155847611?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155847608?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155847635?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155847634?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155847627?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/680026/seres-3.html",
+    "summary": {
+      "ar": "Seres 3 نقية بزاف موديل 2022، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Seres 3 2022, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
+  },
+  {
+    "id": "moteur-487842",
+    "kind": "Car",
+    "title": {
+      "en": "Mercedes-Benz Classe GLE",
+      "ar": "Mercedes-Benz Classe GLE"
+    },
+    "price": 949000,
+    "quickFacts": [
+      {
+        "en": "2026",
+        "ar": "2026"
+      },
+      {
+        "en": "1 km",
+        "ar": "1 كم"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Mercedes-Benz",
+          "ar": "Mercedes-Benz"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Classe GLE",
+          "ar": "Classe GLE"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2026",
+          "ar": "2026"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "1 km",
+          "ar": "1 كم"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148740002-908353.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148739997-775377.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148740003-654783.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148739994-904121.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148739995-697405.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148739993-125657.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148740000-245924.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148739999-866971.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148739986-221627.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148739985-548075.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/487842/mercedes-benz-classe-gle.html",
+    "summary": {
+      "ar": "Mercedes-Benz Classe GLE نقية بزاف موديل 2026، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Mercedes-Benz Classe GLE 2026, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "souss-massa",
+      "regionName": {
+        "ar": "سوس - ماسة (أكادير)",
+        "en": "Souss - Massa (Agadir)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
+  },
+  {
+    "id": "moteur-685761",
+    "kind": "Car",
+    "title": {
+      "en": "Mercedes-Benz Classe GLC",
+      "ar": "Mercedes-Benz Classe GLC"
+    },
+    "price": 615000,
+    "quickFacts": [
+      {
+        "en": "2021",
+        "ar": "2021"
+      },
+      {
+        "en": "175,000 km",
+        "ar": "175,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Mercedes-Benz",
+          "ar": "Mercedes-Benz"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Classe GLC",
+          "ar": "Classe GLC"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2021",
+          "ar": "2021"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "175,000 km",
+          "ar": "175,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Fès",
+          "ar": "فاس"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155724996-369242.jpg",
+      "https://content.avito.ma/classifieds/images/10156098066?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156098073?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156098076?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156098074?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156098075?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156098082?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156098079?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/685761/mercedes-benz-classe-glc.html",
+    "summary": {
+      "ar": "Mercedes-Benz Classe GLC نقية بزاف موديل 2021، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Mercedes-Benz Classe GLC 2021, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "fes-meknes",
+      "regionName": {
+        "ar": "فاس - مكناس",
+        "en": "Fès - Meknès"
+      },
+      "city": "Fès",
+      "cityAr": "فاس"
+    }
+  },
+  {
+    "id": "moteur-489652",
+    "kind": "Car",
+    "title": {
+      "en": "Mercedes-Benz Classe GLC",
+      "ar": "Mercedes-Benz Classe GLC"
+    },
+    "price": 615000,
+    "quickFacts": [
+      {
+        "en": "2022",
+        "ar": "2022"
+      },
+      {
+        "en": "130,000 km",
+        "ar": "130,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Mercedes-Benz",
+          "ar": "Mercedes-Benz"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Classe GLC",
+          "ar": "Classe GLC"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2022",
+          "ar": "2022"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "130,000 km",
+          "ar": "130,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153278903-163785.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153278908-440609.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153278915-559799.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153278909-208462.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153278910-939290.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153278912-874555.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153278911-433743.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153278904-272614.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153278905-800084.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153278906-255530.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489652/mercedes-benz-classe-glc.html",
+    "summary": {
+      "ar": "Mercedes-Benz Classe GLC نقية بزاف موديل 2022، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Mercedes-Benz Classe GLC 2022, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "casa-settat",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
+  },
+  {
+    "id": "moteur-493844",
+    "kind": "Car",
+    "title": {
+      "en": "BMW i4",
+      "ar": "BMW i4"
+    },
+    "price": 270900,
+    "quickFacts": [
+      {
+        "en": "2025",
+        "ar": "2025"
+      },
+      {
+        "en": "4,000 km",
+        "ar": "4,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "BMW",
+          "ar": "BMW"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "i4",
+          "ar": "i4"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2025",
+          "ar": "2025"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "4,000 km",
+          "ar": "4,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152367393-653392.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152367395-945277.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152367394-548460.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152367398-631782.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152367396-125291.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152367399-500043.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152367402-696538.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152367406-366907.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152367404-850938.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152367403-531406.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/493844/bmw-i4.html",
+    "summary": {
+      "ar": "BMW i4 نقية بزاف موديل 2025، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean BMW i4 2025, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "rabat-sale",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
+  },
+  {
+    "id": "moteur-674462",
+    "kind": "Car",
+    "title": {
+      "en": "Autre Autre",
+      "ar": "Autre Autre"
+    },
+    "price": 270900,
+    "quickFacts": [
+      {
+        "en": "2015",
+        "ar": "2015"
+      },
+      {
+        "en": "0 km",
+        "ar": "0 كم"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Autre",
+          "ar": "Autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Autre",
+          "ar": "Autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2015",
+          "ar": "2015"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "0 km",
+          "ar": "0 كم"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155595656-938072.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155595658-531739.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155595659-523034.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155595661-589217.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155595643-400508.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155189228-921840.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151142742-235760.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10129239111-484307.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/674462/autre-autre.html",
+    "summary": {
+      "ar": "Autre Autre نقية بزاف موديل 2015، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Autre Autre 2015, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "marrakech-safi",
+      "regionName": {
+        "ar": "مراكش - آسفي",
+        "en": "Marrakech - Safi"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
+  },
+  {
+    "id": "moteur-490969",
+    "kind": "Car",
+    "title": {
+      "en": "Hyundai IONIQ",
+      "ar": "Hyundai IONIQ"
+    },
+    "price": 390000,
+    "quickFacts": [
+      {
+        "en": "2023",
+        "ar": "2023"
+      },
+      {
+        "en": "43,294 km",
+        "ar": "43,294 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Hyundai",
+          "ar": "Hyundai"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "IONIQ",
+          "ar": "IONIQ"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2023",
+          "ar": "2023"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "43,294 km",
+          "ar": "43,294 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148905079-515027.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148905080-417822.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148905086-925472.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148905083-606733.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148905084-374683.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148905085-521329.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148905082-899000.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10148905081-832687.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154837144-906609.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/490969/hyundai-ioniq.html",
+    "summary": {
+      "ar": "Hyundai IONIQ نقية بزاف موديل 2023، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Hyundai IONIQ 2023, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
+  },
+  {
+    "id": "moteur-654161",
+    "kind": "Car",
+    "title": {
+      "en": "Mercedes-Benz Autre",
+      "ar": "Mercedes-Benz Autre"
+    },
+    "price": 192900,
+    "quickFacts": [
+      {
+        "en": "2023",
+        "ar": "2023"
+      },
+      {
+        "en": "74,000 km",
+        "ar": "74,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Mercedes-Benz",
+          "ar": "Mercedes-Benz"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Autre",
+          "ar": "Autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2023",
+          "ar": "2023"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "74,000 km",
+          "ar": "74,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154667148-589158.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154667170-506079.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154667165-789707.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154667166-136229.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154667173-813583.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154667171-626715.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154667174-476011.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154667167-607098.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154667172-385840.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154667175-394766.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/654161/mercedes-benz-autre.html",
+    "summary": {
+      "ar": "Mercedes-Benz Autre نقية بزاف موديل 2023، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Mercedes-Benz Autre 2023, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "souss-massa",
+      "regionName": {
+        "ar": "سوس - ماسة (أكادير)",
+        "en": "Souss - Massa (Agadir)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
+  },
+  {
+    "id": "moteur-682134",
+    "kind": "Car",
+    "title": {
+      "en": "Renault Megane",
+      "ar": "Renault Megane"
+    },
+    "price": 280000,
+    "quickFacts": [
+      {
+        "en": "2024",
+        "ar": "2024"
+      },
+      {
+        "en": "15,000 km",
+        "ar": "15,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Renault",
+          "ar": "Renault"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Megane",
+          "ar": "Megane"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2024",
+          "ar": "2024"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "15,000 km",
+          "ar": "15,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155717582-450361.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155111470-256880.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151122420-790021.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153559955-946851.jpg",
+      "https://content.avito.ma/classifieds/images/10155941967?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155941964?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155941966?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155941965?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155941968?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/682134/renault-megane.html",
+    "summary": {
+      "ar": "Renault Megane نقية بزاف موديل 2024، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Renault Megane 2024, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "casa-settat",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
+  },
+  {
+    "id": "moteur-489440",
+    "kind": "Car",
+    "title": {
+      "en": "Volvo XC40",
+      "ar": "Volvo XC40"
+    },
+    "price": 250000,
+    "quickFacts": [
+      {
+        "en": "2021",
+        "ar": "2021"
+      },
+      {
+        "en": "115,000 km",
+        "ar": "115,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Volvo",
+          "ar": "Volvo"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "XC40",
+          "ar": "XC40"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2021",
+          "ar": "2021"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "115,000 km",
+          "ar": "115,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147667000-661951.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147667000-892564.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147667067-242119.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147667067-763070.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147667068-702029.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147667068-609593.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147667065-157797.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147667065-949785.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147667066-504942.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147667066-600906.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489440/volvo-xc40.html",
+    "summary": {
+      "ar": "Volvo XC40 نقية بزاف موديل 2021، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Volvo XC40 2021, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "rabat-sale",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
+  },
+  {
+    "id": "moteur-485943",
+    "kind": "Car",
+    "title": {
+      "en": "Volkswagen Autre",
+      "ar": "Volkswagen Autre"
+    },
+    "price": 219000,
+    "quickFacts": [
+      {
+        "en": "2023",
+        "ar": "2023"
+      },
+      {
+        "en": "110,000 km",
+        "ar": "110,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Volkswagen",
+          "ar": "Volkswagen"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Autre",
+          "ar": "Autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2023",
+          "ar": "2023"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "110,000 km",
+          "ar": "110,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "bien tt options importer neuf",
+          "ar": "bien tt options importer neuf"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10149526950-347193.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10149526940-432359.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10149526938-905181.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10149526951-818301.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10149526942-588573.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10149526941-615599.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10149526949-798258.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10149526943-162465.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10149526947-533281.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10149526944-231667.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/485943/volkswagen-autre.html",
+    "summary": {
+      "ar": "Volkswagen Autre نقية بزاف موديل 2023، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Volkswagen Autre 2023, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "marrakech-safi",
+      "regionName": {
+        "ar": "مراكش - آسفي",
+        "en": "Marrakech - Safi"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
+  },
+  {
+    "id": "moteur-480364",
+    "kind": "Car",
+    "title": {
+      "en": "Smart ForTwo",
+      "ar": "Smart ForTwo"
+    },
+    "price": 424900,
+    "quickFacts": [
+      {
+        "en": "2023",
+        "ar": "2023"
+      },
+      {
+        "en": "34,000 km",
+        "ar": "34,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Smart",
+          "ar": "Smart"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "ForTwo",
+          "ar": "ForTwo"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2023",
+          "ar": "2023"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "34,000 km",
+          "ar": "34,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "3",
+          "ar": "3"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152002955-600766.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152002961-384785.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152002951-505969.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152002952-782095.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152002959-408398.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152002960-291184.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152002957-394609.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152002958-467821.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152002949-636354.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152002953-949259.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/480364/smart-fortwo.html",
+    "summary": {
+      "ar": "Smart ForTwo نقية بزاف موديل 2023، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Smart ForTwo 2023, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
+  },
+  {
+    "id": "moteur-489132",
+    "kind": "Car",
+    "title": {
+      "en": "MG ZS",
+      "ar": "MG ZS"
+    },
+    "price": 205000,
+    "quickFacts": [
+      {
+        "en": "2026",
+        "ar": "2026"
+      },
+      {
+        "en": "0 km",
+        "ar": "0 كم"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "MG",
+          "ar": "MG"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "ZS",
+          "ar": "ZS"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2026",
+          "ar": "2026"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "0 km",
+          "ar": "0 كم"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Origin",
+          "ar": "الأصل"
+        },
+        "value": {
+          "en": "Bought new in Morocco",
+          "ar": "جديدة بالمغرب"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147424302-129570.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147424305-918856.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147424307-851159.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147424308-414107.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147424310-555196.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147424313-874245.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155157960-165958.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489132/mg-zs.html",
+    "summary": {
+      "ar": "MG ZS نقية بزاف موديل 2026، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean MG ZS 2026, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "souss-massa",
+      "regionName": {
+        "ar": "سوس - ماسة (أكادير)",
+        "en": "Souss - Massa (Agadir)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
+  },
+  {
+    "id": "moteur-489432",
+    "kind": "Car",
+    "title": {
+      "en": "MG Autre",
+      "ar": "MG Autre"
+    },
+    "price": 360000,
+    "quickFacts": [
+      {
+        "en": "2026",
+        "ar": "2026"
+      },
+      {
+        "en": "0 km",
+        "ar": "0 كم"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "MG",
+          "ar": "MG"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Autre",
+          "ar": "Autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2026",
+          "ar": "2026"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "0 km",
+          "ar": "0 كم"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Like new",
+          "ar": "كالجديد"
+        }
+      },
+      {
+        "label": {
+          "en": "First owner",
+          "ar": "المالك الأول"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
+        }
+      },
+      {
+        "label": {
+          "en": "Origin",
+          "ar": "الأصل"
+        },
+        "value": {
+          "en": "Bought new in Morocco",
+          "ar": "جديدة بالمغرب"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Fès",
+          "ar": "فاس"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147656226-153174.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147656228-728598.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147656231-212341.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147656243-542396.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147656258-788553.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147656265-243583.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155157953-195730.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489432/mg-autre.html",
+    "summary": {
+      "ar": "MG Autre نقية بزاف موديل 2026، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean MG Autre 2026, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "fes-meknes",
+      "regionName": {
+        "ar": "فاس - مكناس",
+        "en": "Fès - Meknès"
+      },
+      "city": "Fès",
+      "cityAr": "فاس"
+    }
+  },
+  {
+    "id": "moteur-489085",
+    "kind": "Car",
+    "title": {
+      "en": "MG ZS",
+      "ar": "MG ZS"
+    },
+    "price": 205000,
+    "quickFacts": [
+      {
+        "en": "2026",
+        "ar": "2026"
+      },
+      {
+        "en": "0 km",
+        "ar": "0 كم"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "MG",
+          "ar": "MG"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "ZS",
+          "ar": "ZS"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2026",
+          "ar": "2026"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "0 km",
+          "ar": "0 كم"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Voiture Neuf",
+          "ar": "Voiture Neuf"
+        }
+      },
+      {
+        "label": {
+          "en": "First owner",
+          "ar": "المالك الأول"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
+        }
+      },
+      {
+        "label": {
+          "en": "Origin",
+          "ar": "الأصل"
+        },
+        "value": {
+          "en": "Bought new in Morocco",
+          "ar": "جديدة بالمغرب"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147384764-253402.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147384782-131754.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147384794-330555.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147384801-167703.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147384804-514645.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147384805-591373.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155157953-195730.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489085/mg-zs.html",
+    "summary": {
+      "ar": "MG ZS نقية بزاف موديل 2026، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean MG ZS 2026, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "casa-settat",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
+  },
+  {
+    "id": "moteur-489087",
+    "kind": "Car",
+    "title": {
+      "en": "MG ZS",
+      "ar": "MG ZS"
+    },
+    "price": 205000,
+    "quickFacts": [
+      {
+        "en": "2026",
+        "ar": "2026"
+      },
+      {
+        "en": "0 km",
+        "ar": "0 كم"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "MG",
+          "ar": "MG"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "ZS",
+          "ar": "ZS"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2026",
+          "ar": "2026"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "0 km",
+          "ar": "0 كم"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Voiture Neuf",
+          "ar": "Voiture Neuf"
+        }
+      },
+      {
+        "label": {
+          "en": "Origin",
+          "ar": "الأصل"
+        },
+        "value": {
+          "en": "Bought new in Morocco",
+          "ar": "جديدة بالمغرب"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147385308-167335.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147385323-774958.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147385388-787303.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147385401-169325.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147385424-186553.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147385435-382566.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155157959-821485.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/489087/mg-zs.html",
+    "summary": {
+      "ar": "MG ZS نقية بزاف موديل 2026، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean MG ZS 2026, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "rabat-sale",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
+  },
+  {
+    "id": "moteur-679472",
+    "kind": "Car",
+    "title": {
+      "en": "Porsche Macan",
+      "ar": "Porsche Macan"
+    },
+    "price": 760000,
+    "quickFacts": [
+      {
+        "en": "2025",
+        "ar": "2025"
+      },
+      {
+        "en": "16,000 km",
+        "ar": "16,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Porsche",
+          "ar": "Porsche"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Macan",
+          "ar": "Macan"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2025",
+          "ar": "2025"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "16,000 km",
+          "ar": "16,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Excellent condition",
+          "ar": "حالة ممتازة"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155819585-795871.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155819579-199551.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155819580-892736.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155819581-847481.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155819587-220488.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155819586-295310.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155819583-777152.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155819584-235751.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155819582-739475.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154348117-745555.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/679472/porsche-macan.html",
+    "summary": {
+      "ar": "Porsche Macan نقية بزاف موديل 2025، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Porsche Macan 2025, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "marrakech-safi",
+      "regionName": {
+        "ar": "مراكش - آسفي",
+        "en": "Marrakech - Safi"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
+  },
+  {
+    "id": "moteur-629449",
+    "kind": "Car",
+    "title": {
+      "en": "Tesla Model Y",
+      "ar": "Tesla Model Y"
+    },
+    "price": 419990,
+    "quickFacts": [
+      {
+        "en": "2023",
+        "ar": "2023"
+      },
+      {
+        "en": "46,000 km",
+        "ar": "46,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Tesla",
+          "ar": "Tesla"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Model Y",
+          "ar": "Model Y"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2023",
+          "ar": "2023"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "46,000 km",
+          "ar": "46,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://content.avito.ma/classifieds/images/10155962745?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155962746?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155962744?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155962747?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/629449/tesla-model-y.html",
+    "summary": {
+      "ar": "Tesla Model Y نقية بزاف موديل 2023، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Tesla Model Y 2023, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
+  },
+  {
+    "id": "moteur-619578",
+    "kind": "Car",
+    "title": {
+      "en": "Porsche Cayenne",
+      "ar": "Porsche Cayenne"
+    },
+    "price": 1350000,
+    "quickFacts": [
+      {
+        "en": "2025",
+        "ar": "2025"
+      },
+      {
+        "en": "13,000 km",
+        "ar": "13,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Porsche",
+          "ar": "Porsche"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Cayenne",
+          "ar": "Cayenne"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2025",
+          "ar": "2025"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "13,000 km",
+          "ar": "13,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152816758-980829.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152816760-994855.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152816761-483187.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152816759-350799.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152816762-839681.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152816768-576232.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152816767-686680.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152816763-812523.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152816769-248891.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10152816764-844526.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/619578/porsche-cayenne.html",
+    "summary": {
+      "ar": "Porsche Cayenne نقية بزاف موديل 2025، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Porsche Cayenne 2025, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "souss-massa",
+      "regionName": {
+        "ar": "سوس - ماسة (أكادير)",
+        "en": "Souss - Massa (Agadir)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
+  },
+  {
+    "id": "moteur-485997",
+    "kind": "Car",
+    "title": {
+      "en": "Audi Q8",
+      "ar": "Audi Q8"
+    },
+    "price": 670000,
+    "quickFacts": [
+      {
+        "en": "2023",
+        "ar": "2023"
+      },
+      {
+        "en": "46,096 km",
+        "ar": "46,096 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Audi",
+          "ar": "Audi"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Q8",
+          "ar": "Q8"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2023",
+          "ar": "2023"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "46,096 km",
+          "ar": "46,096 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Fès",
+          "ar": "فاس"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155313842-186498.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155313843-559982.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155313844-600938.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155313845-161829.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155313846-116434.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155313847-551676.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155313848-569515.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155313849-959259.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155313850-176349.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155313851-494865.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/485997/audi-q8.html",
+    "summary": {
+      "ar": "Audi Q8 نقية بزاف موديل 2023، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Audi Q8 2023, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "fes-meknes",
+      "regionName": {
+        "ar": "فاس - مكناس",
+        "en": "Fès - Meknès"
+      },
+      "city": "Fès",
+      "cityAr": "فاس"
+    }
+  },
+  {
+    "id": "moteur-651058",
+    "kind": "Car",
+    "title": {
+      "en": "Audi Q8",
+      "ar": "Audi Q8"
+    },
+    "price": 530000,
+    "quickFacts": [
+      {
+        "en": "2021",
+        "ar": "2021"
+      },
+      {
+        "en": "74,000 km",
+        "ar": "74,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Audi",
+          "ar": "Audi"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Q8",
+          "ar": "Q8"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2021",
+          "ar": "2021"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "74,000 km",
+          "ar": "74,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154496071-419431.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154496145-792567.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154496140-398052.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154496153-454111.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154496141-199818.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154496143-715620.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154496147-595714.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154496131-479257.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154496152-133685.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154496139-463663.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/651058/audi-q8.html",
+    "summary": {
+      "ar": "Audi Q8 نقية بزاف موديل 2021، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Audi Q8 2021, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "casa-settat",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
+  },
+  {
+    "id": "moteur-666052",
+    "kind": "Car",
+    "title": {
+      "en": "DFSK Autre",
+      "ar": "DFSK Autre"
+    },
+    "price": 211000,
+    "quickFacts": [
+      {
+        "en": "2024",
+        "ar": "2024"
+      },
+      {
+        "en": "70,469 km",
+        "ar": "70,469 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "DFSK",
+          "ar": "DFSK"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Autre",
+          "ar": "Autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2024",
+          "ar": "2024"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "70,469 km",
+          "ar": "70,469 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155312179-943120.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155312180-588521.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155312182-199718.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155312184-220945.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155312185-132471.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155312187-535645.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155312188-606870.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155312190-463556.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155312192-306755.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155312193-934081.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/666052/dfsk-autre.html",
+    "summary": {
+      "ar": "DFSK Autre نقية بزاف موديل 2024، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean DFSK Autre 2024, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "rabat-sale",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
+  },
+  {
+    "id": "moteur-653980",
+    "kind": "Car",
+    "title": {
+      "en": "Mercedes-Benz Autre",
+      "ar": "Mercedes-Benz Autre"
+    },
+    "price": 600000,
+    "quickFacts": [
+      {
+        "en": "2025",
+        "ar": "2025"
+      },
+      {
+        "en": "20,808 km",
+        "ar": "20,808 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Mercedes-Benz",
+          "ar": "Mercedes-Benz"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Autre",
+          "ar": "Autre"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2025",
+          "ar": "2025"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "20,808 km",
+          "ar": "20,808 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155315685-516013.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155315686-446704.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155315687-411519.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155315688-445661.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155315689-121622.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155315690-539098.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155315691-635257.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155315692-622294.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155315693-556965.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155315694-678176.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/653980/mercedes-benz-autre.html",
+    "summary": {
+      "ar": "Mercedes-Benz Autre نقية بزاف موديل 2025، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Mercedes-Benz Autre 2025, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "marrakech-safi",
+      "regionName": {
+        "ar": "مراكش - آسفي",
+        "en": "Marrakech - Safi"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
+  },
+  {
+    "id": "moteur-684031",
+    "kind": "Car",
+    "title": {
+      "en": "BYD ATTO 2",
+      "ar": "BYD ATTO 2"
+    },
+    "price": 259900,
+    "quickFacts": [
+      {
+        "en": "2026",
+        "ar": "2026"
+      },
+      {
+        "en": "49 km",
+        "ar": "49 كم"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "BYD",
+          "ar": "BYD"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "ATTO 2",
+          "ar": "ATTO 2"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2026",
+          "ar": "2026"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "49 km",
+          "ar": "49 كم"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155810187-168278.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155951561-734723.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155996345-192717.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154549602-917385.jpg",
+      "https://content.avito.ma/classifieds/images/10156027447?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156027448?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156027450?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156027449?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156027451?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/684031/byd-atto-2.html",
+    "summary": {
+      "ar": "BYD ATTO 2 نقية بزاف موديل 2026، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean BYD ATTO 2 2026, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
+  },
+  {
+    "id": "moteur-683910",
+    "kind": "Car",
+    "title": {
+      "en": "BYD sealion 7",
+      "ar": "BYD sealion 7"
+    },
+    "price": 420000,
+    "quickFacts": [
+      {
+        "en": "2025",
+        "ar": "2025"
+      },
+      {
+        "en": "26,000 km",
+        "ar": "26,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "BYD",
+          "ar": "BYD"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "sealion 7",
+          "ar": "sealion 7"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2025",
+          "ar": "2025"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "26,000 km",
+          "ar": "26,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Origin",
+          "ar": "الأصل"
+        },
+        "value": {
+          "en": "Bought new in Morocco",
+          "ar": "جديدة بالمغرب"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155810178-829683.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155951561-734723.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155996403-224002.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10154549596-336456.jpg",
+      "https://content.avito.ma/classifieds/images/10156069700?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156069698?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156069699?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156069697?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156069701?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156069703?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/683910/byd-sealion-7.html",
+    "summary": {
+      "ar": "BYD sealion 7 نقية بزاف موديل 2025، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean BYD sealion 7 2025, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "souss-massa",
+      "regionName": {
+        "ar": "سوس - ماسة (أكادير)",
+        "en": "Souss - Massa (Agadir)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
+  },
+  {
+    "id": "moteur-683278",
+    "kind": "Car",
+    "title": {
+      "en": "Mercedes-Benz Classe A",
+      "ar": "Mercedes-Benz Classe A"
+    },
+    "price": 305000,
+    "quickFacts": [
+      {
+        "en": "2020",
+        "ar": "2020"
+      },
+      {
+        "en": "124,000 km",
+        "ar": "124,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Mercedes-Benz",
+          "ar": "Mercedes-Benz"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Classe A",
+          "ar": "Classe A"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2020",
+          "ar": "2020"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "124,000 km",
+          "ar": "124,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Fès",
+          "ar": "فاس"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155724988-966666.jpg",
+      "https://content.avito.ma/classifieds/images/10155993891?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155993897?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155993898?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155993895?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155993899?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155993900?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155993901?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155993915?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/683278/mercedes-benz-classe-a.html",
+    "summary": {
+      "ar": "Mercedes-Benz Classe A نقية بزاف موديل 2020، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Mercedes-Benz Classe A 2020, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "fes-meknes",
+      "regionName": {
+        "ar": "فاس - مكناس",
+        "en": "Fès - Meknès"
+      },
+      "city": "Fès",
+      "cityAr": "فاس"
+    }
+  },
+  {
+    "id": "moteur-683228",
+    "kind": "Car",
+    "title": {
+      "en": "Dacia Sandero",
+      "ar": "Dacia Sandero"
+    },
+    "price": 150000,
+    "quickFacts": [
+      {
+        "en": "2023",
+        "ar": "2023"
+      },
+      {
+        "en": "17,995 km",
+        "ar": "17,995 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Dacia",
+          "ar": "Dacia"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Sandero",
+          "ar": "Sandero"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2023",
+          "ar": "2023"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "17,995 km",
+          "ar": "17,995 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Condition",
+          "ar": "الحالة"
+        },
+        "value": {
+          "en": "Correct",
+          "ar": "Correct"
+        }
+      },
+      {
+        "label": {
+          "en": "Origin",
+          "ar": "الأصل"
+        },
+        "value": {
+          "en": "Bought new in Morocco",
+          "ar": "جديدة بالمغرب"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Casablanca",
+          "ar": "الدار البيضاء"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153406292-911609.jpg",
+      "https://content.avito.ma/classifieds/images/10156058131?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156058132?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156058134?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156058133?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156058136?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156058138?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156058137?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156058135?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/683228/dacia-sandero.html",
+    "summary": {
+      "ar": "Dacia Sandero نقية بزاف موديل 2023، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Dacia Sandero 2023, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "casa-settat",
+      "regionName": {
+        "ar": "الدار البيضاء - سطات",
+        "en": "Casablanca - Settat"
+      },
+      "city": "Casablanca",
+      "cityAr": "الدار البيضاء"
+    }
+  },
+  {
+    "id": "moteur-683001",
+    "kind": "Car",
+    "title": {
+      "en": "Tesla Model Y",
+      "ar": "Tesla Model Y"
+    },
+    "price": 570000,
+    "quickFacts": [
+      {
+        "en": "2024",
+        "ar": "2024"
+      },
+      {
+        "en": "85,000 km",
+        "ar": "85,000 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Tesla",
+          "ar": "Tesla"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Model Y",
+          "ar": "Model Y"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2024",
+          "ar": "2024"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "85,000 km",
+          "ar": "85,000 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "First owner",
+          "ar": "المالك الأول"
+        },
+        "value": {
+          "en": "Yes",
+          "ar": "نعم"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Rabat",
+          "ar": "الرباط"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://content.avito.ma/classifieds/images/10155980057?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155980024?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155980026?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155980023?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155980028?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156048068?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156057896?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10156057895?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/683001/tesla-model-y.html",
+    "summary": {
+      "ar": "Tesla Model Y نقية بزاف موديل 2024، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Tesla Model Y 2024, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "rabat-sale",
+      "regionName": {
+        "ar": "الرباط - سلا - القنيطرة",
+        "en": "Rabat - Salé - Kénitra"
+      },
+      "city": "Rabat",
+      "cityAr": "الرباط"
+    }
+  },
+  {
+    "id": "moteur-480757",
+    "kind": "Car",
+    "title": {
+      "en": "Mercedes-Benz Classe CLA",
+      "ar": "Mercedes-Benz Classe CLA"
+    },
+    "price": 529000,
+    "quickFacts": [
+      {
+        "en": "2025",
+        "ar": "2025"
+      },
+      {
+        "en": "6,500 km",
+        "ar": "6,500 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Mercedes-Benz",
+          "ar": "Mercedes-Benz"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Classe CLA",
+          "ar": "Classe CLA"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2025",
+          "ar": "2025"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "6,500 km",
+          "ar": "6,500 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Marrakech",
+          "ar": "مراكش"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/media/photos/ads/resized/mercedes-benz-classe-cla-321955.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/mercedes-benz-classe-cla-647426.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/mercedes-benz-classe-cla-698301.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/mercedes-benz-classe-cla-473956.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/mercedes-benz-classe-cla-915083.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/mercedes-benz-classe-cla-280668.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/mercedes-benz-classe-cla-289166.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/mercedes-benz-classe-cla-174849.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/mercedes-benz-classe-cla-490389.jpg",
+      "https://www.moteur.ma/media/photos/ads/resized/mercedes-benz-classe-cla-721449.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/480757/mercedes-benz-classe-cla.html",
+    "summary": {
+      "ar": "Mercedes-Benz Classe CLA نقية بزاف موديل 2025، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Mercedes-Benz Classe CLA 2025, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "marrakech-safi",
+      "regionName": {
+        "ar": "مراكش - آسفي",
+        "en": "Marrakech - Safi"
+      },
+      "city": "Marrakech",
+      "cityAr": "مراكش"
+    }
+  },
+  {
+    "id": "moteur-488628",
+    "kind": "Car",
+    "title": {
+      "en": "Renault Megane",
+      "ar": "Renault Megane"
+    },
+    "price": 310000,
+    "quickFacts": [
+      {
+        "en": "2024",
+        "ar": "2024"
+      },
+      {
+        "en": "7,458 km",
+        "ar": "7,458 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Renault",
+          "ar": "Renault"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "Megane",
+          "ar": "Megane"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2024",
+          "ar": "2024"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "7,458 km",
+          "ar": "7,458 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Tangier",
+          "ar": "طنجة"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147309118-640904.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147309120-335160.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147309122-131191.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147309123-124781.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147309124-526098.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147309125-510418.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147309126-580665.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147309127-320155.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147309128-238406.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10147309129-554790.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/488628/renault-megane.html",
+    "summary": {
+      "ar": "Renault Megane نقية بزاف موديل 2024، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Renault Megane 2024, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "tanger",
+      "regionName": {
+        "ar": "طنجة - تطوان - الشمال",
+        "en": "Tangier - Tétouan (North)"
+      },
+      "city": "Tangier",
+      "cityAr": "طنجة"
+    }
+  },
+  {
+    "id": "moteur-682599",
+    "kind": "Car",
+    "title": {
+      "en": "Mercedes-Benz AMG GTR",
+      "ar": "Mercedes-Benz AMG GTR"
+    },
+    "price": 379000,
+    "quickFacts": [
+      {
+        "en": "2022",
+        "ar": "2022"
+      },
+      {
+        "en": "55 km",
+        "ar": "55 كم"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Mercedes-Benz",
+          "ar": "Mercedes-Benz"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "AMG GTR",
+          "ar": "AMG GTR"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2022",
+          "ar": "2022"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "55 km",
+          "ar": "55 كم"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Agadir",
+          "ar": "أكادير"
+        }
+      }
+    ],
+    "options": [],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155725006-363464.jpg"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/682599/mercedes-benz-amg-gtr.html",
+    "summary": {
+      "ar": "Mercedes-Benz AMG GTR نقية بزاف موديل 2022، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Mercedes-Benz AMG GTR 2022, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "souss-massa",
+      "regionName": {
+        "ar": "سوس - ماسة (أكادير)",
+        "en": "Souss - Massa (Agadir)"
+      },
+      "city": "Agadir",
+      "cityAr": "أكادير"
+    }
+  },
+  {
+    "id": "moteur-682515",
+    "kind": "Car",
+    "title": {
+      "en": "Renault R5",
+      "ar": "Renault R5"
+    },
+    "price": 235000,
+    "quickFacts": [
+      {
+        "en": "2025",
+        "ar": "2025"
+      },
+      {
+        "en": "2,600 km",
+        "ar": "2,600 km"
+      },
+      {
+        "en": "Electric",
+        "ar": "كهربائي"
+      },
+      {
+        "en": "Dédouanée",
+        "ar": "مجمركة"
+      }
+    ],
+    "features": [
+      {
+        "label": {
+          "en": "Brand",
+          "ar": "العلامة"
+        },
+        "value": {
+          "en": "Renault",
+          "ar": "Renault"
+        }
+      },
+      {
+        "label": {
+          "en": "Model",
+          "ar": "الطراز"
+        },
+        "value": {
+          "en": "R5",
+          "ar": "R5"
+        }
+      },
+      {
+        "label": {
+          "en": "Year",
+          "ar": "السنة"
+        },
+        "value": {
+          "en": "2025",
+          "ar": "2025"
+        }
+      },
+      {
+        "label": {
+          "en": "Mileage",
+          "ar": "المسافة المقطوعة"
+        },
+        "value": {
+          "en": "2,600 km",
+          "ar": "2,600 km"
+        }
+      },
+      {
+        "label": {
+          "en": "Motorisation",
+          "ar": "Motorisation"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Doors",
+          "ar": "الأبواب"
+        },
+        "value": {
+          "en": "5",
+          "ar": "5"
+        }
+      },
+      {
+        "label": {
+          "en": "Origin",
+          "ar": "الأصل"
+        },
+        "value": {
+          "en": "Bought new in Morocco",
+          "ar": "جديدة بالمغرب"
+        }
+      },
+      {
+        "label": {
+          "en": "Fuel",
+          "ar": "الوقود"
+        },
+        "value": {
+          "en": "Electric",
+          "ar": "كهربائي"
+        }
+      },
+      {
+        "label": {
+          "en": "Gearbox",
+          "ar": "علبة السرعات"
+        },
+        "value": {
+          "en": "Automatic",
+          "ar": "أوطوماتيك"
+        }
+      },
+      {
+        "label": {
+          "en": "Customs status",
+          "ar": "حالة الجمارك"
+        },
+        "value": {
+          "en": "Dédouanée",
+          "ar": "مجمركة"
+        }
+      },
+      {
+        "label": {
+          "en": "City",
+          "ar": "المدينة"
+        },
+        "value": {
+          "en": "Fès",
+          "ar": "فاس"
+        }
+      }
+    ],
+    "options": [
+      {
+        "en": "ABS",
+        "ar": "ABS",
+        "raw": "ABS"
+      },
+      {
+        "en": "Climatisation",
+        "ar": "Climatisation",
+        "raw": "Climatisation"
+      },
+      {
+        "en": "Airbags",
+        "ar": "Airbags",
+        "raw": "Airbags"
+      },
+      {
+        "en": "Fermeture centralisée",
+        "ar": "Fermeture centralisée",
+        "raw": "Fermeture centralisée"
+      },
+      {
+        "en": "Régulateur de vitesse",
+        "ar": "Régulateur de vitesse",
+        "raw": "Régulateur de vitesse"
+      },
+      {
+        "en": "Vitres électriques",
+        "ar": "Vitres électriques",
+        "raw": "Vitres électriques"
+      },
+      {
+        "en": "ESP",
+        "ar": "ESP",
+        "raw": "ESP"
+      },
+      {
+        "en": "Intérieur cuir",
+        "ar": "Intérieur cuir",
+        "raw": "Intérieur cuir"
+      },
+      {
+        "en": "Navigation GPS",
+        "ar": "Navigation GPS",
+        "raw": "Navigation GPS"
+      },
+      {
+        "en": "Ordinateur de bord",
+        "ar": "Ordinateur de bord",
+        "raw": "Ordinateur de bord"
+      },
+      {
+        "en": "Radar de recul",
+        "ar": "Radar de recul",
+        "raw": "Radar de recul"
+      },
+      {
+        "en": "Jantes",
+        "ar": "Jantes",
+        "raw": "Jantes"
+      },
+      {
+        "en": "Limiteur de vitesse",
+        "ar": "Limiteur de vitesse",
+        "raw": "Limiteur de vitesse"
+      },
+      {
+        "en": "CD / MP3 / Bluetooth",
+        "ar": "CD / MP3 / Bluetooth",
+        "raw": "CD / MP3 / Bluetooth"
+      }
+    ],
+    "images": [
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155717582-450361.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10155111470-256880.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10151122420-790021.jpg",
+      "https://www.moteur.ma/storage/media/images/ads/resized/10153559955-946851.jpg",
+      "https://content.avito.ma/classifieds/images/10155954630?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155954628?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155954683?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155954631?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155954632?t=moteur_feed",
+      "https://content.avito.ma/classifieds/images/10155954647?t=moteur_feed"
+    ],
+    "sourceUrl": "https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/682515/renault-r5.html",
+    "summary": {
+      "ar": "Renault R5 نقية بزاف موديل 2025، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.",
+      "en": "Very clean Renault R5 2025, well maintained and in great condition, ready to drive."
+    },
+    "location": {
+      "region": "fes-meknes",
+      "regionName": {
+        "ar": "فاس - مكناس",
+        "en": "Fès - Meknès"
+      },
+      "city": "Fès",
+      "cityAr": "فاس"
+    }
   }
 ];

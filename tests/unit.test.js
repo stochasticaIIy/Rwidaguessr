@@ -345,3 +345,184 @@ test('12. Points Score Display Integrity — TextContent and dir="ltr" on #round
   assert.doesNotMatch(appJs, /ui\.score\.innerHTML\s*=\s*`<span/);
 });
 
+test('13. Game Round Lifecycle & Anti-Cheat Protection — Secret price never exposed, 5 vehicles per round', async () => {
+  const modes = [
+    { type: 'sale', mode: 'cars' },
+    { type: 'sale', mode: 'motorbikes' },
+    { type: 'rental', mode: 'cars' },
+    { type: 'rental', mode: 'motorbikes' }
+  ];
+
+  for (const m of modes) {
+    const req = new Request(`https://moteurguessr.test/api/game?seconds=600&type=${m.type}&mode=${m.mode}`);
+    const res = await handleGame({ request: req });
+    assert.equal(res.status, 200, `Expected 200 OK for mode ${m.type}/${m.mode}`);
+
+    const data = await res.json();
+    assert.ok(Array.isArray(data.round), 'Expected round array');
+    assert.equal(data.round.length, 5, `Expected exactly 5 vehicles in round for ${m.type}/${m.mode}`);
+    assert.equal(data.listingType, m.type);
+
+    // ANTI-CHEAT CHECK: Ensure the secret `price` property is NEVER sent to the client
+    for (const v of data.round) {
+      assert.equal(v.price, undefined, `ANTI-CHEAT VIOLATION: vehicle ${v.id} contains secret price in /api/game response!`);
+      assert.ok(v.id && typeof v.id === 'string', 'Vehicle missing id');
+      assert.ok(v.token && typeof v.token === 'string', `Vehicle ${v.id} missing signed token`);
+      assert.ok(v.title && (v.title.en || v.title.ar), `Vehicle ${v.id} missing title`);
+      assert.ok(Array.isArray(v.images) && v.images.length > 0, `Vehicle ${v.id} missing images`);
+      assert.ok(v.images[0].startsWith('http'), `Vehicle ${v.id} invalid image URL`);
+      assert.ok(Array.isArray(v.features) && v.features.length >= 5, `Vehicle ${v.id} insufficient features`);
+      assert.ok(Array.isArray(v.quickFacts) && v.quickFacts.length >= 2, `Vehicle ${v.id} insufficient quickFacts`);
+      assert.ok(v.location && (v.location.city || v.location.region), `Vehicle ${v.id} missing location`);
+    }
+  }
+});
+
+test('14. Scoring Formula & Precision Bounds — Exponential decay, bounds [0, 1000], exact match = 1000', async () => {
+  // Start a game round to obtain valid signed vehicle tokens
+  const gameReq = new Request('https://moteurguessr.test/api/game?seconds=600&type=sale&mode=cars');
+  const gameRes = await handleGame({ request: gameReq });
+  const gameData = await gameRes.json();
+  const sampleVehicle = gameData.round[0];
+
+  // Probe for actualPrice with a safe initial guess
+  const probeReq = new Request('https://moteurguessr.test/api/guess', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ token: sampleVehicle.token, guess: 100000 })
+  });
+  const probeRes = await handleGuess({ request: probeReq });
+  const probeData = await probeRes.json();
+  const actualPrice = probeData.actualPrice;
+  assert.ok(Number.isFinite(actualPrice) && actualPrice > 0, 'actualPrice must be positive finite number');
+
+  // 1. Exact match must yield 1000 points
+  const exactReq = new Request('https://moteurguessr.test/api/guess', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ token: sampleVehicle.token, guess: actualPrice })
+  });
+  const exactRes = await handleGuess({ request: exactReq });
+  const exactData = await exactRes.json();
+  assert.equal(exactData.score, 1000, `Exact guess must score 1000, got ${exactData.score}`);
+  assert.equal(exactData.difference, 0);
+
+  // 2. Off by 5% should yield high score (> 900)
+  const closeReq = new Request('https://moteurguessr.test/api/guess', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ token: sampleVehicle.token, guess: Math.round(actualPrice * 1.05) })
+  });
+  const closeRes = await handleGuess({ request: closeReq });
+  const closeData = await closeRes.json();
+  assert.ok(closeData.score >= 900 && closeData.score < 1000, `5% error should score between 900 and 1000, got ${closeData.score}`);
+
+  // 3. Huge error (10x off) should yield near 0 but never negative
+  const farReq = new Request('https://moteurguessr.test/api/guess', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ token: sampleVehicle.token, guess: actualPrice * 10 })
+  });
+  const farRes = await handleGuess({ request: farReq });
+  const farData = await farRes.json();
+  assert.ok(farData.score >= 0 && farData.score <= 50, `10x error should score near 0, got ${farData.score}`);
+
+  // 4. Timeout / unsubmitted round (guess: null) must yield 0 score
+  const timeoutReq = new Request('https://moteurguessr.test/api/guess', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ token: sampleVehicle.token, guess: null })
+  });
+  const timeoutRes = await handleGuess({ request: timeoutReq });
+  const timeoutData = await timeoutRes.json();
+  assert.equal(timeoutRes.status, 200);
+  assert.equal(timeoutData.score, 0, `Timed out guess must score 0, got ${timeoutData.score}`);
+
+  // 5. Zero, negative, or absurd values must return HTTP 400 Invalid price
+  const zeroReq = new Request('https://moteurguessr.test/api/guess', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ token: sampleVehicle.token, guess: 0 })
+  });
+  const zeroRes = await handleGuess({ request: zeroReq });
+  assert.equal(zeroRes.status, 400);
+});
+
+test('15. Guess Endpoint & Detailed Market Valuation Feedback — Comprehensive analytics breakdown', async () => {
+  const gameReq = new Request('https://moteurguessr.test/api/game?seconds=600&type=sale&mode=cars');
+  const gameRes = await handleGame({ request: gameReq });
+  const gameData = await gameRes.json();
+  const sampleVehicle = gameData.round[1];
+
+  const req = new Request('https://moteurguessr.test/api/guess', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ token: sampleVehicle.token, guess: 150000 })
+  });
+  const res = await handleGuess({ request: req });
+  assert.equal(res.status, 200);
+
+  const data = await res.json();
+  assert.ok(Number.isFinite(data.actualPrice) && data.actualPrice > 0, 'actualPrice must be positive finite number');
+  assert.ok(Number.isFinite(data.score) && data.score >= 0 && data.score <= 1000, 'Score must be in [0, 1000]');
+  assert.ok(typeof data.difference === 'number', 'Difference must be number');
+  assert.ok(data.marketValuation && typeof data.marketValuation === 'object', 'marketValuation missing');
+  assert.ok(Number.isFinite(data.marketValuation.estimatedMarketPrice), 'estimatedMarketPrice missing');
+  assert.ok(Number.isFinite(data.marketValuation.askingPrice), 'askingPrice missing');
+  assert.ok(typeof data.marketValuation.tier === 'string', 'tier missing in marketValuation');
+});
+
+test('16. Electric Fleet Filtering & Catalog Integrity — Over 40 pure EVs with authentic fuel specs', async () => {
+  // 1. Verify electric count in catalog
+  const electricVehicles = DEFAULT_LISTINGS.filter(item => {
+    const fFuel = (item.features || []).find(f => /fuel|carburant|وقود|motorisation/i.test(f.label?.en || f.label));
+    const val = (fFuel?.value?.en || fFuel?.value || '').toLowerCase();
+    return val.includes('electr') || val.includes('électr') || val.includes('كهربائ');
+  });
+  assert.ok(electricVehicles.length >= 40, `Expected at least 40 pure electric vehicles, found ${electricVehicles.length}`);
+
+  // 2. Verify /api/game fuel=electric filter
+  const req = new Request('https://moteurguessr.test/api/game?seconds=600&type=sale&mode=cars&fuel=electric');
+  const res = await handleGame({ request: req });
+  const data = await res.json();
+  assert.equal(data.round.length, 5, 'Expected 5 electric vehicles in round');
+
+  for (const v of data.round) {
+    const fuelFeature = v.features.find(f => /fuel|carburant|وقود|motorisation/i.test(f.label?.en || f.label));
+    assert.ok(fuelFeature, `Vehicle ${v.id} missing fuel feature`);
+    const valEn = (fuelFeature.value?.en || fuelFeature.value || '').toLowerCase();
+    assert.ok(valEn.includes('electr'), `Vehicle ${v.id} fuel is not electric: ${valEn}`);
+  }
+});
+
+test('17. UI Localization, Audio System & Accessibility — Bilingual strings, Web Audio synthesis, Keyboard controls', () => {
+  // Check index.html audio button & controls
+  assert.match(indexHtml, /id="sound-toggle"/);
+  assert.match(indexHtml, /id="how-to-play"/);
+  assert.match(indexHtml, /id="leaderboard-toggle"/);
+  assert.match(indexHtml, /id="language-toggle"/);
+  assert.match(indexHtml, /id="theme-toggle"/);
+
+  // Check app.js audio synthesis
+  assert.match(appJs, /AudioContext/);
+  assert.match(appJs, /playGuessResult/);
+  assert.match(appJs, /playFinalResults/);
+  assert.match(appJs, /playTestChime/);
+
+  // Check keyboard navigation (ArrowLeft / ArrowRight to flip photos, Escape to close dialogs)
+  assert.match(appJs, /addEventListener\('keydown'/);
+  assert.match(appJs, /event\.key === 'ArrowLeft'/);
+  assert.match(appJs, /event\.key === 'ArrowRight'/);
+
+  // Check bilingual dictionary presence for critical UI keys
+  const requiredKeys = [
+    'heroTitle', 'intro', 'typeLabel', 'modeLabel', 'durationLabel',
+    'points', 'featuresHeading', 'optionsHeading', 'listedPrice', 'difference'
+  ];
+
+  for (const k of requiredKeys) {
+    assert.ok(appJs.includes(`${k}:`), `Missing translation key: ${k} in app.js`);
+  }
+});
+
+
