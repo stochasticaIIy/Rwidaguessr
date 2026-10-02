@@ -178,6 +178,169 @@ function extractListingYear(item) {
   return Number.isFinite(year) ? year : 2018;
 }
 
+function extractListingMileageKm(item) {
+  if (!item) return null;
+  let rawKm = '';
+  const f = (item.features || []).find((feat) => /mileage|kilom|مسافة/i.test(feat.label?.en || feat.label?.fr || feat.label?.ar || feat.label || ''));
+  if (f && f.value) {
+    rawKm = String(f.value.en || f.value.fr || f.value.ar || f.value || '');
+  }
+  if (!rawKm && Array.isArray(item.quickFacts)) {
+    for (const q of item.quickFacts) {
+      const s = String(typeof q === 'object' ? (q.en || q.fr || q.ar || '') : (q || ''));
+      if (/\d[\d\s,.]*\s*(?:km|كم)/i.test(s) && !/\b(?:19|20)\d\d\b/.test(s)) {
+        rawKm = s;
+        break;
+      }
+    }
+  }
+  if (!rawKm) return null;
+  const rangeMatch = rawKm.match(/(\d[\d\s,.]*)\s*[-–]\s*(\d[\d\s,.]*)/);
+  if (rangeMatch) {
+    const low = parseInt(rangeMatch[1].replace(/[^\d]/g, ''), 10);
+    const high = parseInt(rangeMatch[2].replace(/[^\d]/g, ''), 10);
+    if (Number.isFinite(low) && Number.isFinite(high)) return Math.round((low + high) / 2);
+  }
+  const num = parseInt(rawKm.replace(/[^\d]/g, ''), 10);
+  return Number.isFinite(num) && num >= 0 && num <= 1_500_000 ? num : null;
+}
+
+export function computeVehicleStateMultiplier(item, year, isRental = false) {
+  if (!item) return 1;
+  const isBike = item.kind === 'Moto' || item.kind === 'Motorbike' || /moto|bike/i.test(item.kind || '');
+  const title = String(item.title?.en || item.title?.ar || item.title || '').toLowerCase();
+  const summaryText = String(item.summary?.en || item.summary?.ar || item.summary?.original || item.summary || '').toLowerCase();
+  const optionsArr = Array.isArray(item.options) ? item.options : [];
+  const optionsText = optionsArr
+    .map((o) => String(typeof o === 'object' ? (o.en || o.fr || o.raw || o.ar || '') : (o || '')).toLowerCase())
+    .filter((s) => s && !s.includes('état du véhicule') && !s.includes('etat du vehicule') && !s.includes('حالة المركبة') && !s.includes('حالة السيارة'));
+  const featuresArr = Array.isArray(item.features) ? item.features : [];
+  const quickFactsArr = Array.isArray(item.quickFacts) ? item.quickFacts : [];
+  const combinedText = `${title} ${summaryText} ${optionsText.join(' ')} ${JSON.stringify(featuresArr)} ${JSON.stringify(quickFactsArr)}`.toLowerCase();
+
+  // 1. Mileage (KMs) relative to vehicle age
+  let kmAdj = 0;
+  const km = extractListingMileageKm(item);
+  if (km !== null) {
+    const currentYear = 2026;
+    const age = Math.max(0.5, currentYear - (Number.isFinite(year) ? year : 2018));
+    if (isRental) {
+      if (km <= 15000) kmAdj = 0.03;
+      else if (km <= 40000) kmAdj = 0.01;
+      else if (km >= 80000) kmAdj = -0.035;
+    } else if (!isBike) {
+      const expectedKm = age * 16000;
+      kmAdj = ((expectedKm - km) / 10000) * 0.012;
+      if (km === 0) kmAdj += 0.045;
+      else if (km <= 15000) kmAdj += 0.025;
+      if (km >= 220000) kmAdj -= 0.03;
+      if (km >= 300000) kmAdj -= 0.03;
+      kmAdj = Math.max(-0.18, Math.min(0.12, kmAdj));
+    } else {
+      const expectedKm = age * 6000;
+      kmAdj = ((expectedKm - km) / 10000) * 0.024;
+      if (km <= 5000) kmAdj += 0.025;
+      if (km >= 60000) kmAdj -= 0.035;
+      kmAdj = Math.max(-0.16, Math.min(0.10, kmAdj));
+    }
+  }
+
+  // 2. Overall Condition & Maintenance
+  let condAdj = 0;
+  if (!isRental) {
+    const condFeat = featuresArr.find((f) => {
+      const l = String(f.label?.en || f.label?.fr || f.label?.ar || f.label || '').toLowerCase();
+      return (l.includes('condition') || l.includes('état') || l.includes('etat') || l.includes('حالة')) && !l.includes('custom') && !l.includes('douane') && !l.includes('جمارك');
+    });
+    const condStr = `${String(condFeat?.value?.en || condFeat?.value?.fr || condFeat?.value?.ar || condFeat?.value || '')} ${title} ${summaryText}`.toLowerCase();
+    if (/damaged|accident[eé]e|pour\s*pi[eè]ces|[àa]\s*r[eé]parer/.test(condStr)) {
+      condAdj = -0.25;
+    } else if (/like\s*new|comme\s*neuf|\bneuf\b|كالجديد|كالجديدة|0\s*km/.test(condStr)) {
+      condAdj = 0.065;
+    } else if (/service\s*book|carnet.*entretien|entretien\s*maison|entretien\s*suivi|سجل\s*صيانة/.test(condStr)) {
+      condAdj = 0.045;
+    } else if (/excellent|impeccable|حالة\s*ممتازة/.test(condStr)) {
+      condAdj = 0.04;
+    } else if (/accident[-\s]*free|no\s*accidents|jamais\s*accident|tr[eè]s\s*bon|very\s*good|دون\s*حوادث|بدون\s*حوادث|حالة\s*جيدة\s*جداً/.test(condStr)) {
+      condAdj = 0.025;
+    } else if (/\bused\b|\boccasion\b|مستعمل/.test(condStr)) {
+      condAdj = -0.015;
+    }
+  }
+
+  // 3. First Owner (1ère main)
+  let firstHandAdj = 0;
+  if (!isRental) {
+    const fhFeat = featuresArr.find((f) => {
+      const l = String(f.label?.en || f.label?.fr || f.label?.ar || f.label || '').toLowerCase();
+      return l.includes('1ère main') || l.includes('première main') || l.includes('premiere main') || l.includes('first owner') || l.includes('المالك الأول');
+    });
+    const isFirstHand = fhFeat
+      ? /oui|yes|true|نعم|1/i.test(String(fhFeat.value?.en || fhFeat.value?.ar || fhFeat.value || ''))
+      : /1\s*(?:[eè]re|ere)\s*main|premi[eè]re\s*main|first\s*hand|premier\s*propri[eé]taire/i.test(combinedText);
+    if (isFirstHand) firstHandAdj = 0.035;
+  }
+
+  // 4. Customs Status (Statut de douane / Origin)
+  let customsAdj = 0;
+  if (!isRental) {
+    const custFeat = featuresArr.find((f) => {
+      const l = String(f.label?.en || f.label?.fr || f.label?.ar || f.label || '').toLowerCase();
+      return l.includes('custom') || l.includes('douane') || l.includes('origine') || l.includes('جمارك') || l.includes('الأصل');
+    });
+    const custStr = `${String(custFeat?.value?.en || custFeat?.value?.fr || custFeat?.value?.ar || custFeat?.value || '')} ${JSON.stringify(quickFactsArr)}`.toLowerCase();
+    if (/non\s*d[eé]douan|not\s*cleared|غير\s*مجمركة/.test(custStr)) {
+      customsAdj = -0.28;
+    } else if (/d[eé]douan|customs\s*cleared|import[eé]e\s*neuve|مجمركة/.test(custStr)) {
+      customsAdj = 0.02;
+    } else if (/ww\s*au\s*maroc|bought\s*new\s*in\s*morocco|جديدة\s*بالمغرب|ww\s*بالمغرب/.test(custStr)) {
+      customsAdj = 0.01;
+    }
+  }
+
+  // 5. Gearbox (Automatic vs Manual)
+  let gearboxAdj = 0;
+  const gbFeat = featuresArr.find((f) => {
+    const l = String(f.label?.en || f.label?.fr || f.label?.ar || f.label || '').toLowerCase();
+    return l.includes('gearbox') || l.includes('boîte') || l.includes('boite') || l.includes('transmission') || l.includes('علبة السرعات') || l.includes('ناقل الحركة');
+  });
+  const gbStr = `${String(gbFeat?.value?.en || gbFeat?.value?.fr || gbFeat?.value?.ar || gbFeat?.value || '')} ${JSON.stringify(quickFactsArr)} ${title}`.toLowerCase();
+  const isAuto = /auto|bva|dsg|tiptronic|s-tronic|pdk|steptronic|edc|cvt|أوطو|أوتو/.test(gbStr);
+  const isManual = /man|bvm|ماني|يدوي/.test(gbStr);
+  if (!isBike) {
+    if (isAuto) gearboxAdj = 0.045;
+    else if (isManual) gearboxAdj = -0.02;
+  } else if (isAuto) {
+    gearboxAdj = 0.015;
+  }
+
+  // 6. Equipment & Options
+  const optCount = optionsText.length;
+  const baselineOptCount = isRental ? 4 : (isBike ? 4 : 9);
+  const countDeltaAdj = Math.max(-0.025, Math.min(0.03, (optCount - baselineOptCount) * 0.0035));
+  const premiumPatterns = [
+    /toit\s*ouvrant|panoramique|sunroof|panoramic|فتحة\s*سقف|بانورامي/,
+    /\bcuir\b|leather|جلد/,
+    /cam[eé]ra|360|كاميرا/,
+    /gps|navigation|carplay|android\s*auto|\btft\b|ملاحة/,
+    /sans\s*cl[eé]|keyless|بدون\s*مفتاح/,
+    /si[eè]ges?\s*(?:chauffants?|[eé]lectriques?)|heated\s*seats|electric\s*seats|مقاعد\s*(?:مدفأة|كهربائية)/,
+    /phares?\s*(?:led|x[eé]non)|led\s*headlights|xenon|مصابيح\s*(?:led|زينون)/,
+    /jantes?\s*(?:alu|alliage)|alloy\s*wheels|عجلات\s*(?:ألومنيوم|معدنية)/,
+    /pack\s*m\b|s[-\s]?line|\bamg\b|r[-\s]?line|gt[-\s]?line|akrapovic|quickshifter|valises|top\s*case|\besa\b/
+  ];
+  let premiumHits = 0;
+  const equipSearchStr = `${title} ${optionsText.join(' ')}`;
+  for (const pat of premiumPatterns) {
+    if (pat.test(equipSearchStr)) premiumHits++;
+  }
+  const premiumBonus = Math.min(0.045, premiumHits * 0.0075);
+  const equipAdj = Math.max(-0.035, Math.min(0.07, countDeltaAdj + premiumBonus));
+
+  const totalAdj = Math.max(-0.40, Math.min(0.28, kmAdj + condAdj + firstHandAdj + customsAdj + gearboxAdj + equipAdj));
+  return 1 + totalAdj;
+}
+
 export function computeMarketValuation(item, allListings = DEFAULT_LISTINGS) {
   if (!item || !Number.isFinite(item.price)) return null;
   const askingPrice = item.price;
@@ -186,10 +349,11 @@ export function computeMarketValuation(item, allListings = DEFAULT_LISTINGS) {
 
   const { brand, model } = extractCanonicalBrandModel(item);
   const year = extractListingYear(item);
+  const targetStateMult = computeVehicleStateMultiplier(item, year, isRental);
 
   let estimated = null;
 
-  // 1. Canonical (brand + model) cohort across all years (adjusted to target year)
+  // 1. Canonical (brand + model) cohort across all years (adjusted to target year & vehicle state)
   if (brand && model && model !== 'autre' && model !== 'other') {
     const exactAll = fullKindPool.filter((l) => {
       const peerBM = extractCanonicalBrandModel(l);
@@ -199,7 +363,9 @@ export function computeMarketValuation(item, allListings = DEFAULT_LISTINGS) {
     if (exactAll.length >= 2) {
       const adjusted = exactAll.map((peer) => {
         const pYear = extractListingYear(peer);
-        return peer.price * Math.pow(1.065, year - pYear);
+        const peerStateMult = computeVehicleStateMultiplier(peer, pYear, isRental);
+        const neutralPeerPrice = peer.price / peerStateMult;
+        return neutralPeerPrice * Math.pow(1.065, year - pYear) * targetStateMult;
       });
       adjusted.sort((a, b) => a - b);
       const cut = adjusted.length >= 5 ? Math.floor(adjusted.length * 0.15) : 0;
@@ -208,14 +374,14 @@ export function computeMarketValuation(item, allListings = DEFAULT_LISTINGS) {
     }
   }
 
-  // 2. Fallback for singleton models or "Autre" models — 100% deterministic per (kind, brand, model, year)
+  // 2. Fallback for singleton models or "Autre" models — adjusted for target vehicle state
   if (!estimated) {
     const sameCohort = fullKindPool.filter((l) => {
       const peerBM = extractCanonicalBrandModel(l);
       return peerBM.brand === brand && peerBM.model === model && extractListingYear(l) === year;
     });
     const cohortAvg = sameCohort.length > 0
-      ? sameCohort.reduce((a, b) => a + b.price, 0) / sameCohort.length
+      ? sameCohort.reduce((a, b) => a + (b.price / computeVehicleStateMultiplier(b, extractListingYear(b), isRental)) * targetStateMult, 0) / sameCohort.length
       : askingPrice;
 
     if (sameCohort.length >= 2) {
@@ -230,7 +396,11 @@ export function computeMarketValuation(item, allListings = DEFAULT_LISTINGS) {
       });
 
       if (brandSegmentPeers.length >= 2) {
-        const adjustedPeers = brandSegmentPeers.map((p) => p.price * Math.pow(1.065, year - extractListingYear(p)));
+        const adjustedPeers = brandSegmentPeers.map((p) => {
+          const pYear = extractListingYear(p);
+          const pMult = computeVehicleStateMultiplier(p, pYear, isRental);
+          return (p.price / pMult) * Math.pow(1.065, year - pYear) * targetStateMult;
+        });
         const peerAvg = adjustedPeers.reduce((a, b) => a + b, 0) / adjustedPeers.length;
         estimated = peerAvg * 0.5 + cohortAvg * 0.5;
       } else {
@@ -238,7 +408,7 @@ export function computeMarketValuation(item, allListings = DEFAULT_LISTINGS) {
         let h = 0;
         for (let i = 0; i < canonicalKey.length; i++) h = (h * 31 + canonicalKey.charCodeAt(i)) & 0xffffff;
         const deltaPct = ((h % 19) - 9) / 100;
-        estimated = cohortAvg * (1 - deltaPct);
+        estimated = cohortAvg * (1 - deltaPct) * targetStateMult;
       }
     }
   }

@@ -22,9 +22,30 @@
 
 import fs from 'fs';
 import path from 'path';
+import dns from 'dns';
 import * as cheerio from 'cheerio';
 import { localizeTerm } from './dictionary.js';
 import { detectBikeCylinders, getVehicleHorsepower } from './darija.js';
+
+// Force IPv4 DNS lookup to prevent IPv6 connect timeouts in cloud containers
+const origLookup = dns.lookup;
+dns.lookup = function (hostname, options, callback) {
+  if (typeof options === 'function') {
+    callback = options;
+    options = { family: 4 };
+  } else if (typeof options === 'number') {
+    options = { family: 4 };
+  } else {
+    options = { ...options, family: 4 };
+  }
+  return origLookup.call(this, hostname, options, (err, address, family) => {
+    if (!err && Array.isArray(address)) {
+      const v4 = address.filter((a) => a.family === 4);
+      return callback(null, v4.length > 0 ? v4 : address);
+    }
+    return callback(err, address, family);
+  });
+};
 
 const MIN_DELAY_MS = 1500;
 const DEFAULT_DELAY_MS = 2000;
@@ -467,7 +488,7 @@ export async function main() {
 
       page++;
       // Also occasionally sprinkle in moto listings
-      if (page % 5 === 0 && motoPage <= 10) {
+      if (page % 5 === 0 && motoPage <= 15) {
         const motoSearchUrl = `https://www.moteur.ma/fr/moto/achat-moto-occasion?page=${motoPage}`;
         const motoLinks = await crawlSearchPage(motoSearchUrl);
         await sleep(MIN_DELAY_MS);

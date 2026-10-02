@@ -90,3 +90,30 @@ export function getVehicleHorsepower(item = {}) {
   return 115;
 }
 
+export function generateEnrichedSummary(item = {}) {
+  const isBike = (item.kind || '').toLowerCase().includes('moto') || (item.kind || '').toLowerCase().includes('bike');
+  const title = (item.title && (item.title.en || item.title.ar)) || (isBike ? 'دراجة نارية' : 'سيارة');
+  
+  const fMap = {};
+  if (Array.isArray(item.features)) {
+    item.features.forEach(f => {
+      const k = ((f.label && (f.label.en || f.label.raw || f.label)) || '').toLowerCase();
+      fMap[k] = (f.value && (f.value.en || f.value.ar || f.value.raw || f.value)) || '';
+    });
+  }
+  const year = fMap['year'] || (item.quickFacts && item.quickFacts[0] && (item.quickFacts[0].en || item.quickFacts[0])) || '';
+  const fuel = (fMap['fuel'] || (item.quickFacts && item.quickFacts[2] && (item.quickFacts[2].en || item.quickFacts[2])) || '').toLowerCase();
+  const fuelAr = fuel.includes('diesel') || fuel.includes('مازوط') ? 'مازوط' : (fuel.includes('essence') || fuel.includes('petrol') || fuel.includes('بنزين') ? 'ليسانس' : (fuel.includes('hybride') || fuel.includes('hybrid') ? 'هايبريد' : ''));
+  const fuelEn = fuel.includes('diesel') ? 'Diesel' : (fuel.includes('essence') || fuel.includes('petrol') ? 'Petrol' : (fuel.includes('hybrid') ? 'Hybrid' : ''));
+
+  if (isBike) {
+    const ar = `${title} نقية بزاف ومحافظ عليها مزيان${year ? ' موديل ' + year : ''}، واجدة للطريق بدون أي مصاريف إضافية.`;
+    const en = `Very clean ${title}${year ? ' (' + year + ')' : ''}, well maintained and in great condition, ready to ride with no extra costs.`;
+    return { ar, en };
+  }
+
+  const ar = `${title} نقية بزاف${fuelAr ? ' ' + fuelAr : ''}${year ? ' موديل ' + year : ''}، باقية في حالة ممتازة ومحافظ عليها مزيان، واجدة للطريق.`;
+  const en = `Very clean ${title}${fuelEn ? ' (' + fuelEn + ')' : ''}${year ? ' ' + year : ''}, well maintained and in great condition, ready to drive.`;
+  return { ar, en };
+}
+

@@ -21,10 +21,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -100,16 +96,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -168,10 +154,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -247,16 +229,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -315,10 +287,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -394,16 +362,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -462,10 +420,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -541,16 +495,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -609,10 +553,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -688,16 +628,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -756,10 +686,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -835,16 +761,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -903,10 +819,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -982,16 +894,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -1050,10 +952,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -1129,16 +1027,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -1197,10 +1085,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -1276,16 +1160,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -1344,10 +1218,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -1423,16 +1293,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -1491,10 +1351,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -1570,16 +1426,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -1638,10 +1484,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -1717,16 +1559,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -1785,10 +1617,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -1864,16 +1692,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -1932,10 +1750,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -2011,16 +1825,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -2079,10 +1883,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -2158,16 +1958,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -2226,10 +2016,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -2305,16 +2091,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -2373,10 +2149,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -2448,16 +2220,6 @@ window.DEMO_RENTAL_LISTINGS = [
         "value": {
           "en": "2 days",
           "ar": "يومين"
-        }
-      },
-      {
-        "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
         }
       },
       {
@@ -2536,10 +2298,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -2611,16 +2369,6 @@ window.DEMO_RENTAL_LISTINGS = [
         "value": {
           "en": "2 days",
           "ar": "يومين"
-        }
-      },
-      {
-        "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
         }
       },
       {
@@ -2708,10 +2456,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -2787,16 +2531,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -2865,10 +2599,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -2940,16 +2670,6 @@ window.DEMO_RENTAL_LISTINGS = [
         "value": {
           "en": "2 days",
           "ar": "يومين"
-        }
-      },
-      {
-        "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
         }
       },
       {
@@ -3027,10 +2747,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -3102,16 +2818,6 @@ window.DEMO_RENTAL_LISTINGS = [
         "value": {
           "en": "2 days",
           "ar": "يومين"
-        }
-      },
-      {
-        "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
         }
       },
       {
@@ -3199,10 +2905,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -3274,16 +2976,6 @@ window.DEMO_RENTAL_LISTINGS = [
         "value": {
           "en": "2 days",
           "ar": "يومين"
-        }
-      },
-      {
-        "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
         }
       },
       {
@@ -60092,10 +59784,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -60171,16 +59859,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -60252,10 +59930,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -60331,16 +60005,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -60412,10 +60076,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -60491,16 +60151,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -60572,10 +60222,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -60651,16 +60297,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -60727,10 +60363,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -60806,16 +60438,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -60887,10 +60509,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -60966,16 +60584,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -61047,10 +60655,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -61126,16 +60730,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -61207,10 +60801,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -61286,16 +60876,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -61367,10 +60947,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -61446,16 +61022,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -61527,10 +61093,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -61606,16 +61168,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -61687,10 +61239,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -61766,16 +61314,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -61847,10 +61385,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -61926,16 +61460,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -62007,10 +61531,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -62086,16 +61606,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -62167,10 +61677,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -62246,16 +61752,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -62327,10 +61823,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -62406,16 +61898,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -62487,10 +61969,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -62562,16 +62040,6 @@ window.DEMO_RENTAL_LISTINGS = [
         "value": {
           "en": "2 days",
           "ar": "يومين"
-        }
-      },
-      {
-        "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
         }
       },
       {
@@ -62647,10 +62115,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -62726,16 +62190,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -62807,10 +62261,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -62886,16 +62336,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -62967,10 +62407,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -63046,16 +62482,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -63127,10 +62553,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -63206,16 +62628,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -63287,10 +62699,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -63362,16 +62770,6 @@ window.DEMO_RENTAL_LISTINGS = [
         "value": {
           "en": "2 days",
           "ar": "يومين"
-        }
-      },
-      {
-        "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
         }
       },
       {
@@ -63447,10 +62845,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -63526,16 +62920,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -63607,10 +62991,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -63686,16 +63066,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -63767,10 +63137,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -63846,16 +63212,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -63914,10 +63270,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -63993,16 +63345,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -64061,10 +63403,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -64140,16 +63478,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -64208,10 +63536,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -64287,16 +63611,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -64355,10 +63669,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -64434,16 +63744,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -64502,10 +63802,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -64581,16 +63877,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -64649,10 +63935,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -64728,16 +64010,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -64796,10 +64068,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -64875,16 +64143,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -64943,10 +64201,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -65022,16 +64276,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -65090,10 +64334,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -65165,16 +64405,6 @@ window.DEMO_RENTAL_LISTINGS = [
         "value": {
           "en": "2 days",
           "ar": "يومين"
-        }
-      },
-      {
-        "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
         }
       },
       {
@@ -162474,10 +161704,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -162553,16 +161779,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -162614,10 +161830,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -162693,16 +161905,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -162756,10 +161958,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -162825,16 +162023,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -162882,10 +162070,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -162951,16 +162135,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -163005,10 +162179,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -163074,16 +162244,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -163134,10 +162294,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -163213,16 +162369,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -163269,10 +162415,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -163348,16 +162490,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -163405,10 +162537,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -163474,16 +162602,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -163533,10 +162651,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -163602,16 +162716,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -163661,10 +162765,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -163730,16 +162830,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -163789,10 +162879,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -163858,16 +162944,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -163917,10 +162993,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -163986,16 +163058,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -164045,10 +163107,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -164114,16 +163172,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -164172,10 +163220,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Automatic",
-        "ar": "أوطوماتيك"
       }
     ],
     "features": [
@@ -164241,16 +163285,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Automatic",
-          "ar": "أوطوماتيك"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -164300,10 +163334,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -164369,16 +163399,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -164428,10 +163448,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -164497,16 +163513,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -164556,10 +163562,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -164625,16 +163627,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -164684,10 +163676,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -164753,16 +163741,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -164806,10 +163784,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -164875,16 +163849,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -164928,10 +163892,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -164997,16 +163957,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -165050,10 +164000,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -165119,16 +164065,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -165172,10 +164108,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -165241,16 +164173,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -165294,10 +164216,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -165359,16 +164277,6 @@ window.DEMO_RENTAL_LISTINGS = [
         "value": {
           "en": "50 cc",
           "ar": "50 سم³"
-        }
-      },
-      {
-        "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
         }
       },
       {
@@ -165416,10 +164324,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -165485,16 +164389,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -165538,10 +164432,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -165607,16 +164497,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -165660,10 +164540,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -165725,16 +164601,6 @@ window.DEMO_RENTAL_LISTINGS = [
         "value": {
           "en": "411 cc",
           "ar": "411 سم³"
-        }
-      },
-      {
-        "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
         }
       },
       {
@@ -165782,10 +164648,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -165851,16 +164713,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -165904,10 +164756,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -165983,16 +164831,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -166044,10 +164882,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -166123,16 +164957,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -166178,10 +165002,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -166257,16 +165077,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -166312,10 +165122,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -166391,16 +165197,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -166452,10 +165248,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -166531,16 +165323,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -166586,10 +165368,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -166665,16 +165443,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -166720,10 +165488,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -166799,16 +165563,6 @@ window.DEMO_RENTAL_LISTINGS = [
       },
       {
         "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
-        }
-      },
-      {
-        "label": {
           "en": "City",
           "ar": "المدينة"
         },
@@ -166854,10 +165608,6 @@ window.DEMO_RENTAL_LISTINGS = [
       {
         "en": "Petrol",
         "ar": "ليصانص"
-      },
-      {
-        "en": "Manual",
-        "ar": "مانييل"
       }
     ],
     "features": [
@@ -166929,16 +165679,6 @@ window.DEMO_RENTAL_LISTINGS = [
         "value": {
           "en": "2 days",
           "ar": "يومين"
-        }
-      },
-      {
-        "label": {
-          "en": "Gearbox",
-          "ar": "علبة السرعات"
-        },
-        "value": {
-          "en": "Manual",
-          "ar": "مانييل"
         }
       },
       {

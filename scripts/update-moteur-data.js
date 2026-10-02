@@ -266,24 +266,47 @@ function run() {
       return true;
     });
 
-    // Add Gearbox, Customs status, and City to features
-    features.push(gearboxFeature);
-    features.push(customsFeature);
-    features.push(cityFeature);
+    if (!isBike) {
+      // Add Gearbox, Customs status, and City to car features
+      features.push(gearboxFeature);
+      features.push(customsFeature);
+      features.push(cityFeature);
+    } else {
+      // Motorbikes: remove all features not visible in moteur.ma (Gearbox, Customs, 1ère main, Condition, Body type, Tax hp, Origin)
+      features = features.filter(f => {
+        const lblEn = ((f.label && (f.label.en || f.label.raw || f.label)) || '').toLowerCase();
+        const lblAr = ((f.label && f.label.ar) || '').toLowerCase();
+        if (lblEn.includes('gearbox') || lblAr.includes('علبة السرعات')) return false;
+        if (lblEn.includes('transmission') || lblAr.includes('ناقل الحركة')) return false;
+        if (lblEn.includes('boite') || lblEn.includes('boîte')) return false;
+        if (lblEn.includes('douane') || lblEn.includes('customs') || lblAr.includes('جمارك')) return false;
+        if (lblEn.includes('first owner') || lblEn.includes('1ère main') || lblEn.includes('première') || lblAr.includes('الأول')) return false;
+        if (lblEn.includes('condition') || lblEn.includes('état') || lblEn.includes('etat') || lblAr.includes('حالة')) return false;
+        if (lblEn.includes('body type') || lblEn.includes('carrosserie') || lblEn.includes('category') || lblAr.includes('نوع الهيكل') || lblAr.includes('نوع الدراجة')) return false;
+        if (lblEn.includes('door') || lblEn.includes('porte') || lblAr.includes('أبواب')) return false;
+        if (lblEn.includes('tax horsepower') || lblEn.includes('puissance fiscale') || lblAr.includes('الجبائية')) return false;
+        if (lblEn.includes('origin') || lblEn.includes('origine') || lblAr.includes('الأصل')) return false;
+        return true;
+      });
+      features.push(cityFeature);
+    }
 
+    let bikeCyl = null;
     // For bikes, ensure cylinders is present
     if (isBike) {
       const hasCyl = features.some(f => {
         const lblEn = ((f.label && (f.label.en || f.label)) || '').toLowerCase();
         return lblEn.includes('cylinder') || lblEn.includes('cylindre') || lblEn.includes('أسطوان');
       });
+      const titleStr = rawTitle.toLowerCase();
+      let cyl = { en: '1 cylinder', ar: 'أسطوانة واحدة' };
+      if (titleStr.includes('1800') || titleStr.includes('goldwing')) cyl = { en: '6 cylinders (Flat-6)', ar: '6 أسطوانات (Flat-6)' };
+      else if (titleStr.includes('z900') || titleStr.includes('cbr') || titleStr.includes('r1')) cyl = { en: '4 cylinders', ar: '4 أسطوانات' };
+      else if (titleStr.includes('spyder') || titleStr.includes('triple')) cyl = { en: '3 cylinders', ar: '3 أسطوانات' };
+      else if (titleStr.includes('750') || titleStr.includes('500') || titleStr.includes('650') || titleStr.includes('tmax') || titleStr.includes('x-adv') || titleStr.includes('harley')) cyl = { en: '2 cylinders', ar: 'أسطوانتان' };
+      bikeCyl = cyl;
+
       if (!hasCyl) {
-        const titleStr = rawTitle.toLowerCase();
-        let cyl = { en: '1 cylinder', ar: 'أسطوانة واحدة' };
-        if (titleStr.includes('1800') || titleStr.includes('goldwing')) cyl = { en: '6 cylinders (Flat-6)', ar: '6 أسطوانات (Flat-6)' };
-        else if (titleStr.includes('z900') || titleStr.includes('cbr') || titleStr.includes('r1')) cyl = { en: '4 cylinders', ar: '4 أسطوانات' };
-        else if (titleStr.includes('spyder') || titleStr.includes('triple')) cyl = { en: '3 cylinders', ar: '3 أسطوانات' };
-        else if (titleStr.includes('750') || titleStr.includes('500') || titleStr.includes('650') || titleStr.includes('tmax') || titleStr.includes('x-adv') || titleStr.includes('harley')) cyl = { en: '2 cylinders', ar: 'أسطوانتان' };
         features.unshift({
           label: { en: 'Cylinders', ar: 'عدد الأسطوانات' },
           value: cyl
@@ -293,17 +316,43 @@ function run() {
 
     item.features = features;
 
-    // 6. Quick facts: Replace Horsepower with Statut de douane for cars
+    // 6. Quick facts: [Year, Mileage, Fuel, Customs status] for cars, [Year, Mileage, Fuel, Cylinders] for bikes
     const yearFact = (item.quickFacts || [])[0] || { en: 'N/A', ar: 'N/A' };
     const kmFact = (item.quickFacts || [])[1] || { en: 'N/A', ar: 'N/A' };
-    const fuelFact = (item.quickFacts || [])[2] || { en: 'Diesel', ar: 'ديزل' };
+    
+    // Resolve authentic fuel (avoid inheriting gearbox from quickFacts[2])
+    let fuelFact = (features || []).find(f => {
+      const lbl = ((f.label && (f.label.en || f.label)) || '').toLowerCase();
+      return lbl.includes('fuel') || lbl.includes('carburant') || lbl.includes('وقود') || lbl.includes('motorisation');
+    })?.value;
+
+    if (!fuelFact) {
+      const candidate = (item.quickFacts || []).find(q => {
+        const s = ((typeof q === 'object' ? (q.en || q.ar) : q) || '').toLowerCase();
+        return s.includes('diesel') || s.includes('petrol') || s.includes('essence') || s.includes('ديزل') || s.includes('بنزين') || s.includes('hybride') || s.includes('hybrid') || s.includes('electr');
+      });
+      fuelFact = candidate || (isBike ? { en: 'Petrol', ar: 'بنزين' } : { en: 'Diesel', ar: 'ديزل' });
+    }
+
+    if (isBike) {
+      const hasFuel = features.some(f => {
+        const lbl = ((f.label && (f.label.en || f.label)) || '').toLowerCase();
+        return lbl.includes('fuel') || lbl.includes('carburant') || lbl.includes('وقود') || lbl.includes('motorisation');
+      });
+      if (!hasFuel) {
+        features.push({
+          label: { en: 'Fuel', ar: 'الوقود' },
+          value: fuelFact
+        });
+      }
+    }
 
     if (!isBike) {
       // Cars: [Year, Mileage, Fuel, Customs status]
       item.quickFacts = [yearFact, kmFact, fuelFact, customsVal];
     } else {
-      // Bikes: [Year, Mileage, Fuel, Gearbox]
-      item.quickFacts = [yearFact, kmFact, fuelFact, gearboxVal];
+      // Bikes: [Year, Mileage, Fuel, Cylinders] (No gearbox or customs)
+      item.quickFacts = [yearFact, kmFact, fuelFact, bikeCyl || { en: '1 cylinder', ar: 'أسطوانة واحدة' }];
     }
 
     done++;

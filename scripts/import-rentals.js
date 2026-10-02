@@ -242,14 +242,20 @@ function buildRentalFeatures({
     });
   }
 
-  features.push({ label: { en: 'Gearbox', ar: 'علبة السرعات' }, value: gearboxLoc });
+  if (!isMoto) {
+    features.push({ label: { en: 'Gearbox', ar: 'علبة السرعات' }, value: gearboxLoc });
+  }
   features.push({ label: { en: 'City', ar: 'المدينة' }, value: { en: location.city, ar: location.cityAr } });
 
   const quickFacts = [{ en: String(year), ar: String(year) }];
   if (cleanMileage) {
     quickFacts.push({ en: cleanMileage, ar: cleanMileage });
   }
-  quickFacts.push(fuelLoc, gearboxLoc);
+  if (!isMoto) {
+    quickFacts.push(fuelLoc, gearboxLoc);
+  } else {
+    quickFacts.push(fuelLoc);
+  }
 
   return { features, quickFacts };
 }
