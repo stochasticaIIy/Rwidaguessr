@@ -223,6 +223,34 @@
   function selectFive(items) {
     return [...items].sort(() => Math.random() - .5).slice(0, 5);
   }
+  function getModelKey(item) {
+    const fMap = {};
+    if (Array.isArray(item.features)) {
+      for (const f of item.features) {
+        const lbl = f.label && typeof f.label === 'object' ? (f.label.en || f.label.fr || f.label.ar || f.label.raw || '') : String(f.label || '');
+        const val = f.value && typeof f.value === 'object' ? (f.value.en || f.value.fr || f.value.ar || f.value.raw || '') : String(f.value || '');
+        fMap[String(lbl).toLowerCase().trim()] = val;
+      }
+    }
+    const brand = fMap['brand'] || '';
+    const model = fMap['model'] || '';
+    const title = item.title && typeof item.title === 'object' ? (item.title.en || item.title.ar || '') : String(item.title || '');
+    return `${brand} ${model} ${title}`
+      .toLowerCase()
+      .replace(/[^a-z0-9\u0600-\u06FF]/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+  function dedupByModel(items) {
+    const seen = new Map();
+    for (const item of items) {
+      const k = getModelKey(item);
+      if (!k) { seen.set(Symbol(), item); continue; }
+      if (!seen.has(k)) seen.set(k, item);
+    }
+    const deduped = [...seen.values()];
+    return deduped.length >= 5 ? deduped : items;
+  }
   function setScreen(name) {
     for (const [key, element] of Object.entries({ start: ui.start, game: ui.game, result: ui.result, final: ui.final })) {
       element.classList.toggle('hidden', key !== name);
@@ -1020,23 +1048,6 @@
         if (en.includes('origin') || en.includes('origine') || ar.includes('الأصل')) return false;
         return true;
       });
-    }
-
-    // For motorbikes, ensure Cylinders is always displayed in features
-    if (isBike) {
-      const hasCyl = featureEntries.some(([label]) => {
-        const lblStr = (typeof label === 'object' ? (label.en || label.ar || '') : String(label)).toLowerCase();
-        return lblStr.includes('cylinder') || lblStr.includes('cylindre') || lblStr.includes('أسطوان');
-      });
-      if (!hasCyl) {
-        let cylValue = { en: '1 cylinder', ar: 'أسطوانة واحدة' };
-        const titleStr = (typeof item.title === 'object' ? (item.title.en || item.title.ar || '') : String(item.title)).toLowerCase();
-        if (titleStr.includes('1800') || titleStr.includes('goldwing')) cylValue = { en: '6 cylinders (Flat-6)', ar: '6 أسطوانات (Flat-6)' };
-        else if (titleStr.includes('z900') || titleStr.includes('cbr') || titleStr.includes('r1')) cylValue = { en: '4 cylinders', ar: '4 أسطوانات' };
-        else if (titleStr.includes('spyder') || titleStr.includes('triple')) cylValue = { en: '3 cylinders', ar: '3 أسطوانات' };
-        else if (titleStr.includes('750') || titleStr.includes('500') || titleStr.includes('650') || titleStr.includes('tmax') || titleStr.includes('x-adv') || titleStr.includes('harley')) cylValue = { en: '2 cylinders', ar: 'أسطوانتان' };
-        featureEntries.unshift([{ en: 'Cylinders', ar: 'عدد الأسطوانات' }, cylValue]);
-      }
     }
 
     const visibleOptions = (item.options || []).filter((option) => {
@@ -2258,6 +2269,7 @@
         const fuelFiltered = pool.filter((item) => isMatchingFuel(item, fuel));
         if (fuelFiltered.length >= 5) pool = fuelFiltered;
       }
+      pool = dedupByModel(pool);
       state.listings = selectFive(pool);
       const usedIds = new Set(state.listings.map((l) => l.id));
       state.reserves = pool.filter((item) => !usedIds.has(item.id));
