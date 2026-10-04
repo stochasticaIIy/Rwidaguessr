@@ -472,14 +472,15 @@ test('15. Guess Endpoint & Detailed Market Valuation Feedback — Comprehensive 
   assert.ok(typeof data.marketValuation.tier === 'string', 'tier missing in marketValuation');
 });
 
-test('16. Electric Fleet Filtering & Catalog Integrity — Over 40 pure EVs with authentic fuel specs', async () => {
-  // 1. Verify electric count in catalog
+test('16. Electric Fleet Filtering & Catalog Integrity — Over 35 pure EVs with authentic fuel specs', async () => {
+  // 1. Verify electric count in catalog (minimum lowered from 40 → 35 after Pillar 2A
+  //    price corruption cleanup removed 1-2 EVs whose price was a sidebar promo capture)
   const electricVehicles = DEFAULT_LISTINGS.filter(item => {
     const fFuel = (item.features || []).find(f => /fuel|carburant|وقود|motorisation/i.test(f.label?.en || f.label));
     const val = (fFuel?.value?.en || fFuel?.value || '').toLowerCase();
     return val.includes('electr') || val.includes('électr') || val.includes('كهربائ');
   });
-  assert.ok(electricVehicles.length >= 40, `Expected at least 40 pure electric vehicles, found ${electricVehicles.length}`);
+  assert.ok(electricVehicles.length >= 35, `Expected at least 35 pure electric vehicles, found ${electricVehicles.length}`);
 
   // 2. Verify /api/game fuel=electric filter
   const req = new Request('https://moteurguessr.test/api/game?seconds=600&type=sale&mode=cars&fuel=electric');
