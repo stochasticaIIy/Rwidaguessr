@@ -16,6 +16,36 @@ function sample(items, count) {
   return [...items].sort(() => crypto.getRandomValues(new Uint32Array(1))[0] - 0x80000000).slice(0, count);
 }
 
+function getModelKey(item) {
+  const fMap = {};
+  if (Array.isArray(item.features)) {
+    for (const f of item.features) {
+      const lbl = f.label && typeof f.label === 'object' ? (f.label.en || f.label.fr || f.label.ar || f.label.raw || '') : String(f.label || '');
+      const val = f.value && typeof f.value === 'object' ? (f.value.en || f.value.fr || f.value.ar || f.value.raw || '') : String(f.value || '');
+      fMap[String(lbl).toLowerCase().trim()] = val;
+    }
+  }
+  const brand = fMap['brand'] || '';
+  const model = fMap['model'] || '';
+  const title = item.title && typeof item.title === 'object' ? (item.title.en || item.title.ar || '') : String(item.title || '');
+  return `${brand} ${model} ${title}`
+    .toLowerCase()
+    .replace(/[^a-z0-9\u0600-\u06FF]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function dedupByModel(items) {
+  const seen = new Map();
+  for (const item of items) {
+    const k = getModelKey(item);
+    if (!k) { seen.set(Symbol(), item); continue; }
+    if (!seen.has(k)) seen.set(k, item);
+  }
+  const deduped = [...seen.values()];
+  return deduped.length >= 5 ? deduped : items;
+}
+
 function sanitizeListingFeatures(item, isRental = false) {
   if (!Array.isArray(item.features)) return item.features;
   return item.features.filter((f) => {
@@ -165,6 +195,8 @@ export async function onRequestGet({ request, env = {} }) {
     const fuelFiltered = pool.filter((item) => isMatchFuel(item, fuel));
     if (fuelFiltered.length >= 5) pool = fuelFiltered;
   }
+
+  pool = dedupByModel(pool);
 
   const sampleCount = Math.min(pool.length, 15);
   const sampledItems = sample(pool, sampleCount);
