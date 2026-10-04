@@ -1051,14 +1051,20 @@
     });
 
     ui.features.innerHTML = featureEntries.map(([label, value]) => `<div><dt dir="auto"><bdi>${escape(localized(label))}</bdi></dt><dd dir="auto"><bdi>${escape(localized(value))}</bdi></dd></div>`).join('');
-    ui.options.innerHTML = visibleOptions.length
-      ? visibleOptions.map((option) => {
-          const text = (option && typeof option === 'object' && !Array.isArray(option))
-            ? (option.raw || option.fr || localized(option))
-            : (option ?? '');
-          return `<span dir="auto"><bdi>${escape(text)}</bdi></span>`;
-        }).join('')
-      : `<span>${t('noOptions')}</span>`;
+    const optionsCard = ui.options.closest('.options-card');
+    if (isRental) {
+      if (optionsCard) optionsCard.classList.add('hidden');
+    } else {
+      ui.options.innerHTML = visibleOptions.length
+        ? visibleOptions.map((option) => {
+            const text = (option && typeof option === 'object' && !Array.isArray(option))
+              ? (option.raw || option.fr || localized(option))
+              : (option ?? '');
+            return `<span dir="auto"><bdi>${escape(text)}</bdi></span>`;
+          }).join('')
+        : `<span>${t('noOptions')}</span>`;
+      if (optionsCard) optionsCard.classList.remove('hidden');
+    }
     ui.emoji.textContent = isBike ? '🏍️' : '🚗';
     renderImage(item);
   }
