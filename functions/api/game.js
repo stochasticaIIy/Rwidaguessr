@@ -48,24 +48,57 @@ function dedupByModel(items) {
 
 function sanitizeListingFeatures(item, isRental = false) {
   if (!Array.isArray(item.features)) return item.features;
-  return item.features.filter((f) => {
+  const fuel = getListingFuel(item);
+  const isCar = !((item.kind || '').toLowerCase().includes('moto') || (item.kind || '').toLowerCase().includes('bike'));
+  let hasMotorisationElectric = false;
+  let motorisationLabelMatch = false;
+  let hasExplicitFuelRow = false;
+  for (const f of item.features) {
+    const lbl = f.label && typeof f.label === 'object' ? (f.label.en || f.label.fr || f.label.raw || '') : String(f.label || '');
+    const lblLo = String(lbl).toLowerCase().trim();
+    if (lblLo === 'motorisation' || lblLo.includes('motorisation')) {
+      motorisationLabelMatch = true;
+      const val = f.value && typeof f.value === 'object' ? (f.value.en || f.value.fr || f.value.raw || f.value.ar || '') : String(f.value || '');
+      const v = String(val).toLowerCase();
+      if (v.includes('electric') || v.includes('electrique') || v.includes('électrique') || v.includes('كهربائي')) hasMotorisationElectric = true;
+    }
+    if (lblLo.includes('fuel') || lblLo.includes('carburant') || lblLo.includes('وقود')) {
+      hasExplicitFuelRow = true;
+    }
+  }
+  const isElectricCar = isCar && (fuel === 'electric' || (motorisationLabelMatch && hasMotorisationElectric));
+  const injectFuelRow = isElectricCar && hasMotorisationElectric && !hasExplicitFuelRow;
+  const out = [];
+  for (const f of item.features) {
     const label = f.label;
     const en = (label && typeof label === 'object' ? (label.en || label.fr || label.raw || '') : String(label || '')).toLowerCase().trim();
     const ar = (label && typeof label === 'object' ? (label.ar || '') : '').toLowerCase().trim();
-    if (en.includes('transmission') || ar.includes('ناقل الحركة')) return false;
-    // Remove mechanical horsepower (DIN hp) only, keep fiscal horsepower (puissance fiscale) for sale mode
-    if ((en.includes('horsepower') && !en.includes('tax') && !en.includes('fiscale')) || (ar.includes('حصان') && !ar.includes('جبائية') && !ar.includes('ضريب')) || en.includes('puissance din')) return false;
-    if (isRental) {
-      if (en.includes('security deposit') || en.includes('caution') || ar.includes('ضمانة')) return false;
-      if (en.includes('custom') || en.includes('douane') || ar.includes('جمارك')) return false;
-      if (en.includes('tax horsepower') || en === 'tax hp' || en.includes('puissance fiscale') || ar.includes('الجبائية')) return false;
-      if (en.includes('1ère main') || en.includes('première main') || en.includes('first owner') || ar.includes('المالك الأول')) return false;
-      if (en.includes('condition') || ar.includes('الحالة والصيانة')) return false;
-    }
     const val = f.value && typeof f.value === 'object' ? (f.value.en || f.value.fr || f.value.raw || '') : String(f.value || '');
-    if (!val || val.toLowerCase() === 'n/a') return false;
-    return true;
-  });
+    if (!val || val.toLowerCase() === 'n/a') continue;
+    if (en.includes('transmission') || ar.includes('ناقل الحركة')) continue;
+    if ((en.includes('horsepower') && !en.includes('tax') && !en.includes('fiscale')) || (ar.includes('حصان') && !ar.includes('جبائية') && !ar.includes('ضريب')) || en.includes('puissance din')) continue;
+    if (isElectricCar) {
+      if (en === 'motorisation' || ar.includes('motorisation')) continue;
+    }
+    if (isRental) {
+      if (en.includes('security deposit') || en.includes('caution') || ar.includes('ضمانة')) continue;
+      if (en.includes('custom') || en.includes('douane') || ar.includes('جمارك')) continue;
+      if (en.includes('tax horsepower') || en === 'tax hp' || en.includes('puissance fiscale') || ar.includes('الجبائية')) continue;
+      if (en.includes('1ère main') || en.includes('première main') || en.includes('first owner') || ar.includes('المالك الأول')) continue;
+      if (en.includes('condition') || ar.includes('الحالة والصيانة')) continue;
+    }
+    if (injectFuelRow && en.includes('year')) {
+      out.push({ label: { en: 'Fuel', ar: 'الوقود' }, value: { en: 'Electric', ar: 'كهربائي' } });
+    }
+    out.push(f);
+  }
+  if (injectFuelRow && !out.some(f => {
+    const en = ((f.label && typeof f.label === 'object' ? (f.label.en || '') : '') || '').toLowerCase().trim();
+    return en.includes('fuel') || en.includes('carburant');
+  })) {
+    out.unshift({ label: { en: 'Fuel', ar: 'الوقود' }, value: { en: 'Electric', ar: 'كهربائي' } });
+  }
+  return out;
 }
 
 function sanitizeListingQuickFacts(item, isRental = false) {
