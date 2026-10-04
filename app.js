@@ -916,35 +916,60 @@
 
     let featureEntries = Array.isArray(item.features) ? item.features.map((feature) => [feature.label, feature.value]) : Object.entries(item.features || {});
     
+    const itemFuel = getListingFuel(item);
+    const isCarMode = !isBike;
+    let hasMotorisationElectric = false;
+    let hasMotorisationField = false;
+    let hasExplicitFuelRow = false;
+    for (const f of (item.features || [])) {
+      const lblRaw = f.label && typeof f.label === 'object' ? (f.label.en || f.label.fr || f.label.ar || f.label.raw || '') : String(f.label || '');
+      const lblLo = String(lblRaw).toLowerCase().trim();
+      if (lblLo === 'motorisation' || lblLo.includes('motorisation')) {
+        hasMotorisationField = true;
+        const valRaw = f.value && typeof f.value === 'object' ? (f.value.en || f.value.fr || f.value.ar || f.value.raw || '') : String(f.value || '');
+        const v = String(valRaw).toLowerCase();
+        if (v.includes('electric') || v.includes('electrique') || v.includes('électrique') || v.includes('كهربائي')) hasMotorisationElectric = true;
+      }
+      if (lblLo.includes('fuel') || lblLo.includes('carburant') || lblLo.includes('وقود')) {
+        hasExplicitFuelRow = true;
+      }
+    }
+    const isElectricCar = isCarMode && (itemFuel === 'electric' || (hasMotorisationField && hasMotorisationElectric));
+    const injectFuelRow = isElectricCar && hasMotorisationElectric && !hasExplicitFuelRow;
+
     // Clean raw entries: remove transmission (handled via Gearbox), DIN mechanical horsepower, and raw body/tax keys that will be cleanly replaced
-    featureEntries = featureEntries.filter(([label, value]) => {
+    const cleanedEntries = [];
+    for (const [label, value] of featureEntries) {
       const en = (label && typeof label === 'object' ? (label.en || label.fr || label.raw || '') : String(label || '')).toLowerCase().trim();
       const ar = (label && typeof label === 'object' ? (label.ar || '') : '').toLowerCase().trim();
       const valStr = (value && typeof value === 'object' ? (value.en || value.fr || value.ar || value.raw || '') : String(value || '')).toLowerCase().trim();
 
-      if (!valStr || valStr === 'n/a' || valStr === 'null' || valStr === 'undefined') {
-        return false;
-      }
-      if (en.includes('tax horsepower') || en === 'tax hp' || en.includes('puissance fiscale') || ar.includes('الجبائية')) {
-        return false;
-      }
-      if (en.includes('transmission') || ar.includes('ناقل الحركة')) {
-        return false;
-      }
-      if (en.includes('horsepower') || ar.includes('حصان') || en.includes('puissance din')) {
-        return false;
-      }
-      if (en.includes('body type') || en.includes('carrosserie') || ar.includes('نوع الهيكل') || ar.includes('هيكل')) {
-        return false;
+      if (!valStr || valStr === 'n/a' || valStr === 'null' || valStr === 'undefined') continue;
+      if (en.includes('tax horsepower') || en === 'tax hp' || en.includes('puissance fiscale') || ar.includes('الجبائية')) continue;
+      if (en.includes('transmission') || ar.includes('ناقل الحركة')) continue;
+      if (en.includes('horsepower') || ar.includes('حصان') || en.includes('puissance din')) continue;
+      if (en.includes('body type') || en.includes('carrosserie') || ar.includes('نوع الهيكل') || ar.includes('هيكل')) continue;
+      if (isElectricCar) {
+        if (en === 'motorisation' || ar.includes('motorisation')) continue;
       }
       if (isRental) {
-        if (en.includes('security deposit') || en.includes('caution') || ar.includes('ضمانة')) return false;
-        if (en.includes('custom') || en.includes('douane') || ar.includes('جمارك')) return false;
-        if (en.includes('1ère main') || en.includes('première main') || en.includes('premiere main') || en.includes('first owner') || ar.includes('المالك الأول')) return false;
-        if (en.includes('condition') || ar.includes('الحالة والصيانة')) return false;
+        if (en.includes('security deposit') || en.includes('caution') || ar.includes('ضمانة')) continue;
+        if (en.includes('custom') || en.includes('douane') || ar.includes('جمارك')) continue;
+        if (en.includes('1ère main') || en.includes('première main') || en.includes('premiere main') || en.includes('first owner') || ar.includes('المالك الأول')) continue;
+        if (en.includes('condition') || ar.includes('الحالة والصيانة')) continue;
       }
-      return true;
-    });
+      if (injectFuelRow && en.includes('year')) {
+        cleanedEntries.push([{ en: 'Fuel', ar: 'الوقود' }, { en: 'Electric', ar: 'كهربائي' }]);
+      }
+      cleanedEntries.push([label, value]);
+    }
+    if (injectFuelRow && !cleanedEntries.some(([lbl]) => {
+      const e = ((lbl && typeof lbl === 'object' ? (lbl.en || '') : '') || '').toLowerCase().trim();
+      return e.includes('fuel') || e.includes('carburant');
+    })) {
+      cleanedEntries.unshift([{ en: 'Fuel', ar: 'الوقود' }, { en: 'Electric', ar: 'كهربائي' }]);
+    }
+    featureEntries = cleanedEntries;
 
     // High-value feature 1: Fiscal Horsepower for Sale cars only
     if (!isRental && attrs.cv && !isBike) {
