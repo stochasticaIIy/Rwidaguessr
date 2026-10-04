@@ -51,6 +51,27 @@ const MIN_DELAY_MS = 1500;
 const DEFAULT_DELAY_MS = 2000;
 const USER_AGENT = 'RwidaGuessr-Importer/1.0 (+https://github.com/stochasticaIIy/Rwidaguessr; conservative public detail importer)';
 
+const KNOWN_SIDEBAR_PROMO_PRICES = new Set([
+  232900, 293900, 379000, 220200, 424900, 200000, 319900,
+  159900, 259900, 289900, 349900, 359900, 399000, 449000,
+  169900, 179900, 189900, 199900, 219900, 249900, 269900,
+  499000, 549000, 599000, 649000, 699000, 749000, 799000,
+  849000, 899000, 949000, 999000, 1099000, 1199000, 1299000,
+  1399000, 1499000, 1599000, 1699000, 1799000, 1899000, 1999000,
+  2099000, 2199000, 2299000, 2399000, 2499000, 2599000, 2799000,
+  2999000, 3000000, 3200000, 3500000, 3800000, 4000000, 4200000,
+  4500000, 5000000, 5500000, 6000000,
+  230000, 290000, 380000, 220000, 320000
+]);
+
+const CFP_SIGNALS_RE = /appeler|appelez|appel\b|contactez|contacter|contact\b|contactez[- ]nous|pour\s+(?:le\s+)?prix|prix\s+(?:sur\s+)?demande|sur\s+demande|pour\s+plus\s+d['\s]?infos?|demander\s+le\s+prix|demande\s+de\s+renseignement|veuillez\s+contacter|informations\s+contactez|plus\s+d['\s]?informations\s+contact/i;
+
+const AD_CARD_SELECTORS = [
+  '.ad-detail', '.main-content', '#ad-detail', '.ad-detail-card',
+  '.annonce-detail', '.content-area', 'main', '.container .row .col-lg-8',
+  '.col-lg-8', '.col-md-8'
+].join(', ');
+
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -114,50 +135,63 @@ export function parseMoteurHtml(html, sourceUrl) {
     }
   }
 
-  // 4. Price
+  // 4. Price — scoped strictly to the annonce card.
+  //    Body-wide $("body") regex removed (it stole sidebar promo prices like
+  //    DEEPAL G318 424 900 Dhs). All lookups scoped to ad card; meta-tag
+  //    fallback gated against KNOWN_SIDEBAR_PROMO_PRICES.
+  const $ad = $(AD_CARD_SELECTORS).first();
+  const scoped = $ad.length ? $ad : $.root();
+
+  function parsePriceText(raw) {
+    if (!raw) return 0;
+    const match = String(raw).replace(/\s+/g, ' ').match(/([\d\s.,]{3,12})/);
+    if (!match) return 0;
+    const parsed = parseInt(match[1].replace(/[^\d]/g, ''), 10);
+    return (parsed > 1000 && isFinite(parsed)) ? parsed : 0;
+  }
+
   let price = 0;
-  const priceHero = $('.ad-hero-price-col, .col-4.text-primary.ad-hero-price-col, .detail-price, #detail-price').first();
-  if (priceHero.length) {
-    const heroText = priceHero.text().trim();
-    const heroLower = heroText.toLowerCase();
-    if (heroLower.includes('appeler') || heroLower.includes('demande') || heroLower.includes('contact') || heroLower.includes('sur devis')) {
-      price = 0; // Explicitly unpriced listing ("Appeler pour le prix")
-    } else {
-      const match = heroText.replace(/\s+/g, ' ').match(/([\d\s.,]{3,12})/);
-      if (match) {
-        const parsed = parseInt(match[1].replace(/[^\d]/g, ''), 10);
-        if (parsed > 1000) price = parsed;
+  let priceSource = 'none';
+
+  if (CFP_SIGNALS_RE.test(scoped.text().toLowerCase())) {
+    price = 0;
+    priceSource = 'cfp-ad-card-text';
+  } else {
+    const priceHero = scoped.find('.ad-hero-price-col, .col-4.text-primary.ad-hero-price-col, .detail-price, #detail-price').first();
+    if (priceHero.length) {
+      const heroText = priceHero.text().trim();
+      if (CFP_SIGNALS_RE.test(heroText.toLowerCase())) {
+        price = 0;
+        priceSource = 'cfp-hero';
+      } else {
+        const parsed = parsePriceText(heroText);
+        if (parsed) { price = parsed; priceSource = 'hero'; }
       }
     }
-  }
 
-  // Check price elements or regex on full page text if not found
-  if (!price) {
-    const priceEl = $('.col-md-4 .price, .col-sm-4 .price, .item-price, .price').first();
-    if (priceEl.length) {
-      const pText = priceEl.text().trim();
-      const match = pText.replace(/\s+/g, ' ').match(/([\d\s.,]{3,12})/);
-      if (match) {
-        const parsed = parseInt(match[1].replace(/[^\d]/g, ''), 10);
-        if (parsed > 1000) price = parsed;
+    if (!price) {
+      const priceEl = scoped.find('.col-md-4 .price, .col-sm-4 .price, .item-price, .price').first();
+      if (priceEl.length) {
+        const pText = priceEl.text().trim();
+        if (CFP_SIGNALS_RE.test(pText.toLowerCase())) {
+          price = 0;
+          priceSource = 'cfp-price-el';
+        } else {
+          const parsed = parsePriceText(pText);
+          if (parsed) { price = parsed; priceSource = 'price-element'; }
+        }
       }
     }
-  }
 
-  if (!price) {
-    const pageMatch = $('body').text().match(/(\d[\d\s.,]{3,10})\s*(?:dhs|dh|dirhams)/i);
-    if (pageMatch) {
-      const parsed = parseInt(pageMatch[1].replace(/[^\d]/g, ''), 10);
-      if (parsed > 1000) price = parsed;
-    }
-  }
-
-  // Only check meta tag if still not found
-  if (!price) {
-    const priceMeta = $('meta[property="product:price:amount"]').attr('content');
-    if (priceMeta) {
-      const parsed = parseInt(priceMeta.replace(/[^\d]/g, ''), 10);
-      if (parsed > 1000) price = parsed;
+    if (!price) {
+      const priceMeta = $('meta[property="product:price:amount"]').attr('content');
+      if (priceMeta) {
+        const parsed = parsePriceText(priceMeta);
+        if (parsed && !KNOWN_SIDEBAR_PROMO_PRICES.has(parsed)) {
+          price = parsed;
+          priceSource = 'meta-gated';
+        }
+      }
     }
   }
 
@@ -349,6 +383,7 @@ export function parseMoteurHtml(html, sourceUrl) {
       ar: rawTitle
     },
     price,
+    _priceSource: priceSource,
     quickFacts,
     features,
     options,
@@ -377,7 +412,11 @@ export async function importListing(url, delayMs = DEFAULT_DELAY_MS) {
   const html = await response.text();
   const listing = parseMoteurHtml(html, url);
 
-  console.log(`[Importer] Extracted: "${listing.title.en}" (${listing.price > 0 ? listing.price + ' MAD' : 'Price on demand'}, ${listing.images.length} photos)`);
+  const src = listing._priceSource || 'unknown';
+  const priceStr = listing.price > 0
+    ? `${listing.price} MAD [src=${src}]`
+    : `Price on demand [src=${src}]`;
+  console.log(`[Importer] Extracted: "${listing.title.en}" (${priceStr}, ${listing.images.length} photos)`);
   
   await sleep(actualDelay);
   return listing;
