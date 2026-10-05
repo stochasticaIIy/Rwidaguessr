@@ -7,7 +7,7 @@ import {
   computeMarketValuation,
   onRequestPost as handleGuess
 } from '../functions/api/guess.js';
-import { onRequestGet as handleGame } from '../functions/api/game.js';
+import { onRequestGet as handleGame, isSuv, isLuxuryExcludingSuv, isEverydayCar } from '../functions/api/game.js';
 import { DEFAULT_LISTINGS } from '../data/listings.data.js';
 import { DEFAULT_RENTAL_LISTINGS } from '../data/rentals.data.js';
 
@@ -526,5 +526,59 @@ test('17. UI Localization, Audio System & Accessibility — Bilingual strings, W
     assert.ok(appJs.includes(`${k}:`), `Missing translation key: ${k} in app.js`);
   }
 });
+
+test('18. Car Types Game Mode — Everyday cars, SUVs, and luxury excluding SUVs classification and gameplay API', async () => {
+  // 1. Verify UI markup in index.html for car type switches
+  assert.match(indexHtml, /id="car-type-group"/, 'car-type-group container missing');
+  assert.match(indexHtml, /id="cartype-all"/, 'cartype-all button missing');
+  assert.match(indexHtml, /id="cartype-everyday"/, 'cartype-everyday button missing');
+  assert.match(indexHtml, /id="cartype-suv"/, 'cartype-suv button missing');
+  assert.match(indexHtml, /id="cartype-luxury"/, 'cartype-luxury button missing');
+
+  // 2. Verify all car listings in catalog partition cleanly into Everyday, SUV, or Luxury (no SUV)
+  const cars = DEFAULT_LISTINGS.filter(l => !(l.kind || '').toLowerCase().includes('moto') && !(l.kind || '').toLowerCase().includes('bike'));
+  assert.ok(cars.length > 500, `Expected at least 500 cars, found ${cars.length}`);
+
+  let suvCount = 0;
+  let luxCount = 0;
+  let everydayCount = 0;
+
+  for (const car of cars) {
+    const isS = isSuv(car);
+    const isL = isLuxuryExcludingSuv(car);
+    const isE = isEverydayCar(car);
+
+    assert.ok(!(isS && isL), `Car ${car.id} cannot be both SUV and luxury-excluding-SUV`);
+    assert.equal(isE, !isS && !isL, `Car ${car.id} everyday status mismatch`);
+
+    if (isS) suvCount++;
+    if (isL) luxCount++;
+    if (isE) everydayCount++;
+  }
+
+  assert.ok(suvCount >= 50, `Expected at least 50 SUVs, found ${suvCount}`);
+  assert.ok(luxCount >= 50, `Expected at least 50 luxury cars, found ${luxCount}`);
+  assert.ok(everydayCount >= 50, `Expected at least 50 everyday cars, found ${everydayCount}`);
+  assert.equal(suvCount + luxCount + everydayCount, cars.length, 'Partition sum must match total cars');
+
+  // 3. Verify /api/game carType query filtering for everyday, suv, and luxury
+  for (const carType of ['everyday', 'suv', 'luxury']) {
+    const req = new Request(`https://moteurguessr.test/api/game?seconds=600&type=sale&mode=cars&carType=${carType}`);
+    const res = await handleGame({ request: req });
+    const data = await res.json();
+
+    assert.equal(data.round.length, 5, `Expected 5 items in round for carType=${carType}`);
+    for (const item of data.round) {
+      if (carType === 'everyday') {
+        assert.ok(isEverydayCar(item), `Item ${item.id} is not an everyday car in carType=everyday`);
+      } else if (carType === 'suv') {
+        assert.ok(isSuv(item), `Item ${item.id} is not an SUV in carType=suv`);
+      } else if (carType === 'luxury') {
+        assert.ok(isLuxuryExcludingSuv(item), `Item ${item.id} is not a luxury (no SUV) in carType=luxury`);
+      }
+    }
+  }
+});
+
 
 

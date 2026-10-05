@@ -3,19 +3,34 @@
 import fs from 'fs';
 import path from 'path';
 
-const sourceFile = path.resolve(process.cwd(), 'data/listings.imported.json');
 const dataDir = path.resolve(process.cwd(), 'data');
 
-if (!fs.existsSync(sourceFile)) {
-  console.error('[Sync] Source file data/listings.imported.json not found!');
-  process.exit(1);
+function resolveSourceFile(baseName) {
+  const impFile = path.resolve(dataDir, `${baseName}.imported.json`);
+  const demoFile = path.resolve(dataDir, `${baseName}.demo.json`);
+  const impExists = fs.existsSync(impFile);
+  const demoExists = fs.existsSync(demoFile);
+
+  if (!impExists && !demoExists) return null;
+  if (impExists && !demoExists) return impFile;
+  if (!impExists && demoExists) return demoFile;
+
+  const impMtime = fs.statSync(impFile).mtimeMs;
+  const demoMtime = fs.statSync(demoFile).mtimeMs;
+  return demoMtime > impMtime ? demoFile : impFile;
 }
 
 try {
-  const content = fs.readFileSync(sourceFile, 'utf-8');
+  const saleSource = resolveSourceFile('listings');
+  if (!saleSource) {
+    console.error('[Sync] No sale listings source file found (checked listings.imported.json and listings.demo.json)');
+    process.exit(1);
+  }
+
+  const content = fs.readFileSync(saleSource, 'utf-8');
   const listings = JSON.parse(content);
   if (!Array.isArray(listings) || listings.length === 0) {
-    console.error('[Sync] Invalid or empty listings array in data/listings.imported.json');
+    console.error(`[Sync] Invalid or empty listings array in ${saleSource}`);
     process.exit(1);
   }
 
@@ -27,15 +42,16 @@ try {
   const demoJsContent = `/*\n * Real verified Moroccan vehicle listings with 100% working high-resolution photos.\n * Used for instant client-side rendering and static/fallback operation.\n */\nwindow.DEMO_LISTINGS = ${JSON.stringify(listings, null, 2)};\n`;
   fs.writeFileSync(path.join(dataDir, 'listings.demo.js'), demoJsContent, 'utf-8');
 
-  // 3. Export as demo.json for parity
+  // 3. Keep demo.json and imported.json in sync
   fs.writeFileSync(path.join(dataDir, 'listings.demo.json'), JSON.stringify(listings, null, 2), 'utf-8');
+  fs.writeFileSync(path.join(dataDir, 'listings.imported.json'), JSON.stringify(listings, null, 2), 'utf-8');
 
-  console.log(`[Sync] Successfully synchronized ${listings.length} sale listings from listings.imported.json to listings.data.js, listings.demo.js, and listings.demo.json!`);
+  console.log(`[Sync] Successfully synchronized ${listings.length} sale listings from ${path.basename(saleSource)} to all runtimes!`);
 
-  // 4. Also synchronize rental listings if data/rentals.imported.json exists
-  const rentalSourceFile = path.resolve(process.cwd(), 'data/rentals.imported.json');
-  if (fs.existsSync(rentalSourceFile)) {
-    const rentalContent = fs.readFileSync(rentalSourceFile, 'utf-8');
+  // 4. Also synchronize rental listings if rentals source exists
+  const rentalSource = resolveSourceFile('rentals');
+  if (rentalSource) {
+    const rentalContent = fs.readFileSync(rentalSource, 'utf-8');
     const rentals = JSON.parse(rentalContent);
     if (Array.isArray(rentals) && rentals.length > 0) {
       const rentalDataJs = `// Automatically exported verified Moroccan rental listings for server and edge runtimes\nexport const DEFAULT_RENTAL_LISTINGS = ${JSON.stringify(rentals, null, 2)};\n`;
@@ -45,7 +61,8 @@ try {
       fs.writeFileSync(path.join(dataDir, 'rentals.demo.js'), rentalDemoJs, 'utf-8');
 
       fs.writeFileSync(path.join(dataDir, 'rentals.demo.json'), JSON.stringify(rentals, null, 2), 'utf-8');
-      console.log(`[Sync] Successfully synchronized ${rentals.length} rental listings from rentals.imported.json to rentals.data.js, rentals.demo.js, and rentals.demo.json!`);
+      fs.writeFileSync(path.join(dataDir, 'rentals.imported.json'), JSON.stringify(rentals, null, 2), 'utf-8');
+      console.log(`[Sync] Successfully synchronized ${rentals.length} rental listings from ${path.basename(rentalSource)} to all runtimes!`);
     }
   }
 } catch (err) {

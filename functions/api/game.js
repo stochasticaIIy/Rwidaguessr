@@ -154,11 +154,42 @@ function getListingFuel(item) {
   return '';
 }
 
+export const LUXURY_BRANDS = [
+  'mercedes-benz', 'mercedes', 'bmw', 'audi', 'porsche', 'jaguar', 'maserati',
+  'alfa romeo', 'lexus', 'volvo', 'bentley', 'ferrari', 'lamborghini',
+  'aston martin', 'rolls-royce', 'cadillac', 'tesla'
+];
+
+export function isSuv(item) {
+  if (!item) return false;
+  const brand = (item.features?.find(f => /brand|marque|علامة/i.test(f.label?.en || f.label?.fr || f.label?.ar || f.label))?.value?.en || '').toLowerCase();
+  const title = (item.title?.en || item.title?.ar || item.title || '').toLowerCase();
+  const bodyFeat = (item.features?.find(f => /body|carrosserie|هيكل/i.test(f.label?.en || f.label?.fr || f.label?.ar || f.label))?.value?.en || '').toLowerCase();
+  if (/suv|4x4|crossover|tout-terrain/i.test(bodyFeat)) return true;
+  if (/land rover|range rover|jeep/i.test(brand) || /land rover|range rover|jeep/i.test(title)) return true;
+  return /duster|tucson|sportage|tiguan|touareg|kodiaq|tarraco|rav4|cr-v|cx-5|cx-3|cx-30|cx-60|cx-90|q2|q3|q5|q7|q8|x1|x2|x3|x4|x5|x6|x7|\bxm\b|ix\b|ix1|ix3|gla|glb|glc|gle|gls|classe g\b|g63\b|cayenne|macan|range rover|evoque|velar|defender|discovery|land cruiser|prado|patrol|stelvio|tonale|renegade|compass|wrangler|cherokee|captur|2008|3008|5008|c3 aircross|c5 aircross|juke|qashqai|x-trail|ateca|arona|formentor|kuga|taigo|t-roc|t-cross|kamiq|karoq|kadjar|austral|arkana|koleos|grandland|crossland|mokka|frontera|santa fe|sorento|niro|stonic|kona|bayon|ecosport|edge|explorer|puma|stepway|lodgy|xv\b|forester|outback|escalade|levante|grecale|urus|bentayga|cullinan|dbx|e-tron/i.test(title);
+}
+
+export function isLuxuryExcludingSuv(item) {
+  if (!item || isSuv(item)) return false;
+  const brand = (item.features?.find(f => /brand|marque|علامة/i.test(f.label?.en || f.label?.fr || f.label?.ar || f.label))?.value?.en || '').toLowerCase();
+  const title = (item.title?.en || item.title?.ar || item.title || '').toLowerCase();
+  return LUXURY_BRANDS.some(lb => brand.includes(lb) || new RegExp('\\b' + lb.replace('-', '[\\s-]') + '\\b', 'i').test(title));
+}
+
+export function isEverydayCar(item) {
+  if (!item) return false;
+  const k = (item.kind || '').toLowerCase();
+  if (k.includes('moto') || k.includes('bike')) return false;
+  return !isSuv(item) && !isLuxuryExcludingSuv(item);
+}
+
 export async function onRequestGet({ request, env = {} }) {
   const signingSecret = env.GAME_SIGNING_SECRET || env.APP_SECRET || FALLBACK_SECRET;
   const url = new URL(request.url);
   const rawType = (url.searchParams.get('type') || '').toLowerCase().trim();
   const rawMode = (url.searchParams.get('mode') || '').toLowerCase().trim();
+  const carType = (url.searchParams.get('carType') || url.searchParams.get('cartype') || '').toLowerCase().trim();
   const isRental = rawType === 'rental' || rawType === 'rent' || rawType === 'location' || rawMode.startsWith('rental');
 
   let listings = isRental ? DEFAULT_RENTAL_LISTINGS : DEFAULT_LISTINGS;
@@ -174,12 +205,27 @@ export async function onRequestGet({ request, env = {} }) {
   const expiresAt = Date.now() + seconds * 1000 + 10_000;
 
   const mode = rawMode.replace(/^rental[_-]?/, '');
+  const activeCarType = carType || (['everyday', 'suv', 'suvs', 'luxury', 'luxury_no_suv'].includes(mode) ? mode : '');
   let pool = valid;
-  if (mode === 'cars' || mode === 'car' || mode === 'voiture') {
-    const cars = valid.filter((item) => {
+  const isCarMode = mode === 'cars' || mode === 'car' || mode === 'voiture' || ['everyday', 'suv', 'suvs', 'luxury', 'luxury_no_suv'].includes(mode);
+
+  if (isCarMode) {
+    let cars = valid.filter((item) => {
       const k = (item.kind || '').toLowerCase();
       return k.includes('car') || k.includes('voiture');
     });
+    if (activeCarType && activeCarType !== 'all') {
+      if (activeCarType === 'suv' || activeCarType === 'suvs') {
+        const suvCars = cars.filter(isSuv);
+        if (suvCars.length >= 5) cars = suvCars;
+      } else if (activeCarType === 'luxury' || activeCarType === 'luxury_no_suv') {
+        const luxCars = cars.filter(isLuxuryExcludingSuv);
+        if (luxCars.length >= 5) cars = luxCars;
+      } else if (activeCarType === 'everyday') {
+        const everydayCars = cars.filter(isEverydayCar);
+        if (everydayCars.length >= 5) cars = everydayCars;
+      }
+    }
     if (cars.length >= 5) pool = cars;
   } else if (mode === 'motorbikes' || mode === 'moto' || mode === 'motos' || mode === 'motorcycle') {
     const motos = valid.filter((item) => {

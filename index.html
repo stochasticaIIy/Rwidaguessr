@@ -73,6 +73,27 @@
               </button>
             </div>
           </div>
+          <div class="mode-selector-group" id="car-type-group">
+            <span class="mode-label" id="car-type-group-label" data-i18n="carTypeLabel">نوع السيارات</span>
+            <div class="car-type-grid" role="radiogroup" aria-labelledby="car-type-group-label">
+              <button class="mode-button is-active" id="cartype-all" type="button" role="radio" aria-checked="true" data-cartype="all">
+                <span class="mode-icon">🚗</span>
+                <span class="mode-text" data-i18n="carTypeAll">كافة السيارات</span>
+              </button>
+              <button class="mode-button" id="cartype-everyday" type="button" role="radio" aria-checked="false" data-cartype="everyday">
+                <span class="mode-icon">🚙</span>
+                <span class="mode-text" data-i18n="carTypeEveryday">سيارات يومية</span>
+              </button>
+              <button class="mode-button" id="cartype-suv" type="button" role="radio" aria-checked="false" data-cartype="suv">
+                <span class="mode-icon">⛰️</span>
+                <span class="mode-text" data-i18n="carTypeSuv">سيارات SUV</span>
+              </button>
+              <button class="mode-button" id="cartype-luxury" type="button" role="radio" aria-checked="false" data-cartype="luxury">
+                <span class="mode-icon">✨</span>
+                <span class="mode-text" data-i18n="carTypeLuxury">فارهة (بدون SUV)</span>
+              </button>
+            </div>
+          </div>
           <label for="duration" data-i18n="durationLabel">الوقت الأقصى لكل تخمين</label>
           <select id="duration">
             <option value="600" selected data-i18n="tenMinutes">10 دقائق</option>

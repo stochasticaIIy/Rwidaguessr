@@ -21,12 +21,14 @@
     dialogLeaderboardList: $('dialog-leaderboard-list'), finalRefreshLb: $('final-refresh-lb'),
     source: $('source-link'), next: $('next-round'), total: $('total-score'), breakdown: $('score-breakdown'),
     typeSale: $('type-sale'), typeRental: $('type-rental'),
-    modeCars: $('mode-cars'), modeMotorbikes: $('mode-motorbikes'), startGame: $('start-game'),
+    modeCars: $('mode-cars'), modeMotorbikes: $('mode-motorbikes'),
+    carTypeGroup: $('car-type-group'), carTypeAll: $('cartype-all'), carTypeEveryday: $('cartype-everyday'), carTypeSuv: $('cartype-suv'), carTypeLuxury: $('cartype-luxury'),
+    startGame: $('start-game'),
     soundToggle: $('sound-toggle'), soundIcon: $('sound-icon')
   };
   const copy = {
-    en: { howTo:'Rules', typeLabel:'Game mode', typeSale:'For Sale (Buy)', typeRental:'For Rent (Daily)', heroTitle:'What’s the price<br /><em>of this vehicle?</em>', heroTitleCars:'What’s the price<br /><em>of this car?</em>', heroTitleBikes:'What’s the price<br /><em>of this motorbike?</em>', heroTitleRentalCars:'What’s the daily rent<br /><em>of this car?</em>', heroTitleRentalBikes:'What’s the daily rent<br /><em>of this motorbike?</em>', modeLabel:'Vehicle category', modeCars:'Cars', modeBikes:'Motorbikes', fuelLabel:'Fuel type (optional)', fuelAll:'All fuel types (National)', fuelDiesel:'Diesel (Gasoil)', fuelPetrol:'Petrol (Essence)', fuelHybrid:'Hybrid (Hybride)', fuelElectric:'100% Electric (Électrique)', fuelEco:'Electric & Hybrid', regionLabel:'Region or city (optional)', regionAll:'All Morocco (National)', regionCasa:'Casablanca - Settat (Casablanca, Mohammedia...)', regionRabat:'Rabat - Salé - Kénitra (Témara...)', regionTanger:'Tangier - Tétouan (North, Nador...)', regionMarrakech:'Marrakech - Agadir (South, Safi...)', regionOriental:'Fès - Meknès - Oriental (Oujda...)', intro:'Guess the price of 5 real listings in Morocco.', introRental:'Guess the daily rental rate of 5 vehicles in Morocco.', durationLabel:'Maximum time per guess', tenMinutes:'10 minutes', thirtyMinutes:'30 minutes', fiftyMinutes:'50 minutes (maximum)', durationNote:'Time is capped at 50 minutes for every listing.', start:'Start 5 rounds <span>→</span>', featuresHeading:'Features', optionsHeading:'Equipment & options', yourGuess:'Your guess', submit:'Submit <span>→</span>', clearInput:'Reset', result:'Result', listedPrice:'Listed price', listedPriceRental:'Daily rate', difference:'Difference', points:'Points', viewSource:'View listing ↗', gameOver:'Game complete', finalTitle:'Final Score', outOfFive:'/ 5,000 pts', playAgain:'Play again <span>↻</span>', rulesTitle:'How it works', rulesCopy1:'Inspect the photos, specs, and equipment of 5 real listings.', rulesCopy2:'Enter your price estimate in MAD before the timer runs out.', rulesCopy3:'Earn up to 1,000 pts per round and climb the leaderboard.', ready:'Ready', round:'Round {n} / 5', complete:'Complete', vehicle:'Vehicle', car:'Car', bike:'Motorbike', carRental:'Car rental', bikeRental:'Moto rental', invalidGuess:'Enter a valid price in MAD.', failedGuess:'Could not validate guess. Try again.', loading:'Loading…', insufficient:'At least 5 listings are needed to play.', preparing:'Loading…', next:'Next round →', finalNext:'Final score →', timeUp:'Time is up', expired:'Time is up — 0 pts', noOptions:'None listed', timeRemaining:'Time remaining', switchLanguage:'Switch to Arabic', useDark:'Dark mode', useLight:'Light mode', soundOn:'Sound on', soundOff:'Sound muted', previousPhoto:'Previous photo', nextPhoto:'Next photo', zoomIn:'Zoom in', zoomOut:'Zoom out', openFullscreen:'Fullscreen', exitFullscreen:'Exit fullscreen', closenessKicker:'Accuracy', saveScoreTitle:'Save your score', saveScoreBtn:'Save <span>→</span>', savingScore:'Saving…', savedScore:'✓ Saved', scoreRanked:'🎉 Ranked #{rank}!', alreadySaved:'Already saved.', nameRequired:'Enter your name.', saveFailed:'Could not save. Try again.', topScorers:'Top Scorers', loadingLb:'Loading…', emptyLb:'No scores yet.', leaderboardBtn:'Leaderboard', leaderboardTitle:'Top Scorers', playerNamePlaceholder:'Your name', bullseye:'Spot on!', almostExact:'Very close!', solidGuess:'Good estimate', fairEstimate:'Close, but off', wayOff:'Far from listed price', photoMissingSkipped:'Moving to next listing…', unavailable:'Unavailable', unavailableHint:'Not enough listings for this filter', marketSliderTitle:'Owner vs Market', marketSliderTitleRental:'Agency vs Market', marketAvgTag:'Market avg', zoneDeal:'Deal', zoneFair:'Fair price', zoneHigh:'Above market', zoneOverpriced:'Overpriced', marketEstimateLbl:'Market avg', sellerPriceLbl:"Owner's price", sellerPriceLblRental:'Agency rate', marketGapLbl:'Difference', verdictDeal:'Under market', verdictFair:'Fair price', verdictHigh:'Above market', verdictOverpriced:'Overpriced' },
-    ar: { howTo:'القواعد', typeLabel:'نظام اللعب', typeSale:'للبيع (شراء)', typeRental:'للكراء (يومي)', heroTitle:'كم يبلغ سعر<br /><em>هاد الحديدة؟</em>', heroTitleCars:'كم يبلغ سعر<br /><em>هذه السيارة؟</em>', heroTitleBikes:'كم يبلغ سعر<br /><em>هذه الدراجة النارية؟</em>', heroTitleRentalCars:'بشحال كتكرا<br /><em>هاد السيارة فالنهار؟</em>', heroTitleRentalBikes:'بشحال كتكرا<br /><em>هاد الدراجة النارية فالنهار؟</em>', modeLabel:'نوع المركبات', modeCars:'سيارات', modeBikes:'دراجات نارية', fuelLabel:'نوع الوقود (اختياري)', fuelAll:'كافة أنواع الوقود (الكل)', fuelDiesel:'مازوط (Diesel)', fuelPetrol:'ليصانص (Essence)', fuelHybrid:'إيبريد (Hybride)', fuelElectric:'كهربائي 100% (100% Électrique)', fuelEco:'كهربائي وإيبريد (Électrique & Hybride)', regionLabel:'المنطقة أو المدينة (اختياري)', regionAll:'كافة المدن المغربية (المغرب كامل)', regionCasa:'الدار البيضاء - سطات (كازا، المحمدية...)', regionRabat:'الرباط - سلا - القنيطرة (تمارة...)', regionTanger:'طنجة - تطوان - الشمال (الناظور...)', regionMarrakech:'مراكش - أكادير - الجنوب (آسفي...)', regionOriental:'فاس - مكناس - الشرق (وجدة، خريبكة...)', intro:'خمّن ثمن 5 إعلانات حقيقية فالمغرب.', introRental:'خمّن ثمن الكراء اليومي لـ 5 مركبات فالمغرب.', durationLabel:'الوقت الأقصى لكل تخمين', tenMinutes:'10 دقائق', thirtyMinutes:'30 دقيقة', fiftyMinutes:'50 دقيقة (الحد الأقصى)', durationNote:'الوقت لا يتجاوز 50 دقيقة لكل إعلان.', start:'ابدأ 5 جولات <span>→</span>', featuresHeading:'المواصفات', optionsHeading:'التجهيزات والخيارات', yourGuess:'تخمينك', submit:'إرسال <span>→</span>', clearInput:'مسح', result:'النتيجة', listedPrice:'السعر المعروض', listedPriceRental:'الكراء اليومي', difference:'الفارق', points:'النقاط', viewSource:'عرض الإعلان ↗', gameOver:'انتهت اللعبة', finalTitle:'النتيجة النهائية', outOfFive:'/ 5,000 نقطة', playAgain:'العب مجددًا <span>↻</span>', rulesTitle:'طريقة اللعب', rulesCopy1:'شوف التصاور والمواصفات ديال 5 إعلانات حقيقية.', rulesCopy2:'حط التقدير ديالك بالدرهم قبل ما يسالي الوقت.', rulesCopy3:'جمع حتى لـ 1,000 نقطة فكل جولة وتنافس فالترتيب.', ready:'جاهز', round:'الجولة {n} / 5', complete:'انتهت اللعبة', vehicle:'مركبة', car:'سيارة', bike:'دراجة نارية', carRental:'كراء سيارة', bikeRental:'كراء دراجة', invalidGuess:'أدخل سعرًا صحيحًا بالدرهم.', failedGuess:'تعذّر التحقق. حاول مرة أخرى.', loading:'جارٍ التحميل…', insufficient:'يلزم 5 إعلانات على الأقل للعب.', preparing:'جارٍ التحميل…', next:'الجولة التالية →', finalNext:'النتيجة النهائية →', timeUp:'انتهى الوقت', expired:'انتهى الوقت — 0 نقطة', noOptions:'بدون خيارات إضافية', timeRemaining:'الوقت المتبقي', switchLanguage:'التبديل إلى الإنجليزية', useDark:'الوضع الداكن', useLight:'الوضع الفاتح', soundOn:'الصوت مفعل', soundOff:'الصوت مكتوم', previousPhoto:'الصورة السابقة', nextPhoto:'الصورة التالية', zoomIn:'تكبير', zoomOut:'تصغير', openFullscreen:'ملء الشاشة', exitFullscreen:'خروج', closenessKicker:'الدقة', saveScoreTitle:'سجّل نتيجتك', saveScoreBtn:'تسجيل <span>→</span>', savingScore:'جارٍ التسجيل…', savedScore:'✓ مسجّل', scoreRanked:'🎉 الرتبة #{rank}!', alreadySaved:'السكور مسجل.', nameRequired:'أدخل اسمك.', saveFailed:'تعذّر التسجيل.', topScorers:'المتصدرين', loadingLb:'جارٍ التحميل…', emptyLb:'لا توجد نتائج بعد.', leaderboardBtn:'المتصدرين', leaderboardTitle:'لوحة المتصدرين', playerNamePlaceholder:'سميتك', bullseye:'جبتيها لاصقة!', almostExact:'قريب بزاف!', solidGuess:'تقدير مزيان', fairEstimate:'قريب شوية', wayOff:'بعيد على الثمن', photoMissingSkipped:'جاري الانتقال لإعلان آخر…', unavailable:'غير متوفر', unavailableHint:'لا توجد مركبات كافية لهذا الاختيار', marketSliderTitle:'مقارنة بالسوق', marketSliderTitleRental:'مقارنة بسوق الكراء', marketAvgTag:'معدل السوق', zoneDeal:'همزة', zoneFair:'سعر عادل', zoneHigh:'مرتفع', zoneOverpriced:'مبالغ فيه', marketEstimateLbl:'معدل السوق', sellerPriceLbl:'سعر الإعلان', sellerPriceLblRental:'سعر الوكالة', marketGapLbl:'الفارق', verdictDeal:'أقل من السوق', verdictFair:'سعر عادل', verdictHigh:'أعلى من السوق', verdictOverpriced:'مبالغ فيه' }
+    en: { howTo:'Rules', typeLabel:'Game mode', typeSale:'For Sale (Buy)', typeRental:'For Rent (Daily)', carTypeLabel:'Car category', carTypeAll:'All cars', carTypeEveryday:'Everyday cars', carTypeSuv:'SUVs', carTypeLuxury:'Luxury (no SUV)', heroTitle:'What’s the price<br /><em>of this vehicle?</em>', heroTitleCars:'What’s the price<br /><em>of this car?</em>', heroTitleEveryday:'What’s the price<br /><em>of this everyday car?</em>', heroTitleSuv:'What’s the price<br /><em>of this SUV?</em>', heroTitleLuxury:'What’s the price<br /><em>of this luxury car?</em>', heroTitleBikes:'What’s the price<br /><em>of this motorbike?</em>', heroTitleRentalCars:'What’s the daily rent<br /><em>of this car?</em>', heroTitleRentalEveryday:'What’s the daily rent<br /><em>of this everyday car?</em>', heroTitleRentalSuv:'What’s the daily rent<br /><em>of this SUV?</em>', heroTitleRentalLuxury:'What’s the daily rent<br /><em>of this luxury car?</em>', heroTitleRentalBikes:'What’s the daily rent<br /><em>of this motorbike?</em>', modeLabel:'Vehicle category', modeCars:'Cars', modeBikes:'Motorbikes', fuelLabel:'Fuel type (optional)', fuelAll:'All fuel types (National)', fuelDiesel:'Diesel (Gasoil)', fuelPetrol:'Petrol (Essence)', fuelHybrid:'Hybrid (Hybride)', fuelElectric:'100% Electric (Électrique)', fuelEco:'Electric & Hybrid', intro:'Guess the price of 5 real listings in Morocco.', introRental:'Guess the daily rental rate of 5 vehicles in Morocco.', durationLabel:'Maximum time per guess', tenMinutes:'10 minutes', thirtyMinutes:'30 minutes', fiftyMinutes:'50 minutes (maximum)', durationNote:'Time is capped at 50 minutes for every listing.', start:'Start 5 rounds <span>→</span>', featuresHeading:'Features', optionsHeading:'Equipment & options', yourGuess:'Your guess', submit:'Submit <span>→</span>', clearInput:'Reset', result:'Result', listedPrice:'Listed price', listedPriceRental:'Daily rate', difference:'Difference', points:'Points', viewSource:'View listing ↗', gameOver:'Game complete', finalTitle:'Final Score', outOfFive:'/ 5,000 pts', playAgain:'Play again <span>↻</span>', rulesTitle:'How it works', rulesCopy1:'Inspect the photos, specs, and equipment of 5 real listings.', rulesCopy2:'Enter your price estimate in MAD before the timer runs out.', rulesCopy3:'Earn up to 1,000 pts per round and climb the leaderboard.', ready:'Ready', round:'Round {n} / 5', complete:'Complete', vehicle:'Vehicle', car:'Car', bike:'Motorbike', carRental:'Car rental', bikeRental:'Moto rental', suvBadge:'SUV / 4x4', suvRental:'SUV rental', luxuryBadge:'Luxury car', luxuryRental:'Luxury rental', invalidGuess:'Enter a valid price in MAD.', failedGuess:'Could not validate guess. Try again.', loading:'Loading…', insufficient:'At least 5 listings are needed to play.', preparing:'Loading…', next:'Next round →', finalNext:'Final score →', timeUp:'Time is up', expired:'Time is up — 0 pts', noOptions:'None listed', timeRemaining:'Time remaining', switchLanguage:'Switch to Arabic', useDark:'Dark mode', useLight:'Light mode', soundOn:'Sound on', soundOff:'Sound muted', previousPhoto:'Previous photo', nextPhoto:'Next photo', zoomIn:'Zoom in', zoomOut:'Zoom out', openFullscreen:'Fullscreen', exitFullscreen:'Exit fullscreen', closenessKicker:'Accuracy', saveScoreTitle:'Save your score', saveScoreBtn:'Save <span>→</span>', savingScore:'Saving…', savedScore:'✓ Saved', scoreRanked:'🎉 Ranked #{rank}!', alreadySaved:'Already saved.', nameRequired:'Enter your name.', saveFailed:'Could not save. Try again.', topScorers:'Top Scorers', loadingLb:'Loading…', emptyLb:'No scores yet.', leaderboardBtn:'Leaderboard', leaderboardTitle:'Top Scorers', playerNamePlaceholder:'Your name', bullseye:'Spot on!', almostExact:'Very close!', solidGuess:'Good estimate', fairEstimate:'Close, but off', wayOff:'Far from listed price', photoMissingSkipped:'Moving to next listing…', unavailable:'Unavailable', unavailableHint:'Not enough listings for this filter', marketSliderTitle:'Owner vs Market', marketSliderTitleRental:'Agency vs Market', marketAvgTag:'Market avg', zoneDeal:'Deal', zoneFair:'Fair price', zoneHigh:'Above market', zoneOverpriced:'Overpriced', marketEstimateLbl:'Market avg', sellerPriceLbl:"Owner's price", sellerPriceLblRental:'Agency rate', marketGapLbl:'Difference', verdictDeal:'Under market', verdictFair:'Fair price', verdictHigh:'Above market', verdictOverpriced:'Overpriced' },
+    ar: { howTo:'القواعد', typeLabel:'نظام اللعب', typeSale:'للبيع (شراء)', typeRental:'للكراء (يومي)', carTypeLabel:'نوع السيارات', carTypeAll:'كافة السيارات', carTypeEveryday:'سيارات يومية', carTypeSuv:'سيارات SUV', carTypeLuxury:'فارهة (بدون SUV)', heroTitle:'كم يبلغ سعر<br /><em>هاد الحديدة؟</em>', heroTitleCars:'كم يبلغ سعر<br /><em>هذه السيارة؟</em>', heroTitleEveryday:'كم يبلغ سعر<br /><em>هذه السيارة اليومية؟</em>', heroTitleSuv:'كم يبلغ سعر<br /><em>هذا الـ SUV؟</em>', heroTitleLuxury:'كم يبلغ سعر<br /><em>هذه السيارة الفارهة؟</em>', heroTitleBikes:'كم يبلغ سعر<br /><em>هذه الدراجة النارية؟</em>', heroTitleRentalCars:'بشحال كتكرا<br /><em>هاد السيارة فالنهار؟</em>', heroTitleRentalEveryday:'بشحال كتكرا<br /><em>هاد السيارة اليومية؟</em>', heroTitleRentalSuv:'بشحال كيتكرا<br /><em>هاد الـ SUV؟</em>', heroTitleRentalLuxury:'بشحال كتكرا<br /><em>هاد السيارة الفارهة؟</em>', heroTitleRentalBikes:'بشحال كتكرا<br /><em>هاد الدراجة النارية فالنهار؟</em>', modeLabel:'نوع المركبات', modeCars:'سيارات', modeBikes:'دراجات نارية', fuelLabel:'نوع الوقود (اختياري)', fuelAll:'كافة أنواع الوقود (الكل)', fuelDiesel:'مازوط (Diesel)', fuelPetrol:'ليصانص (Essence)', fuelHybrid:'إيبريد (Hybride)', fuelElectric:'كهربائي 100% (100% Électrique)', fuelEco:'كهربائي وإيبريد (Électrique & Hybride)', intro:'خمّن ثمن 5 إعلانات حقيقية فالمغرب.', introRental:'خمّن ثمن الكراء اليومي لـ 5 مركبات فالمغرب.', durationLabel:'الوقت الأقصى لكل تخمين', tenMinutes:'10 دقائق', thirtyMinutes:'30 دقيقة', fiftyMinutes:'50 دقيقة (الحد الأقصى)', durationNote:'الوقت لا يتجاوز 50 دقيقة لكل إعلان.', start:'ابدأ 5 جولات <span>→</span>', featuresHeading:'المواصفات', optionsHeading:'التجهيزات والخيارات', yourGuess:'تخمينك', submit:'إرسال <span>→</span>', clearInput:'مسح', result:'النتيجة', listedPrice:'السعر المعروض', listedPriceRental:'الكراء اليومي', difference:'الفارق', points:'النقاط', viewSource:'عرض الإعلان ↗', gameOver:'انتهت اللعبة', finalTitle:'النتيجة النهائية', outOfFive:'/ 5,000 نقطة', playAgain:'العب مجددًا <span>↻</span>', rulesTitle:'طريقة اللعب', rulesCopy1:'شوف التصاور والمواصفات ديال 5 إعلانات حقيقية.', rulesCopy2:'حط التقدير ديالك بالدرهم قبل ما يسالي الوقت.', rulesCopy3:'جمع حتى لـ 1,000 نقطة فكل جولة وتنافس فالترتيب.', ready:'جاهز', round:'الجولة {n} / 5', complete:'انتهت اللعبة', vehicle:'مركبة', car:'سيارة', bike:'دراجة نارية', carRental:'كراء سيارة', bikeRental:'كراء دراجة', suvBadge:'سيارة SUV', suvRental:'كراء SUV', luxuryBadge:'سيارة فارهة', luxuryRental:'كراء فاره', invalidGuess:'أدخل سعرًا صحيحًا بالدرهم.', failedGuess:'تعذّر التحقق. حاول مرة أخرى.', loading:'جارٍ التحميل…', insufficient:'يلزم 5 إعلانات على الأقل للعب.', preparing:'جارٍ التحميل…', next:'الجولة التالية →', finalNext:'النتيجة النهائية →', timeUp:'انتهى الوقت', expired:'انتهى الوقت — 0 نقطة', noOptions:'بدون خيارات إضافية', timeRemaining:'الوقت المتبقي', switchLanguage:'التبديل إلى الإنجليزية', useDark:'الوضع الداكن', useLight:'الوضع الفاتح', soundOn:'الصوت مفعل', soundOff:'الصوت مكتوم', previousPhoto:'الصورة السابقة', nextPhoto:'الصورة التالية', zoomIn:'تكبير', zoomOut:'تصغير', openFullscreen:'ملء الشاشة', exitFullscreen:'خروج', closenessKicker:'الدقة', saveScoreTitle:'سجّل نتيجتك', saveScoreBtn:'تسجيل <span>→</span>', savingScore:'جارٍ التسجيل…', savedScore:'✓ مسجّل', scoreRanked:'🎉 الرتبة #{rank}!', alreadySaved:'السكور مسجل.', nameRequired:'أدخل اسمك.', saveFailed:'تعذّر التسجيل.', topScorers:'المتصدرين', loadingLb:'جارٍ التحميل…', emptyLb:'لا توجد نتائج بعد.', leaderboardBtn:'المتصدرين', leaderboardTitle:'لوحة المتصدرين', playerNamePlaceholder:'سميتك', bullseye:'جبتيها لاصقة!', almostExact:'قريب بزاف!', solidGuess:'تقدير مزيان', fairEstimate:'قريب شوية', wayOff:'بعيد على الثمن', photoMissingSkipped:'جاري الانتقال لإعلان آخر…', unavailable:'غير متوفر', unavailableHint:'لا توجد مركبات كافية لهذا الاختيار', marketSliderTitle:'مقارنة بالسوق', marketSliderTitleRental:'مقارنة بسوق الكراء', marketAvgTag:'معدل السوق', zoneDeal:'همزة', zoneFair:'سعر عادل', zoneHigh:'مرتفع', zoneOverpriced:'مبالغ فيه', marketEstimateLbl:'معدل السوق', sellerPriceLbl:'سعر الإعلان', sellerPriceLblRental:'سعر الوكالة', marketGapLbl:'الفارق', verdictDeal:'أقل من السوق', verdictFair:'سعر عادل', verdictHigh:'أعلى من السوق', verdictOverpriced:'مبالغ فيه' }
   };
   // Default language is Arabic ('ar') per user specification
   let initialLanguage = 'ar';
@@ -42,7 +44,7 @@
   } catch (_) {
     initialLanguage = 'ar';
   }
-  const state = { listings: [], reserves: [], failedListingIds: new Set(), validatedListingIds: new Set(), isSkippingListing: false, current: 0, results: [], deadline: 0, duration: 600, timer: null, live: false, submitting: false, imageIndex: 0, listingType: localStorage.getItem('rwida-listing-type') === 'rental' ? 'rental' : 'sale', mode: localStorage.getItem('rwida-mode') === 'motorbikes' ? 'motorbikes' : 'cars', fuel: localStorage.getItem('rwida-fuel') || 'all', language: initialLanguage, theme: localStorage.getItem('rwida-theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'), leaderboard: [], savedThisGame: false, playerName: localStorage.getItem('rwida-player-name') || '', soundEnabled: localStorage.getItem('rwida-sound') !== 'off' };
+  const state = { listings: [], reserves: [], failedListingIds: new Set(), validatedListingIds: new Set(), isSkippingListing: false, current: 0, results: [], deadline: 0, duration: 600, timer: null, live: false, submitting: false, imageIndex: 0, listingType: localStorage.getItem('rwida-listing-type') === 'rental' ? 'rental' : 'sale', mode: localStorage.getItem('rwida-mode') === 'motorbikes' ? 'motorbikes' : 'cars', carType: localStorage.getItem('rwida-cartype') || 'all', fuel: localStorage.getItem('rwida-fuel') || 'all', language: initialLanguage, theme: localStorage.getItem('rwida-theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'), leaderboard: [], savedThisGame: false, playerName: localStorage.getItem('rwida-player-name') || '', soundEnabled: localStorage.getItem('rwida-sound') !== 'off' };
   const t = (key, replacements = {}) => Object.entries(replacements).reduce((text, [name, value]) => text.replace(`{${name}}`, value), copy[state.language][key] || key);
   const localized = (value) => {
     let res = value && typeof value === 'object' && !Array.isArray(value) ? (value[state.language] || value.en || value.ar || '') : (value ?? '');
@@ -251,6 +253,32 @@
     const deduped = [...seen.values()];
     return deduped.length >= 5 ? deduped : items;
   }
+  const LUXURY_BRANDS = [
+    'mercedes-benz', 'mercedes', 'bmw', 'audi', 'porsche', 'jaguar', 'maserati',
+    'alfa romeo', 'lexus', 'volvo', 'bentley', 'ferrari', 'lamborghini',
+    'aston martin', 'rolls-royce', 'cadillac', 'tesla'
+  ];
+  function isSuv(item) {
+    if (!item) return false;
+    const brand = (item.features?.find(f => /brand|marque|علامة/i.test(f.label?.en || f.label?.fr || f.label?.ar || f.label))?.value?.en || '').toLowerCase();
+    const title = (item.title?.en || item.title?.ar || item.title || '').toLowerCase();
+    const bodyFeat = (item.features?.find(f => /body|carrosserie|هيكل/i.test(f.label?.en || f.label?.fr || f.label?.ar || f.label))?.value?.en || '').toLowerCase();
+    if (/suv|4x4|crossover|tout-terrain/i.test(bodyFeat)) return true;
+    if (/land rover|range rover|jeep/i.test(brand) || /land rover|range rover|jeep/i.test(title)) return true;
+    return /duster|tucson|sportage|tiguan|touareg|kodiaq|tarraco|rav4|cr-v|cx-5|cx-3|cx-30|cx-60|cx-90|q2|q3|q5|q7|q8|x1|x2|x3|x4|x5|x6|x7|\bxm\b|ix\b|ix1|ix3|gla|glb|glc|gle|gls|classe g\b|g63\b|cayenne|macan|range rover|evoque|velar|defender|discovery|land cruiser|prado|patrol|stelvio|tonale|renegade|compass|wrangler|cherokee|captur|2008|3008|5008|c3 aircross|c5 aircross|juke|qashqai|x-trail|ateca|arona|formentor|kuga|taigo|t-roc|t-cross|kamiq|karoq|kadjar|austral|arkana|koleos|grandland|crossland|mokka|frontera|santa fe|sorento|niro|stonic|kona|bayon|ecosport|edge|explorer|puma|stepway|lodgy|xv\b|forester|outback|escalade|levante|grecale|urus|bentayga|cullinan|dbx|e-tron/i.test(title);
+  }
+  function isLuxuryExcludingSuv(item) {
+    if (!item || isSuv(item)) return false;
+    const brand = (item.features?.find(f => /brand|marque|علامة/i.test(f.label?.en || f.label?.fr || f.label?.ar || f.label))?.value?.en || '').toLowerCase();
+    const title = (item.title?.en || item.title?.ar || item.title || '').toLowerCase();
+    return LUXURY_BRANDS.some(lb => brand.includes(lb) || new RegExp('\\b' + lb.replace('-', '[\\s-]') + '\\b', 'i').test(title));
+  }
+  function isEverydayCar(item) {
+    if (!item) return false;
+    const k = (item.kind || '').toLowerCase();
+    if (k.includes('moto') || k.includes('bike')) return false;
+    return !isSuv(item) && !isLuxuryExcludingSuv(item);
+  }
   function setScreen(name) {
     for (const [key, element] of Object.entries({ start: ui.start, game: ui.game, result: ui.result, final: ui.final })) {
       element.classList.toggle('hidden', key !== name);
@@ -309,11 +337,17 @@
   function getModeListings() {
     const pool = getCatalogListings();
     const isBikes = state.mode === 'motorbikes';
-    return pool.filter((item) => {
+    const modePool = pool.filter((item) => {
       const k = (item.kind || '').toLowerCase();
       if (isBikes) return k.includes('moto') || k.includes('bike');
       return k.includes('car') || item.kind === 'Voiture';
     });
+    if (!isBikes && state.carType && state.carType !== 'all') {
+      if (state.carType === 'suv') return modePool.filter(isSuv);
+      if (state.carType === 'luxury') return modePool.filter(isLuxuryExcludingSuv);
+      if (state.carType === 'everyday') return modePool.filter(isEverydayCar);
+    }
+    return modePool;
   }
   function updateFilterAvailability() {
     const isMoto = state.mode === 'motorbikes';
@@ -451,6 +485,22 @@
       ui.modeMotorbikes.classList.toggle('is-active', state.mode === 'motorbikes');
       ui.modeMotorbikes.setAttribute('aria-checked', state.mode === 'motorbikes' ? 'true' : 'false');
     }
+    if (ui.carTypeGroup) {
+      ui.carTypeGroup.classList.toggle('hidden', state.mode === 'motorbikes');
+    }
+    const carTypeBtns = {
+      all: ui.carTypeAll,
+      everyday: ui.carTypeEveryday,
+      suv: ui.carTypeSuv,
+      luxury: ui.carTypeLuxury
+    };
+    for (const [key, btn] of Object.entries(carTypeBtns)) {
+      if (btn) {
+        const isActive = (state.carType || 'all') === key;
+        btn.classList.toggle('is-active', isActive);
+        btn.setAttribute('aria-checked', isActive ? 'true' : 'false');
+      }
+    }
     updateFilterAvailability();
     if (ui.startGame) {
       ui.startGame.innerHTML = t('start');
@@ -458,9 +508,29 @@
     const heroH1 = document.querySelector('#start-screen h1');
     if (heroH1) {
       if (isRental) {
-        heroH1.innerHTML = state.mode === 'motorbikes' ? t('heroTitleRentalBikes') : t('heroTitleRentalCars');
+        if (state.mode === 'motorbikes') {
+          heroH1.innerHTML = t('heroTitleRentalBikes');
+        } else if (state.carType === 'suv') {
+          heroH1.innerHTML = t('heroTitleRentalSuv');
+        } else if (state.carType === 'luxury') {
+          heroH1.innerHTML = t('heroTitleRentalLuxury');
+        } else if (state.carType === 'everyday') {
+          heroH1.innerHTML = t('heroTitleRentalEveryday');
+        } else {
+          heroH1.innerHTML = t('heroTitleRentalCars');
+        }
       } else {
-        heroH1.innerHTML = state.mode === 'motorbikes' ? t('heroTitleBikes') : t('heroTitleCars');
+        if (state.mode === 'motorbikes') {
+          heroH1.innerHTML = t('heroTitleBikes');
+        } else if (state.carType === 'suv') {
+          heroH1.innerHTML = t('heroTitleSuv');
+        } else if (state.carType === 'luxury') {
+          heroH1.innerHTML = t('heroTitleLuxury');
+        } else if (state.carType === 'everyday') {
+          heroH1.innerHTML = t('heroTitleEveryday');
+        } else {
+          heroH1.innerHTML = t('heroTitleCars');
+        }
       }
     }
     if (state.lastValuation && ui.result && !ui.result.classList.contains('hidden')) {
@@ -558,6 +628,11 @@
       if (state.listings.some((l) => l && l.id === candidate.id)) continue;
       if (!isMatchingKind(candidate)) continue;
       if (!isBikeMode && state.fuel && state.fuel !== 'all' && !isMatchingFuel(candidate, state.fuel)) continue;
+      if (!isBikeMode && state.carType && state.carType !== 'all') {
+        if (state.carType === 'suv' && !isSuv(candidate)) continue;
+        if (state.carType === 'luxury' && !isLuxuryExcludingSuv(candidate)) continue;
+        if (state.carType === 'everyday' && !isEverydayCar(candidate)) continue;
+      }
       const imgs = listingImages(candidate);
       if (!imgs.length) {
         state.failedListingIds.add(candidate.id);
@@ -574,7 +649,8 @@
         const seconds = Math.min(3000, Math.max(30, Number(ui.duration.value) || 600));
         const typeParam = `&type=${encodeURIComponent(state.listingType || 'sale')}`;
         const fuelParam = (!isBikeMode && state.fuel && state.fuel !== 'all') ? `&fuel=${encodeURIComponent(state.fuel)}` : '';
-        const res = await fetch(`/api/game?seconds=${seconds}&mode=${state.mode}${typeParam}${fuelParam}`, { cache: 'no-store' });
+        const carTypeParam = (!isBikeMode && state.carType && state.carType !== 'all') ? `&carType=${encodeURIComponent(state.carType)}` : '';
+        const res = await fetch(`/api/game?seconds=${seconds}&mode=${state.mode}${typeParam}${fuelParam}${carTypeParam}`, { cache: 'no-store' });
         if (res.ok) {
           const payload = await res.json();
           const newItems = [...(payload.round || []), ...(payload.reserves || [])];
@@ -583,6 +659,11 @@
             if (state.listings.some((l) => l && l.id === cand.id)) continue;
             if (!isMatchingKind(cand)) continue;
             if (!isBikeMode && state.fuel && state.fuel !== 'all' && !isMatchingFuel(cand, state.fuel)) continue;
+            if (!isBikeMode && state.carType && state.carType !== 'all') {
+              if (state.carType === 'suv' && !isSuv(cand)) continue;
+              if (state.carType === 'luxury' && !isLuxuryExcludingSuv(cand)) continue;
+              if (state.carType === 'everyday' && !isEverydayCar(cand)) continue;
+            }
             const imgs = listingImages(cand);
             if (!imgs.length) continue;
             const ok = await testImage(imgs[0], 2000);
@@ -600,6 +681,11 @@
       if (state.listings.some((l) => l && l.id === cand.id)) continue;
       if (!isMatchingKind(cand)) continue;
       if (state.fuel && state.fuel !== 'all' && !isMatchingFuel(cand, state.fuel)) continue;
+      if (!isBikeMode && state.carType && state.carType !== 'all') {
+        if (state.carType === 'suv' && !isSuv(cand)) continue;
+        if (state.carType === 'luxury' && !isLuxuryExcludingSuv(cand)) continue;
+        if (state.carType === 'everyday' && !isEverydayCar(cand)) continue;
+      }
       const imgs = listingImages(cand);
       if (!imgs.length) continue;
       const ok = await testImage(imgs[0], 2000);
@@ -787,7 +873,15 @@
     ui.title.textContent = formatTitleWithYear(item);
     const isBike = item.kind === 'Moto' || item.kind === 'Motorbike';
     const isRental = state.listingType === 'rental' || item.listingType === 'rental';
-    ui.kind.textContent = isRental ? (isBike ? t('bikeRental') : t('carRental')) : (isBike ? t('bike') : t('car'));
+    if (isBike) {
+      ui.kind.textContent = isRental ? t('bikeRental') : t('bike');
+    } else if (isSuv(item)) {
+      ui.kind.textContent = isRental ? t('suvRental') : t('suvBadge');
+    } else if (isLuxuryExcludingSuv(item)) {
+      ui.kind.textContent = isRental ? t('luxuryRental') : t('luxuryBadge');
+    } else {
+      ui.kind.textContent = isRental ? t('carRental') : t('car');
+    }
 
     const attrs = extractHighValueVehicleDetails(item, isBike);
 
@@ -1789,8 +1883,8 @@
     }
 
     const lbMode = state.listingType === 'rental'
-      ? (state.mode === 'motorbikes' ? 'rental_motorbikes' : 'rental_cars')
-      : (state.mode || 'cars');
+      ? (state.mode === 'motorbikes' ? 'rental_motorbikes' : (state.carType && state.carType !== 'all' ? `rental_cars_${state.carType}` : 'rental_cars'))
+      : (state.mode === 'motorbikes' ? 'motorbikes' : (state.carType && state.carType !== 'all' ? `cars_${state.carType}` : 'cars'));
     const payload = { name, score: total, mode: lbMode };
     let savedSuccessfully = false;
     let rank = null;
@@ -2177,10 +2271,12 @@
     const mode = state.mode || 'cars';
     const listingType = state.listingType === 'rental' ? 'rental' : 'sale';
     const fuel = (mode !== 'motorbikes' && state.fuel && state.fuel !== 'all') ? state.fuel : '';
+    const carType = (mode !== 'motorbikes' && state.carType && state.carType !== 'all') ? state.carType : '';
     const typeParam = `&type=${encodeURIComponent(listingType)}`;
     const fuelParam = fuel ? `&fuel=${encodeURIComponent(fuel)}` : '';
+    const carTypeParam = carType ? `&carType=${encodeURIComponent(carType)}` : '';
     try {
-      const response = await fetch(`/api/game?seconds=${seconds}&mode=${mode}${typeParam}${fuelParam}`, { cache: 'no-store' });
+      const response = await fetch(`/api/game?seconds=${seconds}&mode=${mode}${typeParam}${fuelParam}${carTypeParam}`, { cache: 'no-store' });
       if (!response.ok) throw new Error('no game endpoint');
       const payload = await response.json();
       if (!Array.isArray(payload.round) || payload.round.length < 5) throw new Error('not enough listings');
@@ -2207,8 +2303,18 @@
         const filtered = pool.filter((item) => (item.kind || '').toLowerCase().includes('moto') || (item.kind || '').toLowerCase().includes('bike'));
         if (filtered.length >= 5) pool = filtered;
       } else {
-        const filtered = pool.filter((item) => (item.kind || '').toLowerCase().includes('car') || item.kind === 'Voiture');
-        if (filtered.length >= 5) pool = filtered;
+        let cars = pool.filter((item) => (item.kind || '').toLowerCase().includes('car') || item.kind === 'Voiture');
+        if (carType === 'suv') {
+          const suvCars = cars.filter(isSuv);
+          if (suvCars.length >= 5) cars = suvCars;
+        } else if (carType === 'luxury') {
+          const luxCars = cars.filter(isLuxuryExcludingSuv);
+          if (luxCars.length >= 5) cars = luxCars;
+        } else if (carType === 'everyday') {
+          const everydayCars = cars.filter(isEverydayCar);
+          if (everydayCars.length >= 5) cars = everydayCars;
+        }
+        if (cars.length >= 5) pool = cars;
       }
       if (fuel) {
         const fuelFiltered = pool.filter((item) => isMatchingFuel(item, fuel));
@@ -2239,10 +2345,22 @@
     applyPreferences();
     loadGame();
   }
+  function setCarType(carType) {
+    const normalized = ['everyday', 'suv', 'luxury'].includes(carType) ? carType : 'all';
+    if (state.carType === normalized) return;
+    state.carType = normalized;
+    localStorage.setItem('rwida-cartype', normalized);
+    applyPreferences();
+    loadGame();
+  }
   if (ui.typeSale) ui.typeSale.addEventListener('click', () => setListingType('sale'));
   if (ui.typeRental) ui.typeRental.addEventListener('click', () => setListingType('rental'));
   if (ui.modeCars) ui.modeCars.addEventListener('click', () => setMode('cars'));
   if (ui.modeMotorbikes) ui.modeMotorbikes.addEventListener('click', () => setMode('motorbikes'));
+  if (ui.carTypeAll) ui.carTypeAll.addEventListener('click', () => setCarType('all'));
+  if (ui.carTypeEveryday) ui.carTypeEveryday.addEventListener('click', () => setCarType('everyday'));
+  if (ui.carTypeSuv) ui.carTypeSuv.addEventListener('click', () => setCarType('suv'));
+  if (ui.carTypeLuxury) ui.carTypeLuxury.addEventListener('click', () => setCarType('luxury'));
   if (ui.fuelFilter) {
     ui.fuelFilter.value = state.fuel || 'all';
     ui.fuelFilter.addEventListener('change', () => {
