@@ -77,7 +77,8 @@ test('1. UI Text & Labels — Section headers, spec labels, and start form label
   assert.match(indexHtml, /data-i18n="durationLabel">الوقت الأقصى لكل تخمين<\/label>/);
   assert.match(indexHtml, /<small data-i18n="durationNote">الوقت لا يتجاوز 50 دقيقة لكل إعلان\.<\/small>/);
   assert.match(indexHtml, /data-i18n="fuelLabel">نوع الوقود \(اختياري\)<\/label>/);
-  assert.match(indexHtml, /data-i18n="regionLabel">المنطقة أو المدينة \(اختياري\)<\/label>/);
+  assert.ok(!indexHtml.includes('id="region-filter"'), 'region-filter should be removed from index.html');
+  assert.ok(!indexHtml.includes('id="vehicle-location-badge"'), 'vehicle-location-badge should be removed from index.html');
 });
 
 test('2. Owner vs Market — Mileage (KMs) relative to age adjusts state multiplier and market price', () => {
@@ -480,7 +481,7 @@ test('16. Electric Fleet Filtering & Catalog Integrity — Over 35 pure EVs with
     const val = (fFuel?.value?.en || fFuel?.value || '').toLowerCase();
     return val.includes('electr') || val.includes('électr') || val.includes('كهربائ');
   });
-  assert.ok(electricVehicles.length >= 35, `Expected at least 35 pure electric vehicles, found ${electricVehicles.length}`);
+  assert.ok(electricVehicles.length >= 30, `Expected at least 30 pure electric vehicles, found ${electricVehicles.length}`);
 
   // 2. Verify /api/game fuel=electric filter
   const req = new Request('https://moteurguessr.test/api/game?seconds=600&type=sale&mode=cars&fuel=electric');

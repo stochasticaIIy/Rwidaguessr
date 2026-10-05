@@ -75,6 +75,7 @@ function sanitizeListingFeatures(item, isRental = false) {
     const ar = (label && typeof label === 'object' ? (label.ar || '') : '').toLowerCase().trim();
     const val = f.value && typeof f.value === 'object' ? (f.value.en || f.value.fr || f.value.raw || '') : String(f.value || '');
     if (!val || val.toLowerCase() === 'n/a') continue;
+    if (en === 'city' || en.includes('city') || en.includes('ville') || ar.includes('مدينة')) continue;
     if (en.includes('transmission') || ar.includes('ناقل الحركة')) continue;
     if ((en.includes('horsepower') && !en.includes('tax') && !en.includes('fiscale')) || (ar.includes('حصان') && !ar.includes('جبائية') && !ar.includes('ضريب')) || en.includes('puissance din')) continue;
     if (isElectricCar) {
@@ -189,13 +190,8 @@ export async function onRequestGet({ request, env = {} }) {
   }
 
   const isMotoMode = mode === 'motorbikes' || mode === 'moto' || mode === 'motos' || mode === 'motorcycle';
-  const region = (url.searchParams.get('region') || '').toLowerCase().trim();
   const fuel = isMotoMode ? '' : (url.searchParams.get('fuel') || '').toLowerCase().trim();
 
-  const isMatchRegion = (item, r) => {
-    if (!r || r === 'all') return true;
-    return (item.location && item.location.region || '').toLowerCase() === r;
-  };
   const isMatchFuel = (item, f) => {
     if (!f || f === 'all') return true;
     const lf = getListingFuel(item);
@@ -207,24 +203,7 @@ export async function onRequestGet({ request, env = {} }) {
     return true;
   };
 
-  if ((region && region !== 'all') && (fuel && fuel !== 'all')) {
-    const both = pool.filter((item) => isMatchRegion(item, region) && isMatchFuel(item, fuel));
-    if (both.length >= 5) {
-      pool = both;
-    } else {
-      // Prioritize preserving the user's selected region over fuel
-      const sameRegion = pool.filter((item) => isMatchRegion(item, region));
-      if (sameRegion.length >= 5) {
-        pool = sameRegion;
-      } else {
-        const sameFuel = pool.filter((item) => isMatchFuel(item, fuel));
-        if (sameFuel.length >= 5) pool = sameFuel;
-      }
-    }
-  } else if (region && region !== 'all') {
-    const regional = pool.filter((item) => isMatchRegion(item, region));
-    if (regional.length >= 5) pool = regional;
-  } else if (fuel && fuel !== 'all') {
+  if (fuel && fuel !== 'all') {
     const fuelFiltered = pool.filter((item) => isMatchFuel(item, fuel));
     if (fuelFiltered.length >= 5) pool = fuelFiltered;
   }

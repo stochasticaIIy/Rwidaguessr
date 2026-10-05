@@ -2,8 +2,8 @@
   const $ = (id) => document.getElementById(id);
   const ui = {
     start: $('start-screen'), game: $('game-screen'), result: $('result-screen'), final: $('final-screen'),
-    duration: $('duration'), fuelFilter: $('fuel-filter'), fuelGroup: $('fuel-filter-group'), regionFilter: $('region-filter'), dataNote: $('data-note'), roundLabel: $('round-label'), dots: $('round-dots'),
-    title: $('vehicle-title'), kind: $('vehicle-kind'), vehicleLocation: $('vehicle-location-badge'), timer: $('timer'), progress: $('progress-value'),
+    duration: $('duration'), fuelFilter: $('fuel-filter'), fuelGroup: $('fuel-filter-group'), dataNote: $('data-note'), roundLabel: $('round-label'), dots: $('round-dots'),
+    title: $('vehicle-title'), kind: $('vehicle-kind'), timer: $('timer'), progress: $('progress-value'),
     facts: $('quick-facts'), features: $('features'), options: $('options'),
     image: $('vehicle-image'), fallback: $('vehicle-fallback'), emoji: $('vehicle-emoji'), visual: $('vehicle-visual'), photoSkipToast: $('photo-skip-toast'), gallery: $('gallery-controls'), imageActions: $('image-actions'), imageCount: $('image-count'), previousImage: $('image-prev'), nextImage: $('image-next'), zoomImage: $('image-zoom'), fullscreenImage: $('image-fullscreen'), guess: $('guess'),
     lightbox: $('image-lightbox'), lightboxClose: $('lightbox-close'), lightboxPrev: $('lightbox-prev'), lightboxNext: $('lightbox-next'), lightboxImage: $('lightbox-image'), lightboxZoom: $('lightbox-zoom'), lightboxZoomOut: $('lightbox-zoom-out'), lightboxCount: $('lightbox-count'),
@@ -42,7 +42,7 @@
   } catch (_) {
     initialLanguage = 'ar';
   }
-  const state = { listings: [], reserves: [], failedListingIds: new Set(), validatedListingIds: new Set(), isSkippingListing: false, current: 0, results: [], deadline: 0, duration: 600, timer: null, live: false, submitting: false, imageIndex: 0, listingType: localStorage.getItem('rwida-listing-type') === 'rental' ? 'rental' : 'sale', mode: localStorage.getItem('rwida-mode') === 'motorbikes' ? 'motorbikes' : 'cars', fuel: localStorage.getItem('rwida-fuel') || 'all', region: localStorage.getItem('rwida-region') || 'all', language: initialLanguage, theme: localStorage.getItem('rwida-theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'), leaderboard: [], savedThisGame: false, playerName: localStorage.getItem('rwida-player-name') || '', soundEnabled: localStorage.getItem('rwida-sound') !== 'off' };
+  const state = { listings: [], reserves: [], failedListingIds: new Set(), validatedListingIds: new Set(), isSkippingListing: false, current: 0, results: [], deadline: 0, duration: 600, timer: null, live: false, submitting: false, imageIndex: 0, listingType: localStorage.getItem('rwida-listing-type') === 'rental' ? 'rental' : 'sale', mode: localStorage.getItem('rwida-mode') === 'motorbikes' ? 'motorbikes' : 'cars', fuel: localStorage.getItem('rwida-fuel') || 'all', language: initialLanguage, theme: localStorage.getItem('rwida-theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'), leaderboard: [], savedThisGame: false, playerName: localStorage.getItem('rwida-player-name') || '', soundEnabled: localStorage.getItem('rwida-sound') !== 'off' };
   const t = (key, replacements = {}) => Object.entries(replacements).reduce((text, [name, value]) => text.replace(`{${name}}`, value), copy[state.language][key] || key);
   const localized = (value) => {
     let res = value && typeof value === 'object' && !Array.isArray(value) ? (value[state.language] || value.en || value.ar || '') : (value ?? '');
@@ -316,16 +316,14 @@
     });
   }
   function updateFilterAvailability() {
-    if (!ui.regionFilter) return;
     const isMoto = state.mode === 'motorbikes';
     if (ui.fuelGroup) {
       ui.fuelGroup.classList.toggle('hidden', isMoto);
     }
     const modeItems = getModeListings();
 
-    // 1. Evaluate Fuel options based on currently selected region (cars mode only)
+    // Evaluate Fuel options based on mode items (cars mode only)
     if (!isMoto && ui.fuelFilter) {
-      const activeRegion = state.region && state.region !== 'all' ? state.region : null;
       const fuelOptions = ui.fuelFilter.querySelectorAll('option');
       fuelOptions.forEach((opt) => {
         const val = opt.value;
@@ -339,13 +337,7 @@
           return;
         }
 
-        const count = modeItems.filter((item) => {
-          if (activeRegion) {
-            const r = (item.location && item.location.region || '').toLowerCase();
-            if (r !== activeRegion) return false;
-          }
-          return isMatchingFuel(item, val);
-        }).length;
+        const count = modeItems.filter((item) => isMatchingFuel(item, val)).length;
 
         // Each game requires a full set of 5 distinct listings
         if (count < 5) {
@@ -365,49 +357,6 @@
       });
       ui.fuelFilter.value = state.fuel || 'all';
     }
-
-    // 2. Evaluate Region options based on currently selected fuel (for cars) or mode items (for motorbikes)
-    const activeFuel = !isMoto && state.fuel && state.fuel !== 'all' ? state.fuel : null;
-    const regionOptions = ui.regionFilter.querySelectorAll('option');
-    regionOptions.forEach((opt) => {
-      const val = opt.value;
-      const baseKey = opt.dataset.i18n;
-      const baseText = baseKey ? t(baseKey) : opt.textContent;
-
-      if (val === 'all') {
-        opt.disabled = false;
-        opt.textContent = baseText;
-        opt.removeAttribute('title');
-        return;
-      }
-
-      const count = modeItems.filter((item) => {
-        const r = (item.location && item.location.region || '').toLowerCase();
-        if (r !== val) return false;
-        if (activeFuel) {
-          return isMatchingFuel(item, activeFuel);
-        }
-        return true;
-      }).length;
-
-      // Each game requires a full set of 5 distinct listings
-      if (count < 5) {
-        opt.disabled = true;
-        opt.textContent = `${baseText} (${t('unavailable')})`;
-        opt.title = t('unavailableHint');
-        if (state.region === val) {
-          state.region = 'all';
-          ui.regionFilter.value = 'all';
-          localStorage.setItem('rwida-region', 'all');
-        }
-      } else {
-        opt.disabled = false;
-        opt.textContent = baseText;
-        opt.removeAttribute('title');
-      }
-    });
-
-    ui.regionFilter.value = state.region || 'all';
   }
   function updateQuickIncrementButtons() {
     const isRental = state.listingType === 'rental';
@@ -609,7 +558,6 @@
       if (state.listings.some((l) => l && l.id === candidate.id)) continue;
       if (!isMatchingKind(candidate)) continue;
       if (!isBikeMode && state.fuel && state.fuel !== 'all' && !isMatchingFuel(candidate, state.fuel)) continue;
-      if (state.region && state.region !== 'all' && (!candidate.location || candidate.location.region !== state.region)) continue;
       const imgs = listingImages(candidate);
       if (!imgs.length) {
         state.failedListingIds.add(candidate.id);
@@ -625,9 +573,8 @@
       try {
         const seconds = Math.min(3000, Math.max(30, Number(ui.duration.value) || 600));
         const typeParam = `&type=${encodeURIComponent(state.listingType || 'sale')}`;
-        const regionParam = state.region && state.region !== 'all' ? `&region=${encodeURIComponent(state.region)}` : '';
         const fuelParam = (!isBikeMode && state.fuel && state.fuel !== 'all') ? `&fuel=${encodeURIComponent(state.fuel)}` : '';
-        const res = await fetch(`/api/game?seconds=${seconds}&mode=${state.mode}${typeParam}${regionParam}${fuelParam}`, { cache: 'no-store' });
+        const res = await fetch(`/api/game?seconds=${seconds}&mode=${state.mode}${typeParam}${fuelParam}`, { cache: 'no-store' });
         if (res.ok) {
           const payload = await res.json();
           const newItems = [...(payload.round || []), ...(payload.reserves || [])];
@@ -636,7 +583,6 @@
             if (state.listings.some((l) => l && l.id === cand.id)) continue;
             if (!isMatchingKind(cand)) continue;
             if (!isBikeMode && state.fuel && state.fuel !== 'all' && !isMatchingFuel(cand, state.fuel)) continue;
-            if (state.region && state.region !== 'all' && cand.location && cand.location.region !== state.region) continue;
             const imgs = listingImages(cand);
             if (!imgs.length) continue;
             const ok = await testImage(imgs[0], 2000);
@@ -654,7 +600,6 @@
       if (state.listings.some((l) => l && l.id === cand.id)) continue;
       if (!isMatchingKind(cand)) continue;
       if (state.fuel && state.fuel !== 'all' && !isMatchingFuel(cand, state.fuel)) continue;
-      if (state.region && state.region !== 'all' && (!cand.location || cand.location.region !== state.region)) continue;
       const imgs = listingImages(cand);
       if (!imgs.length) continue;
       const ok = await testImage(imgs[0], 2000);
@@ -843,15 +788,6 @@
     const isBike = item.kind === 'Moto' || item.kind === 'Motorbike';
     const isRental = state.listingType === 'rental' || item.listingType === 'rental';
     ui.kind.textContent = isRental ? (isBike ? t('bikeRental') : t('carRental')) : (isBike ? t('bike') : t('car'));
-    if (ui.vehicleLocation) {
-      const city = item && item.location ? (state.language === 'ar' ? (item.location.cityAr || item.location.city) : item.location.city) : '';
-      if (city) {
-        ui.vehicleLocation.textContent = `📍 ${city}`;
-        ui.vehicleLocation.classList.remove('hidden');
-      } else {
-        ui.vehicleLocation.classList.add('hidden');
-      }
-    }
 
     const attrs = extractHighValueVehicleDetails(item, isBike);
 
@@ -945,6 +881,7 @@
       const valStr = (value && typeof value === 'object' ? (value.en || value.fr || value.ar || value.raw || '') : String(value || '')).toLowerCase().trim();
 
       if (!valStr || valStr === 'n/a' || valStr === 'null' || valStr === 'undefined') continue;
+      if (en === 'city' || en.includes('city') || en.includes('ville') || ar.includes('مدينة')) continue;
       if (en.includes('tax horsepower') || en === 'tax hp' || en.includes('puissance fiscale') || ar.includes('الجبائية')) continue;
       if (en.includes('transmission') || ar.includes('ناقل الحركة')) continue;
       if (en.includes('horsepower') || ar.includes('حصان') || en.includes('puissance din')) continue;
@@ -1071,6 +1008,7 @@
         if (en.includes('door') || en.includes('porte') || ar.includes('أبواب')) return false;
         if (en.includes('tax horsepower') || en.includes('puissance fiscale') || ar.includes('الجبائية')) return false;
         if (en.includes('origin') || en.includes('origine') || ar.includes('الأصل')) return false;
+        if (en === 'city' || en.includes('city') || en.includes('ville') || ar.includes('مدينة')) return false;
         return true;
       });
     }
@@ -2238,13 +2176,11 @@
     const seconds = Math.min(3000, Math.max(30, Number(ui.duration.value) || 600));
     const mode = state.mode || 'cars';
     const listingType = state.listingType === 'rental' ? 'rental' : 'sale';
-    const region = state.region && state.region !== 'all' ? state.region : '';
     const fuel = (mode !== 'motorbikes' && state.fuel && state.fuel !== 'all') ? state.fuel : '';
     const typeParam = `&type=${encodeURIComponent(listingType)}`;
-    const regionParam = region ? `&region=${encodeURIComponent(region)}` : '';
     const fuelParam = fuel ? `&fuel=${encodeURIComponent(fuel)}` : '';
     try {
-      const response = await fetch(`/api/game?seconds=${seconds}&mode=${mode}${typeParam}${regionParam}${fuelParam}`, { cache: 'no-store' });
+      const response = await fetch(`/api/game?seconds=${seconds}&mode=${mode}${typeParam}${fuelParam}`, { cache: 'no-store' });
       if (!response.ok) throw new Error('no game endpoint');
       const payload = await response.json();
       if (!Array.isArray(payload.round) || payload.round.length < 5) throw new Error('not enough listings');
@@ -2274,23 +2210,7 @@
         const filtered = pool.filter((item) => (item.kind || '').toLowerCase().includes('car') || item.kind === 'Voiture');
         if (filtered.length >= 5) pool = filtered;
       }
-      if (region && fuel) {
-        const bothFiltered = pool.filter((item) => (item.location && item.location.region === region) && isMatchingFuel(item, fuel));
-        if (bothFiltered.length >= 5) {
-          pool = bothFiltered;
-        } else {
-          const sameRegion = pool.filter((item) => item.location && item.location.region === region);
-          if (sameRegion.length >= 5) {
-            pool = sameRegion;
-          } else {
-            const sameFuel = pool.filter((item) => isMatchingFuel(item, fuel));
-            if (sameFuel.length >= 5) pool = sameFuel;
-          }
-        }
-      } else if (region) {
-        const regionFiltered = pool.filter((item) => item.location && item.location.region === region);
-        if (regionFiltered.length >= 5) pool = regionFiltered;
-      } else if (fuel) {
+      if (fuel) {
         const fuelFiltered = pool.filter((item) => isMatchingFuel(item, fuel));
         if (fuelFiltered.length >= 5) pool = fuelFiltered;
       }
@@ -2328,15 +2248,6 @@
     ui.fuelFilter.addEventListener('change', () => {
       state.fuel = ui.fuelFilter.value;
       localStorage.setItem('rwida-fuel', state.fuel);
-      applyPreferences();
-      loadGame();
-    });
-  }
-  if (ui.regionFilter) {
-    ui.regionFilter.value = state.region || 'all';
-    ui.regionFilter.addEventListener('change', () => {
-      state.region = ui.regionFilter.value;
-      localStorage.setItem('rwida-region', state.region);
       applyPreferences();
       loadGame();
     });

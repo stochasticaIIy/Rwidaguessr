@@ -126,16 +126,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -367,16 +357,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
         }
       }
     ],
@@ -610,16 +590,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -826,16 +796,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -1014,16 +974,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -1253,16 +1203,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
-        }
       }
     ],
     "options": [
@@ -1414,16 +1354,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -1599,16 +1529,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [],
@@ -1774,16 +1694,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -1952,16 +1862,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -2083,16 +1983,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Grey",
           "ar": "رمادي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -2243,16 +2133,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
         }
       }
     ],
@@ -2496,16 +2376,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -2729,16 +2599,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
-        }
       }
     ],
     "options": [
@@ -2955,16 +2815,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -3193,16 +3043,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -3430,16 +3270,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [
@@ -3659,16 +3489,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -3829,16 +3649,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -4024,16 +3834,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
         }
       }
     ],
@@ -4221,16 +4021,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -4428,16 +4218,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Blue",
           "ar": "أزرق"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -4559,16 +4339,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Grey",
           "ar": "رمادي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -4696,16 +4466,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -4881,16 +4641,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -5113,16 +4863,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -5325,16 +5065,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -5483,16 +5213,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -5694,16 +5414,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Violet",
           "ar": "Violet"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -5824,16 +5534,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -5958,16 +5658,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -6097,16 +5787,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -6229,16 +5909,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Vert fonce",
           "ar": "Vert fonce"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -6363,16 +6033,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -6494,16 +6154,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Grey",
           "ar": "رمادي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -6628,16 +6278,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Red",
           "ar": "أحمر"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -6802,16 +6442,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -7040,16 +6670,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -7211,16 +6831,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       }
     ],
@@ -7423,16 +7033,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -7593,16 +7193,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -7767,16 +7357,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -7970,16 +7550,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -8139,16 +7709,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -8280,16 +7840,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -8443,16 +7993,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -8691,16 +8231,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -8902,16 +8432,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -9073,16 +8593,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -9311,16 +8821,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -9563,16 +9063,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -9775,16 +9265,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Blue",
           "ar": "أزرق"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
-        }
       }
     ],
     "options": [],
@@ -9942,16 +9422,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
         }
       }
     ],
@@ -10179,16 +9649,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -10421,16 +9881,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -10665,16 +10115,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -10920,16 +10360,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -11132,16 +10562,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -11342,16 +10762,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -11585,16 +10995,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
-        }
       }
     ],
     "options": [
@@ -11827,16 +11227,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -12064,16 +11454,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -12276,16 +11656,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -12435,16 +11805,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -12680,16 +12040,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -12923,16 +12273,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -13168,16 +12508,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -13368,16 +12698,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
-        }
       }
     ],
     "options": [
@@ -13560,16 +12880,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -13729,16 +13039,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -13944,16 +13244,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Autre",
           "ar": "Autre"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [],
@@ -14109,16 +13399,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -14342,16 +13622,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -14574,16 +13844,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [],
@@ -14729,16 +13989,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -14941,16 +14191,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -15184,16 +14424,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -15412,16 +14642,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -15642,16 +14862,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [
@@ -15848,16 +15058,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -16089,16 +15289,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -16323,16 +15513,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -16576,16 +15756,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
-        }
       }
     ],
     "options": [
@@ -16824,16 +15994,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -17065,16 +16225,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -17282,16 +16432,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -17471,16 +16611,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [
@@ -17657,16 +16787,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -17897,16 +17017,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -18136,16 +17246,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -18355,16 +17455,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -18569,16 +17659,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -18802,16 +17882,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -18999,16 +18069,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -19164,16 +18224,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -19402,16 +18452,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
-        }
       }
     ],
     "options": [
@@ -19622,16 +18662,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -19817,16 +18847,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -19988,16 +19008,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -20220,16 +19230,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -20418,16 +19418,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -20589,16 +19579,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -20834,16 +19814,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -21071,16 +20041,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -21303,16 +20263,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -21524,16 +20474,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -21757,16 +20697,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -21927,16 +20857,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -22137,16 +21057,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -22329,16 +21239,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -22510,16 +21410,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -22739,16 +21629,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [
@@ -22957,16 +21837,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -23166,16 +22036,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -23384,16 +22244,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -23523,16 +22373,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -23763,16 +22603,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -23968,16 +22798,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -24185,16 +23005,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -24405,16 +23215,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -24614,16 +23414,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -24818,16 +23608,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -24965,16 +23745,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -25185,16 +23955,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -25403,16 +24163,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
         }
       }
     ],
@@ -25633,16 +24383,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -25850,16 +24590,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -25997,16 +24727,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -26197,16 +24917,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -26390,16 +25100,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -26614,16 +25314,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -26841,16 +25531,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -27057,16 +25737,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -27287,16 +25957,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -27499,16 +26159,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
         }
       }
     ],
@@ -27713,16 +26363,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -27929,16 +26569,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [
@@ -28142,16 +26772,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
         }
       }
     ],
@@ -28372,16 +26992,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -28555,16 +27165,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [
@@ -28726,16 +27326,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
         }
       }
     ],
@@ -28956,16 +27546,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -29168,16 +27748,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [],
@@ -29326,16 +27896,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -29477,16 +28037,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -29634,16 +28184,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
         }
       }
     ],
@@ -29854,16 +28394,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -30073,16 +28603,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -30278,16 +28798,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -30497,16 +29007,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -30701,16 +29201,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -30868,16 +29358,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -31076,16 +29556,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
         }
       }
     ],
@@ -31296,16 +29766,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -31510,16 +29970,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -31681,16 +30131,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -31863,16 +30303,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -32073,16 +30503,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -32280,16 +30700,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -32459,16 +30869,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -32604,16 +31004,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -32824,16 +31214,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -33040,16 +31420,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
         }
       }
     ],
@@ -33260,16 +31630,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -33460,16 +31820,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -33678,16 +32028,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -33826,16 +32166,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -34046,16 +32376,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -34260,16 +32580,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -34406,16 +32716,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -34550,16 +32850,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -34770,16 +33060,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -34989,16 +33269,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -35207,16 +33477,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -35375,16 +33635,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -35594,16 +33844,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -35808,16 +34048,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -35985,16 +34215,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -36199,16 +34419,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -36419,16 +34629,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [
@@ -36607,16 +34807,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -36826,16 +35016,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
         }
       }
     ],
@@ -37066,16 +35246,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -37284,16 +35454,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -37512,16 +35672,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -37731,16 +35881,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -37877,16 +36017,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -38096,16 +36226,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -38308,16 +36428,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [],
@@ -38455,16 +36565,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -38634,16 +36734,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -38854,16 +36944,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [
@@ -39072,16 +37152,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [],
@@ -39213,16 +37283,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
         }
       }
     ],
@@ -39413,16 +37473,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -39633,16 +37683,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -39852,16 +37892,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [],
@@ -40019,16 +38049,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -40227,16 +38247,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -40375,16 +38385,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
         }
       }
     ],
@@ -40592,16 +38592,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -40811,16 +38801,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -41014,16 +38994,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -41231,16 +39201,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -41481,16 +39441,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [
@@ -41684,16 +39634,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -41911,16 +39851,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -42124,16 +40054,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [
@@ -42327,16 +40247,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -42483,16 +40393,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
         }
       }
     ],
@@ -42702,16 +40602,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -42908,16 +40798,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -43133,16 +41013,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -43348,16 +41218,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -43568,16 +41428,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -43716,16 +41566,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -43863,16 +41703,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       }
     ],
@@ -44072,16 +41902,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -44311,16 +42131,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -44539,16 +42349,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -44779,16 +42579,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
-        }
       }
     ],
     "options": [
@@ -45018,16 +42808,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [
@@ -45223,16 +43003,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -45440,16 +43210,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -45680,16 +43440,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -45880,16 +43630,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -46023,16 +43763,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -46243,16 +43973,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [],
@@ -46388,16 +44108,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -46566,16 +44276,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -46798,16 +44498,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -47027,16 +44717,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -47229,16 +44909,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -47436,16 +45106,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
         }
       }
     ],
@@ -47656,16 +45316,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -47875,16 +45525,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -48097,16 +45737,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -48306,16 +45936,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -48447,16 +46067,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -48595,16 +46205,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -48768,16 +46368,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -48915,16 +46505,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -49104,16 +46684,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -49291,16 +46861,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -49511,16 +47071,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
-        }
       }
     ],
     "options": [],
@@ -49657,16 +47207,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
         }
       }
     ],
@@ -49881,16 +47421,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [
@@ -50100,16 +47630,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -50317,16 +47837,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -50462,16 +47972,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -50614,16 +48114,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -50762,16 +48252,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -50908,16 +48388,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
         }
       }
     ],
@@ -51074,16 +48544,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -51261,16 +48721,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
-      },
-      {
-        "label": {
           "en": "Fuel",
           "ar": "الوقود"
         },
@@ -51431,16 +48881,6 @@ export const DEFAULT_LISTINGS = [
       },
       {
         "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
-      },
-      {
-        "label": {
           "en": "Fuel",
           "ar": "الوقود"
         },
@@ -51561,16 +49001,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "15,000 km",
           "ar": "15,000 km"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       },
       {
@@ -51716,16 +49146,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -51846,16 +49266,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Blue",
           "ar": "أزرق"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -51984,16 +49394,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -52111,16 +49511,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Silver",
           "ar": "فضي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       },
       {
@@ -52302,16 +49692,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
-        }
       }
     ],
     "options": [],
@@ -52437,16 +49817,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Blue",
           "ar": "أزرق"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
         }
       }
     ],
@@ -52575,16 +49945,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
-        }
       }
     ],
     "options": [],
@@ -52711,16 +50071,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -52844,16 +50194,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Gris clair",
           "ar": "Gris clair"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -52980,16 +50320,6 @@ export const DEFAULT_LISTINGS = [
           "en": "White",
           "ar": "أبيض"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [],
@@ -53112,16 +50442,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Green",
           "ar": "أخضر"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -53250,16 +50570,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -53382,16 +50692,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Blue",
           "ar": "أزرق"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
         }
       }
     ],
@@ -53521,16 +50821,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [],
@@ -53657,16 +50947,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Brown",
           "ar": "بني"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [],
@@ -53792,16 +51072,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "White",
           "ar": "أبيض"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -53930,16 +51200,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Orange",
           "ar": "برتقالي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -54062,16 +51322,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -54196,16 +51446,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [],
@@ -54329,16 +51569,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [],
@@ -54459,16 +51689,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Grey",
           "ar": "رمادي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Béni Mellal",
-          "ar": "بني ملال"
         }
       }
     ],
@@ -54595,16 +51815,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -54729,16 +51939,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [],
@@ -54857,16 +52057,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Bleu clair",
           "ar": "Bleu clair"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -54993,16 +52183,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Bleu marine",
           "ar": "Bleu marine"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [],
@@ -55123,16 +52303,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Red",
           "ar": "أحمر"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       }
     ],
@@ -55256,16 +52426,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Bleu clair",
           "ar": "Bleu clair"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
         }
       }
     ],
@@ -55391,16 +52551,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [],
@@ -55525,16 +52675,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Yellow",
           "ar": "أصفر"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
-        }
       }
     ],
     "options": [],
@@ -55653,16 +52793,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Grey",
           "ar": "رمادي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -55788,16 +52918,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -55915,16 +53035,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "ليصانص"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -56053,16 +53163,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [],
@@ -56185,16 +53285,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -56319,16 +53409,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -56448,16 +53528,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -56582,16 +53652,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Orange",
           "ar": "برتقالي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -56695,16 +53755,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "14,000 km",
           "ar": "14,000 km"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       },
       {
@@ -56869,16 +53919,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -57079,16 +54119,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [],
@@ -57220,16 +54250,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -57394,16 +54414,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -57609,16 +54619,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -57827,16 +54827,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [
@@ -58040,16 +55030,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -58220,16 +55200,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -58429,16 +55399,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -58649,16 +55609,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [
@@ -58808,16 +55758,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -59021,16 +55961,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -59207,16 +56137,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
         }
       }
     ],
@@ -59418,16 +56338,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -59631,16 +56541,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
-        }
       }
     ],
     "options": [],
@@ -59776,16 +56676,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [],
@@ -59913,16 +56803,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -60110,16 +56990,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -60330,16 +57200,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -60547,16 +57407,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -60758,16 +57608,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -60903,16 +57743,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -61038,16 +57868,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
         }
       }
     ],
@@ -61181,16 +58001,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -61389,16 +58199,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -61594,16 +58394,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -61809,16 +58599,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -62027,16 +58807,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -62226,16 +58996,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
         }
       }
     ],
@@ -62446,16 +59206,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -62648,16 +59398,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -62793,16 +59533,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -62998,16 +59728,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -63140,16 +59860,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -63360,16 +60070,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [],
@@ -63503,16 +60203,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
         }
       }
     ],
@@ -63717,16 +60407,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -63906,16 +60586,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -64071,16 +60741,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
         }
       }
     ],
@@ -64247,16 +60907,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -64438,16 +61088,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -64638,16 +61278,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -64856,16 +61486,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -65060,16 +61680,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -65206,16 +61816,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -65397,16 +61997,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -65595,16 +62185,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -65787,16 +62367,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -65928,16 +62498,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -66106,16 +62666,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -66324,16 +62874,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -66541,16 +63081,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -66726,16 +63256,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
-        }
       }
     ],
     "options": [
@@ -66898,16 +63418,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -67093,16 +63603,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -67236,16 +63736,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -67454,16 +63944,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -67615,16 +64095,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -67765,16 +64235,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [],
@@ -67910,16 +64370,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -68128,16 +64578,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -68343,16 +64783,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
         }
       }
     ],
@@ -68566,16 +64996,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [
@@ -68763,16 +65183,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [],
@@ -68909,16 +65319,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -69051,16 +65451,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -69258,16 +65648,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -69471,16 +65851,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -69679,16 +66049,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -69881,16 +66241,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -70119,16 +66469,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -70338,16 +66678,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -70549,16 +66879,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -70769,16 +67089,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [],
@@ -70914,16 +67224,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -71134,16 +67434,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [
@@ -71312,16 +67602,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -71530,16 +67810,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -71675,16 +67945,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -71890,16 +68150,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -72099,16 +68349,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -72291,16 +68531,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -72509,16 +68739,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -72724,16 +68944,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -72941,16 +69151,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -73169,16 +69369,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -73353,16 +69543,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [],
@@ -73491,16 +69671,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -73711,16 +69881,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [
@@ -73929,16 +70089,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -74073,16 +70223,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -74263,16 +70403,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -74473,16 +70603,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -74691,16 +70811,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -74908,16 +71018,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -75115,16 +71215,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -75333,16 +71423,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -75529,16 +71609,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -75741,16 +71811,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -75882,16 +71942,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -76084,16 +72134,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [],
@@ -76229,16 +72269,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
         }
       }
     ],
@@ -76438,16 +72468,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
         }
       }
     ],
@@ -76651,16 +72671,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -76847,16 +72857,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
         }
       }
     ],
@@ -77060,16 +73060,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -77267,16 +73257,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -77469,16 +73449,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -77610,16 +73580,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -77808,16 +73768,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -77978,16 +73928,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -78180,16 +74120,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -78395,16 +74325,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
-        }
       }
     ],
     "options": [
@@ -78578,16 +74498,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -78796,16 +74706,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -79016,16 +74916,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -79232,16 +75122,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -79431,16 +75311,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -79618,16 +75488,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
-        }
       }
     ],
     "options": [],
@@ -79761,16 +75621,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -79959,16 +75809,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [],
@@ -80102,16 +75942,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -80314,16 +76144,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -80532,16 +76352,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -80748,16 +76558,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -80890,16 +76690,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -81105,16 +76895,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [],
@@ -81248,16 +77028,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -81461,16 +77231,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -81648,16 +77408,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -81868,16 +77618,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -82065,16 +77805,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -82204,16 +77934,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -82414,16 +78134,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -82621,16 +78331,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -82821,16 +78521,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -83039,16 +78729,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -83178,16 +78858,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -83372,16 +79042,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -83588,16 +79248,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -83769,16 +79419,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -83977,16 +79617,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -84168,16 +79798,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -84341,16 +79961,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -84559,16 +80169,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -84776,16 +80376,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -84923,16 +80513,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -85126,16 +80706,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -85322,16 +80892,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [
@@ -85513,16 +81073,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -85716,16 +81266,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -85912,16 +81452,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -86130,16 +81660,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -86271,16 +81791,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -86471,16 +81981,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -86657,16 +82157,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -86802,16 +82292,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -87022,16 +82502,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -87208,16 +82678,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
-        }
       }
     ],
     "options": [
@@ -87375,16 +82835,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -87573,16 +83023,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [],
@@ -87719,16 +83159,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -87864,16 +83294,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -88046,16 +83466,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -88266,16 +83676,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [],
@@ -88411,16 +83811,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -88567,16 +83957,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -88780,16 +84160,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [
@@ -88984,16 +84354,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
         }
       }
     ],
@@ -89204,16 +84564,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [
@@ -89366,16 +84716,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -89578,16 +84918,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -89780,16 +85110,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
         }
       }
     ],
@@ -89998,16 +85318,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [],
@@ -90145,16 +85455,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -90357,16 +85657,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -90572,16 +85862,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -90791,16 +86071,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [
@@ -90999,16 +86269,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -91212,16 +86472,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [
@@ -91363,16 +86613,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -91584,16 +86824,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -91796,16 +87026,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -91928,16 +87148,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -92084,16 +87294,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
         }
       }
     ],
@@ -92270,16 +87470,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [],
@@ -92414,16 +87604,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
         }
       }
     ],
@@ -92629,16 +87809,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -92848,16 +88018,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -93064,16 +88224,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -93205,16 +88355,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -93435,16 +88575,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -93642,16 +88772,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -93783,16 +88903,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -93988,16 +89098,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -94190,16 +89290,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -94369,16 +89459,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -94587,16 +89667,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -94804,16 +89874,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -95009,16 +90069,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -95220,16 +90270,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -95437,16 +90477,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -95677,16 +90707,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -95895,16 +90915,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -96115,16 +91125,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -96260,16 +91260,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -96473,16 +91463,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -96684,16 +91664,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
         }
       }
     ],
@@ -96900,16 +91870,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -97045,16 +92005,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -97242,16 +92192,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
         }
       }
     ],
@@ -97450,16 +92390,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -97667,16 +92597,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -97893,16 +92813,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -98038,16 +92948,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -98255,16 +93155,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -98483,16 +93373,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
-        }
       }
     ],
     "options": [
@@ -98689,16 +93569,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -98917,16 +93787,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
-        }
       }
     ],
     "options": [
@@ -99122,16 +93982,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -99266,16 +94116,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -99468,16 +94308,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -99615,16 +94445,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
         }
       }
     ],
@@ -99832,16 +94652,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
-        }
       }
     ],
     "options": [],
@@ -99977,16 +94787,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -100141,16 +94941,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -100357,16 +95147,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -100543,16 +95323,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -100747,16 +95517,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
         }
       }
     ],
@@ -100975,16 +95735,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [
@@ -101161,16 +95911,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -101361,16 +96101,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -101548,16 +96278,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -101746,16 +96466,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -101934,16 +96644,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -102141,16 +96841,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -102359,16 +97049,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [],
@@ -102504,16 +97184,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
         }
       }
     ],
@@ -102695,16 +97365,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -102933,16 +97593,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -103151,16 +97801,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -103375,16 +98015,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -103591,16 +98221,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -103811,16 +98431,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -104015,16 +98625,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -104233,16 +98833,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [
@@ -104436,16 +99026,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -104656,16 +99236,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -104868,16 +99438,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -105068,16 +99628,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -105228,16 +99778,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -105439,16 +99979,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -105671,16 +100201,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -105885,16 +100405,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -106077,16 +100587,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -106249,16 +100749,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
         }
       }
     ],
@@ -106456,16 +100946,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [
@@ -106613,16 +101093,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [],
@@ -106760,16 +101230,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -106974,16 +101434,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -107192,16 +101642,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
-        }
       }
     ],
     "options": [
@@ -107397,16 +101837,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -107611,16 +102041,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -107828,16 +102248,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -108036,16 +102446,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -108269,16 +102669,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -108479,16 +102869,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
         }
       }
     ],
@@ -108699,16 +103079,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [
@@ -108912,16 +103282,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -109127,16 +103487,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
-        }
       }
     ],
     "options": [
@@ -109299,16 +103649,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -109508,16 +103848,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [],
@@ -109653,16 +103983,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -109856,16 +104176,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -110050,16 +104360,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -110270,16 +104570,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -110489,16 +104779,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -110691,16 +104971,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -110862,16 +105132,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [],
@@ -111007,16 +105267,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
         }
       }
     ],
@@ -111221,16 +105471,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -111404,16 +105644,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -111611,16 +105841,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
         }
       }
     ],
@@ -111828,16 +106048,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -112048,16 +106258,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [
@@ -112264,16 +106464,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [
@@ -112460,16 +106650,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -112662,16 +106842,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
         }
       }
     ],
@@ -112878,16 +107048,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -113093,16 +107253,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -113286,16 +107436,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -113498,16 +107638,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -113718,16 +107848,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -113860,16 +107980,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
         }
       }
     ],
@@ -114067,16 +108177,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -114276,16 +108376,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -114446,16 +108536,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -114643,16 +108723,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -114790,16 +108860,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -114993,16 +109053,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [],
@@ -115132,16 +109182,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -115350,16 +109390,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -115567,16 +109597,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -115778,16 +109798,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -115992,16 +110002,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -116211,16 +110211,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -116419,16 +110409,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -116570,16 +110550,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -116759,16 +110729,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -116978,16 +110938,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -117177,16 +111127,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -117388,16 +111328,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [
@@ -117598,16 +111528,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -117807,16 +111727,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [
@@ -118005,16 +111915,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -118222,16 +112122,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -118420,16 +112310,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [],
@@ -118563,16 +112443,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
         }
       }
     ],
@@ -118774,16 +112644,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -118940,16 +112800,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [],
@@ -119087,16 +112937,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -119303,16 +113143,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -119448,16 +113278,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -119607,16 +113427,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [],
@@ -119750,16 +113560,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -119952,16 +113752,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -120170,16 +113960,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -120382,16 +114162,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -120591,16 +114361,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -120777,16 +114537,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -120979,16 +114729,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -121199,16 +114939,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -121414,16 +115144,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -121627,16 +115347,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [
@@ -121832,16 +115542,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -121966,16 +115666,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -122106,16 +115796,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -122305,16 +115985,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -122513,16 +116183,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -122654,16 +116314,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -122800,16 +116450,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -122990,16 +116630,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -123202,16 +116832,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -123420,16 +117040,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -123583,16 +117193,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -123796,16 +117396,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [],
@@ -123944,16 +117534,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -124089,16 +117669,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
         }
       }
     ],
@@ -124307,16 +117877,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -124509,16 +118069,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -124653,16 +118203,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -124861,16 +118401,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [],
@@ -125001,16 +118531,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -125203,16 +118723,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -125423,16 +118933,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -125589,16 +119089,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -125807,16 +119297,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -126003,16 +119483,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -126184,16 +119654,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -126336,16 +119796,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -126476,16 +119926,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -126680,16 +120120,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -126872,16 +120302,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -127038,16 +120458,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -127254,16 +120664,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -127466,16 +120866,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -127682,16 +121072,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -127892,16 +121272,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
         }
       }
     ],
@@ -128107,16 +121477,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [],
@@ -128251,16 +121611,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -128397,16 +121747,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -128617,16 +121957,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -128835,16 +122165,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -129052,16 +122372,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -129259,16 +122569,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -129404,16 +122704,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -129616,16 +122906,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -129806,16 +123086,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -129999,16 +123269,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -130196,16 +123456,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -130404,16 +123654,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [],
@@ -130549,16 +123789,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
-        }
       }
     ],
     "options": [],
@@ -130690,16 +123920,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       }
     ],
@@ -130849,16 +124069,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -131067,16 +124277,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [
@@ -131284,16 +124484,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -131476,16 +124666,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -131696,16 +124876,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -131914,16 +125084,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
-        }
       }
     ],
     "options": [],
@@ -132057,16 +125217,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -132295,16 +125445,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -132498,16 +125638,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -132715,16 +125845,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -132955,16 +126075,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -133149,16 +126259,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -133328,16 +126428,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -133538,16 +126628,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -133730,16 +126810,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -133906,16 +126976,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -134144,16 +127204,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
-        }
       }
     ],
     "options": [
@@ -134363,16 +127413,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -134541,16 +127581,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -134755,16 +127785,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -134949,16 +127969,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -135128,16 +128138,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -135342,16 +128342,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [
@@ -135547,16 +128537,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -135759,16 +128739,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -135979,16 +128949,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [
@@ -136195,16 +129155,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [
@@ -136399,16 +129349,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
-        }
       }
     ],
     "options": [],
@@ -136543,16 +129483,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
         }
       }
     ],
@@ -136763,16 +129693,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -136908,16 +129828,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -137123,16 +130033,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -137348,16 +130248,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -137555,16 +130445,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -137696,16 +130576,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -137857,16 +130727,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -138075,16 +130935,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -138261,16 +131111,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -138463,16 +131303,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -138595,16 +131425,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -138749,16 +131569,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -138894,16 +131704,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
         }
       }
     ],
@@ -139114,16 +131914,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -139304,16 +132094,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -139522,16 +132302,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -139701,16 +132471,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -139845,16 +132605,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -139999,16 +132749,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -140209,16 +132949,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -140393,16 +133123,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -140579,16 +133299,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
         }
       }
     ],
@@ -140791,16 +133501,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -140972,16 +133672,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -141200,16 +133890,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -141376,16 +134056,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -141588,16 +134258,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
         }
       }
     ],
@@ -141807,16 +134467,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -142045,16 +134695,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [],
@@ -142186,16 +134826,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -142390,16 +135020,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
         }
       }
     ],
@@ -142604,16 +135224,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
         }
       }
     ],
@@ -142823,16 +135433,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -143022,16 +135622,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
-        }
       }
     ],
     "options": [],
@@ -143165,16 +135755,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
         }
       }
     ],
@@ -143373,16 +135953,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
-        }
       }
     ],
     "options": [
@@ -143558,16 +136128,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -143776,16 +136336,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [
@@ -143978,16 +136528,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -144159,16 +136699,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -144354,16 +136884,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [
@@ -144540,16 +137060,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -144752,16 +137262,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -144940,16 +137440,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -145168,16 +137658,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -145375,16 +137855,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -145566,16 +138036,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -145722,16 +138182,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -145946,16 +138396,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [
@@ -146113,16 +138553,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -146315,16 +138745,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -146535,16 +138955,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -146696,16 +139106,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -146899,16 +139299,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -147056,16 +139446,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
         }
       }
     ],
@@ -147236,16 +139616,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -147451,16 +139821,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -147657,16 +140017,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -147867,16 +140217,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -148085,16 +140425,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -148230,16 +140560,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -148418,16 +140738,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -148632,16 +140942,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -148850,16 +141150,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -148997,16 +141287,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -149213,16 +141493,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -149412,16 +141682,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -149624,16 +141884,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
         }
       }
     ],
@@ -149864,16 +142114,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Béni Mellal",
-          "ar": "بني ملال"
-        }
       }
     ],
     "options": [
@@ -150048,16 +142288,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [],
@@ -150190,16 +142420,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -150324,16 +142544,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -150472,16 +142682,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -150687,16 +142887,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -150907,16 +143097,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -151126,16 +143306,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -151337,16 +143507,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -151572,16 +143732,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -151762,16 +143912,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [],
@@ -151904,16 +144044,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
         }
       }
     ],
@@ -152142,16 +144272,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -152358,16 +144478,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [
@@ -152567,16 +144677,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -152758,16 +144858,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -152971,16 +145061,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -153182,16 +145262,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -153397,16 +145467,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -153608,16 +145668,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       }
     ],
@@ -153825,16 +145875,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -153965,16 +146005,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -154104,16 +146134,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -154312,16 +146332,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
-        }
       }
     ],
     "options": [
@@ -154510,16 +146520,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -154726,16 +146726,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -154919,16 +146909,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -155110,16 +147090,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -155318,16 +147288,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
         }
       }
     ],
@@ -155536,16 +147496,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -155753,16 +147703,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -155931,16 +147871,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -156124,16 +148054,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -156267,16 +148187,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -156474,16 +148384,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -156692,16 +148592,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -156908,16 +148798,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -157126,16 +149006,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -157339,16 +149209,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -157577,16 +149437,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
-        }
       }
     ],
     "options": [
@@ -157776,16 +149626,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -157921,16 +149761,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -158129,16 +149959,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -158317,16 +150137,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -158524,16 +150334,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -158737,16 +150537,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -158908,16 +150698,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -159121,16 +150901,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [
@@ -159326,16 +151096,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
         }
       }
     ],
@@ -159538,16 +151298,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -159758,16 +151508,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -159975,16 +151715,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -160172,16 +151902,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
-        }
       }
     ],
     "options": [
@@ -160341,16 +152061,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
         }
       }
     ],
@@ -160533,16 +152243,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
         }
       }
     ],
@@ -160743,16 +152443,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [
@@ -160919,16 +152609,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -161127,16 +152807,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -161319,16 +152989,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -161477,16 +153137,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -161659,16 +153309,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [],
@@ -161803,16 +153443,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
         }
       }
     ],
@@ -162018,16 +153648,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -162188,16 +153808,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -162404,16 +154014,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -162644,16 +154244,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [
@@ -162794,16 +154384,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -163010,16 +154590,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -163213,16 +154783,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -163431,16 +154991,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [
@@ -163636,16 +155186,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -163781,16 +155321,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -163998,16 +155528,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [],
@@ -164142,16 +155662,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
         }
       }
     ],
@@ -164339,16 +155849,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -164545,16 +156045,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -164763,16 +156253,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -164959,16 +156439,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -165147,16 +156617,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -165333,16 +156793,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -165482,16 +156932,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
         }
       }
     ],
@@ -165700,16 +157140,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -165907,16 +157337,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [],
@@ -166053,16 +157473,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -166264,16 +157674,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -166504,16 +157904,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
-        }
       }
     ],
     "options": [
@@ -166723,16 +158113,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -166879,16 +158259,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -167086,16 +158456,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -167301,16 +158661,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -167472,16 +158822,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -167680,16 +159020,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -167900,16 +159230,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -168044,16 +159364,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
         }
       }
     ],
@@ -168264,16 +159574,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
-        }
       }
     ],
     "options": [
@@ -168478,16 +159778,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -168696,16 +159986,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -168908,16 +160188,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -169109,16 +160379,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -169327,16 +160587,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -169533,16 +160783,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -169751,16 +160991,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [
@@ -169940,16 +161170,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -170142,16 +161362,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -170357,16 +161567,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -170492,16 +161692,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -170709,16 +161899,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -170924,16 +162104,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -171142,16 +162312,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -171359,16 +162519,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -171541,16 +162691,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -171682,16 +162822,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -171900,16 +163030,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -172045,16 +163165,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -172261,16 +163371,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -172447,16 +163547,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -172591,16 +163681,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
         }
       }
     ],
@@ -172768,16 +163848,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -172954,16 +164024,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -173148,16 +164208,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -173350,16 +164400,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -173578,16 +164618,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -173780,16 +164810,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -173998,16 +165018,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -174184,16 +165194,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -174348,16 +165348,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -174563,16 +165553,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -174746,16 +165726,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [],
@@ -174885,16 +165855,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -175102,16 +166062,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -175337,16 +166287,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -175551,16 +166491,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -175753,16 +166683,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [],
@@ -175897,16 +166817,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
         }
       }
     ],
@@ -176110,16 +167020,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [
@@ -176322,16 +167222,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
-        }
       }
     ],
     "options": [
@@ -176474,16 +167364,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -176636,16 +167516,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -176861,16 +167731,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -177053,16 +167913,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -177262,16 +168112,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [],
@@ -177407,16 +168247,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       }
     ],
@@ -177568,16 +168398,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -177788,16 +168608,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -178000,16 +168810,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -178202,16 +169002,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -178346,16 +169136,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -178549,16 +169329,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -178751,16 +169521,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -178896,16 +169656,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
         }
       }
     ],
@@ -179106,16 +169856,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -179311,16 +170051,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -179531,16 +170261,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -179736,16 +170456,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -179896,16 +170606,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -180131,16 +170831,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -180350,16 +171040,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -180567,16 +171247,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -180779,16 +171449,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -180999,16 +171659,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [
@@ -181185,16 +171835,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -181399,16 +172039,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -181615,16 +172245,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -181826,16 +172446,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -182056,16 +172666,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -182273,16 +172873,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -182418,16 +173008,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
         }
       }
     ],
@@ -182615,16 +173195,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -182845,16 +173415,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [
@@ -183065,16 +173625,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -183266,16 +173816,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -183469,16 +174009,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [],
@@ -183614,16 +174144,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -183833,16 +174353,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -184042,16 +174552,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -184262,16 +174762,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [
@@ -184478,16 +174968,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
-        }
       }
     ],
     "options": [
@@ -184692,16 +175172,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -184909,16 +175379,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -185128,16 +175588,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -185340,16 +175790,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [
@@ -185538,16 +175978,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
         }
       }
     ],
@@ -185756,16 +176186,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -185958,16 +176378,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -186178,16 +176588,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -186392,16 +176792,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
-        }
       }
     ],
     "options": [],
@@ -186529,16 +176919,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -186673,16 +177053,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -186829,16 +177199,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -187047,16 +177407,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -187193,16 +177543,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -187333,16 +177673,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -187545,16 +177875,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -187723,16 +178043,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -187911,16 +178221,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -188129,16 +178429,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [
@@ -188321,16 +178611,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -188527,16 +178807,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -188742,16 +179012,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -188960,16 +179220,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -189160,16 +179410,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -189378,16 +179618,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -189595,16 +179825,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -189811,16 +180031,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -189985,16 +180195,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -190196,16 +180396,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Béni Mellal",
-          "ar": "بني ملال"
         }
       }
     ],
@@ -190424,16 +180614,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -190630,16 +180810,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -190844,16 +181014,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
         }
       }
     ],
@@ -191064,16 +181224,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -191277,16 +181427,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -191417,16 +181557,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       }
     ],
@@ -191562,16 +181692,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
         }
       }
     ],
@@ -191773,16 +181893,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -191918,16 +182028,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -192138,16 +182238,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -192252,16 +182342,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -192400,16 +182480,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -192606,16 +182676,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -192819,16 +182879,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [],
@@ -192962,16 +183012,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -193185,16 +183225,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [
@@ -193402,16 +183432,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
-        }
       }
     ],
     "options": [],
@@ -193547,16 +183567,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -193764,16 +183774,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -193992,16 +183992,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -194203,16 +184193,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       }
     ],
@@ -194416,16 +184396,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -194574,16 +184544,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -194750,16 +184710,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -194970,16 +184920,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -195188,16 +185128,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -195411,16 +185341,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -195628,16 +185548,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -195772,16 +185682,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -195990,16 +185890,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [
@@ -196181,16 +186071,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -196386,16 +186266,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -196530,16 +186400,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
         }
       }
     ],
@@ -196741,16 +186601,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
         }
       }
     ],
@@ -196974,16 +186824,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -197172,16 +187012,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -197380,16 +187210,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [
@@ -197579,16 +187399,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -197797,16 +187607,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -198014,16 +187814,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -198223,16 +188013,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -198438,16 +188218,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -198573,16 +188343,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -198791,16 +188551,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -198985,16 +188735,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -199188,16 +188928,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -199333,16 +189063,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -199546,16 +189266,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -199758,16 +189468,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -199903,16 +189603,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -200050,16 +189740,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -200194,16 +189874,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
         }
       }
     ],
@@ -200412,16 +190082,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
-        }
       }
     ],
     "options": [
@@ -200629,16 +190289,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -200814,16 +190464,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -201034,16 +190674,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -201253,16 +190883,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -201460,16 +191080,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -201605,16 +191215,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -201825,16 +191425,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -202036,16 +191626,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -202254,16 +191834,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -202470,16 +192040,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -202694,16 +192254,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -202903,16 +192453,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -203119,16 +192659,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
         }
       }
     ],
@@ -203339,16 +192869,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -203549,16 +193069,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -203736,16 +193246,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -203954,16 +193454,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -204171,16 +193661,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -204334,16 +193814,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -204549,16 +194019,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       }
     ],
@@ -204768,16 +194228,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -204993,16 +194443,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [
@@ -205144,16 +194584,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
         }
       }
     ],
@@ -205332,16 +194762,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -205514,16 +194934,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [],
@@ -205655,16 +195065,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -205883,16 +195283,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -206100,16 +195490,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -206288,16 +195668,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -206503,16 +195873,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [
@@ -206717,16 +196077,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [],
@@ -206879,16 +196229,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
         }
       }
     ],
@@ -207074,16 +196414,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -207216,16 +196546,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -207426,16 +196746,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -207569,16 +196879,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -207786,16 +197086,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
-        }
       }
     ],
     "options": [],
@@ -207940,16 +197230,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -208145,16 +197425,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -208362,16 +197632,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -208592,16 +197852,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -208795,16 +198045,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
-        }
       }
     ],
     "options": [
@@ -208993,16 +198233,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -209211,16 +198441,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -209409,16 +198629,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
         }
       }
     ],
@@ -209624,16 +198834,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -209825,16 +199025,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -210006,16 +199196,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -210226,16 +199406,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [],
@@ -210368,16 +199538,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       }
     ],
@@ -210583,16 +199743,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [],
@@ -210724,16 +199874,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -210940,16 +200080,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -211088,16 +200218,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -211232,16 +200352,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
         }
       }
     ],
@@ -211448,16 +200558,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -211621,16 +200721,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -211824,16 +200914,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [],
@@ -211968,16 +201048,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -212177,16 +201247,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -212396,16 +201456,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -212621,16 +201671,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -212833,16 +201873,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [
@@ -213036,16 +202066,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -213254,16 +202274,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [
@@ -213464,16 +202474,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -213677,16 +202677,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -213837,16 +202827,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -213979,16 +202959,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -214164,16 +203134,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -214376,16 +203336,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [
@@ -214571,16 +203521,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [
@@ -214747,16 +203687,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -214958,16 +203888,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -215173,16 +204093,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -215384,16 +204294,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -215597,16 +204497,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [
@@ -215804,16 +204694,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -215949,16 +204829,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       }
     ],
@@ -216176,16 +205046,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -216311,16 +205171,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -216454,16 +205304,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -216674,16 +205514,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -216890,16 +205720,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -217108,16 +205928,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [
@@ -217296,16 +206106,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -217497,16 +206297,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [
@@ -217683,16 +206473,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -217886,16 +206666,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -218021,16 +206791,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -218176,16 +206936,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -218373,16 +207123,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -218592,16 +207332,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [
@@ -218752,16 +207482,6 @@ export const DEFAULT_LISTINGS = [
           "en": "WW au Maroc",
           "ar": "WW بالمغرب"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -218893,16 +207613,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -219039,16 +207749,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -219259,16 +207959,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Non dédouanée",
           "ar": "غير مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -219458,16 +208148,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Blue",
           "ar": "أزرق"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -219588,16 +208268,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Blue",
           "ar": "أزرق"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -219723,16 +208393,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Or",
           "ar": "Or"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -219851,16 +208511,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Grey",
           "ar": "رمادي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
         }
       }
     ],
@@ -219988,16 +208638,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [],
@@ -220116,16 +208756,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Grey",
           "ar": "رمادي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -220247,16 +208877,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Marron clair",
           "ar": "Marron clair"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -220382,16 +209002,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Blue",
           "ar": "أزرق"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [],
@@ -220514,16 +209124,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -220650,16 +209250,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -220779,16 +209369,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -220912,16 +209492,6 @@ export const DEFAULT_LISTINGS = [
           "en": "White",
           "ar": "أبيض"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -221041,16 +209611,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Blue",
           "ar": "أزرق"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -221153,16 +209713,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "10,000 km",
           "ar": "10,000 km"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       },
       {
@@ -221302,16 +209852,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -221432,16 +209972,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "White",
           "ar": "أبيض"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -221564,16 +210094,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -221700,16 +210220,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Gris fonce",
           "ar": "Gris fonce"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
-        }
       }
     ],
     "options": [],
@@ -221831,16 +210341,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -221952,16 +210452,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Electric",
           "ar": "كهربائي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
         }
       }
     ],
@@ -222089,16 +210579,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -222218,16 +210698,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -222352,16 +210822,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -222484,16 +210944,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [],
@@ -222615,16 +211065,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "White",
           "ar": "أبيض"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -222752,16 +211192,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Blue",
           "ar": "أزرق"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -222886,16 +211316,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [],
@@ -223018,16 +211438,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -223149,16 +211559,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
-        }
       }
     ],
     "options": [],
@@ -223279,16 +211679,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -223414,16 +211804,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -223545,16 +211925,6 @@ export const DEFAULT_LISTINGS = [
           "en": "White",
           "ar": "أبيض"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -223673,16 +212043,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Brown",
           "ar": "بني"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -223806,16 +212166,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -223938,16 +212288,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -224074,16 +212414,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
-        }
       }
     ],
     "options": [],
@@ -224206,16 +212536,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -224341,16 +212661,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Blue",
           "ar": "أزرق"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -224470,16 +212780,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "White",
           "ar": "أبيض"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -224606,16 +212906,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Blue",
           "ar": "أزرق"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -224729,16 +213019,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
         }
       }
     ],
@@ -224861,16 +213141,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Gris fonce",
           "ar": "Gris fonce"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -225000,16 +213270,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Blue",
           "ar": "أزرق"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
-        }
       }
     ],
     "options": [],
@@ -225138,16 +213398,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Autre",
           "ar": "Autre"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -225274,16 +213524,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -225405,16 +213645,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -225539,16 +213769,6 @@ export const DEFAULT_LISTINGS = [
           "en": "White",
           "ar": "أبيض"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -225669,16 +213889,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Blue",
           "ar": "أزرق"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
         }
       }
     ],
@@ -225806,16 +214016,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
-        }
       }
     ],
     "options": [],
@@ -225941,16 +214141,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Autre",
           "ar": "Autre"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -226080,16 +214270,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Autre",
           "ar": "Autre"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -226215,16 +214395,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Red",
           "ar": "أحمر"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -226346,16 +214516,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -226471,16 +214631,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -226601,16 +214751,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -226738,16 +214878,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
-        }
       }
     ],
     "options": [],
@@ -226867,16 +214997,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Gris fonce",
           "ar": "Gris fonce"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Béni Mellal",
-          "ar": "بني ملال"
         }
       }
     ],
@@ -227001,16 +215121,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -227139,16 +215249,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -227267,16 +215367,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Gris anthracite",
           "ar": "Gris anthracite"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -227398,16 +215488,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Blue",
           "ar": "أزرق"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Béni Mellal",
-          "ar": "بني ملال"
         }
       }
     ],
@@ -227532,16 +215612,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -227653,16 +215723,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -227786,16 +215846,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -227924,16 +215974,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Blue",
           "ar": "أزرق"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -228058,16 +216098,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -228187,16 +216217,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Gris clair",
           "ar": "Gris clair"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
         }
       }
     ],
@@ -228320,16 +216340,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Brown",
           "ar": "بني"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
         }
       }
     ],
@@ -228456,16 +216466,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Blue",
           "ar": "أزرق"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -228590,16 +216590,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
-        }
       }
     ],
     "options": [],
@@ -228721,16 +216711,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [],
@@ -228851,16 +216831,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -228961,16 +216931,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "4,300 km",
           "ar": "4,300 km"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       },
       {
@@ -229107,16 +217067,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Vert fonce",
           "ar": "Vert fonce"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Khouribga",
-          "ar": "خريبكة"
-        }
       }
     ],
     "options": [],
@@ -229236,16 +217186,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [],
@@ -229348,16 +217288,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "3,000 km",
           "ar": "3,000 km"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
         }
       },
       {
@@ -229480,16 +217410,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "0 km",
           "ar": "0 كم"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       },
       {
@@ -229668,16 +217588,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
-        }
       }
     ],
     "options": [],
@@ -229780,16 +217690,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "900 km",
           "ar": "900 كم"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
         }
       },
       {
@@ -229935,16 +217835,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Béni Mellal",
-          "ar": "بني ملال"
-        }
       }
     ],
     "options": [],
@@ -230066,16 +217956,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Bleu marine",
           "ar": "Bleu marine"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
         }
       }
     ],
@@ -230200,16 +218080,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Gris clair",
           "ar": "Gris clair"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -230333,16 +218203,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [],
@@ -230464,16 +218324,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -230597,16 +218447,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -230736,16 +218576,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Gris fonce",
           "ar": "Gris fonce"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -230868,16 +218698,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Grey",
           "ar": "رمادي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -231004,16 +218824,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [],
@@ -231138,16 +218948,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Green",
           "ar": "أخضر"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -231249,16 +219049,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "0 km",
           "ar": "0 كم"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       },
       {
@@ -231402,16 +219192,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -231535,16 +219315,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [],
@@ -231646,16 +219416,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "0 km",
           "ar": "0 كم"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       },
       {
@@ -231795,16 +219555,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -231928,16 +219678,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Autre",
           "ar": "Autre"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
-        }
       }
     ],
     "options": [],
@@ -232036,16 +219776,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "1,500 km",
           "ar": "1,500 km"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       },
       {
@@ -232182,16 +219912,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -232312,16 +220032,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Grey",
           "ar": "رمادي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -232448,16 +220158,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Autre",
           "ar": "Autre"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [],
@@ -232580,16 +220280,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -232711,16 +220401,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Gris clair",
           "ar": "Gris clair"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -232823,16 +220503,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "1 km",
           "ar": "1 كم"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       },
       {
@@ -232957,16 +220627,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -233093,16 +220753,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -233228,16 +220878,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -233361,16 +221001,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Brown",
           "ar": "بني"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -233485,16 +221115,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -233624,16 +221244,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -233756,16 +221366,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [],
@@ -233886,16 +221486,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "White",
           "ar": "أبيض"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -234018,16 +221608,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -234152,16 +221732,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Orange",
           "ar": "برتقالي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [],
@@ -234282,16 +221852,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Beige",
           "ar": "بيج"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -234418,16 +221978,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -234526,16 +222076,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "22,000 km",
           "ar": "22,000 km"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
         }
       },
       {
@@ -234671,16 +222211,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -234791,16 +222321,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -234923,16 +222443,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -235031,16 +222541,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "0 km",
           "ar": "0 كم"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       },
       {
@@ -235180,16 +222680,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Blue",
           "ar": "أزرق"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Nador",
-          "ar": "الناظور"
-        }
       }
     ],
     "options": [],
@@ -235313,16 +222803,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Brown",
           "ar": "بني"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -235451,16 +222931,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -235582,16 +223052,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "White",
           "ar": "أبيض"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
         }
       }
     ],
@@ -235716,16 +223176,6 @@ export const DEFAULT_LISTINGS = [
           "en": "White",
           "ar": "أبيض"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -235847,16 +223297,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
         }
       }
     ],
@@ -235980,16 +223420,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "White",
           "ar": "أبيض"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -236117,16 +223547,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -236247,16 +223667,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -236365,16 +223775,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -236497,16 +223897,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Blue",
           "ar": "أزرق"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -236625,16 +224015,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Red",
           "ar": "أحمر"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
         }
       }
     ],
@@ -236757,16 +224137,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Yellow",
           "ar": "أصفر"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -236886,16 +224256,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Silver",
           "ar": "فضي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -237020,16 +224380,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -237149,16 +224499,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Rouge fonce",
           "ar": "Rouge fonce"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
         }
       }
     ],
@@ -237285,16 +224625,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
-        }
       }
     ],
     "options": [],
@@ -237419,16 +224749,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -237555,16 +224875,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [],
@@ -237690,16 +225000,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [],
@@ -237798,16 +225098,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "4,300 km",
           "ar": "4,300 km"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       },
       {
@@ -237942,16 +225232,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -238077,16 +225357,6 @@ export const DEFAULT_LISTINGS = [
           "en": "White",
           "ar": "أبيض"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -238208,16 +225478,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Autre",
           "ar": "Autre"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -238336,16 +225596,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
         }
       }
     ],
@@ -238468,16 +225718,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Burgundy",
           "ar": "عنابي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -238603,16 +225843,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Orange",
           "ar": "برتقالي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
-        }
       }
     ],
     "options": [],
@@ -238733,16 +225963,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Green",
           "ar": "أخضر"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
         }
       }
     ],
@@ -238868,16 +226088,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Red",
           "ar": "أحمر"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Settat",
-          "ar": "سطات"
-        }
       }
     ],
     "options": [],
@@ -239002,16 +226212,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -239134,16 +226334,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -239257,16 +226447,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Meknès",
-          "ar": "مكناس"
         }
       }
     ],
@@ -239387,16 +226567,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Red",
           "ar": "أحمر"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -239520,16 +226690,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Bleu marine",
           "ar": "Bleu marine"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
         }
       }
     ],
@@ -239656,16 +226816,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -239785,16 +226935,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       }
     ],
@@ -239921,16 +227061,6 @@ export const DEFAULT_LISTINGS = [
           "en": "White",
           "ar": "أبيض"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -240052,16 +227182,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Bleu marine",
           "ar": "Bleu marine"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -240191,16 +227311,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -240321,16 +227431,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -240457,16 +227557,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [],
@@ -240587,16 +227677,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Grey",
           "ar": "رمادي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
         }
       }
     ],
@@ -240721,16 +227801,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tétouan",
-          "ar": "تطوان"
-        }
       }
     ],
     "options": [],
@@ -240851,16 +227921,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Orange",
           "ar": "برتقالي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -240979,16 +228039,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -241112,16 +228162,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -241248,16 +228288,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
-        }
       }
     ],
     "options": [],
@@ -241378,16 +228408,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Gris clair",
           "ar": "Gris clair"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Larache",
-          "ar": "العرائش"
-        }
       }
     ],
     "options": [],
@@ -241507,16 +228527,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Orange",
           "ar": "برتقالي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -241625,16 +228635,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Petrol",
           "ar": "بنزين"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -241758,16 +228758,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "White",
           "ar": "أبيض"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
         }
       }
     ],
@@ -241897,16 +228887,6 @@ export const DEFAULT_LISTINGS = [
           "en": "White",
           "ar": "أبيض"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Safi",
-          "ar": "آسفي"
-        }
       }
     ],
     "options": [],
@@ -242028,16 +229008,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "White",
           "ar": "أبيض"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -242162,16 +229132,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Autre",
           "ar": "Autre"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Salé",
-          "ar": "سلا"
-        }
       }
     ],
     "options": [],
@@ -242271,16 +229231,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "1,100 km",
           "ar": "1,100 km"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
         }
       },
       {
@@ -242404,16 +229354,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Petrol",
           "ar": "بنزين"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -242533,16 +229473,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Blue",
           "ar": "أزرق"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Témara",
-          "ar": "تمارة"
         }
       }
     ],
@@ -242670,16 +229600,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Gris fonce",
           "ar": "Gris fonce"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -242786,16 +229706,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "15,000 km",
           "ar": "15,000 km"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       },
       {
@@ -242933,16 +229843,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [],
@@ -243062,16 +229962,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Gris fonce",
           "ar": "Gris fonce"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Kénitra",
-          "ar": "القنيطرة"
         }
       }
     ],
@@ -243193,16 +230083,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "White",
           "ar": "أبيض"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -243326,16 +230206,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Beige",
           "ar": "بيج"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -243454,16 +230324,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Oujda",
-          "ar": "وجدة"
         }
       }
     ],
@@ -243590,16 +230450,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -243721,16 +230571,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Gris anthracite",
           "ar": "Gris anthracite"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -243851,16 +230691,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Black",
           "ar": "أسود"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -243988,16 +230818,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Black",
           "ar": "أسود"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Berrechid",
-          "ar": "برشيد"
-        }
       }
     ],
     "options": [],
@@ -244122,16 +230942,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Grey",
           "ar": "رمادي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Mohammedia",
-          "ar": "المحمدية"
-        }
       }
     ],
     "options": [],
@@ -244252,16 +231062,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Vert fonce",
           "ar": "Vert fonce"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
         }
       }
     ],
@@ -244384,16 +231184,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Gris fonce",
           "ar": "Gris fonce"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -244522,16 +231312,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Silver",
           "ar": "فضي"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tanger",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -244656,16 +231436,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Gris fonce",
           "ar": "Gris fonce"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "El Jadida",
-          "ar": "الجديدة"
-        }
       }
     ],
     "options": [],
@@ -244785,16 +231555,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Orange",
           "ar": "برتقالي"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -244916,16 +231676,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Gris clair",
           "ar": "Gris clair"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Essaouira",
-          "ar": "الصويرة"
         }
       }
     ],
@@ -245072,16 +231822,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -245293,16 +232033,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -245521,16 +232251,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -245744,16 +232464,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -245898,16 +232608,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -246059,16 +232759,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -246291,16 +232981,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -246549,16 +233229,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [],
@@ -246732,16 +233402,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [],
@@ -246894,16 +233554,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -247122,16 +233772,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [
@@ -247343,16 +233983,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
-        }
       }
     ],
     "options": [
@@ -247560,16 +234190,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [],
@@ -247715,16 +234335,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
         }
       }
     ],
@@ -247933,16 +234543,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
-        }
       }
     ],
     "options": [],
@@ -248078,16 +234678,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
         }
       }
     ],
@@ -248244,16 +234834,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Agadir",
-          "ar": "أكادير"
         }
       }
     ],
@@ -248467,16 +235047,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
-        }
       }
     ],
     "options": [
@@ -248688,16 +235258,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Casablanca",
-          "ar": "الدار البيضاء"
-        }
       }
     ],
     "options": [
@@ -248903,16 +235463,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Rabat",
-          "ar": "الرباط"
         }
       }
     ],
@@ -249129,16 +235679,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Marrakech",
-          "ar": "مراكش"
-        }
       }
     ],
     "options": [
@@ -249346,16 +235886,6 @@ export const DEFAULT_LISTINGS = [
           "en": "Dédouanée",
           "ar": "مجمركة"
         }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Tangier",
-          "ar": "طنجة"
-        }
       }
     ],
     "options": [],
@@ -249511,16 +236041,6 @@ export const DEFAULT_LISTINGS = [
         "value": {
           "en": "Dédouanée",
           "ar": "مجمركة"
-        }
-      },
-      {
-        "label": {
-          "en": "City",
-          "ar": "المدينة"
-        },
-        "value": {
-          "en": "Fès",
-          "ar": "فاس"
         }
       }
     ],
