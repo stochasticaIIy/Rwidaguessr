@@ -667,24 +667,34 @@
       const k = (item.kind || '').toLowerCase();
       return isBikeMode ? (k.includes('moto') || k.includes('bike')) : (k.includes('car') || item.kind === 'Voiture');
     };
-    const seenIds = new Set([...getSessionSeenIds(), ...state.listings.map((l) => l && l.id).filter(Boolean)]);
+    const seenIds = new Set([...getSessionSeenIds(), ...state.listings.map((l) => l && l.id).filter(Boolean), ...state.failedListingIds]);
 
-    // 1. First check existing pre-fetched reserves (shuffled to avoid predictable selection)
+    const isValidCandidate = (cand) => {
+      if (!cand || state.failedListingIds.has(cand.id)) return false;
+      if (state.listings.some((l) => l && l.id === cand.id)) return false;
+      if (!isMatchingKind(cand)) return false;
+      if (!isBikeMode && state.fuel && state.fuel !== 'all' && !isMatchingFuel(cand, state.fuel)) return false;
+      if (!isBikeMode && state.carType && state.carType !== 'all') {
+        if (state.carType === 'suv' && !isSuv(cand)) return false;
+        if (state.carType === 'luxury' && !isLuxuryExcludingSuv(cand)) return false;
+        if (state.carType === 'everyday' && !isEverydayCar(cand)) return false;
+      }
+      return true;
+    };
+
+    // 1. First check existing pre-fetched reserves (shuffled)
     if (Array.isArray(state.reserves) && state.reserves.length > 0) {
-      const shuffledReserves = shuffle(state.reserves);
-      for (const candidate of shuffledReserves) {
-        if (!candidate || state.failedListingIds.has(candidate.id)) continue;
-        if (state.listings.some((l) => l && l.id === candidate.id)) continue;
-        if (!isMatchingKind(candidate)) continue;
-        if (!isBikeMode && state.fuel && state.fuel !== 'all' && !isMatchingFuel(candidate, state.fuel)) continue;
-        if (!isBikeMode && state.carType && state.carType !== 'all') {
-          if (state.carType === 'suv' && !isSuv(candidate)) continue;
-          if (state.carType === 'luxury' && !isLuxuryExcludingSuv(candidate)) continue;
-          if (state.carType === 'everyday' && !isEverydayCar(candidate)) continue;
+      const candidates = shuffle(state.reserves).filter(isValidCandidate);
+      for (const candidate of candidates) {
+        const imgs = listingImages(candidate);
+        if (!imgs.length) continue;
+        const works = await testImage(imgs[0], 2500);
+        if (works) {
+          const idx = state.reserves.indexOf(candidate);
+          if (idx !== -1) state.reserves.splice(idx, 1);
+          return candidate;
         }
-        const idx = state.reserves.indexOf(candidate);
-        if (idx !== -1) state.reserves.splice(idx, 1);
-        return candidate;
+        state.failedListingIds.add(candidate.id);
       }
     }
 
@@ -699,18 +709,13 @@
         const res = await fetch(`/api/game?seconds=${seconds}&mode=${state.mode}${typeParam}${fuelParam}${carTypeParam}${excludeParam}`, { cache: 'no-store' });
         if (res.ok) {
           const payload = await res.json();
-          const newItems = shuffle([...(payload.round || []), ...(payload.reserves || [])]);
+          const newItems = shuffle([...(payload.round || []), ...(payload.reserves || [])]).filter(isValidCandidate);
           for (const cand of newItems) {
-            if (!cand || state.failedListingIds.has(cand.id)) continue;
-            if (state.listings.some((l) => l && l.id === cand.id)) continue;
-            if (!isMatchingKind(cand)) continue;
-            if (!isBikeMode && state.fuel && state.fuel !== 'all' && !isMatchingFuel(cand, state.fuel)) continue;
-            if (!isBikeMode && state.carType && state.carType !== 'all') {
-              if (state.carType === 'suv' && !isSuv(cand)) continue;
-              if (state.carType === 'luxury' && !isLuxuryExcludingSuv(cand)) continue;
-              if (state.carType === 'everyday' && !isEverydayCar(cand)) continue;
-            }
-            return cand;
+            const imgs = listingImages(cand);
+            if (!imgs.length) continue;
+            const works = await testImage(imgs[0], 2500);
+            if (works) return cand;
+            state.failedListingIds.add(cand.id);
           }
         }
       } catch (_) {}
@@ -722,16 +727,12 @@
     const searchOrder = unseenCandidates.length >= 3 ? [...unseenCandidates, ...pool] : pool;
 
     for (const cand of searchOrder) {
-      if (!cand || state.failedListingIds.has(cand.id)) continue;
-      if (state.listings.some((l) => l && l.id === cand.id)) continue;
-      if (!isMatchingKind(cand)) continue;
-      if (state.fuel && state.fuel !== 'all' && !isMatchingFuel(cand, state.fuel)) continue;
-      if (!isBikeMode && state.carType && state.carType !== 'all') {
-        if (state.carType === 'suv' && !isSuv(cand)) continue;
-        if (state.carType === 'luxury' && !isLuxuryExcludingSuv(cand)) continue;
-        if (state.carType === 'everyday' && !isEverydayCar(cand)) continue;
-      }
-      return cand;
+      if (!isValidCandidate(cand)) continue;
+      const imgs = listingImages(cand);
+      if (!imgs.length) continue;
+      const works = await testImage(imgs[0], 2500);
+      if (works) return cand;
+      state.failedListingIds.add(cand.id);
     }
 
     return null;
@@ -742,6 +743,7 @@
 
     if (brokenItem && brokenItem.id) {
       state.failedListingIds.add(brokenItem.id);
+      addSessionSeenIds([brokenItem.id]);
     }
 
     // Stop timer immediately so player loses zero time
@@ -754,16 +756,14 @@
     closeLightbox();
 
     const replacement = await getReplacementListing();
+    state.isSkippingListing = false;
     if (replacement) {
       showSkipToast(t('photoMissingSkipped'));
       state.listings[state.current] = replacement;
       state.imageIndex = 0;
-      state.isSkippingListing = false;
       startRound();
     } else {
-      // If no replacement is available, DO NOT skip the round or finish the game!
-      // Simply show the vehicle fallback emoji and keep this round active for the player!
-      state.isSkippingListing = false;
+      // If no replacement is available across any pool, show fallback emoji card
       ui.image.classList.add('hidden');
       ui.fallback.classList.remove('hidden');
       ui.gallery.classList.add('hidden');
@@ -776,14 +776,31 @@
     if (nextIdx >= state.listings.length) return;
     const item = state.listings[nextIdx];
     if (!item || state.validatedListingIds.has(item.id)) return;
+    state.validatedListingIds.add(item.id);
+
     const imgs = listingImages(item);
     if (!imgs.length) {
       const replacement = await getReplacementListing();
       if (replacement) state.listings[nextIdx] = replacement;
       return;
     }
-    preloadListingImages(item, 2);
-    state.validatedListingIds.add(item.id);
+
+    const works = await testImage(imgs[0], 2500);
+    if (!works) {
+      let anyWorks = false;
+      for (let i = 1; i < imgs.length; i++) {
+        if (await testImage(imgs[i], 2000)) { anyWorks = true; break; }
+      }
+      if (!anyWorks) {
+        const replacement = await getReplacementListing();
+        if (replacement) {
+          state.listings[nextIdx] = replacement;
+          preloadListingImages(replacement, 2);
+        }
+      }
+    } else {
+      preloadListingImages(item, 2);
+    }
   }
   function renderImage(item, resetZoom = true) {
     if (!item) return;
@@ -1198,7 +1215,7 @@
 
     const imgs = listingImages(item);
     if (!imgs.length) {
-      skipBrokenListing(item, 'no-images-on-round-start');
+      skipBrokenListing(item, 'no-images-in-item');
       return;
     }
 
@@ -1208,7 +1225,7 @@
     renderDots(); renderListing(item); setScreen('game'); startTimer();
     window.setTimeout(() => ui.guess.focus(), 80);
 
-    // Preload remaining photos for the active listing and the upcoming round
+    // Preload photos for the active listing and the upcoming round
     preloadListingImages(item);
     if (state.listings[state.current + 1]) {
       preloadListingImages(state.listings[state.current + 1]);
@@ -2233,7 +2250,7 @@
     const item = state.listings[state.current];
     const images = item && listingImages(item);
     if (!images || images.length < 2) return;
-    state.imageIndex += delta;
+    state.imageIndex = ((state.imageIndex + delta) % images.length + images.length) % images.length;
     renderImage(item, false);
     if (visualPanZoom.isZoomed()) {
       visualPanZoom.centerPan(false);
@@ -2276,7 +2293,7 @@
     state.imageIndex = ((state.imageIndex % images.length) + images.length) % images.length;
     ui.lightboxImage.loading = 'eager';
     ui.lightboxImage.decoding = 'async';
-    ui.lightboxImage.src = images[state.imageIndex];
+    ui.lightboxImage.src = resolveImageUrl(images[state.imageIndex]);
     ui.lightboxImage.alt = formatTitleWithYear(item);
     ui.lightboxCount.textContent = `${state.imageIndex + 1} / ${images.length}`;
     ui.lightboxPrev.disabled = images.length < 2;
@@ -2302,7 +2319,7 @@
     const item = state.listings[state.current];
     const images = item && listingImages(item);
     if (!images || images.length < 2) return;
-    state.imageIndex += delta;
+    state.imageIndex = ((state.imageIndex + delta) % images.length + images.length) % images.length;
     updateLightbox();
     renderImage(item, false);
   }
@@ -2519,71 +2536,77 @@
   ui.lightbox.addEventListener('click', (e) => {
     if (e.target === ui.lightbox) closeLightbox();
   });
+  ui.image.addEventListener('load', () => {
+    const item = state.listings[state.current];
+    if (item) item._hasShownWorkingPhoto = true;
+  });
   ui.image.addEventListener('error', () => {
     const item = state.listings[state.current];
     if (!item || state.submitting) return;
 
-    // Check if we can toggle between proxy and direct URL before giving up on this photo
-    const currentSrc = ui.image.src;
     const currentImgs = listingImages(item);
-    const rawUrl = currentImgs[state.imageIndex];
+    const failedUrl = currentImgs[state.imageIndex];
 
-    if (rawUrl && currentSrc.includes('/api/image?url=') && !item._triedDirect) {
-      item._triedDirect = true;
-      ui.image.src = rawUrl;
-      return;
-    }
-    if (rawUrl && !currentSrc.includes('/api/image?url=') && !item._triedProxy) {
-      item._triedProxy = true;
-      ui.image.src = `/api/image?url=${encodeURIComponent(rawUrl)}`;
-      return;
+    if (failedUrl) {
+      if (!item._failedImages) item._failedImages = new Set();
+      item._failedImages.add(failedUrl);
     }
 
-    if (!item._failedImages) item._failedImages = new Set();
-    if (rawUrl) item._failedImages.add(rawUrl);
-
-    // If there is another photo for this vehicle, try it
     const workingImages = listingImages(item);
     if (workingImages.length > 0) {
-      state.imageIndex = (state.imageIndex + 1) % workingImages.length;
+      state.imageIndex = state.imageIndex % workingImages.length;
       renderImage(item, false);
+      if (ui.lightbox && ui.lightbox.open) updateLightbox();
       return;
     }
 
-    // Try finding a replacement vehicle or showing fallback emoji without terminating
-    skipBrokenListing(item, 'photo-error-404');
+    // Zero valid photos left for this vehicle:
+    // If the user already saw a valid photo of this vehicle, stay on vehicle without jumping
+    if (item._hasShownWorkingPhoto) {
+      ui.image.classList.add('hidden');
+      ui.fallback.classList.remove('hidden');
+      ui.gallery.classList.add('hidden');
+      ui.imageActions.classList.add('hidden');
+      if (ui.lightbox && ui.lightbox.open) closeLightbox();
+      return;
+    }
+
+    // Otherwise, this listing has NO valid photos: directly move to a random verified listing!
+    skipBrokenListing(item, 'zero-valid-photos');
+  });
+  ui.lightboxImage.addEventListener('load', () => {
+    const item = state.listings[state.current];
+    if (item) item._hasShownWorkingPhoto = true;
   });
   ui.lightboxImage.addEventListener('error', () => {
     const item = state.listings[state.current];
     if (!item || state.submitting) return;
 
-    const currentSrc = ui.lightboxImage.src;
     const currentImgs = listingImages(item);
-    const rawUrl = currentImgs[state.imageIndex];
+    const failedUrl = currentImgs[state.imageIndex];
 
-    if (rawUrl && currentSrc.includes('/api/image?url=') && !item._triedDirectLb) {
-      item._triedDirectLb = true;
-      ui.lightboxImage.src = rawUrl;
-      return;
+    if (failedUrl) {
+      if (!item._failedImages) item._failedImages = new Set();
+      item._failedImages.add(failedUrl);
     }
-    if (rawUrl && !currentSrc.includes('/api/image?url=') && !item._triedProxyLb) {
-      item._triedProxyLb = true;
-      ui.lightboxImage.src = `/api/image?url=${encodeURIComponent(rawUrl)}`;
-      return;
-    }
-
-    if (!item._failedImages) item._failedImages = new Set();
-    if (rawUrl) item._failedImages.add(rawUrl);
 
     const workingImages = listingImages(item);
     if (workingImages.length > 0) {
-      state.imageIndex = (state.imageIndex + 1) % workingImages.length;
+      state.imageIndex = state.imageIndex % workingImages.length;
       updateLightbox();
       renderImage(item, false);
       return;
     }
+
     closeLightbox();
-    skipBrokenListing(item, 'lightbox-photo-error-404');
+    if (item._hasShownWorkingPhoto) {
+      ui.image.classList.add('hidden');
+      ui.fallback.classList.remove('hidden');
+      ui.gallery.classList.add('hidden');
+      ui.imageActions.classList.add('hidden');
+    } else {
+      skipBrokenListing(item, 'lightbox-zero-valid-photos');
+    }
   });
   document.addEventListener('fullscreenchange', () => {
     const isFs = Boolean(document.fullscreenElement);
