@@ -222,8 +222,53 @@
     };
   })();
 
+  const SESSION_SEEN_KEY = 'rwida-seen-vehicles';
+  function getSessionSeenIds() {
+    try {
+      const data = sessionStorage.getItem(SESSION_SEEN_KEY);
+      return data ? JSON.parse(data) : [];
+    } catch (_) {
+      return [];
+    }
+  }
+  function addSessionSeenIds(ids) {
+    if (!Array.isArray(ids) || !ids.length) return;
+    try {
+      const current = getSessionSeenIds();
+      const updated = Array.from(new Set([...current, ...ids])).slice(-80);
+      sessionStorage.setItem(SESSION_SEEN_KEY, JSON.stringify(updated));
+    } catch (_) {}
+  }
+
+  function shuffle(array) {
+    const arr = [...array];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      const temp = arr[i];
+      arr[i] = arr[j];
+      arr[j] = temp;
+    }
+    return arr;
+  }
+
   function selectFive(items) {
-    return [...items].sort(() => Math.random() - .5).slice(0, 5);
+    const seenIds = new Set(getSessionSeenIds());
+    const unseen = items.filter((item) => item && !seenIds.has(item.id));
+    if (unseen.length >= 5) {
+      return shuffle(unseen).slice(0, 5);
+    }
+    const remainder = items.filter((item) => item && seenIds.has(item.id));
+    return [...shuffle(unseen), ...shuffle(remainder)].slice(0, 5);
+  }
+
+  function resolveImageUrl(url) {
+    if (!url || typeof url !== 'string') return '';
+    // Moteur.ma images contain /ads/ in the path, which triggers uBlock Origin, Brave Shields, and EasyList.
+    // Proxy them through /api/image to avoid adblocker false-positive blocks and CORS issues.
+    if (url.includes('moteur.ma') || url.includes('/ads/')) {
+      return `/api/image?url=${encodeURIComponent(url)}`;
+    }
+    return url;
   }
   function getModelKey(item) {
     const fMap = {};
@@ -543,11 +588,12 @@
   }
   const preloadedUrls = new Set();
   function preloadImage(url) {
-    if (!url || typeof url !== 'string' || !url.startsWith('https://') || preloadedUrls.has(url)) return;
+    if (!url || typeof url !== 'string' || !url.startsWith('http') || preloadedUrls.has(url)) return;
     preloadedUrls.add(url);
     const img = new Image();
+    img.referrerPolicy = 'no-referrer';
     img.decoding = 'async';
-    img.src = url;
+    img.src = resolveImageUrl(url);
   }
   function preloadListingImages(item, limit = null) {
     if (!item) return;
@@ -578,16 +624,17 @@
   function listingImages(item) {
     if (!item) return [];
     const candidates = Array.isArray(item.images) ? item.images : item.imageUrl ? [item.imageUrl] : [];
-    const valid = candidates.filter((image) => typeof image === 'string' && /^https:\/\//.test(image));
+    const valid = candidates.filter((image) => typeof image === 'string' && /^https?:\/\//.test(image));
     if (item._failedImages && item._failedImages.size > 0) {
       return valid.filter((url) => !item._failedImages.has(url));
     }
     return valid;
   }
-  function testImage(url, timeoutMs = 2500) {
+  function testImage(url, timeoutMs = 4500) {
     return new Promise((resolve) => {
-      if (!url || typeof url !== 'string' || !/^https:\/\//.test(url)) return resolve(false);
+      if (!url || typeof url !== 'string' || !/^https?:\/\//.test(url)) return resolve(false);
       const img = new Image();
+      img.referrerPolicy = 'no-referrer';
       let settled = false;
       const timer = setTimeout(() => {
         if (!settled) {
@@ -610,7 +657,7 @@
           resolve(false);
         }
       };
-      img.src = url;
+      img.src = resolveImageUrl(url);
     });
   }
   async function getReplacementListing() {
@@ -620,27 +667,25 @@
       const k = (item.kind || '').toLowerCase();
       return isBikeMode ? (k.includes('moto') || k.includes('bike')) : (k.includes('car') || item.kind === 'Voiture');
     };
+    const seenIds = new Set([...getSessionSeenIds(), ...state.listings.map((l) => l && l.id).filter(Boolean)]);
 
-    // 1. First check existing pre-fetched reserves
-    while (Array.isArray(state.reserves) && state.reserves.length > 0) {
-      const candidate = state.reserves.shift();
-      if (!candidate || state.failedListingIds.has(candidate.id)) continue;
-      if (state.listings.some((l) => l && l.id === candidate.id)) continue;
-      if (!isMatchingKind(candidate)) continue;
-      if (!isBikeMode && state.fuel && state.fuel !== 'all' && !isMatchingFuel(candidate, state.fuel)) continue;
-      if (!isBikeMode && state.carType && state.carType !== 'all') {
-        if (state.carType === 'suv' && !isSuv(candidate)) continue;
-        if (state.carType === 'luxury' && !isLuxuryExcludingSuv(candidate)) continue;
-        if (state.carType === 'everyday' && !isEverydayCar(candidate)) continue;
+    // 1. First check existing pre-fetched reserves (shuffled to avoid predictable selection)
+    if (Array.isArray(state.reserves) && state.reserves.length > 0) {
+      const shuffledReserves = shuffle(state.reserves);
+      for (const candidate of shuffledReserves) {
+        if (!candidate || state.failedListingIds.has(candidate.id)) continue;
+        if (state.listings.some((l) => l && l.id === candidate.id)) continue;
+        if (!isMatchingKind(candidate)) continue;
+        if (!isBikeMode && state.fuel && state.fuel !== 'all' && !isMatchingFuel(candidate, state.fuel)) continue;
+        if (!isBikeMode && state.carType && state.carType !== 'all') {
+          if (state.carType === 'suv' && !isSuv(candidate)) continue;
+          if (state.carType === 'luxury' && !isLuxuryExcludingSuv(candidate)) continue;
+          if (state.carType === 'everyday' && !isEverydayCar(candidate)) continue;
+        }
+        const idx = state.reserves.indexOf(candidate);
+        if (idx !== -1) state.reserves.splice(idx, 1);
+        return candidate;
       }
-      const imgs = listingImages(candidate);
-      if (!imgs.length) {
-        state.failedListingIds.add(candidate.id);
-        continue;
-      }
-      const ok = await testImage(imgs[0], 2000);
-      if (ok) return candidate;
-      state.failedListingIds.add(candidate.id);
     }
 
     // 2. Replenish reserves from server if in live mode
@@ -650,10 +695,11 @@
         const typeParam = `&type=${encodeURIComponent(state.listingType || 'sale')}`;
         const fuelParam = (!isBikeMode && state.fuel && state.fuel !== 'all') ? `&fuel=${encodeURIComponent(state.fuel)}` : '';
         const carTypeParam = (!isBikeMode && state.carType && state.carType !== 'all') ? `&carType=${encodeURIComponent(state.carType)}` : '';
-        const res = await fetch(`/api/game?seconds=${seconds}&mode=${state.mode}${typeParam}${fuelParam}${carTypeParam}`, { cache: 'no-store' });
+        const excludeParam = `&exclude=${Array.from(seenIds).slice(-60).join(',')}`;
+        const res = await fetch(`/api/game?seconds=${seconds}&mode=${state.mode}${typeParam}${fuelParam}${carTypeParam}${excludeParam}`, { cache: 'no-store' });
         if (res.ok) {
           const payload = await res.json();
-          const newItems = [...(payload.round || []), ...(payload.reserves || [])];
+          const newItems = shuffle([...(payload.round || []), ...(payload.reserves || [])]);
           for (const cand of newItems) {
             if (!cand || state.failedListingIds.has(cand.id)) continue;
             if (state.listings.some((l) => l && l.id === cand.id)) continue;
@@ -664,19 +710,18 @@
               if (state.carType === 'luxury' && !isLuxuryExcludingSuv(cand)) continue;
               if (state.carType === 'everyday' && !isEverydayCar(cand)) continue;
             }
-            const imgs = listingImages(cand);
-            if (!imgs.length) continue;
-            const ok = await testImage(imgs[0], 2000);
-            if (ok) return cand;
-            state.failedListingIds.add(cand.id);
+            return cand;
           }
         }
       } catch (_) {}
     }
 
-    // 3. Fallback to static pool
-    const pool = getCatalogListings();
-    for (const cand of pool) {
+    // 3. Fallback to static catalog pool - SHUFFLED (Never linear from index 0!)
+    const pool = shuffle(getCatalogListings());
+    const unseenCandidates = pool.filter((c) => c && !seenIds.has(c.id));
+    const searchOrder = unseenCandidates.length >= 3 ? [...unseenCandidates, ...pool] : pool;
+
+    for (const cand of searchOrder) {
       if (!cand || state.failedListingIds.has(cand.id)) continue;
       if (state.listings.some((l) => l && l.id === cand.id)) continue;
       if (!isMatchingKind(cand)) continue;
@@ -686,11 +731,7 @@
         if (state.carType === 'luxury' && !isLuxuryExcludingSuv(cand)) continue;
         if (state.carType === 'everyday' && !isEverydayCar(cand)) continue;
       }
-      const imgs = listingImages(cand);
-      if (!imgs.length) continue;
-      const ok = await testImage(imgs[0], 2000);
-      if (ok) return cand;
-      state.failedListingIds.add(cand.id);
+      return cand;
     }
 
     return null;
@@ -712,64 +753,63 @@
     // Close lightbox if currently open
     closeLightbox();
 
-    showSkipToast(t('photoMissingSkipped'));
-
     const replacement = await getReplacementListing();
     if (replacement) {
+      showSkipToast(t('photoMissingSkipped'));
       state.listings[state.current] = replacement;
       state.imageIndex = 0;
       state.isSkippingListing = false;
       startRound();
     } else {
+      // If no replacement is available, DO NOT skip the round or finish the game!
+      // Simply show the vehicle fallback emoji and keep this round active for the player!
       state.isSkippingListing = false;
-      if (state.current < state.listings.length - 1) {
-        state.current += 1;
-        startRound();
-      } else {
-        finishGame();
-      }
+      ui.image.classList.add('hidden');
+      ui.fallback.classList.remove('hidden');
+      ui.gallery.classList.add('hidden');
+      ui.imageActions.classList.add('hidden');
+      startTimer();
     }
   }
   async function validateUpcomingListings() {
-    for (let i = state.current + 1; i < state.listings.length; i++) {
-      const item = state.listings[i];
-      if (!item || state.validatedListingIds.has(item.id)) continue;
-      const imgs = listingImages(item);
-      if (!imgs.length) {
-        const replacement = await getReplacementListing();
-        if (replacement) state.listings[i] = replacement;
-        continue;
-      }
-      const ok = await testImage(imgs[0], 2500);
-      if (!ok) {
-        if (!item._failedImages) item._failedImages = new Set();
-        item._failedImages.add(imgs[0]);
-        if (!listingImages(item).length) {
-          state.failedListingIds.add(item.id);
-          const replacement = await getReplacementListing();
-          if (replacement) state.listings[i] = replacement;
-        }
-      } else {
-        state.validatedListingIds.add(item.id);
-      }
+    const nextIdx = state.current + 1;
+    if (nextIdx >= state.listings.length) return;
+    const item = state.listings[nextIdx];
+    if (!item || state.validatedListingIds.has(item.id)) return;
+    const imgs = listingImages(item);
+    if (!imgs.length) {
+      const replacement = await getReplacementListing();
+      if (replacement) state.listings[nextIdx] = replacement;
+      return;
     }
+    preloadListingImages(item, 2);
+    state.validatedListingIds.add(item.id);
   }
   function renderImage(item, resetZoom = true) {
     if (!item) return;
     const images = listingImages(item);
     if (resetZoom && typeof visualPanZoom !== 'undefined' && visualPanZoom) visualPanZoom.reset(false);
     if (!images.length) {
-      skipBrokenListing(item, 'no-images');
+      ui.image.classList.add('hidden');
+      ui.fallback.classList.remove('hidden');
+      ui.gallery.classList.add('hidden');
+      ui.imageActions.classList.add('hidden');
       return;
     }
     state.imageIndex = ((state.imageIndex % images.length) + images.length) % images.length;
+    const resolvedSrc = resolveImageUrl(images[state.imageIndex]);
+    ui.image.referrerPolicy = 'no-referrer';
     ui.image.loading = 'eager';
     ui.image.decoding = 'async';
-    ui.image.src = images[state.imageIndex]; ui.image.alt = formatTitleWithYear(item);
-    ui.image.classList.remove('hidden'); ui.fallback.classList.add('hidden'); ui.imageActions.classList.remove('hidden');
+    ui.image.src = resolvedSrc;
+    ui.image.alt = formatTitleWithYear(item);
+    ui.image.classList.remove('hidden');
+    ui.fallback.classList.add('hidden');
+    ui.imageActions.classList.remove('hidden');
     ui.gallery.classList.toggle('hidden', images.length < 2);
     ui.imageCount.textContent = `${state.imageIndex + 1} / ${images.length}`;
-    ui.previousImage.disabled = images.length < 2; ui.nextImage.disabled = images.length < 2;
+    ui.previousImage.disabled = images.length < 2;
+    ui.nextImage.disabled = images.length < 2;
     if (images.length > 1) {
       preloadImage(images[(state.imageIndex + 1) % images.length]);
       preloadImage(images[((state.imageIndex - 1) % images.length + images.length) % images.length]);
@@ -2275,13 +2315,15 @@
     const typeParam = `&type=${encodeURIComponent(listingType)}`;
     const fuelParam = fuel ? `&fuel=${encodeURIComponent(fuel)}` : '';
     const carTypeParam = carType ? `&carType=${encodeURIComponent(carType)}` : '';
+    const excludeParam = `&exclude=${getSessionSeenIds().slice(-60).join(',')}`;
     try {
-      const response = await fetch(`/api/game?seconds=${seconds}&mode=${mode}${typeParam}${fuelParam}${carTypeParam}`, { cache: 'no-store' });
+      const response = await fetch(`/api/game?seconds=${seconds}&mode=${mode}${typeParam}${fuelParam}${carTypeParam}${excludeParam}`, { cache: 'no-store' });
       if (!response.ok) throw new Error('no game endpoint');
       const payload = await response.json();
       if (!Array.isArray(payload.round) || payload.round.length < 5) throw new Error('not enough listings');
       state.listings = payload.round;
       state.reserves = Array.isArray(payload.reserves) ? payload.reserves : [];
+      addSessionSeenIds(state.listings.map((l) => l.id));
       state.live = true;
       if (ui.dataNote) { ui.dataNote.textContent = ''; ui.dataNote.classList.add('hidden'); }
     } catch (_) {
@@ -2322,8 +2364,9 @@
       }
       pool = dedupByModel(pool);
       state.listings = selectFive(pool);
+      addSessionSeenIds(state.listings.map((l) => l.id));
       const usedIds = new Set(state.listings.map((l) => l.id));
-      state.reserves = pool.filter((item) => !usedIds.has(item.id));
+      state.reserves = shuffle(pool.filter((item) => !usedIds.has(item.id)));
       state.live = false;
       if (ui.dataNote) { ui.dataNote.textContent = ''; ui.dataNote.classList.add('hidden'); }
     }
@@ -2479,28 +2522,62 @@
   ui.image.addEventListener('error', () => {
     const item = state.listings[state.current];
     if (!item || state.submitting) return;
-    if (!item._failedImages) item._failedImages = new Set();
-    const badSrc = ui.image.src;
-    if (badSrc) item._failedImages.add(badSrc);
 
+    // Check if we can toggle between proxy and direct URL before giving up on this photo
+    const currentSrc = ui.image.src;
+    const currentImgs = listingImages(item);
+    const rawUrl = currentImgs[state.imageIndex];
+
+    if (rawUrl && currentSrc.includes('/api/image?url=') && !item._triedDirect) {
+      item._triedDirect = true;
+      ui.image.src = rawUrl;
+      return;
+    }
+    if (rawUrl && !currentSrc.includes('/api/image?url=') && !item._triedProxy) {
+      item._triedProxy = true;
+      ui.image.src = `/api/image?url=${encodeURIComponent(rawUrl)}`;
+      return;
+    }
+
+    if (!item._failedImages) item._failedImages = new Set();
+    if (rawUrl) item._failedImages.add(rawUrl);
+
+    // If there is another photo for this vehicle, try it
     const workingImages = listingImages(item);
     if (workingImages.length > 0) {
-      state.imageIndex = 0;
+      state.imageIndex = (state.imageIndex + 1) % workingImages.length;
       renderImage(item, false);
       return;
     }
+
+    // Try finding a replacement vehicle or showing fallback emoji without terminating
     skipBrokenListing(item, 'photo-error-404');
   });
   ui.lightboxImage.addEventListener('error', () => {
     const item = state.listings[state.current];
     if (!item || state.submitting) return;
+
+    const currentSrc = ui.lightboxImage.src;
+    const currentImgs = listingImages(item);
+    const rawUrl = currentImgs[state.imageIndex];
+
+    if (rawUrl && currentSrc.includes('/api/image?url=') && !item._triedDirectLb) {
+      item._triedDirectLb = true;
+      ui.lightboxImage.src = rawUrl;
+      return;
+    }
+    if (rawUrl && !currentSrc.includes('/api/image?url=') && !item._triedProxyLb) {
+      item._triedProxyLb = true;
+      ui.lightboxImage.src = `/api/image?url=${encodeURIComponent(rawUrl)}`;
+      return;
+    }
+
     if (!item._failedImages) item._failedImages = new Set();
-    const badSrc = ui.lightboxImage.src;
-    if (badSrc) item._failedImages.add(badSrc);
+    if (rawUrl) item._failedImages.add(rawUrl);
 
     const workingImages = listingImages(item);
     if (workingImages.length > 0) {
-      state.imageIndex = 0;
+      state.imageIndex = (state.imageIndex + 1) % workingImages.length;
       updateLightbox();
       renderImage(item, false);
       return;

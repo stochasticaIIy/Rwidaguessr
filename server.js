@@ -10,6 +10,66 @@ const PORT = 3000;
 
 app.use(express.json());
 
+// In-memory image cache to accelerate repeat delivery and bypass adblocker URL filters
+const imageCache = new Map();
+const MAX_IMAGE_CACHE_ENTRIES = 500;
+
+app.get('/api/image', async (req, res) => {
+  const targetUrl = req.query.url;
+  if (!targetUrl || typeof targetUrl !== 'string' || !/^https?:\/\//i.test(targetUrl)) {
+    return res.status(400).send('Invalid image URL');
+  }
+
+  try {
+    const parsed = new URL(targetUrl);
+    const allowedHosts = ['www.moteur.ma', 'moteur.ma', 'content.avito.ma', 'static.oneclickdrive.com'];
+    if (!allowedHosts.some(h => parsed.hostname === h || parsed.hostname.endsWith('.' + h))) {
+      return res.status(403).send('Host not allowed');
+    }
+
+    if (imageCache.has(targetUrl)) {
+      const cached = imageCache.get(targetUrl);
+      res.set('Content-Type', cached.contentType);
+      res.set('Cache-Control', 'public, max-age=604800, s-maxage=604800, immutable');
+      res.set('Access-Control-Allow-Origin', '*');
+      return res.send(cached.buffer);
+    }
+
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 7000);
+
+    const upstream = await fetch(targetUrl, {
+      signal: controller.signal,
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8'
+      }
+    });
+    clearTimeout(timeout);
+
+    if (!upstream.ok) {
+      return res.status(upstream.status).send('Upstream image error');
+    }
+
+    const contentType = upstream.headers.get('content-type') || 'image/jpeg';
+    const arrayBuffer = await upstream.arrayBuffer();
+    const buffer = Buffer.from(arrayBuffer);
+
+    if (imageCache.size >= MAX_IMAGE_CACHE_ENTRIES) {
+      const firstKey = imageCache.keys().next().value;
+      imageCache.delete(firstKey);
+    }
+    imageCache.set(targetUrl, { contentType, buffer });
+
+    res.set('Content-Type', contentType);
+    res.set('Cache-Control', 'public, max-age=604800, s-maxage=604800, immutable');
+    res.set('Access-Control-Allow-Origin', '*');
+    return res.send(buffer);
+  } catch (err) {
+    return res.status(502).send('Error proxying image: ' + err.message);
+  }
+});
+
 // API routes
 app.get('/api/game', async (req, res, next) => {
   try {

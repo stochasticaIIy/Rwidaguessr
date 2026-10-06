@@ -12,8 +12,20 @@ async function sign(text, secret) {
   const key = await crypto.subtle.importKey('raw', new TextEncoder().encode(secret), { name: 'HMAC', hash: 'SHA-256' }, false, ['sign']);
   return base64url(new Uint8Array(await crypto.subtle.sign('HMAC', key, new TextEncoder().encode(text))));
 }
+function shuffle(array) {
+  const arr = [...array];
+  for (let i = arr.length - 1; i > 0; i--) {
+    const randomUint = crypto.getRandomValues(new Uint32Array(1))[0];
+    const j = Math.floor((randomUint / 0x100000000) * (i + 1));
+    const temp = arr[i];
+    arr[i] = arr[j];
+    arr[j] = temp;
+  }
+  return arr;
+}
 function sample(items, count) {
-  return [...items].sort(() => crypto.getRandomValues(new Uint32Array(1))[0] - 0x80000000).slice(0, count);
+  const shuffled = shuffle(items);
+  return shuffled.slice(0, Math.min(count, shuffled.length));
 }
 
 function getModelKey(item) {
@@ -46,7 +58,7 @@ function dedupByModel(items) {
   return deduped.length >= 5 ? deduped : items;
 }
 
-function sanitizeListingFeatures(item, isRental = false) {
+export function sanitizeListingFeatures(item, isRental = false) {
   if (!Array.isArray(item.features)) return item.features;
   const fuel = getListingFuel(item);
   const isCar = !((item.kind || '').toLowerCase().includes('moto') || (item.kind || '').toLowerCase().includes('bike'));
@@ -77,6 +89,7 @@ function sanitizeListingFeatures(item, isRental = false) {
     if (!val || val.toLowerCase() === 'n/a') continue;
     if (en === 'city' || en.includes('city') || en.includes('ville') || ar.includes('مدينة')) continue;
     if (en.includes('transmission') || ar.includes('ناقل الحركة')) continue;
+    if (!isCar && (en.includes('gearbox') || en.includes('boite') || en.includes('boîte') || ar.includes('علبة السرعات'))) continue;
     if ((en.includes('horsepower') && !en.includes('tax') && !en.includes('fiscale')) || (ar.includes('حصان') && !ar.includes('جبائية') && !ar.includes('ضريب')) || en.includes('puissance din')) continue;
     if (isElectricCar) {
       if (en === 'motorisation' || ar.includes('motorisation')) continue;
@@ -102,15 +115,20 @@ function sanitizeListingFeatures(item, isRental = false) {
   return out;
 }
 
-function sanitizeListingQuickFacts(item, isRental = false) {
+export function sanitizeListingQuickFacts(item, isRental = false) {
   if (!Array.isArray(item.quickFacts)) return [];
-  if (!isRental) return item.quickFacts;
+  const isBike = (item.kind || '').toLowerCase().includes('moto') || (item.kind || '').toLowerCase().includes('bike');
   return item.quickFacts.filter((q) => {
     const val = (typeof q === 'object' ? (q.en || q.fr || q.ar || '') : String(q || '')).toLowerCase().trim();
     if (!val) return false;
-    if (val.includes('dédouan') || val.includes('dedouan') || val.includes('ww au maroc') || val.includes('مجمركة') || val.includes('جمرك')) return false;
-    if (val.includes('1ère') || val.includes('main')) return false;
-    if (/\b\d+\s*cv\b/i.test(val) || val.includes('خيل')) return false;
+    if (isBike && (val.includes('auto') || val.includes('man') || val.includes('أوطو') || val.includes('ماني'))) return false;
+    if (isRental || isBike) {
+      if (val.includes('dédouan') || val.includes('dedouan') || val.includes('ww au maroc') || val.includes('مجمركة') || val.includes('جمرك')) return false;
+    }
+    if (isRental) {
+      if (val.includes('1ère') || val.includes('main')) return false;
+      if (/\b\d+\s*cv\b/i.test(val) || val.includes('خيل')) return false;
+    }
     return true;
   });
 }
@@ -256,6 +274,19 @@ export async function onRequestGet({ request, env = {} }) {
 
   pool = dedupByModel(pool);
 
+  // Deprioritize vehicles recently seen in this user session
+  const rawExclude = url.searchParams.get('exclude') || '';
+  const excludeIds = new Set(rawExclude.split(',').map((id) => id.trim()).filter(Boolean));
+  if (excludeIds.size > 0 && pool.length > 5) {
+    const unseen = pool.filter((item) => !excludeIds.has(item.id));
+    if (unseen.length >= 15) {
+      pool = unseen;
+    } else if (unseen.length >= 5) {
+      const seen = pool.filter((item) => excludeIds.has(item.id));
+      pool = [...unseen, ...shuffle(seen).slice(0, 15 - unseen.length)];
+    }
+  }
+
   const sampleCount = Math.min(pool.length, 15);
   const sampledItems = sample(pool, sampleCount);
 
@@ -264,6 +295,7 @@ export async function onRequestGet({ request, env = {} }) {
     const payload = base64url(new TextEncoder().encode(JSON.stringify({ id: publicListing.id, listingType, expiresAt })));
     return {
       ...publicListing,
+      location: publicListing.location || { city: 'Maroc', region: 'Maroc' },
       listingType,
       priceUnit: isRental ? 'day' : (publicListing.priceUnit || 'total'),
       quickFacts: sanitizeListingQuickFacts(publicListing, isRental),
