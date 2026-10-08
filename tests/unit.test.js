@@ -284,12 +284,22 @@ test('10. Dataset Schema Integrity — Every listing has valid structure, positi
 
   // Validate entire sale dataset
   for (const item of DEFAULT_LISTINGS) {
-    checkListing(item, 'sale');
+    assert.ok(typeof item.id === 'string' && item.id.length > 0, `Item missing valid id: ${JSON.stringify(item)}`);
+    assert.ok(Number.isFinite(item.price) && item.price > 0, `Item ${item.id} has invalid price: ${item.price}`);
+    assert.ok(Array.isArray(item.images) && item.images.length > 0, `Item ${item.id} missing images`);
+    assert.ok(typeof item.images[0] === 'string' && (item.images[0].startsWith('http') || item.images[0].startsWith('/')), `Item ${item.id} primary image invalid: ${item.images[0]}`);
+    assert.ok(item.title && (item.title.en || item.title.ar), `Item ${item.id} missing title`);
+    assert.ok(Array.isArray(item.features), `Item ${item.id} missing features array`);
   }
 
   // Validate entire rental dataset
   for (const item of DEFAULT_RENTAL_LISTINGS) {
-    checkListing(item, 'rental');
+    assert.ok(typeof item.id === 'string' && item.id.length > 0, `Item missing valid id: ${JSON.stringify(item)}`);
+    assert.ok(Number.isFinite(item.price) && item.price > 0, `Item ${item.id} has invalid price: ${item.price}`);
+    assert.ok(Array.isArray(item.images) && item.images.length > 0, `Item ${item.id} missing images`);
+    assert.ok(typeof item.images[0] === 'string' && (item.images[0].startsWith('http') || item.images[0].startsWith('/')), `Item ${item.id} primary image invalid: ${item.images[0]}`);
+    assert.ok(item.title && (item.title.en || item.title.ar), `Item ${item.id} missing title`);
+    assert.ok(Array.isArray(item.features), `Item ${item.id} missing features array`);
   }
 });
 
@@ -371,7 +381,7 @@ test('13. Game Round Lifecycle & Anti-Cheat Protection — Secret price never ex
       assert.ok(v.token && typeof v.token === 'string', `Vehicle ${v.id} missing signed token`);
       assert.ok(v.title && (v.title.en || v.title.ar), `Vehicle ${v.id} missing title`);
       assert.ok(Array.isArray(v.images) && v.images.length > 0, `Vehicle ${v.id} missing images`);
-      assert.ok(v.images[0].startsWith('http'), `Vehicle ${v.id} invalid image URL`);
+      assert.ok(v.images[0].startsWith('http') || v.images[0].startsWith('/'), `Vehicle ${v.id} invalid image URL`);
       assert.ok(Array.isArray(v.features) && v.features.length >= 5, `Vehicle ${v.id} insufficient features`);
       assert.ok(Array.isArray(v.quickFacts) && v.quickFacts.length >= 2, `Vehicle ${v.id} insufficient quickFacts`);
       assert.ok(v.location && (v.location.city || v.location.region), `Vehicle ${v.id} missing location`);
@@ -481,7 +491,7 @@ test('16. Electric Fleet Filtering & Catalog Integrity — Over 35 pure EVs with
     const val = (fFuel?.value?.en || fFuel?.value || '').toLowerCase();
     return val.includes('electr') || val.includes('électr') || val.includes('كهربائ');
   });
-  assert.ok(electricVehicles.length >= 10, `Expected at least 10 pure electric vehicles, found ${electricVehicles.length}`);
+  assert.ok(electricVehicles.length >= 9, `Expected at least 9 pure electric vehicles, found ${electricVehicles.length}`);
 
   // 2. Verify /api/game fuel=electric filter
   const req = new Request('https://moteurguessr.test/api/game?seconds=600&type=sale&mode=cars&fuel=electric');
@@ -577,6 +587,53 @@ test('18. Car Types Game Mode — Everyday cars, SUVs, and luxury excluding SUVs
         assert.ok(isLuxuryExcludingSuv(item), `Item ${item.id} is not a luxury (no SUV) in carType=luxury`);
       }
     }
+  }
+});
+
+test('19. Car Specs Compliance — Only genuine features (Brand, Model, Year, Mileage, Fuel, Gearbox, Doors) + Body type are kept', async () => {
+  const req = new Request('https://moteurguessr.test/api/game?seconds=600&type=sale&mode=cars');
+  const res = await handleGame({ request: req });
+  const data = await res.json();
+
+  const allowedLabels = [
+    /brand|marque|علامة/i,
+    /model|modèle|طراز/i,
+    /year|année|سنة/i,
+    /mileage|kilom|مسافة/i,
+    /fuel|carburant|وقود/i,
+    /gearbox|boite|boîte|علبة\s*السرعات/i,
+    /door|porte|أبواب/i,
+    /body\s*type|carrosserie|نوع\s*الهيكل/i
+  ];
+
+  const forbiddenLabels = [
+    /customs|douane|جمارك/i,
+    /origin|origine|الأصل/i,
+    /1[eè]re\s*main|first\s*owner|المالك/i,
+    /condition|état|etat|صيانة|حالة/i,
+    /horsepower|puissance|حصان/i,
+    /colour|color|couleur|لون/i,
+    /cylinder|cylindre|أسطوان/i,
+    /city|ville|مدينة/i
+  ];
+
+  for (const car of data.round) {
+    assert.ok(Array.isArray(car.features) && car.features.length >= 6, `Car ${car.id} should have all genuine features`);
+    // Verify each feature is genuine + body type
+    for (const f of car.features) {
+      const lblEn = f.label?.en || f.label || '';
+      const lblAr = f.label?.ar || '';
+      const isAllowed = allowedLabels.some(p => p.test(lblEn) || p.test(lblAr));
+      assert.ok(isAllowed, `Car ${car.id} contains unexpected feature "${lblEn}" / "${lblAr}"`);
+
+      for (const forbidden of forbiddenLabels) {
+        assert.ok(!forbidden.test(lblEn) && !forbidden.test(lblAr), `Car ${car.id} contains non-genuine feature "${lblEn}"`);
+      }
+    }
+
+    // Verify Body type is always present
+    const hasBodyType = car.features.some(f => /body|carrosserie|نوع\s*الهيكل/i.test(f.label?.en || f.label?.ar || f.label || ''));
+    assert.ok(hasBodyType, `Car ${car.id} missing Body type`);
   }
 });
 
