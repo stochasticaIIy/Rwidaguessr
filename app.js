@@ -263,12 +263,6 @@
 
   function resolveImageUrl(url) {
     if (!url || typeof url !== 'string') return '';
-    if (url.startsWith('/') && !url.startsWith('//')) return url;
-    // Moteur.ma images contain /ads/ in the path, which triggers uBlock Origin, Brave Shields, and EasyList.
-    // Proxy them through /api/image to avoid adblocker false-positive blocks and CORS issues.
-    if (url.includes('moteur.ma') || url.includes('/ads/')) {
-      return `/api/image?url=${encodeURIComponent(url)}`;
-    }
     return url;
   }
   function getModelKey(item) {
@@ -943,60 +937,26 @@
 
     const attrs = extractHighValueVehicleDetails(item, isBike);
 
-    // Quick facts: for Sale mode, ensure cars show customs status (Dédouanée / WW au Maroc) instead of horsepower, and bikes show gearbox
-    let sanitizedQuickFacts = (item.quickFacts || []).map((fact) => {
+    // Spec label dictionary
+    const specLabels = {
+      fiscalHp: { en: 'Fiscal Horsepower (Puissance fiscale)', ar: 'القوة الجبائية \u2066(Puissance fiscale)\u2069' },
+      bodyType: { en: 'Body type (Carrosserie)', ar: 'نوع الهيكل \u2066(Carrosserie)\u2069' },
+      condition: { en: 'Condition / Maintenance', ar: 'الحالة والصيانة' }
+    };
+
+    // Quick facts: preserve genuine quick facts from listing without fabricating customs or fake HP
+    let sanitizedQuickFacts = (item.quickFacts || []).filter((fact) => {
       const valStr = (typeof fact === 'object' ? (fact.en || fact.ar || fact.fr || '') : String(fact || '')).toLowerCase();
-      if (!isRental && (valStr.includes('hp') || valStr.includes('ch') || valStr.includes('حصان'))) {
-        return { en: 'Dédouanée', ar: 'مجمركة' };
-      }
-      return fact;
-    });
-
-    if (isRental) {
-      sanitizedQuickFacts = sanitizedQuickFacts.filter((fact) => {
-        const valStr = (typeof fact === 'object' ? (fact.en || fact.ar || fact.fr || '') : String(fact || '')).toLowerCase();
-        if (valStr.includes('dédouan') || valStr.includes('dedouan') || valStr.includes('ww au maroc') || valStr.includes('مجمركة') || valStr.includes('جمرك')) return false;
-        if (valStr.includes('1ère') || valStr.includes('main')) return false;
-        if (/\b\d+\s*cv\b/i.test(valStr) || valStr.includes('خيل') || valStr.includes('hp') || valStr.includes('حصان')) return false;
-        return true;
-      });
-    } else {
-      // Add fiscal horsepower chip to quick facts for Sale cars only
-      if (attrs.cv && !isBike) {
-        const hasCvChip = sanitizedQuickFacts.some((f) => {
-          const str = (typeof f === 'object' ? (f.en || f.ar || '') : String(f)).toLowerCase();
-          return str.includes('cv') || str.includes('خيل');
-        });
-        if (!hasCvChip) {
-          sanitizedQuickFacts.push({
-            en: `${attrs.cv} CV`,
-            ar: `${attrs.cv} خيل \u2066(${attrs.cv} CV)\u2069`
-          });
-        }
-      }
-
-      // Add first hand chip to quick facts if detected (Sale mode only, cars only)
-      if (!isBike && attrs.isFirstHand) {
-        const hasFhChip = sanitizedQuickFacts.some((f) => {
-          const str = (typeof f === 'object' ? (f.en || f.ar || '') : String(f)).toLowerCase();
-          return str.includes('1ère') || /\bmain\b/i.test(str);
-        });
-        if (!hasFhChip) {
-          sanitizedQuickFacts.push({ en: '1ère main', ar: '1ère main' });
-        }
-      }
-    }
-
-    if (isBike) {
-      sanitizedQuickFacts = sanitizedQuickFacts.filter((fact) => {
-        const valStr = (typeof fact === 'object' ? (fact.en || fact.ar || fact.fr || '') : String(fact || '')).toLowerCase();
+      if (!valStr) return false;
+      if (valStr.includes('dédouan') || valStr.includes('dedouan') || valStr.includes('ww au maroc') || valStr.includes('مجمركة') || valStr.includes('جمرك')) return false;
+      if (valStr.includes('1ère') || valStr.includes('main')) return false;
+      if (/\b\d+\s*cv\b/i.test(valStr) || valStr.includes('خيل')) return false;
+      if (/\b\d+\s*(?:hp|ch)\b/i.test(valStr) || valStr.includes('حصان')) return false;
+      if (isBike) {
         if (valStr.includes('auto') || valStr.includes('man') || valStr.includes('أوطو') || valStr.includes('ماني')) return false;
-        if (valStr.includes('dédouan') || valStr.includes('dedouan') || valStr.includes('ww au maroc') || valStr.includes('مجمركة') || valStr.includes('جمرك')) return false;
-        if (valStr.includes('1ère') || valStr.includes('main')) return false;
-        if (/\b\d+\s*cv\b/i.test(valStr) || valStr.includes('خيل') || valStr.includes('hp') || valStr.includes('حصان')) return false;
-        return true;
-      });
-    }
+      }
+      return true;
+    });
 
     ui.facts.innerHTML = sanitizedQuickFacts
       .map((fact) => `<span dir="auto"><bdi>${escape(localized(fact))}</bdi></span>`)
@@ -1060,91 +1020,71 @@
     }
     featureEntries = cleanedEntries;
 
-    // High-value feature 1: Fiscal Horsepower for Sale cars only
-    if (!isRental && attrs.cv && !isBike) {
-      featureEntries.push([
-        { en: 'Fiscal Horsepower (Puissance fiscale)', ar: 'القوة الجبائية \u2066(Puissance fiscale)\u2069' },
-        { en: `${attrs.cv} CV (${attrs.cv} ch fiscaux)`, ar: `${attrs.cv} خيل \u2066(${attrs.cv} CV)\u2069` }
-      ]);
-    }
-
-    // High-value feature 2: Body Type / Segment for cars only (Moteur.ma shows Carrosserie: N/A for bikes)
-    if (attrs.body && !isBike) {
-      featureEntries.push([
-        { en: 'Body type (Carrosserie)', ar: 'نوع الهيكل \u2066(Carrosserie)\u2069' },
-        attrs.body
-      ]);
-    }
-
-    // Ensure Gearbox is present in features for Cars only (Moteur.ma shows Transmission: N/A for bikes)
     if (!isBike) {
-      const hasGearbox = featureEntries.some(([label]) => {
-        const lblStr = (typeof label === 'object' ? (label.en || label.ar || '') : String(label)).toLowerCase();
-        return lblStr.includes('gearbox') || lblStr.includes('علبة السرعات') || lblStr.includes('boite') || lblStr.includes('boîte');
-      });
+      // Keep only genuine features + body type for cars
+      // Brand, Model, Year, Mileage, Fuel, Gearbox, Doors (if present), Body type
+      const genuineEntries = [];
+      let hasBrand = false;
+      let hasModel = false;
+      let hasYear = false;
+      let hasMileage = false;
+      let hasFuel = false;
+      let hasGearbox = false;
+      let hasDoors = false;
+      let hasBodyType = false;
+
+      for (const [label, value] of featureEntries) {
+        const en = (label && typeof label === 'object' ? (label.en || label.fr || label.raw || '') : String(label || '')).toLowerCase().trim();
+        const ar = (label && typeof label === 'object' ? (label.ar || '') : '').toLowerCase().trim();
+        const valStr = (value && typeof value === 'object' ? (value.en || value.fr || value.ar || value.raw || '') : String(value || '')).toLowerCase().trim();
+        if (!valStr || valStr === 'n/a' || valStr === 'null' || valStr === 'undefined') continue;
+
+        if ((en === 'brand' || en === 'marque' || ar === 'العلامة' || ar.includes('علامة')) && !hasBrand) {
+          genuineEntries.push([label, value]);
+          hasBrand = true;
+        } else if ((en === 'model' || en === 'modèle' || ar === 'الطراز' || ar.includes('طراز')) && !hasModel) {
+          genuineEntries.push([label, value]);
+          hasModel = true;
+        } else if ((en === 'year' || en.startsWith('année') || en === 'annee' || ar === 'السنة' || ar.includes('سنة')) && !hasYear) {
+          genuineEntries.push([label, value]);
+          hasYear = true;
+        } else if ((en === 'mileage' || en.startsWith('kilom') || ar.includes('مسافة')) && !hasMileage) {
+          genuineEntries.push([label, value]);
+          hasMileage = true;
+        } else if ((en === 'fuel' || en.startsWith('carburant') || ar.includes('وقود')) && !hasFuel) {
+          genuineEntries.push([label, value]);
+          hasFuel = true;
+        } else if ((en === 'gearbox' || en.startsWith('boite') || en.startsWith('boîte') || ar.includes('علبة السرعات')) && !hasGearbox) {
+          genuineEntries.push([label, value]);
+          hasGearbox = true;
+        } else if ((en === 'doors' || en === 'door' || en.startsWith('porte') || ar.includes('أبواب')) && !hasDoors) {
+          genuineEntries.push([label, value]);
+          hasDoors = true;
+        } else if ((en.includes('body type') || en.includes('carrosserie') || ar.includes('نوع الهيكل')) && !hasBodyType) {
+          genuineEntries.push([label, value]);
+          hasBodyType = true;
+        }
+      }
+
+      // Ensure Gearbox is present for cars
       if (!hasGearbox) {
         let gbFact = (item.quickFacts || []).find((q) => {
           const val = (typeof q === 'object' ? (q.en || q.ar || '') : String(q)).toLowerCase();
           return val.includes('auto') || val.includes('man') || val.includes('أوطو') || val.includes('ماني');
         });
-        if (!gbFact) {
-          const titleLower = ((item.title && (item.title.en || item.title.ar)) || '').toLowerCase();
-          const isAuto = /porsche|mercedes|bmw|audi|range rover|land rover|volvo|jeep|bva|auto/i.test(titleLower);
-          gbFact = isAuto ? { en: 'Automatic', ar: 'أوطوماتيك' } : { en: 'Manual', ar: 'مانييل' };
+        if (gbFact) {
+          genuineEntries.push([{ en: 'Gearbox', ar: 'علبة السرعات' }, gbFact]);
+        } else {
+          genuineEntries.push([{ en: 'Gearbox', ar: 'علبة السرعات' }, { en: 'Manual', ar: 'مانييل' }]);
         }
-        featureEntries.push([{ en: 'Gearbox', ar: 'علبة السرعات' }, gbFact]);
-      }
-    }
-
-    if (!isRental && !isBike) {
-      // Ensure Customs status (Statut de douane / حالة الجمارك) is present in Sale features for cars only
-      const hasCustoms = featureEntries.some(([label]) => {
-        const lblStr = (typeof label === 'object' ? (label.en || label.ar || label.fr || '') : String(label)).toLowerCase();
-        return lblStr.includes('custom') || lblStr.includes('douane') || lblStr.includes('جمارك');
-      });
-      if (!hasCustoms) {
-        let customsFact = (item.quickFacts || []).find((q) => {
-          const val = (typeof q === 'object' ? (q.en || q.ar || q.fr || '') : String(q)).toLowerCase();
-          return val.includes('dédouan') || val.includes('dedouan') || val.includes('maroc') || val.includes('ww') || val.includes('جمرك') || val.includes('مغرب');
-        });
-        if (!customsFact) {
-          customsFact = { en: 'Dédouanée', ar: 'مجمركة' };
-        }
-        featureEntries.push([{ en: 'Customs status', ar: 'حالة الجمارك' }, customsFact]);
       }
 
-      // High-value feature 3: First owner (1ère main) - Sale cars only
-      const existingFhIdx = featureEntries.findIndex(([label]) => {
-        const lblStr = (typeof label === 'object' ? (label.en || label.ar || label.fr || '') : String(label)).toLowerCase();
-        return lblStr.includes('1ère main') || lblStr.includes('première main') || lblStr.includes('premiere main');
-      });
-
-      if (existingFhIdx >= 0) {
-        const currentVal = featureEntries[existingFhIdx][1];
-        const valStr = (typeof currentVal === 'object' ? (currentVal.en || currentVal.ar || currentVal.fr || '') : String(currentVal)).toLowerCase();
-        if (/oui|yes|true|1/i.test(valStr)) {
-          featureEntries[existingFhIdx][1] = { en: 'Yes', ar: 'نعم' };
-        } else if (/non|no|false|0/i.test(valStr)) {
-          featureEntries[existingFhIdx][1] = { en: 'No', ar: 'لا' };
-        }
-      } else if (attrs.isFirstHand) {
-        featureEntries.push([
-          { en: '1ère main', ar: '1ère main' },
-          { en: 'Yes', ar: 'نعم' }
-        ]);
+      // Ensure Body type is present for cars
+      if (!hasBodyType && attrs.body) {
+        genuineEntries.push([specLabels.bodyType, attrs.body]);
       }
 
-      // High-value feature 4: Condition - Sale cars only
-      const hasCondition = featureEntries.some(([label]) => {
-        const lblStr = (typeof label === 'object' ? (label.en || label.ar || label.fr || '') : String(label)).toLowerCase();
-        return lblStr.includes('condition') || lblStr.includes('حالة');
-      });
-      if (!hasCondition && attrs.condition) {
-        featureEntries.push([
-          { en: 'Condition / Maintenance', ar: 'الحالة والصيانة' },
-          attrs.condition
-        ]);
-      }
+      featureEntries = genuineEntries;
     }
 
     // For motorbikes, remove all features not visible on Moteur.ma (Gearbox, Customs, 1ère main, Condition, Body type, Doors, Tax hp, Origin)
@@ -2380,7 +2320,7 @@
         const fuelFiltered = pool.filter((item) => isMatchingFuel(item, fuel));
         if (fuelFiltered.length >= 5) pool = fuelFiltered;
       }
-      pool = dedupByModel(pool);
+      pool = dedupByModel(shuffle(pool));
       state.listings = selectFive(pool);
       addSessionSeenIds(state.listings.map((l) => l.id));
       const usedIds = new Set(state.listings.map((l) => l.id));
