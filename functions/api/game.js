@@ -58,6 +58,29 @@ function dedupByModel(items) {
   return deduped.length >= 5 ? deduped : items;
 }
 
+export function detectCarBodyType(item) {
+  const title = (typeof item.title === 'object' ? (item.title?.en || item.title?.ar || '') : String(item.title || '')).toLowerCase();
+  if (/duster|tucson|sportage|tiguan|kodiaq|tarraco|rav4|cr-v|cx-5|cx-3|cx-30|q2|q3|q5|q7|q8|x1|x2|x3|x4|x5|x6|x7|gla|glb|glc|gle|gls|classe g|cayenne|macan|range rover|evoque|velar|defender|discovery|land cruiser|prado|patrol|stelvio|tonale|renegade|compass|wrangler|cherokee|captur|2008|3008|5008|c3 aircross|c5 aircross|juke|qashqai|x-trail|ateca|arona|formentor|kuga|taigo|t-roc|t-cross|kamiq|karoq|kadjar|austral|arkana|koleos|grandland|crossland|mokka|frontera|santa fe|sorento|niro|stonic|kona|bayon|ecosport|edge|explorer|puma|stepway|lodgy|xv\b|forester|outback|escalade|levante|grecale|urus|bentayga|cullinan|dbx|e-tron/i.test(title)) {
+    return { en: 'SUV / 4x4', ar: 'رباعية الدفع \u2066(SUV / 4x4)\u2069' };
+  }
+  if (/berlingo|partner|combo|rifter|caddy|dokker|express|kangoo|transit|custom|transporter|expert|jumpy|scudo|vito|traffic|trafic|master|boxer|ducato|jumper|crafter|sprinter|doblo|bipper|nemo|fiorino|courier|connect/i.test(title)) {
+    return { en: 'Utility / Van (Utilitaire)', ar: 'نفعية \u2066(Utilitaire)\u2069' };
+  }
+  if (/picanto|i10|up!|c1|108|aygo|panda|500\b|twingo|clio|208|c3|yaris|i20|rio|polo|ibiza|micra|sandero|fiesta|corsa|fabia|swift|jazz|spark|matiz|ka\b|adam|space star|alto|celerio/i.test(title)) {
+    return { en: 'City car (Citadine)', ar: 'سيارة مدينة \u2066(Citadine)\u2069' };
+  }
+  if (/golf|leon|a3|s[eé]rie\s*1|classe\s*a|megane|308|focus|tipo|ceed|i30|corolla|auris|astra|civic|scala|giulietta|ct200h/i.test(title)) {
+    return { en: 'Compact (Compacte)', ar: 'مدمجة \u2066(Compacte)\u2069' };
+  }
+  if (/passat|superb|arteon|a4|a6|a8|s[eé]rie\s*3|s[eé]rie\s*5|s[eé]rie\s*7|classe\s*c|classe\s*e|classe\s*s|mondeo|508|octavia|talisman|accord|camry|logan|c-elys[eé]e|avensis|insignia|accent|elantra|sonata|optima|k5|cerato|peugeot 301|301|symbol|fluence|latitude|s60|s90|xe\b|xf\b|xj\b|is\b|es\b|gs\b|ls\b|panamera|taycan|model 3|model s/i.test(title)) {
+    return { en: 'Sedan (Berline)', ar: 'سيدان \u2066(Berline)\u2069' };
+  }
+  if (/mustang|camaro|tt\b|s[eé]rie\s*4|s[eé]rie\s*2|s[eé]rie\s*8|classe\s*c\s*coup[eé]|classe\s*e\s*coup[eé]|porsche\s*911|cayman|boxster|rcz|gt86|brz|mx-5|miata|slk|slc|z4|f-type/i.test(title)) {
+    return { en: 'Coupé / Sport', ar: 'كوبيه \u2066(Coupé)\u2069' };
+  }
+  return { en: 'Sedan (Berline)', ar: 'سيدان \u2066(Berline)\u2069' };
+}
+
 export function sanitizeListingFeatures(item, isRental = false) {
   if (!Array.isArray(item.features)) return item.features;
   const fuel = getListingFuel(item);
@@ -80,6 +103,84 @@ export function sanitizeListingFeatures(item, isRental = false) {
   }
   const isElectricCar = isCar && (fuel === 'electric' || (motorisationLabelMatch && hasMotorisationElectric));
   const injectFuelRow = isElectricCar && hasMotorisationElectric && !hasExplicitFuelRow;
+  if (isCar) {
+    // Keep ONLY genuine car features:
+    // Brand, Model, Year, Mileage, Fuel, Gearbox, Doors (if present)
+    // PLUS Body type (Carrosserie)
+    // Drop all made-up/unreliable features: Customs status, Origin, Horsepower, Condition, 1ère main, Colour, etc.
+    const genuineFeatures = [];
+    let hasBrand = false;
+    let hasModel = false;
+    let hasYear = false;
+    let hasMileage = false;
+    let hasFuel = false;
+    let hasGearbox = false;
+    let hasDoors = false;
+    let hasBodyType = false;
+
+    for (const f of item.features) {
+      const label = f.label;
+      const en = (label && typeof label === 'object' ? (label.en || label.fr || label.raw || '') : String(label || '')).toLowerCase().trim();
+      const ar = (label && typeof label === 'object' ? (label.ar || '') : '').toLowerCase().trim();
+      const val = f.value && typeof f.value === 'object' ? (f.value.en || f.value.fr || f.value.raw || '') : String(f.value || '');
+      const valStr = String(val).toLowerCase().trim();
+      if (!valStr || valStr === 'n/a' || valStr === 'null' || valStr === 'undefined') continue;
+
+      if ((en === 'brand' || en === 'marque' || ar === 'العلامة' || ar.includes('علامة')) && !hasBrand) {
+        genuineFeatures.push(f);
+        hasBrand = true;
+      } else if ((en === 'model' || en === 'modèle' || ar === 'الطراز' || ar.includes('طراز')) && !hasModel) {
+        genuineFeatures.push(f);
+        hasModel = true;
+      } else if ((en === 'year' || en.startsWith('année') || en === 'annee' || ar === 'السنة' || ar.includes('سنة')) && !hasYear) {
+        genuineFeatures.push(f);
+        hasYear = true;
+      } else if ((en === 'mileage' || en.startsWith('kilom') || ar.includes('مسافة')) && !hasMileage) {
+        genuineFeatures.push(f);
+        hasMileage = true;
+      } else if ((en === 'fuel' || en.startsWith('carburant') || ar.includes('وقود')) && !hasFuel) {
+        genuineFeatures.push(f);
+        hasFuel = true;
+      } else if ((en === 'gearbox' || en.startsWith('boite') || en.startsWith('boîte') || ar.includes('علبة السرعات')) && !hasGearbox) {
+        genuineFeatures.push(f);
+        hasGearbox = true;
+      } else if ((en === 'doors' || en === 'door' || en.startsWith('porte') || ar.includes('أبواب')) && !hasDoors) {
+        genuineFeatures.push(f);
+        hasDoors = true;
+      } else if ((en.includes('body type') || en.includes('carrosserie') || ar.includes('نوع الهيكل')) && !hasBodyType) {
+        genuineFeatures.push(f);
+        hasBodyType = true;
+      }
+    }
+
+    if (injectFuelRow && !hasFuel) {
+      genuineFeatures.push({ label: { en: 'Fuel', ar: 'الوقود' }, value: { en: 'Electric', ar: 'كهربائي' } });
+      hasFuel = true;
+    }
+
+    if (!hasGearbox) {
+      let gbFact = (item.quickFacts || []).find((q) => {
+        const val = (typeof q === 'object' ? (q.en || q.ar || '') : String(q)).toLowerCase();
+        return val.includes('auto') || val.includes('man') || val.includes('أوطو') || val.includes('ماني');
+      });
+      if (gbFact) {
+        genuineFeatures.push({ label: { en: 'Gearbox', ar: 'علبة السرعات' }, value: gbFact });
+      } else {
+        genuineFeatures.push({ label: { en: 'Gearbox', ar: 'علبة السرعات' }, value: { en: 'Manual', ar: 'مانييل' } });
+      }
+    }
+
+    if (!hasBodyType) {
+      const b = detectCarBodyType(item);
+      genuineFeatures.push({
+        label: { en: 'Body type (Carrosserie)', ar: 'نوع الهيكل \u2066(Carrosserie)\u2069' },
+        value: b
+      });
+    }
+
+    return genuineFeatures;
+  }
+
   const out = [];
   for (const f of item.features) {
     const label = f.label;
@@ -89,28 +190,18 @@ export function sanitizeListingFeatures(item, isRental = false) {
     if (!val || val.toLowerCase() === 'n/a') continue;
     if (en === 'city' || en.includes('city') || en.includes('ville') || ar.includes('مدينة')) continue;
     if (en.includes('transmission') || ar.includes('ناقل الحركة')) continue;
-    if (!isCar && (en.includes('gearbox') || en.includes('boite') || en.includes('boîte') || ar.includes('علبة السرعات'))) continue;
-    if ((en.includes('horsepower') && !en.includes('tax') && !en.includes('fiscale')) || (ar.includes('حصان') && !ar.includes('جبائية') && !ar.includes('ضريب')) || en.includes('puissance din')) continue;
-    if (isElectricCar) {
-      if (en === 'motorisation' || ar.includes('motorisation')) continue;
-    }
+    if (en.includes('gearbox') || en.includes('boite') || en.includes('boîte') || ar.includes('علبة السرعات')) continue;
+    if (en.includes('custom') || en.includes('douane') || ar.includes('جمارك')) continue;
+    if (en.includes('first owner') || en.includes('1ère') || en.includes('première') || ar.includes('الأول')) continue;
+    if (en.includes('condition') || en.includes('état') || en.includes('etat') || ar.includes('حالة')) continue;
+    if (en.includes('body type') || en.includes('carrosserie') || ar.includes('نوع الهيكل')) continue;
+    if (en.includes('door') || en.includes('porte') || ar.includes('أبواب')) continue;
+    if (en.includes('horsepower') || ar.includes('حصان') || en.includes('puissance')) continue;
+    if (en.includes('origin') || en.includes('origine') || ar.includes('الأصل')) continue;
     if (isRental) {
       if (en.includes('security deposit') || en.includes('caution') || ar.includes('ضمانة')) continue;
-      if (en.includes('custom') || en.includes('douane') || ar.includes('جمارك')) continue;
-      if (en.includes('tax horsepower') || en === 'tax hp' || en.includes('puissance fiscale') || ar.includes('الجبائية')) continue;
-      if (en.includes('1ère main') || en.includes('première main') || en.includes('first owner') || ar.includes('المالك الأول')) continue;
-      if (en.includes('condition') || ar.includes('الحالة والصيانة')) continue;
-    }
-    if (injectFuelRow && en.includes('year')) {
-      out.push({ label: { en: 'Fuel', ar: 'الوقود' }, value: { en: 'Electric', ar: 'كهربائي' } });
     }
     out.push(f);
-  }
-  if (injectFuelRow && !out.some(f => {
-    const en = ((f.label && typeof f.label === 'object' ? (f.label.en || '') : '') || '').toLowerCase().trim();
-    return en.includes('fuel') || en.includes('carburant');
-  })) {
-    out.unshift({ label: { en: 'Fuel', ar: 'الوقود' }, value: { en: 'Electric', ar: 'كهربائي' } });
   }
   return out;
 }
@@ -272,7 +363,7 @@ export async function onRequestGet({ request, env = {} }) {
     if (fuelFiltered.length >= 5) pool = fuelFiltered;
   }
 
-  pool = dedupByModel(pool);
+  pool = dedupByModel(shuffle(pool));
 
   // Deprioritize vehicles recently seen in this user session
   const rawExclude = url.searchParams.get('exclude') || '';
