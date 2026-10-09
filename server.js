@@ -144,6 +144,28 @@ app.post('/api/leaderboard', async (req, res) => {
   }
 });
 
+// Anti-Cheat: Strictly prevent cheaters from having access to raw listings and price datasets
+app.use((req, res, next) => {
+  const p = decodeURIComponent(req.path).toLowerCase();
+  if (
+    p.startsWith('/data') ||
+    p.includes('listing') ||
+    p.includes('rental') ||
+    p.startsWith('/functions') ||
+    p.startsWith('/scripts') ||
+    p.startsWith('/tests') ||
+    p.startsWith('/api/_env') ||
+    p === '/package.json' ||
+    p === '/package-lock.json' ||
+    p === '/server.js' ||
+    p === '/_worker.js' ||
+    p.startsWith('/.env')
+  ) {
+    return res.status(404).send('Not Found');
+  }
+  next();
+});
+
 // Serve static assets
 app.use(express.static(process.cwd()));
 
