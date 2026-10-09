@@ -468,12 +468,5 @@ export async function onRequestPost({ request, env = {} }) {
   const relativeError = guess === null ? 1 : difference / listing.price;
   const score = Math.max(0, Math.round(1000 * (1 - Math.min(1, relativeError))));
   const marketValuation = computeMarketValuation(listing, activePool);
-  return Response.json({
-    actualPrice: listing.price,
-    difference,
-    score,
-    marketValuation,
-    sourceUrl: listing.sourceUrl,
-    listingType: listing.listingType || (isRentalToken ? 'rental' : 'sale')
-  }, { headers: { 'cache-control': 'no-store' } });
+  return Response.json({ actualPrice: listing.price, difference, score, marketValuation, listingType: listing.listingType || (isRentalToken ? 'rental' : 'sale') }, { headers: { 'cache-control': 'no-store' } });
 }
