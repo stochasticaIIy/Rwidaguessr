@@ -54,25 +54,6 @@ export default {
       if (request.method === 'POST') return handleLeaderboardPost({ request, env });
     }
 
-    // Anti-Cheat: Strictly prevent cheaters from having access to raw listings and price datasets
-    const p = decodeURIComponent(url.pathname).toLowerCase();
-    if (
-      p.startsWith('/data') ||
-      p.includes('listing') ||
-      p.includes('rental') ||
-      p.startsWith('/functions') ||
-      p.startsWith('/scripts') ||
-      p.startsWith('/tests') ||
-      p.startsWith('/api/_env') ||
-      p === '/package.json' ||
-      p === '/package-lock.json' ||
-      p === '/server.js' ||
-      p === '/_worker.js' ||
-      p.startsWith('/.env')
-    ) {
-      return new Response('Not Found', { status: 404 });
-    }
-
     // Static Assets Fallback (Cloudflare Workers Static Assets or Cloudflare Pages)
     if (env.ASSETS && typeof env.ASSETS.fetch === 'function') {
       return env.ASSETS.fetch(request);
