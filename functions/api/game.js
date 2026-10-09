@@ -381,7 +381,7 @@ export async function onRequestGet({ request, env = {} }) {
   const sampleCount = Math.min(pool.length, 15);
   const sampledItems = sample(pool, sampleCount);
 
-  const signedListings = await Promise.all(sampledItems.map(async ({ price, summary, sourceUrl, _priceSource, ...publicListing }) => {
+  const signedListings = await Promise.all(sampledItems.map(async ({ price, summary, ...publicListing }) => {
     const listingType = isRental ? 'rental' : (publicListing.listingType || 'sale');
     const payload = base64url(new TextEncoder().encode(JSON.stringify({ id: publicListing.id, listingType, expiresAt })));
     return {
