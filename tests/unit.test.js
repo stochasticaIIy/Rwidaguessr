@@ -637,5 +637,35 @@ test('19. Car Specs Compliance — Only genuine features (Brand, Model, Year, Mi
   }
 });
 
+test('20. Anti-Cheat Protection — Client cannot access listings with secret prices or source URLs', async () => {
+  // 1. Ensure index.html does NOT load demo datasets with prices into browser window
+  assert.ok(!indexHtml.includes('listings.demo.js'), 'index.html must not include listings.demo.js');
+  assert.ok(!indexHtml.includes('rentals.demo.js'), 'index.html must not include rentals.demo.js');
+
+  // 2. Ensure /api/game never exposes price, _priceSource, or sourceUrl
+  const req = new Request('https://moteurguessr.test/api/game?seconds=600&type=sale&mode=cars');
+  const res = await handleGame({ request: req });
+  const data = await res.json();
+
+  for (const item of data.round) {
+    assert.equal(item.price, undefined, `Item ${item.id} must not leak price`);
+    assert.equal(item._priceSource, undefined, `Item ${item.id} must not leak _priceSource`);
+    assert.equal(item.sourceUrl, undefined, `Item ${item.id} must not leak sourceUrl in /api/game`);
+  }
+
+  // 3. Ensure /api/guess returns actualPrice and sourceUrl only after guess submission
+  const sample = data.round[0];
+  const guessReq = new Request('https://moteurguessr.test/api/guess', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ token: sample.token, guess: 150000 })
+  });
+  const guessRes = await handleGuess({ request: guessReq });
+  const guessData = await guessRes.json();
+  assert.ok(Number.isFinite(guessData.actualPrice) && guessData.actualPrice > 0, 'actualPrice returned in guess response');
+  assert.ok(typeof guessData.sourceUrl === 'string' && guessData.sourceUrl.startsWith('http'), 'sourceUrl returned in guess response');
+});
+
+
 
 
