@@ -362,6 +362,13 @@
     return true;
   }
   function getCatalogListings() {
+    if (state.listingType === 'rental') {
+      if (Array.isArray(window.DEMO_RENTAL_LISTINGS) && window.DEMO_RENTAL_LISTINGS.length) {
+        return window.DEMO_RENTAL_LISTINGS;
+      }
+    } else if (Array.isArray(window.DEMO_LISTINGS) && window.DEMO_LISTINGS.length) {
+      return window.DEMO_LISTINGS;
+    }
     if (Array.isArray(state.listings) && state.listings.length) {
       return [...state.listings, ...(state.reserves || [])];
     }
@@ -404,23 +411,17 @@
           return;
         }
 
-        if (modeItems.length >= 5) {
-          const count = modeItems.filter((item) => isMatchingFuel(item, val)).length;
+        const count = modeItems.filter((item) => isMatchingFuel(item, val)).length;
 
-          // Each game requires a full set of 5 distinct listings
-          if (count < 5) {
-            opt.disabled = true;
-            opt.textContent = `${baseText} (${t('unavailable')})`;
-            opt.title = t('unavailableHint');
-            if (state.fuel === val) {
-              state.fuel = 'all';
-              ui.fuelFilter.value = 'all';
-              localStorage.setItem('rwida-fuel', 'all');
-            }
-          } else {
-            opt.disabled = false;
-            opt.textContent = baseText;
-            opt.removeAttribute('title');
+        // Each game requires a full set of 5 distinct listings
+        if (count < 5) {
+          opt.disabled = true;
+          opt.textContent = `${baseText} (${t('unavailable')})`;
+          opt.title = t('unavailableHint');
+          if (state.fuel === val) {
+            state.fuel = 'all';
+            ui.fuelFilter.value = 'all';
+            localStorage.setItem('rwida-fuel', 'all');
           }
         } else {
           opt.disabled = false;
@@ -1174,6 +1175,11 @@
     // Proactively validate upcoming listings in background so broken listings are swapped before player reaches them
     validateUpcomingListings();
   }
+  function calculateDemo(item, guess) {
+    const error = guess === null ? 1 : Math.abs(guess - item.price) / item.price;
+    const marketValuation = computeMarketValuationClient(item, getCatalogListings());
+    return { actualPrice: item.price, score: Math.max(0, Math.round(1000 * (1 - Math.min(1, error)))), difference: guess === null ? null : Math.abs(guess - item.price), marketValuation };
+  }
   async function submitGuess(guess, timedOut = false) {
     if (state.submitting) return;
     const item = state.listings[state.current];
@@ -1183,17 +1189,11 @@
     state.submitting = true; window.clearInterval(state.timer);
     let result;
     try {
-      if (item && item.token) {
-        const response = await fetch('/api/guess', {
-          method: 'POST',
-          headers: { 'content-type': 'application/json' },
-          body: JSON.stringify({ token: item.token, guess, listingType: state.listingType })
-        });
-        if (!response.ok) throw new Error('Validation failed');
+      if (state.live && item.token) {
+        const response = await fetch('/api/guess', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ token: item.token, guess, listingType: state.listingType }) });
+        if (!response.ok) throw new Error('La validation a échoué.');
         result = await response.json();
-      } else {
-        throw new Error('No valid token');
-      }
+      } else result = calculateDemo(item, guess);
     } catch (error) {
       state.submitting = false; ui.error.textContent = t('failedGuess'); ui.error.classList.remove('hidden'); startTimer(); return;
     }
@@ -1756,13 +1756,10 @@
 
     // Render Market Fairness Slider & Comparison
     const valuation = result.marketValuation || computeMarketValuationClient(item, getCatalogListings());
-    if (valuation) {
-      renderMarketFairness(valuation, result.actualPrice);
-    }
+    renderMarketFairness(valuation, result.actualPrice);
 
-    const sourceUrl = result.sourceUrl || item.sourceUrl;
-    ui.source.classList.toggle('hidden', !sourceUrl);
-    if (sourceUrl) ui.source.href = sourceUrl;
+    ui.source.classList.toggle('hidden', !item.sourceUrl);
+    if (item.sourceUrl) ui.source.href = item.sourceUrl;
     ui.next.textContent = state.current === 4 ? t('finalNext') : t('next');
     setScreen('result');
     Sound.playGuessResult(result.score, result.timedOut);
@@ -2288,18 +2285,51 @@
       state.live = true;
       if (ui.dataNote) { ui.dataNote.textContent = ''; ui.dataNote.classList.add('hidden'); }
     } catch (_) {
-      state.listings = [];
-      state.reserves = [];
-      state.live = false;
-      if (ui.dataNote) {
-        ui.dataNote.textContent = t('failedGuess');
-        ui.dataNote.classList.remove('hidden');
+      let pool = [];
+      const isRental = listingType === 'rental';
+      try {
+        const staticRes = await fetch(isRental ? '/data/rentals.imported.json' : '/data/listings.imported.json');
+        if (staticRes.ok) {
+          pool = await staticRes.json();
+          if (isRental) window.DEMO_RENTAL_LISTINGS = pool;
+          else window.DEMO_LISTINGS = pool;
+          updateFilterAvailability();
+        }
+      } catch (e) {}
+      if (!pool.length) {
+        pool = getCatalogListings();
       }
+      if (mode === 'motorbikes') {
+        const filtered = pool.filter((item) => (item.kind || '').toLowerCase().includes('moto') || (item.kind || '').toLowerCase().includes('bike'));
+        if (filtered.length >= 5) pool = filtered;
+      } else {
+        let cars = pool.filter((item) => (item.kind || '').toLowerCase().includes('car') || item.kind === 'Voiture');
+        if (carType === 'suv') {
+          const suvCars = cars.filter(isSuv);
+          if (suvCars.length >= 5) cars = suvCars;
+        } else if (carType === 'luxury') {
+          const luxCars = cars.filter(isLuxuryExcludingSuv);
+          if (luxCars.length >= 5) cars = luxCars;
+        } else if (carType === 'everyday') {
+          const everydayCars = cars.filter(isEverydayCar);
+          if (everydayCars.length >= 5) cars = everydayCars;
+        }
+        if (cars.length >= 5) pool = cars;
+      }
+      if (fuel) {
+        const fuelFiltered = pool.filter((item) => isMatchingFuel(item, fuel));
+        if (fuelFiltered.length >= 5) pool = fuelFiltered;
+      }
+      pool = dedupByModel(shuffle(pool));
+      state.listings = selectFive(pool);
+      addSessionSeenIds(state.listings.map((l) => l.id));
+      const usedIds = new Set(state.listings.map((l) => l.id));
+      state.reserves = shuffle(pool.filter((item) => !usedIds.has(item.id)));
+      state.live = false;
+      if (ui.dataNote) { ui.dataNote.textContent = ''; ui.dataNote.classList.add('hidden'); }
     }
-    if (state.listings.length > 0) {
-      preloadGameImages(state.listings);
-      validateUpcomingListings();
-    }
+    preloadGameImages(state.listings);
+    validateUpcomingListings();
   }
   function setListingType(listingType) {
     const normalized = listingType === 'rental' ? 'rental' : 'sale';
