@@ -1,13 +1,3 @@
 node_modules
 .git
 .wrangler
-data/
-functions/
-scripts/
-tests/
-api/
-package.json
-package-lock.json
-server.js
-.env
-.env.*
